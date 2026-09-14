@@ -1,0 +1,242 @@
+import { useState } from 'react';
+import { Question } from '../../types/question';
+
+interface Props {
+  question: Question;
+  index: number;
+  total: number;
+  isBookmarked: boolean;
+  previousAnswer?: string;
+  onAnswer: (choiceLabel: string) => void;
+  onNext: () => void;
+  onPrevious: () => void;
+  onBookmark: () => void;
+  hasPrevious: boolean;
+  hasNext: boolean;
+  onEnd: () => void;
+}
+
+export function QuestionCard({
+  question, index, total, isBookmarked, previousAnswer,
+  onAnswer, onNext, onPrevious, onBookmark, hasPrevious, hasNext, onEnd
+}: Props) {
+  const [selected, setSelected] = useState<string | null>(previousAnswer ?? null);
+  const answered = selected !== null;
+
+  // Options the student has ruled out with the cross-out control. Local to the
+  // card, which is keyed by question id, so each question starts clean.
+  const [struck, setStruck] = useState<Set<string>>(() => new Set());
+  const toggleStrike = (label: string) => {
+    setStruck(prev => {
+      const next = new Set(prev);
+      if (next.has(label)) next.delete(label);
+      else next.add(label);
+      return next;
+    });
+  };
+
+  const handleSelect = (label: string) => {
+    if (answered) return;
+    setSelected(label);
+    onAnswer(label);
+  };
+
+  const getChoiceStyle = (label: string) => {
+    if (!answered) {
+      return 'border-slate-600 hover:border-blue-400 hover:bg-slate-700 cursor-pointer';
+    }
+    if (label === question.correctAnswer) {
+      return 'border-green-500 bg-green-900/40';
+    }
+    if (label === selected && label !== question.correctAnswer) {
+      return 'border-red-500 bg-red-900/40';
+    }
+    return 'border-slate-700 opacity-50';
+  };
+
+  const getChoiceIcon = (label: string) => {
+    if (!answered) return null;
+    if (label === question.correctAnswer) {
+      return <span className="text-green-400 font-bold ml-auto">&#10003;</span>;
+    }
+    if (label === selected && label !== question.correctAnswer) {
+      return <span className="text-red-400 font-bold ml-auto">&#10007;</span>;
+    }
+    return null;
+  };
+
+  return (
+    <div data-part="card" className="max-w-4xl mx-auto">
+      {/* Header */}
+      <div data-part="card-meta" className="flex items-center justify-between mb-6">
+        <div className="flex items-center gap-3">
+          <span className="text-sm font-medium text-slate-400">
+            Question {index + 1} of {total}
+          </span>
+          <span className={`text-xs px-2 py-0.5 rounded font-medium ${
+            question.difficulty === 'hard' ? 'bg-red-900/50 text-red-400' : 'bg-amber-900/50 text-amber-400'
+          }`}>
+            {question.difficulty}
+          </span>
+        </div>
+        <div className="flex items-center gap-2">
+          {answered && <span className="text-xs text-slate-500">{question.topicName}</span>}
+          <button
+            onClick={onBookmark}
+            className={`p-1.5 rounded transition-colors ${isBookmarked ? 'text-amber-400' : 'text-slate-500 hover:text-amber-400'}`}
+            title={isBookmarked ? 'Remove bookmark' : 'Bookmark this question'}
+          >
+            <svg className="w-5 h-5" fill={isBookmarked ? 'currentColor' : 'none'} viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" /></svg>
+          </button>
+        </div>
+      </div>
+
+      {/* Progress bar */}
+      <div data-part="card-progress" className="w-full h-1.5 bg-slate-700 rounded-full mb-6">
+        <div
+          className="h-full bg-blue-500 rounded-full transition-all duration-300"
+          style={{ width: `${((index + 1) / total) * 100}%` }}
+        />
+      </div>
+
+      {/* Image */}
+      {question.imageRef && (
+        <div className="mb-6 flex justify-center">
+          <img
+            src={`${import.meta.env.BASE_URL}data/images/${question.imageRef}`}
+            alt="Clinical image"
+            className="max-h-72 rounded-lg border border-slate-600"
+            loading="lazy"
+          />
+        </div>
+      )}
+
+      {/* Stem */}
+      <div data-part="stem" className="bg-slate-800 rounded-xl border border-slate-700 p-6 mb-6 shadow-sm">
+        <p className="text-slate-200 leading-relaxed whitespace-pre-line">{question.stem}</p>
+      </div>
+
+      {/* Choices */}
+      <div
+        data-part="choices"
+        data-last={question.choices[question.choices.length - 1]?.label}
+        className="space-y-3 mb-6"
+      >
+        {question.choices.map(choice => (
+          <div key={choice.label} data-part="choice-row" className="relative">
+            <button
+              onClick={() => handleSelect(choice.label)}
+              disabled={answered}
+              data-part="choice"
+              data-struck={!answered && struck.has(choice.label) ? 'on' : undefined}
+              data-state={
+                !answered ? undefined
+                  : choice.label === question.correctAnswer ? 'correct'
+                  : choice.label === selected ? 'wrong' : undefined
+              }
+              className={`w-full text-left px-5 py-4 rounded-xl border-2 transition-all flex items-center gap-3 ${getChoiceStyle(choice.label)}`}
+            >
+              <span data-part="choice-letter" className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-semibold flex-shrink-0 ${
+                answered && choice.label === question.correctAnswer ? 'bg-green-600 text-white' :
+                answered && choice.label === selected ? 'bg-red-600 text-white' :
+                'bg-slate-700 text-slate-300'
+              }`}>
+                {choice.label}
+              </span>
+              <span data-part="choice-text" className="text-slate-300 flex-1">{choice.text}</span>
+              {getChoiceIcon(choice.label)}
+            </button>
+            {/* Cross-out. Only the exam skins show it (see skins.css); it rules
+                an option out without answering, the way the real software does. */}
+            {!answered && (
+              <button
+                type="button"
+                data-part="choice-eye"
+                data-state={struck.has(choice.label) ? 'on' : undefined}
+                aria-pressed={struck.has(choice.label)}
+                aria-label={`${struck.has(choice.label) ? 'Restore' : 'Cross out'} answer ${choice.label}`}
+                onClick={() => toggleStrike(choice.label)}
+              />
+            )}
+          </div>
+        ))}
+      </div>
+
+      {/* Explanation */}
+      {answered && (
+        <div data-part="explanation" className={`rounded-xl border-2 p-6 mb-6 ${
+          selected === question.correctAnswer ? 'border-green-700 bg-green-900/30' : 'border-red-700 bg-red-900/30'
+        }`}>
+          <div className="flex items-center gap-2 mb-3">
+            <span className={`text-lg font-bold ${
+              selected === question.correctAnswer ? 'text-green-400' : 'text-red-400'
+            }`}>
+              {selected === question.correctAnswer ? 'Correct!' : 'Incorrect'}
+            </span>
+            {selected !== question.correctAnswer && (
+              <span className="text-sm text-slate-400">
+                — The correct answer is {question.correctAnswer}
+              </span>
+            )}
+          </div>
+          <p className="text-slate-300 mb-4 leading-relaxed">{question.explanation.summary}</p>
+
+          <div className="mb-4">
+            <h4 className="font-semibold text-slate-200 mb-1">Why {question.correctAnswer} is correct:</h4>
+            <p className="text-slate-400 leading-relaxed">{question.explanation.whyCorrect}</p>
+          </div>
+
+          <div>
+            <h4 className="font-semibold text-slate-200 mb-2">Why the other choices are wrong:</h4>
+            <div className="space-y-2">
+              {question.choices
+                .filter(c => c.label !== question.correctAnswer)
+                .map(c => (
+                  <div key={c.label} className="flex gap-2">
+                    <span className="font-medium text-slate-500 flex-shrink-0">{c.label}.</span>
+                    <p className="text-slate-400 text-sm leading-relaxed">
+                      {question.explanation.whyWrongByChoice[c.label]}
+                    </p>
+                  </div>
+                ))}
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Navigation */}
+      <div data-part="card-nav" className="flex items-center justify-between pt-2 pb-8">
+        <button
+          onClick={onPrevious}
+          disabled={!hasPrevious}
+          className="px-5 py-2.5 rounded-lg border border-slate-600 text-slate-400 hover:bg-slate-700 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+        >
+          Previous
+        </button>
+        <button
+          onClick={onEnd}
+          className="px-5 py-2.5 rounded-lg text-slate-500 hover:text-slate-300 hover:bg-slate-700 transition-colors"
+        >
+          End Quiz
+        </button>
+        {hasNext ? (
+          <button
+            onClick={onNext}
+            disabled={!answered}
+            className="px-5 py-2.5 rounded-lg bg-blue-600 text-white hover:bg-blue-500 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+          >
+            Next
+          </button>
+        ) : (
+          <button
+            onClick={onEnd}
+            disabled={!answered}
+            className="px-5 py-2.5 rounded-lg bg-green-600 text-white hover:bg-green-500 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+          >
+            Finish
+          </button>
+        )}
+      </div>
+    </div>
+  );
+}

@@ -1,0 +1,3319 @@
+{
+  "categoryId": "hormones-cycles",
+  "categoryName": "Hormones, Cycles & Fertility Physiology",
+  "questions": [
+    {
+      "id": "rp09-001",
+      "stem": "A 28-year-old woman with regular 28-day menstrual cycles comes to the clinic for preconception counseling. She asks how many days before ovulation intercourse can still result in pregnancy. Based on the survival of gametes in the female reproductive tract, which of the following is the most accurate answer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 day"
+        },
+        {
+          "label": "B",
+          "text": "2 days"
+        },
+        {
+          "label": "C",
+          "text": "5 days"
+        },
+        {
+          "label": "D",
+          "text": "7 days"
+        },
+        {
+          "label": "E",
+          "text": "10 days"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sperm survive 3 to 5 days in the female reproductive tract, so intercourse up to 5 days before ovulation can produce a pregnancy.",
+        "whyCorrect": "Fertilization must occur within about 24 hours of ovulation, but sperm can live for three to five days in the reproductive tract. Pregnancy is therefore possible from intercourse up to five days before ovulation, although the chance is highest within 24 hours of ovulation and the day before.",
+        "whyWrongByChoice": {
+          "A": "One day describes the window during which the ovulated egg remains fertilizable, not the limit of sperm survival before ovulation.",
+          "B": "Two days is within the fertile window but understates it; sperm survival extends the window to about five days.",
+          "D": "Seven days exceeds the maximum sperm survival of three to five days in the reproductive tract.",
+          "E": "Ten days far exceeds sperm survival; conception from intercourse this early is not possible."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fertile-window",
+        "sperm-survival",
+        "ovulation"
+      ],
+      "topicId": "fertilization",
+      "topicName": "Fertilization"
+    },
+    {
+      "id": "rp09-002",
+      "stem": "A 31-year-old woman undergoing fertility treatment has an oocyte retrieved from the fallopian tube shortly after ovulation, before any exposure to sperm. Examination of the cell's nuclear contents would show it arrested at which of the following stages?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prophase of meiosis I"
+        },
+        {
+          "label": "B",
+          "text": "Metaphase of meiosis I"
+        },
+        {
+          "label": "C",
+          "text": "Anaphase of meiosis I"
+        },
+        {
+          "label": "D",
+          "text": "Metaphase of meiosis II"
+        },
+        {
+          "label": "E",
+          "text": "Telophase of meiosis II"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The ovulated secondary oocyte is arrested at metaphase of meiosis II and completes meiosis II only if fertilization occurs.",
+        "whyCorrect": "The LH surge drives the primary oocyte to complete meiosis I, producing a secondary oocyte and the first polar body. The secondary oocyte enters meiosis II but arrests at metaphase II, and it remains there at ovulation until sperm penetration triggers completion of meiosis II with extrusion of the second polar body.",
+        "whyWrongByChoice": {
+          "A": "Prophase I is where the primary oocyte is arrested from fetal life until the LH surge at puberty, before ovulation.",
+          "B": "Meiosis I is completed under the influence of the LH surge before ovulation, so the released cell has passed metaphase I.",
+          "C": "Anaphase I occurs during completion of meiosis I prior to ovulation; the released cell has already finished this division.",
+          "E": "Telophase II occurs only after fertilization triggers completion of meiosis II; an unfertilized oocyte never reaches it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oogenesis",
+        "meiotic-arrest",
+        "secondary-oocyte"
+      ],
+      "topicId": "fertilization",
+      "topicName": "Fertilization"
+    },
+    {
+      "id": "rp09-003",
+      "stem": "A 41-year-old woman gives birth to an infant with hypotonia and characteristic facial features. Karyotype of the infant shows 47,XX,+21, and studies indicate the extra chromosome is maternal in origin. Which of the following age-related changes in the mother's oocytes most likely predisposed to this outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of crossing over during prophase I"
+        },
+        {
+          "label": "B",
+          "text": "Decline in chromatid cohesion and spindle integrity"
+        },
+        {
+          "label": "C",
+          "text": "Accumulated replication errors from repeated mitoses"
+        },
+        {
+          "label": "D",
+          "text": "Premature completion of meiosis II before ovulation"
+        },
+        {
+          "label": "E",
+          "text": "Loss of cortical granules from the oocyte cortex"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Prolonged meiotic arrest in aging oocytes degrades cohesion and spindle integrity, predisposing to nondisjunction and trisomy.",
+        "whyCorrect": "Female meiosis begins in fetal life and remains arrested for decades. With increasing maternal age, cohesion between chromatids and spindle integrity decline, predisposing to nondisjunction, most commonly during meiosis I but also during meiosis II. Fertilization of the resulting egg carrying an extra chromosome 21 by a normal haploid sperm produces trisomy 21.",
+        "whyWrongByChoice": {
+          "A": "Crossing over in prophase I generates genetic diversity; its failure is not the described mechanism of age-related aneuploidy.",
+          "C": "Cumulative replication errors from ongoing mitotic divisions describe the paternal-age effect in spermatogenesis, producing de novo mutations rather than maternal trisomy.",
+          "D": "Meiosis II in the oocyte completes only after fertilization; it does not finish prematurely before ovulation.",
+          "E": "Cortical granules prevent polyspermy after fertilization; their loss would not cause a maternally derived extra chromosome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "trisomy-21",
+        "nondisjunction",
+        "maternal-age"
+      ],
+      "topicId": "fertilization",
+      "topicName": "Fertilization"
+    },
+    {
+      "id": "rp09-004",
+      "stem": "A 52-year-old man and his 30-year-old partner have a child diagnosed with an autosomal dominant disorder caused by a de novo point mutation shown to be of paternal origin. Which of the following features of spermatogenesis best explains the association between advanced paternal age and this type of mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prolonged meiotic arrest of primary spermatocytes over decades"
+        },
+        {
+          "label": "B",
+          "text": "Numerous mitotic divisions of spermatogonia with repeated DNA replication"
+        },
+        {
+          "label": "C",
+          "text": "Progressive loss of cohesion between sister chromatids with age"
+        },
+        {
+          "label": "D",
+          "text": "Incomplete capacitation of sperm in the female reproductive tract"
+        },
+        {
+          "label": "E",
+          "text": "Exposure of sperm to the acidic environment of the vagina"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Continuous spermatogonial mitoses throughout adult life accumulate DNA replication errors, making sperm a major source of de novo mutations with advancing paternal age.",
+        "whyCorrect": "Spermatogenesis involves continuous cell division throughout adult life, with spermatogonia undergoing numerous mitotic divisions before entering meiosis. Each round of DNA replication carries a risk of error, so the mutation burden rises with paternal age, making spermatogenesis a significant source of de novo mutations.",
+        "whyWrongByChoice": {
+          "A": "Prolonged meiotic arrest is a feature of oogenesis, not spermatogenesis; spermatocytes begin meiosis at puberty and complete it in the testes without decades-long arrest.",
+          "C": "Age-related decline in cohesion and spindle integrity is the maternal mechanism predisposing to aneuploidy, not point mutations of paternal origin.",
+          "D": "Capacitation affects a sperm's ability to fertilize the egg; it does not alter the DNA sequence carried by the sperm.",
+          "E": "Vaginal acidity kills sperm outright; it is a barrier to fertilization, not a cause of heritable point mutations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "paternal-age",
+        "de-novo-mutation",
+        "spermatogenesis"
+      ],
+      "topicId": "fertilization",
+      "topicName": "Fertilization"
+    },
+    {
+      "id": "rp09-005",
+      "stem": "A 29-year-old woman presents with 6 weeks of amenorrhea and new right lower quadrant pain. A serum human chorionic gonadotropin test is positive, and transvaginal ultrasound shows no intrauterine pregnancy but reveals a right adnexal mass. The abnormally implanted tissue is most likely located in which of the following sites?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Graafian follicle of the ovary"
+        },
+        {
+          "label": "B",
+          "text": "Cervical canal of the uterus"
+        },
+        {
+          "label": "C",
+          "text": "Ampulla of the fallopian tube"
+        },
+        {
+          "label": "D",
+          "text": "Interstitial uterotubal junction"
+        },
+        {
+          "label": "E",
+          "text": "Peritoneal cavity of the pelvis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ectopic pregnancy most often implants in the fallopian tube, specifically the ampulla, the usual site of fertilization.",
+        "whyCorrect": "The egg normally meets the sperm in the ampulla, in the distal third of the fallopian tube. When the fertilized egg implants outside the uterus, the most common location is the fallopian tube, specifically the ampulla. Diagnosis uses an hCG blood test to confirm pregnancy and ultrasound to determine location, and the ectopic tissue must be removed medically or surgically because tubal rupture and bleeding are life-threatening.",
+        "whyWrongByChoice": {
+          "A": "The ovary releases the oocyte but is not the most common site of ectopic implantation.",
+          "B": "Cervical implantation is not the typical location; the cervix acts mainly as a barrier to ascending sperm.",
+          "D": "The uterotubal junction is a selective barrier for sperm transit, not the most common ectopic site.",
+          "E": "Abdominal (peritoneal) implantation occurs but is far less common than implantation in the ampulla."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ectopic-pregnancy",
+        "ampulla",
+        "hCG"
+      ],
+      "topicId": "fertilization",
+      "topicName": "Fertilization"
+    },
+    {
+      "id": "rp09-006",
+      "stem": "In an assisted reproduction laboratory, freshly ejaculated sperm placed directly with mature oocytes fail to fertilize them, whereas sperm first incubated in medium that mimics female reproductive tract secretions succeed. The change induced by this incubation is best characterized by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Release of hydrolytic enzymes from the acrosomal cap"
+        },
+        {
+          "label": "B",
+          "text": "Loss of sperm surface antigens with activation of tail motility"
+        },
+        {
+          "label": "C",
+          "text": "Exocytosis of cortical granules at the cell membrane"
+        },
+        {
+          "label": "D",
+          "text": "Fusion of the sperm membrane with the oocyte membrane"
+        },
+        {
+          "label": "E",
+          "text": "Extrusion of a polar body from the cell"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Capacitation is a biochemical change during transit that strips surface antigens, activates the tail, and primes the acrosome via rising calcium and cAMP.",
+        "whyCorrect": "During transit through the female tract, in part through interaction with cervical secretions, sperm undergo capacitation. They lose surface antigens, which facilitates binding to the egg, and their motility increases through tail activation. A gradual increase in intracellular calcium enhances cAMP generation, priming the sperm for the acrosome reaction; only capacitated sperm can fertilize an ovum.",
+        "whyWrongByChoice": {
+          "A": "Acrosomal enzyme release is the acrosome reaction, a later event at the zona pellucida for which capacitation merely primes the sperm.",
+          "C": "Cortical granule exocytosis is the ovum's response to fertilization that prevents polyspermy, not a change in sperm.",
+          "D": "Membrane fusion occurs at the oolemma after the sperm has penetrated the egg's outer layers, downstream of capacitation.",
+          "E": "Polar body extrusion is a feature of oocyte meiosis, not of sperm maturation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "capacitation",
+        "cAMP",
+        "sperm-motility"
+      ],
+      "topicId": "fertilization",
+      "topicName": "Fertilization"
+    },
+    {
+      "id": "rp09-007",
+      "stem": "During fertilization, hundreds of capacitated sperm bind to receptors in the zona pellucida of an ovulated oocyte. Which of the following events most directly enables a bound sperm to traverse this glycoprotein layer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Release of acrosin and other hydrolytic enzymes from the sperm head"
+        },
+        {
+          "label": "B",
+          "text": "Exocytosis of lysosomal enzymes from cortical granules"
+        },
+        {
+          "label": "C",
+          "text": "Binding of fertilin to integrin on the oocyte membrane"
+        },
+        {
+          "label": "D",
+          "text": "Buffering of the local environment by alkaline semen"
+        },
+        {
+          "label": "E",
+          "text": "Ciliary currents generated by the fallopian tube epithelium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The acrosome reaction releases hydrolytic enzymes such as acrosin that, with sperm motility, allow penetration of the zona pellucida.",
+        "whyCorrect": "After binding to zona pellucida receptors, a calcium surge within the sperm triggers the acrosome reaction. The released hydrolytic enzymes, including acrosin, degrade the egg's layers and, together with exposed sperm-surface proteins and sperm motility, create a tunnel through which the head, neck, and middle piece enter the egg.",
+        "whyWrongByChoice": {
+          "B": "Cortical granule exocytosis comes from the ovum after fertilization and blocks additional sperm; it does not help sperm penetrate.",
+          "C": "Fertilin-integrin binding mediates fusion at the oocyte plasma membrane after the zona has already been crossed.",
+          "D": "Alkaline semen buffers vaginal acidity early in transit; it plays no role at the zona pellucida.",
+          "E": "Ciliary movement propels the ovum and later the zygote along the tube; it does not carry sperm through the zona."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acrosome-reaction",
+        "zona-pellucida",
+        "acrosin"
+      ],
+      "topicId": "fertilization",
+      "topicName": "Fertilization"
+    },
+    {
+      "id": "rp09-008",
+      "stem": "A fertilization study examines a zygote that arrested early in development and is found to contain one maternal and two paternal chromosome complements along with an abnormal centrosome number. Failure of which of the following processes most likely allowed this abnormality to occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium-triggered exocytosis of cortical granules by the ovum"
+        },
+        {
+          "label": "B",
+          "text": "Calcium-triggered release of acrosomal enzymes by the sperm"
+        },
+        {
+          "label": "C",
+          "text": "Capacitation of sperm during transit through the tract"
+        },
+        {
+          "label": "D",
+          "text": "Completion of meiosis II by the fertilized oocyte"
+        },
+        {
+          "label": "E",
+          "text": "Segregation of sister chromatids during meiosis II"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The cortical reaction, triggered by a rise in intracellular calcium in the ovum, blocks polyspermy; its failure permits a second sperm to enter.",
+        "whyCorrect": "Two paternal chromosome sets with an abnormal centrosome complement indicate polyspermy, which usually prevents viable zygote development. Normally, fertilization by one sperm raises intracellular calcium in the ovum and triggers the cortical reaction: cortical granules release lysosomal enzymes that make the plasma membrane impenetrable and alter the zona pellucida so no additional sperm can bind.",
+        "whyWrongByChoice": {
+          "B": "The acrosome reaction enables the first sperm to penetrate; its failure would prevent fertilization, not cause dispermy.",
+          "C": "Failed capacitation would leave sperm unable to fertilize at all, producing no zygote rather than a dispermic one.",
+          "D": "Failure to complete meiosis II would alter the maternal contribution, not add an extra paternal chromosome set.",
+          "E": "A meiosis II segregation error causes trisomy of a single chromosome, not an entire extra paternal genome with extra centrosomes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "polyspermy",
+        "cortical-reaction",
+        "calcium"
+      ],
+      "topicId": "fertilization",
+      "topicName": "Fertilization"
+    },
+    {
+      "id": "rp09-009",
+      "stem": "Shortly after ovulation, a released oocyte is captured by the fimbriae of the fallopian tube. The outermost cellular layer surrounding the oocyte contributes most directly to this capture through which of the following properties?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adhesion molecules on retained granulosa cells"
+        },
+        {
+          "label": "B",
+          "text": "Glycoprotein receptors that bind capacitated sperm"
+        },
+        {
+          "label": "C",
+          "text": "Lysosomal enzymes stored in cortical granules"
+        },
+        {
+          "label": "D",
+          "text": "Integrin receptors on the plasma membrane"
+        },
+        {
+          "label": "E",
+          "text": "Cilia that beat toward the uterine cavity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The corona radiata consists of granulosa cells rich in adhesion molecules that help the fimbriae capture the ovum.",
+        "whyCorrect": "The corona radiata is made of follicular (granulosa) cells that formed around the developing oocyte and remain attached when the egg is released. These cells are rich in adhesion molecules that help the ovum be captured by the fimbriae of the fallopian tube, and the corona is also the first layer sperm must penetrate.",
+        "whyWrongByChoice": {
+          "B": "Sperm-binding glycoprotein receptors belong to the zona pellucida, the layer deep to the corona radiata, and serve fertilization rather than capture.",
+          "C": "Cortical granules lie beneath the oocyte plasma membrane and act after fertilization to prevent polyspermy.",
+          "D": "Integrin is the receptor on the oocyte plasma membrane that binds sperm fertilin; it does not mediate fimbrial capture.",
+          "E": "Cilia belong to the fallopian tube lining, not to the cell layers of the ovum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "corona-radiata",
+        "fimbriae",
+        "granulosa-cells"
+      ],
+      "topicId": "fertilization",
+      "topicName": "Fertilization"
+    },
+    {
+      "id": "rp09-010",
+      "stem": "During in vitro studies of fertilization, a sperm that has passed through the corona radiata and zona pellucida reaches the oocyte plasma membrane. Interaction between which of the following pairs of molecules most directly mediates binding and fusion of the two cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acrosin on the sperm and glycoproteins of the zona pellucida"
+        },
+        {
+          "label": "B",
+          "text": "Fertilin on the sperm head and integrin on the oocyte membrane"
+        },
+        {
+          "label": "C",
+          "text": "Surface antigens on the sperm and phagocyte receptors in the uterus"
+        },
+        {
+          "label": "D",
+          "text": "Adhesion molecules on granulosa cells and receptors on the fimbriae"
+        },
+        {
+          "label": "E",
+          "text": "Cortical granule enzymes and receptors on the sperm midpiece"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fertilin on the sperm head binds integrin on the oocyte plasma membrane to mediate sperm-egg binding and membrane fusion.",
+        "whyCorrect": "Sperm and ovum bind with the help of surface proteins on both cells: fertilin is a protein on the head of the spermatozoon, and integrin is its receptor on the oocyte plasma membrane. Both facilitate binding and fusion of the plasma membranes, after which the sperm's head, neck, and middle piece enter the egg and release its genetic material.",
+        "whyWrongByChoice": {
+          "A": "Acrosin is a hydrolytic acrosomal enzyme that degrades the zona pellucida; it acts before the sperm reaches the plasma membrane.",
+          "C": "Uterine phagocytes destroy sperm during transit; this interaction eliminates sperm rather than mediating fusion.",
+          "D": "Adhesion molecules of the corona radiata help the fimbriae capture the ovum, not bind sperm to the oolemma.",
+          "E": "Cortical granule enzymes act after fertilization to make the membrane impenetrable; they do not mediate sperm binding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fertilin",
+        "integrin",
+        "membrane-fusion"
+      ],
+      "topicId": "fertilization",
+      "topicName": "Fertilization"
+    },
+    {
+      "id": "rp09-011",
+      "stem": "A cell biologist analyzes the gamete released from a woman's ovary at ovulation, before any contact with sperm. Which of the following best describes the chromosome number and DNA content of this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "46 chromosomes, 4C DNA content"
+        },
+        {
+          "label": "B",
+          "text": "46 chromosomes, 2C DNA content"
+        },
+        {
+          "label": "C",
+          "text": "23 chromosomes, 2C DNA content"
+        },
+        {
+          "label": "D",
+          "text": "23 chromosomes, 1C DNA content"
+        },
+        {
+          "label": "E",
+          "text": "92 chromosomes, 4C DNA content"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The ovulated secondary oocyte is haploid with duplicated chromatids: 23 chromosomes (1N) and 2C DNA content.",
+        "whyCorrect": "The LH surge drives completion of meiosis I, which separates homologous chromosomes and produces a secondary oocyte (1N, 2C) plus the first polar body. This secondary oocyte arrests at metaphase II and is the cell released at ovulation; it reaches 1N, 1C only after fertilization triggers completion of meiosis II.",
+        "whyWrongByChoice": {
+          "A": "46 chromosomes with 4C content describes the primary oocyte after S phase, arrested in meiosis I before the LH surge.",
+          "B": "46 chromosomes with 2C content describes a diploid cell such as an oogonium before DNA replication, not the ovulated gamete.",
+          "D": "23 chromosomes with 1C content describes the mature ovum, which forms only after fertilization completes meiosis II.",
+          "E": "92 chromosomes never occur in normal gametogenesis; DNA replication doubles content to 4C without doubling the chromosome count to 92."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ploidy",
+        "secondary-oocyte",
+        "meiosis"
+      ],
+      "topicId": "fertilization",
+      "topicName": "Fertilization"
+    },
+    {
+      "id": "rp09-012",
+      "stem": "Of the millions of sperm deposited in the female reproductive tract during intercourse, only a tiny number reach the site of fertilization. The largest proportion of sperm is destroyed shortly after ejaculation by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acidity of the vaginal environment"
+        },
+        {
+          "label": "B",
+          "text": "Phagocytes residing in the uterine cavity"
+        },
+        {
+          "label": "C",
+          "text": "Mechanical obstruction at the uterotubal junction"
+        },
+        {
+          "label": "D",
+          "text": "Enzymes released during the cortical reaction"
+        },
+        {
+          "label": "E",
+          "text": "Hydrolytic enzymes within the zona pellucida"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The acidic vaginal environment kills the majority of sperm shortly after ejaculation, forming the first major barrier to fertilization.",
+        "whyCorrect": "Many of the millions of sperm entering the vagina are rapidly destroyed by its acidic environment, and only a small fraction passes through the cervix. Alkaline components of semen and cervical mucus buffer the acid, providing temporary protection so some sperm can transit into the uterus.",
+        "whyWrongByChoice": {
+          "B": "Uterine phagocytes destroy sperm later in transit, after most have already been killed in the vagina.",
+          "C": "The uterotubal junction is a major selective barrier, but it acts on the small population that survives the vagina, cervix, and uterus.",
+          "D": "The cortical reaction occurs in the ovum after fertilization to block polyspermy; it does not destroy sperm in transit.",
+          "E": "The zona pellucida selects and binds sperm at the egg itself; it is not responsible for the massive early loss of sperm."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "sperm-transit",
+        "vaginal-acidity",
+        "barriers-to-fertilization"
+      ],
+      "topicId": "fertilization",
+      "topicName": "Fertilization"
+    },
+    {
+      "id": "rp10-001",
+      "stem": "A 24-year-old woman is undergoing an evaluation of ovarian steroid synthesis. In the outer cells of her ovarian follicles, luteinizing hormone binds its receptor and initiates steroidogenesis from cholesterol that has diffused in from neighboring blood vessels. Which of the following enzymes catalyzes the first step of this pathway in these cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aromatase"
+        },
+        {
+          "label": "B",
+          "text": "Desmolase"
+        },
+        {
+          "label": "C",
+          "text": "17beta-hydroxysteroid dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "21-hydroxylase"
+        },
+        {
+          "label": "E",
+          "text": "5-alpha-reductase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In theca cells, desmolase converts cholesterol to pregnenolone, the first step toward androstenedione.",
+        "whyCorrect": "Theca cells form the outer layer of the follicle and contact blood vessels, allowing cholesterol to diffuse in. After LH binds its theca-cell receptor, desmolase converts cholesterol to pregnenolone; several steps later the pathway yields androstenedione.",
+        "whyWrongByChoice": {
+          "A": "Aromatase acts in granulosa cells, converting androstenedione to 17beta-estradiol under FSH stimulation, not in theca cells on cholesterol.",
+          "C": "17beta-hydroxysteroid dehydrogenase interconverts estrone and estradiol; it does not act on cholesterol.",
+          "D": "21-hydroxylase functions in adrenal corticosteroid pathways, not in the LH-stimulated theca-cell step described.",
+          "E": "5-alpha-reductase converts testosterone to a more potent androgen and is not the cholesterol-to-pregnenolone step."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "estrogen-synthesis",
+        "theca-cell",
+        "desmolase"
+      ],
+      "topicId": "estrogen-and-progesterone",
+      "topicName": "Estrogen and Progesterone"
+    },
+    {
+      "id": "rp10-002",
+      "stem": "Radiolabeled androstenedione is tracked within a developing ovarian follicle. It diffuses out of the cell that produced it and is converted to 17beta-estradiol in a neighboring cell. Which of the following is the cell in which this conversion occurs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Theca cell"
+        },
+        {
+          "label": "B",
+          "text": "Granulosa cell"
+        },
+        {
+          "label": "C",
+          "text": "Secondary oocyte"
+        },
+        {
+          "label": "D",
+          "text": "Endometrial gland cell"
+        },
+        {
+          "label": "E",
+          "text": "Anterior pituitary gonadotroph"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Granulosa cells contain aromatase, which converts theca-derived androstenedione to 17beta-estradiol.",
+        "whyCorrect": "Androstenedione made in theca cells diffuses to the more interiorly located granulosa cells. When FSH binds its granulosa-cell receptor, aromatase is induced and converts androstenedione to 17beta-estradiol.",
+        "whyWrongByChoice": {
+          "A": "The theca cell produces androstenedione but lacks the aromatase step; the androgen leaves this cell for conversion.",
+          "C": "The oocyte is surrounded by granulosa cells but is not the site of aromatization.",
+          "D": "Endometrial gland cells are hormone targets, not sites of ovarian estradiol synthesis.",
+          "E": "Gonadotrophs release LH and FSH; they do not convert androgens to estrogens."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "estrogen-synthesis",
+        "granulosa-cell",
+        "aromatase"
+      ],
+      "topicId": "estrogen-and-progesterone",
+      "topicName": "Estrogen and Progesterone"
+    },
+    {
+      "id": "rp10-003",
+      "stem": "A 62-year-old man with estrogen receptor-positive breast cancer is offered an aromatase inhibitor. He asks how his body makes estrogen when he has no ovaries. Which of the following best explains his source of estrogen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct secretion of 17beta-estradiol by the anterior pituitary"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of cholesterol to estradiol in a single hepatic step"
+        },
+        {
+          "label": "C",
+          "text": "Secretion of estrone by luteinized follicular cells in the testis"
+        },
+        {
+          "label": "D",
+          "text": "Conversion of androstenedione by aromatase in adipose tissue"
+        },
+        {
+          "label": "E",
+          "text": "Release of stored estradiol from corticosteroid-binding globulin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Extragonadal aromatase in tissues such as fat, bone, skin, brain, and breast converts androgens to estrogens in males.",
+        "whyCorrect": "Aromatase is expressed outside the gonads, including in adipose tissue, liver, bone, skin, brain, and breast. There it converts androstenedione to estrone and testosterone to 17beta-estradiol, which accounts for estrogen in males and is why aromatase inhibition lowers his estrogen levels.",
+        "whyWrongByChoice": {
+          "A": "The anterior pituitary releases LH and FSH; it does not secrete estradiol.",
+          "B": "Cholesterol is the steroid precursor, but synthesis proceeds through pregnenolone and androgens over several steps, not one hepatic conversion.",
+          "C": "Luteinized follicular cells form the corpus luteum in the ovary; there is no such source in the testis.",
+          "E": "Binding globulins transport steroid hormones in plasma; they are not a storage source that generates estrogen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "extragonadal-synthesis",
+        "aromatase-inhibitor",
+        "male-estrogen"
+      ],
+      "topicId": "estrogen-and-progesterone",
+      "topicName": "Estrogen and Progesterone"
+    },
+    {
+      "id": "rp10-004",
+      "stem": "A 58-year-old woman had her last menstrual period 6 years ago. Depletion of her ovarian follicle pool has ended cyclic ovarian activity. Which of the following is the predominant circulating estrogen in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "17beta-estradiol"
+        },
+        {
+          "label": "B",
+          "text": "Estrone"
+        },
+        {
+          "label": "C",
+          "text": "Progesterone"
+        },
+        {
+          "label": "D",
+          "text": "Androstenedione"
+        },
+        {
+          "label": "E",
+          "text": "Pregnenolone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "After menopause, peripheral aromatization makes estrone the predominant circulating estrogen.",
+        "whyCorrect": "Once the ovarian follicle pool is depleted, cyclic ovarian estradiol production ceases. Peripheral aromatization of androstenedione in extragonadal tissues becomes the main estrogen source, and estrone predominates in the circulation.",
+        "whyWrongByChoice": {
+          "A": "17beta-estradiol is the principal estrogen during reproductive years, when granulosa cells produce it cyclically.",
+          "C": "Progesterone is a progestogen, not an estrogen, and luteal production stops without ovulation.",
+          "D": "Androstenedione is an androgen precursor of estrone, not an estrogen itself.",
+          "E": "Pregnenolone is an early steroid intermediate formed by desmolase, not a circulating estrogen."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "menopause",
+        "estrone",
+        "peripheral-aromatization"
+      ],
+      "topicId": "estrogen-and-progesterone",
+      "topicName": "Estrogen and Progesterone"
+    },
+    {
+      "id": "rp10-005",
+      "stem": "In an experiment, gonadotropin-releasing hormone is administered to healthy volunteers as a continuous intravenous infusion rather than in pulses. After several days, serum LH and FSH concentrations fall. Which of the following best explains this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased inhibin secretion from granulosa cells"
+        },
+        {
+          "label": "B",
+          "text": "Positive feedback by estradiol on the hypothalamus"
+        },
+        {
+          "label": "C",
+          "text": "Degeneration of the corpus luteum with loss of progesterone"
+        },
+        {
+          "label": "D",
+          "text": "Blockade of the hypophyseal-portal vasculature"
+        },
+        {
+          "label": "E",
+          "text": "Downregulation of GnRH receptors in the anterior pituitary"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "GnRH must be pulsatile; continuous exposure downregulates its pituitary receptors and lowers LH and FSH.",
+        "whyCorrect": "The pulsatile release of hypothalamic GnRH is the basis for all reproductive hormone changes. If GnRH is delivered continuously, its receptors on the anterior pituitary are downregulated, decreasing LH and FSH secretion.",
+        "whyWrongByChoice": {
+          "A": "Inhibin selectively lowers FSH; it does not explain the fall in both gonadotropins caused by the infusion itself.",
+          "B": "Sustained high estradiol near the end of the follicular phase produces positive feedback and an LH surge, the opposite of the observed fall in LH.",
+          "C": "Corpus luteum degeneration lowers progesterone and leads to menstruation; it does not suppress gonadotropins via GnRH exposure.",
+          "D": "GnRH still reaches the pituitary in this experiment; the portal route is intact and is not the mechanism of the decline."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gnrh",
+        "pulsatile-secretion",
+        "receptor-downregulation"
+      ],
+      "topicId": "estrogen-and-progesterone",
+      "topicName": "Estrogen and Progesterone"
+    },
+    {
+      "id": "rp10-006",
+      "stem": "A 27-year-old woman with regular 28-day cycles is studied across one cycle. For most of the follicular phase, rising estradiol suppresses gonadotropin secretion, yet at midcycle a surge of LH triggers ovulation. Which of the following best explains the surge?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sustained high estradiol switches its feedback from negative to positive"
+        },
+        {
+          "label": "B",
+          "text": "Falling estradiol releases the pituitary from feedback inhibition"
+        },
+        {
+          "label": "C",
+          "text": "Rising progesterone from the corpus luteum stimulates gonadotrophs"
+        },
+        {
+          "label": "D",
+          "text": "Activin from the ovary directly triggers a burst of LH release"
+        },
+        {
+          "label": "E",
+          "text": "Inhibin from granulosa cells selectively augments LH secretion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Near the end of the follicular phase, sustained high estradiol exerts positive feedback that produces the ovulatory LH surge.",
+        "whyCorrect": "During most of the follicular phase, estradiol provides negative feedback that suppresses gonadotropin secretion. Near the end of the follicular phase, sustained high estradiol levels switch to positive feedback on the hypothalamus and anterior pituitary, producing the LH surge that triggers ovulation.",
+        "whyWrongByChoice": {
+          "B": "Estradiol is high, not falling, just before the surge; the surge results from feedback reversal, not withdrawal.",
+          "C": "The corpus luteum forms after ovulation, so its progesterone cannot cause the midcycle surge.",
+          "D": "Activin promotes FSH synthesis and secretion; it is not described as triggering the LH surge.",
+          "E": "Inhibin selectively decreases FSH secretion; it does not augment LH."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lh-surge",
+        "positive-feedback",
+        "ovulation"
+      ],
+      "topicId": "estrogen-and-progesterone",
+      "topicName": "Estrogen and Progesterone"
+    },
+    {
+      "id": "rp10-007",
+      "stem": "During the follicular phase, several follicles begin to develop, but normally only one dominant follicle matures and ovulates. A hormone secreted by granulosa cells reaches the anterior pituitary and selectively reduces the secretion of a single gonadotropin, starving less-responsive follicles of support. Which of the following is this hormone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activin"
+        },
+        {
+          "label": "B",
+          "text": "Estradiol"
+        },
+        {
+          "label": "C",
+          "text": "Inhibin"
+        },
+        {
+          "label": "D",
+          "text": "Human chorionic gonadotropin"
+        },
+        {
+          "label": "E",
+          "text": "Gonadotropin-releasing hormone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Granulosa-cell inhibin selectively suppresses FSH, restricting continued maturation to the dominant follicle.",
+        "whyCorrect": "Inhibin is secreted by granulosa cells and travels to the anterior pituitary, where it selectively provides negative feedback that decreases FSH secretion. The resulting decline in FSH stops the growth of less-responsive follicles, so a single dominant follicle matures.",
+        "whyWrongByChoice": {
+          "A": "Activin does the opposite: it promotes FSH synthesis and secretion.",
+          "B": "Estradiol feedback suppresses gonadotropin secretion broadly during the follicular phase rather than selectively targeting FSH from granulosa cells.",
+          "D": "hCG is produced by the early embryo to rescue the corpus luteum; it plays no role in follicle selection.",
+          "E": "GnRH is the hypothalamic releasing hormone that stimulates, rather than selectively suppresses, gonadotropin secretion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "inhibin",
+        "fsh",
+        "dominant-follicle"
+      ],
+      "topicId": "estrogen-and-progesterone",
+      "topicName": "Estrogen and Progesterone"
+    },
+    {
+      "id": "rp10-008",
+      "stem": "A 26-year-old woman has a positive pregnancy test 4 weeks after her last menstrual period. Her endometrium remains intact because the corpus luteum has continued to produce progesterone instead of degenerating. Which of the following hormones is responsible for preserving the corpus luteum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Follicle-stimulating hormone"
+        },
+        {
+          "label": "B",
+          "text": "Luteinizing hormone"
+        },
+        {
+          "label": "C",
+          "text": "Human chorionic gonadotropin"
+        },
+        {
+          "label": "D",
+          "text": "Gonadotropin-releasing hormone"
+        },
+        {
+          "label": "E",
+          "text": "Inhibin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "hCG from the early embryo prevents involution of the corpus luteum, maintaining progesterone and the endometrium.",
+        "whyCorrect": "When fertilization and implantation occur, the early embryo produces human chorionic gonadotropin. hCG prevents degradation (involution) of the corpus luteum, so progesterone production continues, maintaining the endometrium and the pregnancy.",
+        "whyWrongByChoice": {
+          "A": "FSH induces aromatase in granulosa cells during follicular development; it does not rescue the corpus luteum in pregnancy.",
+          "B": "LH stimulates theca cells and surges at ovulation, but it is not the pregnancy signal that prevents luteal involution.",
+          "D": "GnRH drives pituitary LH and FSH release and is not the embryo-derived rescue signal.",
+          "E": "Inhibin selectively suppresses FSH secretion and has no role in maintaining the corpus luteum."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hcg",
+        "corpus-luteum",
+        "pregnancy"
+      ],
+      "topicId": "estrogen-and-progesterone",
+      "topicName": "Estrogen and Progesterone"
+    },
+    {
+      "id": "rp10-009",
+      "stem": "A researcher studies how 17beta-estradiol alters gene expression in breast tissue. After the hormone dissociates from its plasma carrier and diffuses across the plasma membrane, which of the following events allows it to regulate transcription of target genes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The hormone activates a surface G protein-coupled receptor that raises cAMP"
+        },
+        {
+          "label": "B",
+          "text": "The hormone opens a ligand-gated ion channel that depolarizes the cell"
+        },
+        {
+          "label": "C",
+          "text": "The hormone-receptor complex dimerizes and binds estrogen-response elements in DNA"
+        },
+        {
+          "label": "D",
+          "text": "The hormone binds a receptor tyrosine kinase that phosphorylates cytosolic targets"
+        },
+        {
+          "label": "E",
+          "text": "The hormone binds ribosomes directly and accelerates translation of mRNA"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Estrogen binds intracellular receptors that dimerize, bind estrogen-response elements, and act as transcription factors.",
+        "whyCorrect": "Estrogen receptors are located primarily in the nucleus, with additional populations in the cytoplasm and at the plasma membrane. After binding, the activated receptors form a dimer that binds specific DNA sequences called estrogen-response elements, and the hormone-receptor dimer becomes a transcription factor regulating mRNA production.",
+        "whyWrongByChoice": {
+          "A": "Estradiol is a steroid that diffuses across the membrane to intracellular receptors; its genomic action is not through cAMP-linked surface receptors.",
+          "B": "Steroid hormone effects develop slowly through gene transcription, unlike rapid ion-channel signaling.",
+          "D": "Receptor tyrosine kinase signaling is not the described mechanism for estrogen's regulation of transcription.",
+          "E": "The hormone-receptor complex acts on DNA to regulate transcription; it does not act directly on ribosomes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "estrogen-receptor",
+        "estrogen-response-element",
+        "transcription"
+      ],
+      "topicId": "estrogen-and-progesterone",
+      "topicName": "Estrogen and Progesterone"
+    },
+    {
+      "id": "rp10-010",
+      "stem": "A physiologist measures the distribution of progesterone in the plasma of a healthy 30-year-old woman during the luteal phase. Because the hormone is lipid-soluble and does not freely dissolve in plasma, most of it is transported bound to protein. Progesterone circulates primarily bound to which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albumin and corticosteroid-binding globulin"
+        },
+        {
+          "label": "B",
+          "text": "Albumin and sex hormone-binding globulin"
+        },
+        {
+          "label": "C",
+          "text": "Sex hormone-binding globulin and inhibin"
+        },
+        {
+          "label": "D",
+          "text": "Corticosteroid-binding globulin and hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Free hormone dissolved directly in plasma water"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Progesterone circulates mainly bound to albumin and corticosteroid-binding globulin, both made in the liver.",
+        "whyCorrect": "Steroid hormones are lipid-soluble and do not freely dissolve in plasma. Progesterone circulates primarily bound to albumin and corticosteroid-binding globulin, whereas estrogens travel mainly on albumin and sex hormone-binding globulin; these carrier proteins are synthesized in the liver.",
+        "whyWrongByChoice": {
+          "B": "Albumin plus sex hormone-binding globulin is the primary carrier combination for estrogens, not progesterone.",
+          "C": "Inhibin is a granulosa-cell hormone that suppresses FSH; it is not a plasma steroid carrier.",
+          "D": "Hemoglobin carries oxygen within red cells and is not a progesterone transport protein.",
+          "E": "Progesterone is lipid-soluble and cannot circulate mainly as free hormone dissolved in plasma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hormone-transport",
+        "corticosteroid-binding-globulin",
+        "progesterone"
+      ],
+      "topicId": "estrogen-and-progesterone",
+      "topicName": "Estrogen and Progesterone"
+    },
+    {
+      "id": "rp10-011",
+      "stem": "A 68-year-old woman who went through menopause at age 51 sustains a vertebral compression fracture. Bone densitometry shows osteoporosis. Which of the following mechanisms best explains her bone loss?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased apoptosis of bone-resorbing osteoclasts"
+        },
+        {
+          "label": "B",
+          "text": "Excess estradiol stimulating bone resorption"
+        },
+        {
+          "label": "C",
+          "text": "Elevated progesterone suppressing bone formation"
+        },
+        {
+          "label": "D",
+          "text": "Decreased apoptosis and increased activity of osteoclasts"
+        },
+        {
+          "label": "E",
+          "text": "Decreased number of bone-resorbing osteoclasts in bone"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Estradiol deficiency increases osteoclast number and activity, partly by decreasing osteoclast apoptosis, causing bone resorption and osteoporosis.",
+        "whyCorrect": "Estrogen normally increases bone mass. After menopause, loss of estradiol decreases apoptosis of osteoclasts and increases their activity, so the number and activity of bone-resorbing cells rise. The resulting increase in bone resorption substantially weakens bone and raises fracture risk.",
+        "whyWrongByChoice": {
+          "A": "Estradiol loss decreases, not increases, osteoclast apoptosis, allowing these cells to persist and resorb bone.",
+          "B": "Her estradiol is deficient after menopause; excess estradiol is not present and estrogen supports bone mass.",
+          "C": "Postmenopausal progesterone is low, and the brick attributes bone loss to estradiol deficiency, not progesterone excess.",
+          "E": "Osteoclast numbers increase in this state; a decrease would reduce resorption rather than cause osteoporosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "osteoporosis",
+        "menopause",
+        "osteoclast"
+      ],
+      "topicId": "estrogen-and-progesterone",
+      "topicName": "Estrogen and Progesterone"
+    },
+    {
+      "id": "rp10-012",
+      "stem": "A 29-year-old woman tracking her fertility notices that her basal body temperature rises by about half a degree shortly after ovulation and stays elevated for nearly two weeks. Which of the following best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Progesterone acting on the hypothalamic thermoregulatory center"
+        },
+        {
+          "label": "B",
+          "text": "Estradiol stimulating proliferation of the endometrial lining"
+        },
+        {
+          "label": "C",
+          "text": "Inhibin acting on the anterior pituitary to decrease FSH"
+        },
+        {
+          "label": "D",
+          "text": "LH acting on theca cells to increase androgen synthesis"
+        },
+        {
+          "label": "E",
+          "text": "GnRH pulses accelerating from hypothalamic inputs"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Luteal-phase progesterone raises body temperature by affecting the hypothalamic thermoregulatory center.",
+        "whyCorrect": "After ovulation, luteal cells of the corpus luteum synthesize large amounts of progesterone. Among its functions, progesterone increases body temperature by acting on the thermoregulatory center of the hypothalamus, which explains the sustained post-ovulatory temperature rise.",
+        "whyWrongByChoice": {
+          "B": "Estradiol's proliferative effect on the endometrium occurs before ovulation and does not raise body temperature.",
+          "C": "Inhibin regulates FSH secretion and has no described thermoregulatory role.",
+          "D": "LH-driven theca-cell androgen synthesis feeds estrogen production; it does not change the temperature set point.",
+          "E": "GnRH pulse frequency governs gonadotropin release, not the post-ovulatory temperature elevation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "progesterone",
+        "basal-body-temperature",
+        "luteal-phase"
+      ],
+      "topicId": "estrogen-and-progesterone",
+      "topicName": "Estrogen and Progesterone"
+    },
+    {
+      "id": "rp11-001",
+      "stem": "A 24-year-old competitive weightlifter comes to the clinic because he and his partner have been unable to conceive for 14 months. For the past 2 years he has self-administered injectable anabolic-androgenic steroids obtained at his gym. Examination shows well-developed musculature, blood pressure of 144/92 mm Hg, and small, soft testes bilaterally. Semen analysis shows a markedly decreased sperm count. Which of the following best explains his impaired spermatogenesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Suppressed gonadotropin secretion with low intratesticular testosterone"
+        },
+        {
+          "label": "B",
+          "text": "Elevated inhibin B secretion with selective suppression of LH"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune disruption of the blood-testis barrier and germ cells"
+        },
+        {
+          "label": "D",
+          "text": "Increased 5-alpha-reductase activity within the seminiferous tubules"
+        },
+        {
+          "label": "E",
+          "text": "Acquired loss of androgen-receptor function in Sertoli cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Exogenous androgens suppress the HPG axis, lowering intratesticular testosterone and Sertoli-cell stimulation despite high circulating androgen levels.",
+        "whyCorrect": "Exogenous androgens provide negative feedback to the hypothalamus and anterior pituitary, decreasing GnRH, LH, and FSH secretion. Reduced LH lowers Leydig-cell output, so intratesticular testosterone falls, and reduced FSH withdraws Sertoli-cell stimulation. Spermatogenesis requires FSH plus a high local testosterone concentration, so sperm production declines and the testes atrophy even though circulating androgen levels are high.",
+        "whyWrongByChoice": {
+          "B": "Inhibin B is secreted by Sertoli cells and selectively inhibits FSH, not LH; with Sertoli-cell suppression, inhibin B would fall rather than rise.",
+          "C": "Nothing in the history suggests autoimmune testicular injury; the findings are explained by hormonal suppression from the injected steroids.",
+          "D": "Conversion of testosterone to DHT by 5-alpha-reductase is a normal target-tissue event and does not impair spermatogenesis.",
+          "E": "Androgen receptors are intact; the problem is loss of gonadotropin drive and local testosterone, not receptor failure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anabolic steroids",
+        "HPG axis",
+        "infertility"
+      ],
+      "topicId": "androgens",
+      "topicName": "Androgens"
+    },
+    {
+      "id": "rp11-002",
+      "stem": "During male fetal development, differentiation of the penis, scrotum, and prostate is primarily induced by which of the following hormones?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Testosterone"
+        },
+        {
+          "label": "B",
+          "text": "Dihydrotestosterone"
+        },
+        {
+          "label": "C",
+          "text": "Estradiol"
+        },
+        {
+          "label": "D",
+          "text": "Dehydroepiandrosterone"
+        },
+        {
+          "label": "E",
+          "text": "Androstenedione"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "DHT masculinizes the external genitalia and prostate, while testosterone masculinizes the Wolffian-duct derivatives.",
+        "whyCorrect": "DHT, formed from testosterone by 5-alpha-reductase in target tissues, induces differentiation of the penis, scrotum, prostate, and male urethra during fetal development. It is a more potent androgen-receptor agonist than testosterone and acts largely within the tissues where it is produced.",
+        "whyWrongByChoice": {
+          "A": "Testosterone directly induces the Wolffian-duct derivatives (epididymis, ductus deferens, seminal vesicles), not the external genitalia and prostate.",
+          "C": "Estradiol, formed by aromatization of testosterone, promotes epiphyseal plate maturation and closure rather than masculinizing external genitalia.",
+          "D": "DHEA is a weak adrenal androgen contributing to pubic and axillary hair, body odor, and sebaceous activity, mainly after peripheral conversion.",
+          "E": "Androstenedione is a weak precursor androgen that must be converted to testosterone or estrogens to exert significant effects."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "DHT",
+        "fetal development",
+        "external genitalia"
+      ],
+      "topicId": "androgens",
+      "topicName": "Androgens"
+    },
+    {
+      "id": "rp11-003",
+      "stem": "A study of male reproductive development examines the hormonal requirements for differentiation of the epididymis, ductus deferens, and seminal vesicles from the Wolffian ducts. Differentiation of these structures depends most directly on which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Testosterone secreted by fetal Leydig cells"
+        },
+        {
+          "label": "B",
+          "text": "Dihydrotestosterone formed in genital skin"
+        },
+        {
+          "label": "C",
+          "text": "Inhibin B secreted by fetal Sertoli cells"
+        },
+        {
+          "label": "D",
+          "text": "DHEAS secreted by the fetal adrenal gland"
+        },
+        {
+          "label": "E",
+          "text": "Estradiol formed by aromatization in peripheral tissues"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Testosterone from fetal Leydig cells drives Wolffian-duct differentiation into the epididymis, ductus deferens, seminal vesicles, and ejaculatory ducts.",
+        "whyCorrect": "During fetal development, testicular testosterone production supports differentiation of the Wolffian-duct structures, including the epididymides, vasa deferentia, seminal vesicles, and ejaculatory ducts. This is a direct action of testosterone, distinct from the DHT-dependent masculinization of the external genitalia and prostate.",
+        "whyWrongByChoice": {
+          "B": "DHT mediates differentiation of the penis, scrotum, prostate, and male urethra, not the Wolffian-duct derivatives.",
+          "C": "Inhibin B regulates pituitary FSH secretion; it does not induce differentiation of Wolffian-duct structures.",
+          "D": "Adrenal DHEAS is a weak androgen precursor whose main contributions are pubic and axillary hair, body odor, and sebaceous activity.",
+          "E": "Estradiol from aromatization of testosterone contributes to epiphyseal maturation and negative feedback, not Wolffian-duct differentiation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "testosterone",
+        "Wolffian ducts",
+        "fetal development"
+      ],
+      "topicId": "androgens",
+      "topicName": "Androgens"
+    },
+    {
+      "id": "rp11-004",
+      "stem": "In a physiology experiment, a healthy 25-year-old man receives a continuous infusion of inhibin B at a concentration sufficient to act on the pituitary. Which of the following changes in his hormone levels is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased FSH with LH and testosterone relatively unchanged"
+        },
+        {
+          "label": "B",
+          "text": "Decreased LH with FSH relatively unchanged"
+        },
+        {
+          "label": "C",
+          "text": "Decreased FSH with a marked fall in testosterone"
+        },
+        {
+          "label": "D",
+          "text": "Increased FSH and increased LH"
+        },
+        {
+          "label": "E",
+          "text": "Decreased GnRH pulses with loss of both gonadotropins"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Inhibin B acts primarily on the anterior pituitary to selectively decrease FSH secretion.",
+        "whyCorrect": "Inhibin B, normally secreted by Sertoli cells, selectively inhibits FSH secretion at the anterior pituitary. Because the LH-Leydig-cell branch is regulated chiefly by sex-steroid feedback rather than by inhibin, LH and testosterone remain relatively unchanged while FSH falls.",
+        "whyWrongByChoice": {
+          "B": "Inhibin B does not selectively suppress LH; LH secretion is governed mainly by testosterone and estradiol feedback.",
+          "C": "Testosterone production is driven by LH, which inhibin B does not suppress, so a marked fall in testosterone is not expected.",
+          "D": "Inhibin B is inhibitory to the pituitary; it does not raise gonadotropin secretion.",
+          "E": "Inhibin B acts primarily at the anterior pituitary on FSH; it is not described as shutting down hypothalamic GnRH pulses or both gonadotropins."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inhibin B",
+        "FSH",
+        "negative feedback"
+      ],
+      "topicId": "androgens",
+      "topicName": "Androgens"
+    },
+    {
+      "id": "rp11-005",
+      "stem": "During the first half of gestation, Leydig cells in a male fetus actively secrete testosterone, supporting differentiation of the internal genital ducts before the fetal hypothalamic-pituitary axis is fully mature. At this stage, Leydig-cell testosterone synthesis is stimulated primarily by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "LH from the fetal anterior pituitary"
+        },
+        {
+          "label": "B",
+          "text": "Human chorionic gonadotropin"
+        },
+        {
+          "label": "C",
+          "text": "FSH from the fetal anterior pituitary"
+        },
+        {
+          "label": "D",
+          "text": "ACTH from the fetal anterior pituitary"
+        },
+        {
+          "label": "E",
+          "text": "GnRH acting directly on the testis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fetal Leydig cells synthesize testosterone in response to hCG; LH takes over this role after puberty.",
+        "whyCorrect": "Leydig cells respond to hCG during fetal development and to LH after puberty. hCG activates LH receptors on Leydig cells, driving the testosterone production that supports fetal Wolffian-duct differentiation.",
+        "whyWrongByChoice": {
+          "A": "LH becomes the principal Leydig-cell stimulus after puberty; during fetal development the stimulus is hCG.",
+          "C": "FSH acts on Sertoli cells within the seminiferous tubules, not on Leydig-cell testosterone synthesis.",
+          "D": "ACTH regulates adrenal-cortex steroid output, including adrenal androgens at adrenarche, not testicular testosterone.",
+          "E": "GnRH acts on gonadotropes in the anterior pituitary via the portal circulation; it does not directly stimulate the testis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hCG",
+        "Leydig cells",
+        "fetal development"
+      ],
+      "topicId": "androgens",
+      "topicName": "Androgens"
+    },
+    {
+      "id": "rp11-006",
+      "stem": "A researcher measuring sex-steroid levels in healthy adult men notes that testosterone, like other steroid hormones, has a lipid-soluble four-ring structure that does not dissolve freely in plasma. In the bloodstream, most circulating testosterone is transported in which of the following ways?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bound to sex hormone-binding globulin or albumin"
+        },
+        {
+          "label": "B",
+          "text": "Freely dissolved in the aqueous plasma"
+        },
+        {
+          "label": "C",
+          "text": "Bound to circulating inhibin B"
+        },
+        {
+          "label": "D",
+          "text": "Carried within circulating erythrocytes"
+        },
+        {
+          "label": "E",
+          "text": "Covalently attached to androgen receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Most circulating testosterone travels bound to sex hormone-binding globulin or albumin; only a small unbound fraction is available to tissues.",
+        "whyCorrect": "Because their fused steroid rings make them lipophilic, androgens cannot dissolve freely in plasma. Binding to sex hormone-binding globulin or albumin permits transport in the aqueous bloodstream and regulates the small unbound fraction that can diffuse into target cells.",
+        "whyWrongByChoice": {
+          "B": "Only a small fraction of testosterone circulates unbound; its lipophilicity prevents most of it from dissolving freely in plasma.",
+          "C": "Inhibin B is a Sertoli-cell hormone that regulates FSH; it is not a plasma carrier for testosterone.",
+          "D": "Testosterone is carried by plasma binding proteins, not inside red blood cells.",
+          "E": "Androgen receptors are intracellular; testosterone binds them noncovalently after entering the target cell, not during transport."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SHBG",
+        "hormone transport",
+        "steroid structure"
+      ],
+      "topicId": "androgens",
+      "topicName": "Androgens"
+    },
+    {
+      "id": "rp11-007",
+      "stem": "In a prostate epithelial cell, testosterone diffuses across the plasma membrane and is converted by 5-alpha-reductase to DHT, which binds an intracellular androgen receptor. Which of the following events occurs next in this signaling pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The receptor complex dimerizes, enters the nucleus, and binds androgen-response elements"
+        },
+        {
+          "label": "B",
+          "text": "The receptor activates a membrane-bound G protein that raises cyclic AMP"
+        },
+        {
+          "label": "C",
+          "text": "The receptor opens a ligand-gated cation channel in the plasma membrane"
+        },
+        {
+          "label": "D",
+          "text": "The receptor phosphorylates tyrosine residues on cytosolic substrate proteins"
+        },
+        {
+          "label": "E",
+          "text": "The receptor complex blocks translation of target mRNAs at the ribosome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Activated androgen receptors translocate to the nucleus, dimerize, bind androgen-response elements, and regulate gene transcription.",
+        "whyCorrect": "Testosterone or DHT binds an intracellular androgen receptor; the activated receptor translocates to the nucleus, forms dimers, binds androgen-response elements in DNA, and regulates transcription of target genes into mRNA that is then translated into protein. In the prostate, DHT is the predominant androgen-receptor ligand.",
+        "whyWrongByChoice": {
+          "B": "Androgen receptors are nuclear transcription regulators, not G protein-coupled receptors that signal through cyclic AMP.",
+          "C": "Androgens act through intracellular receptors that alter transcription, not through ligand-gated ion channels.",
+          "D": "The androgen receptor is not a tyrosine kinase; its action is to regulate gene transcription.",
+          "E": "The activated receptor regulates transcription of target genes; it does not act by blocking translation at the ribosome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "androgen receptor",
+        "signal transduction",
+        "DHT"
+      ],
+      "topicId": "androgens",
+      "topicName": "Androgens"
+    },
+    {
+      "id": "rp11-008",
+      "stem": "A 17-year-old patient with a 46,XY karyotype is evaluated for absent pubertal virilization. Examination shows female-pattern external genitalia, and imaging reveals intra-abdominal testes. Circulating testosterone is within the adult male reference range, and a trial of androgen therapy produces no virilization. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nonfunctional intracellular androgen receptors in target tissues"
+        },
+        {
+          "label": "B",
+          "text": "Deficient 5-alpha-reductase activity in genital skin"
+        },
+        {
+          "label": "C",
+          "text": "Absent Leydig-cell testosterone synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Failure of hCG stimulation during fetal life"
+        },
+        {
+          "label": "E",
+          "text": "Excess aromatization of testosterone to estradiol"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In complete androgen insensitivity syndrome, a 46,XY individual with testes has nonfunctional androgen receptors, so androgen-dependent masculinization cannot occur.",
+        "whyCorrect": "Complete androgen insensitivity syndrome results from nonfunctional androgen receptors in a 46,XY individual with testes. Androgens are produced but cannot act, so external genital development follows a typically female pattern. Because the receptor itself is defective, giving more androgen is ineffective, which explains the failed therapeutic trial.",
+        "whyWrongByChoice": {
+          "B": "A 5-alpha-reductase problem would leave receptor-mediated testosterone actions intact, so a trial of androgen therapy would not be entirely without effect; the complete unresponsiveness points to the receptor.",
+          "C": "Circulating testosterone is in the adult male range, so Leydig-cell synthesis is clearly preserved.",
+          "D": "Testes formed and produce testosterone, so fetal Leydig-cell stimulation was adequate; the defect is downstream at the receptor.",
+          "E": "The findings reflect absent androgen action rather than excess estrogen production; the key clue is that androgen treatment is ineffective."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "androgen insensitivity",
+        "androgen receptor",
+        "46,XY"
+      ],
+      "topicId": "androgens",
+      "topicName": "Androgens"
+    },
+    {
+      "id": "rp11-009",
+      "stem": "A 52-year-old man with a 20-year history of heavy daily alcohol use reports decreased libido and erectile dysfunction. Examination shows bilateral, tender enlargement of glandular breast tissue. Along with suppression of GnRH and LH secretion, which of the following mechanisms best explains his breast findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Impaired hepatic metabolism and clearance of estrogens"
+        },
+        {
+          "label": "B",
+          "text": "Increased pulsatile GnRH secretion from the hypothalamus"
+        },
+        {
+          "label": "C",
+          "text": "Excess inhibin B secretion from Sertoli cells"
+        },
+        {
+          "label": "D",
+          "text": "Increased Leydig-cell testosterone production"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced 5-alpha-reduction of testosterone in breast tissue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic alcohol use suppresses the HPG axis and, through liver dysfunction, impairs estrogen clearance, producing increased estrogenic effects such as gynecomastia.",
+        "whyCorrect": "Chronic alcohol use lowers testosterone by decreasing hypothalamic GnRH release, directly inhibiting pituitary LH secretion, and impairing Leydig- and Sertoli-cell function. Alcohol-associated liver dysfunction additionally impairs hepatic estrogen metabolism and clearance, so estrogenic effects increase, which can produce loss of libido, sexual dysfunction, and gynecomastia.",
+        "whyWrongByChoice": {
+          "B": "Alcohol decreases GnRH release from the hypothalamus; it does not increase it.",
+          "C": "Chronic alcohol use impairs Sertoli-cell function; rising inhibin B is not the mechanism, and inhibin B acts on FSH rather than causing breast growth.",
+          "D": "Alcohol reduces Leydig-cell stimulation and testosterone production; increased testosterone output would not explain this picture.",
+          "E": "DHT formation drives androgenic effects such as prostate growth and balding; gynecomastia here reflects excess estrogenic effect from poor hepatic clearance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alcohol",
+        "gynecomastia",
+        "HPG axis"
+      ],
+      "topicId": "androgens",
+      "topicName": "Androgens"
+    },
+    {
+      "id": "rp11-010",
+      "stem": "An 8-year-old girl is brought to the clinic because of new body odor and a small amount of pubic hair. She has no breast development, and her growth curve is unchanged. Increased secretion of which of the following best accounts for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DHEA and DHEAS from the adrenal cortex"
+        },
+        {
+          "label": "B",
+          "text": "Testosterone from ovarian theca cells"
+        },
+        {
+          "label": "C",
+          "text": "Estradiol from the ovaries"
+        },
+        {
+          "label": "D",
+          "text": "LH and FSH from the anterior pituitary"
+        },
+        {
+          "label": "E",
+          "text": "DHT produced within genital skin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adrenarche, driven by ACTH-regulated adrenal androgen output, precedes gonadal puberty and produces pubic and axillary hair, body odor, and sebaceous activity.",
+        "whyCorrect": "During adrenarche, the adrenal cortex becomes the principal source of rising circulating androgens under ACTH regulation, before gonadal puberty begins. Adrenal androgens such as DHEA and DHEAS contribute to pubic and axillary hair growth, body odor, and sebaceous-gland activity, partly through peripheral conversion to more potent androgens.",
+        "whyWrongByChoice": {
+          "B": "Ovarian theca-cell androgen production is stimulated by LH with gonadal puberty; the absence of breast development indicates the gonadal axis has not yet activated.",
+          "C": "Rising estradiol would produce breast development, which is absent here.",
+          "D": "Gonadotropin activation marks gonadal puberty; adrenarche occurs before it and is ACTH-regulated.",
+          "E": "Local DHT formation is downstream of available androgen precursors; the primary change at adrenarche is increased adrenal DHEA and DHEAS output."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adrenarche",
+        "DHEA",
+        "adrenal androgens"
+      ],
+      "topicId": "androgens",
+      "topicName": "Androgens"
+    },
+    {
+      "id": "rp11-011",
+      "stem": "A 16-year-old boy completing puberty is noted to have progressive slowing of linear growth as his skeletal maturation advances. The maturation and closure of his epiphyseal growth plates is promoted primarily by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estradiol formed by aromatization of testosterone"
+        },
+        {
+          "label": "B",
+          "text": "DHT formed by 5-alpha-reduction of testosterone"
+        },
+        {
+          "label": "C",
+          "text": "Testosterone acting directly on androgen receptors in bone"
+        },
+        {
+          "label": "D",
+          "text": "Inhibin B secreted by Sertoli cells"
+        },
+        {
+          "label": "E",
+          "text": "DHEAS secreted by the adrenal cortex"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aromatization of testosterone to estradiol promotes epiphyseal plate maturation and closure at the end of puberty.",
+        "whyCorrect": "While testosterone contributes to voice deepening, libido, muscle growth, and spermatogenesis, its conversion by aromatase to estradiol is what promotes epiphyseal plate maturation and closure, ending linear growth as puberty completes.",
+        "whyWrongByChoice": {
+          "B": "DHT mediates prostate growth, male-pattern balding, and sebaceous activity, not epiphyseal closure.",
+          "C": "Epiphyseal maturation is attributed to estradiol produced from testosterone, not to direct androgen-receptor action of testosterone.",
+          "D": "Inhibin B regulates pituitary FSH secretion and has no described role in growth-plate closure.",
+          "E": "Adrenal DHEAS is a weak androgen precursor contributing to hair, odor, and sebaceous activity, not epiphyseal closure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aromatization",
+        "estradiol",
+        "epiphyseal closure"
+      ],
+      "topicId": "androgens",
+      "topicName": "Androgens"
+    },
+    {
+      "id": "rp11-012",
+      "stem": "A 29-year-old male cyclist is found on routine laboratory testing to have a hemoglobin of 18.6 g/dL and a hematocrit of 56%. He is well hydrated, has no lung disease, and lives at sea level. He reports 8 months of daily use of an unprescribed powder containing \"male hormones\" that his trainer supplied. Which of the following best explains his laboratory findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Androgen-stimulated increase in red-blood-cell production"
+        },
+        {
+          "label": "B",
+          "text": "Chronic arterial hypoxemia stimulating erythropoiesis"
+        },
+        {
+          "label": "C",
+          "text": "Erythropoietin secretion from a renal tumor"
+        },
+        {
+          "label": "D",
+          "text": "Hemoconcentration from reduced plasma volume"
+        },
+        {
+          "label": "E",
+          "text": "A primary clonal myeloproliferative disorder"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Supraphysiologic androgen exposure increases red-blood-cell production and can cause erythrocytosis.",
+        "whyCorrect": "Androgens support erythropoiesis during adulthood, and although erythropoietin is the principal hormonal regulator of red-cell production, supraphysiologic androgen exposure can increase red-blood-cell production and cause erythrocytosis. In a patient taking an unprescribed androgen-containing supplement, the elevated hemoglobin and hematocrit are best explained by this androgen effect.",
+        "whyWrongByChoice": {
+          "B": "He has no lung disease and lives at sea level, so chronic hypoxemia is not a plausible driver of his erythrocytosis.",
+          "C": "There is no evidence of a renal mass; the temporal link to androgen use points to the supplement as the cause.",
+          "D": "He is well hydrated, so a spurious rise in hematocrit from reduced plasma volume is unlikely.",
+          "E": "A clonal marrow disorder is not suggested when a known erythrocytosis-producing exposure, supraphysiologic androgens, accounts for the findings."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "erythrocytosis",
+        "anabolic steroids",
+        "erythropoiesis"
+      ],
+      "topicId": "androgens",
+      "topicName": "Androgens"
+    },
+    {
+      "id": "rp12-001",
+      "stem": "A 24-year-old woman with regular 28-day cycles is on day 8 of her cycle. Serum estradiol is rising as a cohort of antral follicles grows. FSH most directly increases estradiol production during this phase by stimulating which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Androstenedione synthesis by theca cells"
+        },
+        {
+          "label": "B",
+          "text": "Aromatase activity in granulosa cells"
+        },
+        {
+          "label": "C",
+          "text": "GnRH pulse frequency in the hypothalamus"
+        },
+        {
+          "label": "D",
+          "text": "Progesterone secretion by the corpus luteum"
+        },
+        {
+          "label": "E",
+          "text": "Vascularization of the outer theca layer"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "FSH stimulates granulosa-cell aromatase to convert theca-derived androstenedione to estradiol.",
+        "whyCorrect": "In the two-cell mechanism, LH stimulates theca cells to produce androstenedione, which diffuses to granulosa cells. FSH then stimulates granulosa-cell aromatase to convert that androstenedione to estradiol, driving the follicular-phase estradiol rise.",
+        "whyWrongByChoice": {
+          "A": "Androstenedione production by theca cells is stimulated by LH, not FSH.",
+          "C": "GnRH originates in the hypothalamus and drives pituitary FSH release, not the reverse.",
+          "D": "The corpus luteum does not exist during the follicular phase; it forms only after ovulation.",
+          "E": "Theca vascularization is a structural feature of secondary-follicle development, not the direct FSH-dependent step in estradiol synthesis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "two-cell mechanism",
+        "FSH",
+        "granulosa cells",
+        "estradiol"
+      ],
+      "topicId": "ovulation-and-the-menstrual-cycle",
+      "topicName": "Ovulation and the Menstrual Cycle"
+    },
+    {
+      "id": "rp12-002",
+      "stem": "A 26-year-old woman is on day 13 of a 28-day cycle. Serum studies show estradiol that has remained markedly elevated for the past two days, produced by a single dominant follicle. Which of the following hormonal events is most likely to occur next?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A surge in LH secretion from the anterior pituitary"
+        },
+        {
+          "label": "B",
+          "text": "A rise in FSH driven by increased inhibin B"
+        },
+        {
+          "label": "C",
+          "text": "A rise in trophoblast-derived hCG secretion"
+        },
+        {
+          "label": "D",
+          "text": "A sustained fall in GnRH pulse activity"
+        },
+        {
+          "label": "E",
+          "text": "A sharp increase in progesterone from theca cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sustained high estradiol late in the follicular phase switches to positive feedback and generates the preovulatory LH surge.",
+        "whyCorrect": "During most of the follicular phase estradiol suppresses gonadotropin secretion, but sustained high estradiol late in the follicular phase produces positive feedback on the hypothalamus and anterior pituitary. This generates the LH surge that triggers ovulation.",
+        "whyWrongByChoice": {
+          "B": "Inhibin B decreases FSH secretion rather than raising it; FSH is falling at this point in the cycle.",
+          "C": "hCG is produced by trophoblast cells only after implantation, not at midcycle in a nonpregnant woman.",
+          "D": "Sustained high estradiol produces positive feedback at the hypothalamus and pituitary, not suppression of GnRH activity.",
+          "E": "Progesterone rises after ovulation from the corpus luteum; theca cells produce androstenedione during the follicular phase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "positive feedback",
+        "estradiol",
+        "LH surge"
+      ],
+      "topicId": "ovulation-and-the-menstrual-cycle",
+      "topicName": "Ovulation and the Menstrual Cycle"
+    },
+    {
+      "id": "rp12-003",
+      "stem": "During an in vitro fertilization procedure, an oocyte is retrieved shortly after its release from a dominant follicle. Before any contact with sperm, this oocyte is in which stage of meiosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arrested in prophase of meiosis I"
+        },
+        {
+          "label": "B",
+          "text": "Arrested in metaphase of meiosis I"
+        },
+        {
+          "label": "C",
+          "text": "Arrested in metaphase of meiosis II"
+        },
+        {
+          "label": "D",
+          "text": "Completed meiosis II with a mature ovum"
+        },
+        {
+          "label": "E",
+          "text": "Actively undergoing cleavage divisions"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ovulation releases a secondary oocyte arrested in metaphase II, which completes meiosis II only if fertilization occurs.",
+        "whyCorrect": "Ovulation is the release of a secondary oocyte arrested in metaphase II from the dominant follicle. Meiosis II is completed only if fertilization occurs, after which the zygote undergoes cleavage and develops into a blastocyst.",
+        "whyWrongByChoice": {
+          "A": "Prophase I arrest describes the primary oocyte within primordial follicles, before the LH surge causes completion of meiosis I.",
+          "B": "The LH surge causes the primary oocyte to complete meiosis I before ovulation; the released cell has passed this stage.",
+          "D": "Meiosis II is completed only after fertilization, which has not occurred in this oocyte.",
+          "E": "Cleavage occurs in the zygote after fertilization, not in an unfertilized oocyte."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oocyte",
+        "meiosis",
+        "ovulation"
+      ],
+      "topicId": "ovulation-and-the-menstrual-cycle",
+      "topicName": "Ovulation and the Menstrual Cycle"
+    },
+    {
+      "id": "rp12-004",
+      "stem": "A 19-year-old woman with regular 28-day cycles develops sudden right lower-quadrant pain on day 14 of her cycle. The pain is unilateral, moderate, and resolves over the next day without intervention. Which of the following is the most likely cause of her pain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breakdown and shedding of the functional endometrium"
+        },
+        {
+          "label": "B",
+          "text": "Regression of the corpus luteum into a corpus albicans"
+        },
+        {
+          "label": "C",
+          "text": "Follicular rupture with limited bleeding irritating the peritoneum"
+        },
+        {
+          "label": "D",
+          "text": "Trophoblast invasion of the secretory endometrium"
+        },
+        {
+          "label": "E",
+          "text": "Atresia of the nondominant follicles in the recruited cohort"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mittelschmerz is unilateral lower-abdominal pain from peritoneal irritation caused by follicular rupture and limited bleeding at ovulation.",
+        "whyCorrect": "Midcycle unilateral lower-abdominal pain in a woman with regular cycles is characteristic of mittelschmerz. It results from peritoneal irritation associated with follicular rupture and limited bleeding during ovulation, which occurs near day 14 of a 28-day cycle.",
+        "whyWrongByChoice": {
+          "A": "Endometrial shedding causes menstruation beginning on day 1 of the cycle, not midcycle unilateral pain.",
+          "B": "Corpus luteum regression occurs late in the luteal phase and precedes menstruation; it does not cause midcycle pain.",
+          "D": "Trophoblast invasion accompanies implantation after fertilization and is not a midcycle event in this patient.",
+          "E": "Atresia of nondominant follicles occurs as FSH declines during the follicular phase and is not described as a cause of peritoneal pain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mittelschmerz",
+        "ovulation",
+        "clinical correlation"
+      ],
+      "topicId": "ovulation-and-the-menstrual-cycle",
+      "topicName": "Ovulation and the Menstrual Cycle"
+    },
+    {
+      "id": "rp12-005",
+      "stem": "A 29-year-old woman conceives during the current cycle. Three weeks after ovulation, her serum progesterone remains elevated and no menstruation has occurred. Which of the following best explains the continued progesterone secretion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "LH from the anterior pituitary continues to rise after implantation"
+        },
+        {
+          "label": "B",
+          "text": "Trophoblast-derived hCG maintains the corpus luteum"
+        },
+        {
+          "label": "C",
+          "text": "Inhibin A stimulates luteal progesterone synthesis"
+        },
+        {
+          "label": "D",
+          "text": "The corpus albicans takes over steroid secretion"
+        },
+        {
+          "label": "E",
+          "text": "Sustained estradiol exerts positive feedback on the corpus luteum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "After implantation, trophoblast-derived hCG maintains the corpus luteum and its progesterone secretion during early pregnancy.",
+        "whyCorrect": "In a nonpregnant luteal phase, absence of hCG allows the corpus luteum to regress, ovarian steroids to fall, and menstruation to follow. When implantation occurs, trophoblast cells produce hCG, which maintains the corpus luteum and its progesterone secretion until placental steroid production becomes sufficient.",
+        "whyWrongByChoice": {
+          "A": "Luteal progesterone, estradiol, and inhibin A suppress gonadotropin secretion; pituitary LH does not rise to rescue the corpus luteum.",
+          "C": "Inhibin A suppresses FSH secretion; it is a product of the corpus luteum, not a stimulus for progesterone synthesis.",
+          "D": "The corpus albicans is the fibrotic remnant that forms after the corpus luteum's endocrine function ends; it does not secrete steroids.",
+          "E": "Estradiol's positive feedback acts on the hypothalamus and anterior pituitary to generate the LH surge, not on the corpus luteum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hCG",
+        "corpus luteum",
+        "early pregnancy"
+      ],
+      "topicId": "ovulation-and-the-menstrual-cycle",
+      "topicName": "Ovulation and the Menstrual Cycle"
+    },
+    {
+      "id": "rp12-006",
+      "stem": "A 31-year-old woman is on day 2 of her menstrual cycle. Compared with the late luteal phase of her previous cycle, her serum FSH concentration has risen. Which of the following best explains this rise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased inhibin B secretion from the new follicular cohort"
+        },
+        {
+          "label": "B",
+          "text": "Positive feedback from sustained high estradiol"
+        },
+        {
+          "label": "C",
+          "text": "Decreased negative feedback after regression of the corpus luteum"
+        },
+        {
+          "label": "D",
+          "text": "Rising hCG secretion from the endometrium"
+        },
+        {
+          "label": "E",
+          "text": "Increased LH-receptor expression on granulosa cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Corpus luteum regression removes progesterone, estradiol, and inhibin A negative feedback, allowing FSH to rise at the start of the follicular phase.",
+        "whyCorrect": "Regression of the previous cycle's corpus luteum decreases progesterone, estradiol, and inhibin A. The resulting reduction in negative feedback on the hypothalamus and anterior pituitary allows FSH to rise, supporting growth of a new cohort of gonadotropin-responsive follicles.",
+        "whyWrongByChoice": {
+          "A": "Inhibin B from developing follicles decreases FSH secretion; it does not cause FSH to rise.",
+          "B": "Sustained high estradiol occurs late in the follicular phase and generates the LH surge, not the early-cycle FSH rise.",
+          "D": "hCG is produced by trophoblast cells only when implantation occurs, and menstruation indicates implantation did not occur.",
+          "E": "FSH promotes LH-receptor expression in the dominant follicle during late follicular maturation; this is a downstream event, not the cause of the early FSH rise."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "FSH",
+        "negative feedback",
+        "follicular phase"
+      ],
+      "topicId": "ovulation-and-the-menstrual-cycle",
+      "topicName": "Ovulation and the Menstrual Cycle"
+    },
+    {
+      "id": "rp12-007",
+      "stem": "During the mid-follicular phase, rising estradiol and inhibin B cause serum FSH to decline, yet a single follicle continues maturing toward ovulation while the rest of the recruited cohort degenerates. Which of the following properties best explains why this follicle survives?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is the most responsive to FSH within the cohort"
+        },
+        {
+          "label": "B",
+          "text": "It secretes inhibin A that stimulates its own granulosa cells"
+        },
+        {
+          "label": "C",
+          "text": "It contains an oocyte that has already completed meiosis I"
+        },
+        {
+          "label": "D",
+          "text": "It develops a vascularized granulosa-cell compartment"
+        },
+        {
+          "label": "E",
+          "text": "It escapes gonadotropin dependence at the antral stage"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "As FSH declines under estradiol and inhibin B feedback, the follicle most responsive to FSH becomes dominant while less-responsive follicles undergo atresia.",
+        "whyCorrect": "Estradiol and inhibin B decrease FSH secretion during the follicular phase. As FSH declines, less-responsive follicles undergo atresia, while the follicle most responsive to FSH continues maturing as the dominant follicle; FSH also promotes LH-receptor expression in its granulosa cells during late maturation.",
+        "whyWrongByChoice": {
+          "B": "Inhibin A from the dominant follicle contributes to FSH suppression at the pituitary; it is not described as a self-stimulating growth signal.",
+          "C": "The primary oocyte completes meiosis I only in response to the LH surge, just before ovulation, not at selection.",
+          "D": "The granulosa-cell compartment remains avascular; it is the theca that becomes vascularized.",
+          "E": "Antral follicles are gonadotropin dependent; dominance reflects superior FSH responsiveness, not independence from gonadotropins."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dominant follicle",
+        "atresia",
+        "follicle selection"
+      ],
+      "topicId": "ovulation-and-the-menstrual-cycle",
+      "topicName": "Ovulation and the Menstrual Cycle"
+    },
+    {
+      "id": "rp12-008",
+      "stem": "A reproductive physiologist studies a granulosa-cell hormone that rises as a cohort of follicles develops during the follicular phase and selectively decreases pituitary secretion of FSH without an equivalent effect on LH. Which of the following hormones is being studied?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibin A"
+        },
+        {
+          "label": "B",
+          "text": "Inhibin B"
+        },
+        {
+          "label": "C",
+          "text": "Estradiol"
+        },
+        {
+          "label": "D",
+          "text": "Progesterone"
+        },
+        {
+          "label": "E",
+          "text": "Human chorionic gonadotropin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Inhibin B from granulosa cells of developing follicles selectively decreases FSH secretion during the follicular phase.",
+        "whyCorrect": "Inhibin B is produced by granulosa cells of developing follicles during the follicular phase and selectively decreases FSH secretion. This selective FSH suppression contributes to atresia of less-responsive follicles and selection of the dominant follicle.",
+        "whyWrongByChoice": {
+          "A": "Inhibin A is produced by the dominant follicle late in the follicular phase and predominantly by the corpus luteum during the luteal phase, not by the developing cohort early on.",
+          "C": "Estradiol suppresses gonadotropin secretion broadly during most of the follicular phase rather than selectively targeting FSH.",
+          "D": "Progesterone is a corpus luteum product of the luteal phase, not a granulosa-cell hormone of the developing cohort.",
+          "E": "hCG is produced by trophoblast cells after implantation and maintains the corpus luteum; it is not a granulosa-cell feedback hormone."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "inhibin B",
+        "FSH",
+        "feedback regulation"
+      ],
+      "topicId": "ovulation-and-the-menstrual-cycle",
+      "topicName": "Ovulation and the Menstrual Cycle"
+    },
+    {
+      "id": "rp12-009",
+      "stem": "An endometrial biopsy obtained from a healthy 27-year-old woman on day 10 of her cycle shows regenerating glands and stroma of the functional layer with abundant mitotic figures. Which of the following hormones is primarily responsible for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Progesterone"
+        },
+        {
+          "label": "B",
+          "text": "Estradiol"
+        },
+        {
+          "label": "C",
+          "text": "Luteinizing hormone"
+        },
+        {
+          "label": "D",
+          "text": "Follicle-stimulating hormone"
+        },
+        {
+          "label": "E",
+          "text": "Human chorionic gonadotropin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Estradiol from developing follicles drives regeneration and proliferation of the functional endometrium during the proliferative phase.",
+        "whyCorrect": "Day 10 falls in the proliferative phase, which runs from the end of menstruation to ovulation. Estradiol produced by developing follicles stimulates regeneration and proliferation of the glandular epithelium and stroma of the functional endometrium and induces progesterone-receptor expression.",
+        "whyWrongByChoice": {
+          "A": "Progesterone acts after ovulation, decreasing mitotic activity and producing secretory change; it does not drive proliferation.",
+          "C": "LH acts on theca cells and triggers ovulation; it does not directly stimulate endometrial proliferation.",
+          "D": "FSH acts on granulosa cells to support follicular maturation and estradiol synthesis; it is not the direct endometrial stimulus.",
+          "E": "hCG maintains the corpus luteum after implantation and has no role in a day-10 proliferative endometrium."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "proliferative phase",
+        "estradiol",
+        "endometrium"
+      ],
+      "topicId": "ovulation-and-the-menstrual-cycle",
+      "topicName": "Ovulation and the Menstrual Cycle"
+    },
+    {
+      "id": "rp12-010",
+      "stem": "An endometrial biopsy from a healthy 33-year-old woman on day 22 of a 28-day cycle shows tortuous, actively secreting glands, stromal maturation, and markedly decreased mitotic activity. These changes are primarily produced by a hormone secreted from which of the following sources?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granulosa cells of the dominant follicle"
+        },
+        {
+          "label": "B",
+          "text": "Gonadotropes of the anterior pituitary"
+        },
+        {
+          "label": "C",
+          "text": "Lipid-rich cells of the corpus luteum"
+        },
+        {
+          "label": "D",
+          "text": "Trophoblast cells of an implanting blastocyst"
+        },
+        {
+          "label": "E",
+          "text": "Theca cells of recruited antral follicles"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Progesterone from the corpus luteum transforms the estradiol-primed endometrium into secretory tissue during the secretory phase.",
+        "whyCorrect": "Day 22 is in the secretory phase. Progesterone from the corpus luteum, a highly vascular temporary endocrine structure whose lipid-rich cells synthesize progesterone and estradiol, decreases mitotic activity and produces tortuous secretory glands and stromal changes that make the endometrium receptive to implantation.",
+        "whyWrongByChoice": {
+          "A": "Granulosa cells of the dominant follicle produce estradiol during the follicular phase, which drives proliferation rather than secretory change.",
+          "B": "Anterior-pituitary gonadotropes secrete LH and FSH, which act on the ovary, not directly on the endometrium.",
+          "D": "Trophoblast cells secrete hCG after implantation; secretory transformation occurs whether or not implantation happens.",
+          "E": "Theca cells produce androstenedione as an estradiol precursor; they are not the source of the secretory-phase hormone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secretory phase",
+        "progesterone",
+        "corpus luteum"
+      ],
+      "topicId": "ovulation-and-the-menstrual-cycle",
+      "topicName": "Ovulation and the Menstrual Cycle"
+    },
+    {
+      "id": "rp12-011",
+      "stem": "A 21-year-old woman requests combined oral contraceptive pills and asks how they prevent pregnancy so effectively. Which of the following best describes their primary mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Suppressing gonadotropin secretion, preventing the LH surge and ovulation"
+        },
+        {
+          "label": "B",
+          "text": "Accelerating atresia of the primordial follicle pool in both ovaries"
+        },
+        {
+          "label": "C",
+          "text": "Blocking completion of meiosis II after the oocyte is fertilized"
+        },
+        {
+          "label": "D",
+          "text": "Inducing early regression of the corpus luteum after ovulation"
+        },
+        {
+          "label": "E",
+          "text": "Stimulating proliferation of the functional endometrial layer"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Combined oral contraceptives suppress gonadotropin secretion through negative feedback, preventing the LH surge required for ovulation.",
+        "whyCorrect": "Combined oral contraceptives act primarily through negative feedback that suppresses gonadotropin secretion, so the LH surge required for ovulation never occurs. The progestin component additionally thickens cervical mucus and reduces endometrial receptivity.",
+        "whyWrongByChoice": {
+          "B": "The finite follicle pool declines through atresia across the lifespan regardless of contraception; pills do not act by destroying the ovarian reserve.",
+          "C": "Preventing pregnancy by these pills occurs upstream, at ovulation; they do not act by arresting meiosis after fertilization.",
+          "D": "Their mechanism prevents ovulation from happening, rather than causing luteal regression after an ovulation has occurred.",
+          "E": "Progestins reduce endometrial receptivity; stimulating endometrial proliferation is an estradiol effect of the normal cycle, not a contraceptive mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oral contraceptives",
+        "LH surge",
+        "negative feedback"
+      ],
+      "topicId": "ovulation-and-the-menstrual-cycle",
+      "topicName": "Ovulation and the Menstrual Cycle"
+    },
+    {
+      "id": "rp12-012",
+      "stem": "A 34-year-old woman asks whether her ovaries will keep producing new eggs if she delays childbearing. Which of the following statements about the ovarian follicle pool is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is established before birth and declines through atresia without replenishment"
+        },
+        {
+          "label": "B",
+          "text": "It is replenished each cycle by activation of newly formed primordial follicles"
+        },
+        {
+          "label": "C",
+          "text": "It expands during the follicular phase under the influence of FSH"
+        },
+        {
+          "label": "D",
+          "text": "It is maintained at a constant size until natural menopause occurs"
+        },
+        {
+          "label": "E",
+          "text": "It consists of secondary oocytes arrested in metaphase II from birth"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ovarian reserve of about 1-2 million primary oocytes is established before birth and progressively declines through atresia, without replenishment.",
+        "whyCorrect": "The follicle pool contains approximately 1-2 million primary oocytes at birth. This finite ovarian reserve is established before birth, is not replenished afterward, and progressively declines through atresia across the reproductive lifespan; only a small minority of activated follicles ultimately ovulate.",
+        "whyWrongByChoice": {
+          "B": "Primordial follicles form during fetal development; no new primordial follicles are made after birth.",
+          "C": "FSH supports growth of already-recruited gonadotropin-responsive follicles; it does not enlarge the total follicle pool.",
+          "D": "The pool declines progressively through atresia throughout life; menopause reflects the loss of ovarian follicular activity, not a sudden drop from a constant reserve.",
+          "E": "Primordial follicles contain primary oocytes arrested in prophase I; metaphase II arrest describes the secondary oocyte formed just before ovulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ovarian reserve",
+        "atresia",
+        "primordial follicles"
+      ],
+      "topicId": "ovulation-and-the-menstrual-cycle",
+      "topicName": "Ovulation and the Menstrual Cycle"
+    },
+    {
+      "id": "rp13-001",
+      "stem": "A 15-year-old girl is brought to the clinic because she has never menstruated. For the past 5 months she has had severe lower abdominal pain that recurs roughly every 4 weeks and resolves after a few days. Breast development is Tanner stage 5, and pubic hair is normal for age. Pelvic examination shows a bulging, bluish membrane at the vaginal introitus, and ultrasound demonstrates blood distending the vagina. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Imperforate hymen"
+        },
+        {
+          "label": "B",
+          "text": "Mullerian agenesis"
+        },
+        {
+          "label": "C",
+          "text": "Turner syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Functional hypothalamic amenorrhea"
+        },
+        {
+          "label": "E",
+          "text": "Asherman syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Primary amenorrhea with cyclic pelvic pain and normal secondary sexual characteristics points to an outflow tract obstruction.",
+        "whyCorrect": "Outflow tract disorders such as imperforate hymen prevent egress of menstrual blood despite normal hormonal cycling, so patients develop cyclic pain with hematocolpos (blood accumulating in the vagina). The bulging bluish membrane at the introitus is the obstructing hymen itself. Normal breast development confirms estrogen exposure, so the HPO axis is intact.",
+        "whyWrongByChoice": {
+          "B": "Mullerian agenesis causes an absent uterus (with or without upper vagina), so there is no cyclic endometrial shedding to accumulate and no cyclic pain or hematocolpos.",
+          "C": "Turner syndrome causes primary amenorrhea from absent functional ovarian tissue, with delayed or incomplete puberty rather than Tanner 5 breasts and cyclic pain.",
+          "D": "Functional hypothalamic amenorrhea suppresses GnRH and estrogen output; it does not produce cyclic pain or blood trapped behind an obstruction.",
+          "E": "Asherman syndrome is an acquired cause of secondary amenorrhea from intrauterine adhesions after instrumentation, not a congenital cause of primary amenorrhea."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amenorrhea",
+        "outflow-tract",
+        "imperforate-hymen"
+      ],
+      "topicId": "amenorrhea-and-dysmenorrhea",
+      "topicName": "Amenorrhea and Dysmenorrhea"
+    },
+    {
+      "id": "rp13-002",
+      "stem": "A 24-year-old woman presents because her previously regular menses have been absent for 4 months. She takes no medications and reports no weight change. She states that pregnancy is \"impossible\" because she and her partner use condoms consistently. Which of the following is the most appropriate first step in evaluation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum or urine beta-hCG"
+        },
+        {
+          "label": "B",
+          "text": "Serum FSH and estradiol"
+        },
+        {
+          "label": "C",
+          "text": "Serum TSH"
+        },
+        {
+          "label": "D",
+          "text": "Pelvic ultrasound"
+        },
+        {
+          "label": "E",
+          "text": "Pituitary MRI"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pregnancy is the first consideration in any reproductive-aged patient with secondary amenorrhea.",
+        "whyCorrect": "Absence of menses for 3 or more months in a woman with previously regular cycles is secondary amenorrhea, and pregnancy must be excluded before any further workup. History alone cannot reliably exclude pregnancy, so beta-hCG testing is performed even when the patient reports pregnancy is unlikely.",
+        "whyWrongByChoice": {
+          "B": "FSH and estradiol are part of the initial laboratory evaluation, but only after pregnancy has been excluded.",
+          "C": "TSH is also part of the step 2 laboratory panel; it does not precede the pregnancy test.",
+          "D": "Imaging is used later to localize a cause (for example hematocolpos or polycystic ovaries), not as the first step.",
+          "E": "Pituitary MRI is reserved for elevated prolactin, suspected pituitary disease, or visual field abnormalities."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "amenorrhea",
+        "evaluation",
+        "pregnancy-test"
+      ],
+      "topicId": "amenorrhea-and-dysmenorrhea",
+      "topicName": "Amenorrhea and Dysmenorrhea"
+    },
+    {
+      "id": "rp13-003",
+      "stem": "A 19-year-old collegiate distance runner has had no menses for 7 months. She has lost 6 kg during the season and describes intense training and academic stress. BMI is 17 kg/m2. Pregnancy test is negative. Laboratory studies show low estradiol with low-normal FSH and LH, normal TSH, and normal prolactin. Which of the following best explains her amenorrhea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Suppression of pulsatile hypothalamic GnRH secretion"
+        },
+        {
+          "label": "B",
+          "text": "Depletion of functional ovarian follicles"
+        },
+        {
+          "label": "C",
+          "text": "Prolactin-mediated inhibition of gonadotropin release"
+        },
+        {
+          "label": "D",
+          "text": "Scarring and obliteration of the endometrial cavity"
+        },
+        {
+          "label": "E",
+          "text": "Obstruction of menstrual outflow at the cervix"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Functional hypothalamic amenorrhea is hypogonadotropic hypogonadism from suppressed GnRH pulsatility without structural disease.",
+        "whyCorrect": "Low energy availability (low leptin), excessive exercise, weight loss, and psychological stress (high cortisol) suppress pulsatile GnRH secretion. This decreases LH and FSH release, reducing ovarian stimulation and producing low estrogen, low bone density, and loss of menstrual cycling. Her low estradiol with low-normal gonadotropins fits this hypothalamic pattern.",
+        "whyWrongByChoice": {
+          "B": "Follicle depletion (ovarian insufficiency) produces hypergonadotropic hypogonadism with elevated FSH, not low-normal FSH.",
+          "C": "Her prolactin is normal, so prolactin-mediated GnRH suppression is excluded.",
+          "D": "Asherman syndrome follows uterine instrumentation and leaves hormonal signaling normal; her estradiol is low.",
+          "E": "Outflow obstruction preserves hormonal cycling and typically causes cyclic pelvic pain, which she does not have."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "functional-hypothalamic-amenorrhea",
+        "GnRH",
+        "female-athlete"
+      ],
+      "topicId": "amenorrhea-and-dysmenorrhea",
+      "topicName": "Amenorrhea and Dysmenorrhea"
+    },
+    {
+      "id": "rp13-004",
+      "stem": "A 34-year-old woman presents with 8 months of amenorrhea, hot flashes, and night sweats. Pregnancy test is negative. Laboratory studies show a markedly elevated FSH and a low estradiol; TSH and prolactin are normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary ovarian insufficiency"
+        },
+        {
+          "label": "B",
+          "text": "Functional hypothalamic amenorrhea"
+        },
+        {
+          "label": "C",
+          "text": "Prolactin-secreting pituitary adenoma"
+        },
+        {
+          "label": "D",
+          "text": "Polyendocrine Metabolic Ovarian Syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Asherman syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Elevated FSH with low estradiol localizes amenorrhea to the ovary; before age 40 this is primary ovarian insufficiency.",
+        "whyCorrect": "Primary ovarian insufficiency is loss of ovarian function before age 40, most often idiopathic, and also caused by autoimmune ovarian destruction or Turner syndrome. The pituitary appropriately increases FSH in response to failing ovaries (hypergonadotropic hypogonadism), and chronic estrogen deficiency produces hot flashes, night sweats, infertility, and decreased bone mineral density.",
+        "whyWrongByChoice": {
+          "B": "Hypothalamic amenorrhea causes low or normal FSH, because the ovaries are not receiving adequate gonadotropin stimulation.",
+          "C": "A prolactinoma would show elevated prolactin, and her prolactin is normal.",
+          "D": "PMOS features irregular cycles, chronic anovulation, and hyperandrogenism with normal or possibly elevated estradiol, not high FSH with vasomotor symptoms.",
+          "E": "Asherman syndrome is an endometrial problem with normal hormone levels, so FSH and estradiol would be unremarkable."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary-ovarian-insufficiency",
+        "FSH",
+        "hypergonadotropic"
+      ],
+      "topicId": "amenorrhea-and-dysmenorrhea",
+      "topicName": "Amenorrhea and Dysmenorrhea"
+    },
+    {
+      "id": "rp13-005",
+      "stem": "A 16-year-old girl is evaluated for primary amenorrhea. She is short for her family and has minimal breast development. Pregnancy test is negative. Laboratory studies show an elevated FSH and low estradiol. Which of the following is the most appropriate next diagnostic test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Karyotype analysis"
+        },
+        {
+          "label": "B",
+          "text": "Pituitary MRI"
+        },
+        {
+          "label": "C",
+          "text": "Serum total testosterone"
+        },
+        {
+          "label": "D",
+          "text": "Serum 17-hydroxyprogesterone"
+        },
+        {
+          "label": "E",
+          "text": "Hysteroscopy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Primary amenorrhea with absent breast development and elevated FSH suggests congenital ovarian failure, and Turner syndrome is confirmed by karyotype.",
+        "whyCorrect": "Absent breast development indicates chronic estrogen deficiency, and elevated FSH localizes the problem to the ovary. Turner syndrome, an important cause of primary amenorrhea in which functional ovarian tissue is typically absent or severely impaired, is confirmed by karyotyping demonstrating 45,X or 45,X/46,XX mosaicism.",
+        "whyWrongByChoice": {
+          "B": "Pituitary MRI is indicated when prolactin is elevated, pituitary disease is suspected, or visual field defects are present; elevated FSH points away from the pituitary.",
+          "C": "Testosterone is an additional test for suspected androgen excess (hirsutism, acne, virilization), which she does not have.",
+          "D": "17-hydroxyprogesterone is likewise reserved for suspected androgen excess, not hypergonadotropic ovarian failure.",
+          "E": "Hysteroscopy evaluates the uterine cavity (as in intrauterine adhesions), which would not explain elevated FSH and low estradiol."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "turner-syndrome",
+        "karyotype",
+        "primary-amenorrhea"
+      ],
+      "topicId": "amenorrhea-and-dysmenorrhea",
+      "topicName": "Amenorrhea and Dysmenorrhea"
+    },
+    {
+      "id": "rp13-006",
+      "stem": "A 31-year-old woman presents with 6 months of amenorrhea, milky nipple discharge, and frequent headaches. Pregnancy test is negative, TSH is normal, and serum prolactin is markedly elevated. MRI shows a pituitary adenoma within the sella turcica. Which of the following is the most appropriate pharmacologic therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cabergoline"
+        },
+        {
+          "label": "B",
+          "text": "Combined oral contraceptives"
+        },
+        {
+          "label": "C",
+          "text": "Levothyroxine"
+        },
+        {
+          "label": "D",
+          "text": "Estrogen replacement with progestin"
+        },
+        {
+          "label": "E",
+          "text": "Ibuprofen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dopamine agonists are the treatment for hyperprolactinemia from a prolactinoma.",
+        "whyCorrect": "Dopamine normally exerts tonic inhibition of prolactin secretion. Dopamine agonists such as cabergoline and bromocriptine enhance this inhibition, lowering prolactin, relieving the GnRH suppression it causes, and often restoring ovulation and menstruation.",
+        "whyWrongByChoice": {
+          "B": "Hormonal contraception treats primary dysmenorrhea and regulates cycles; it does not lower prolactin or address the adenoma.",
+          "C": "Levothyroxine treats hypothyroidism-associated hyperprolactinemia, but her TSH is normal and a prolactinoma is present.",
+          "D": "Estrogen plus progestin is the treatment for primary ovarian insufficiency, not for a prolactin-secreting tumor.",
+          "E": "NSAIDs reduce prostaglandin-mediated menstrual pain and have no role in hyperprolactinemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyperprolactinemia",
+        "prolactinoma",
+        "dopamine-agonist"
+      ],
+      "topicId": "amenorrhea-and-dysmenorrhea",
+      "topicName": "Amenorrhea and Dysmenorrhea"
+    },
+    {
+      "id": "rp13-007",
+      "stem": "A 29-year-old woman has had no menses for 5 months after a dilation and curettage for retained products of conception. Before the procedure her cycles were regular. Pregnancy test is negative, and FSH, estradiol, TSH, and prolactin are all normal. Which of the following is the most likely cause of her amenorrhea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intrauterine adhesions"
+        },
+        {
+          "label": "B",
+          "text": "Primary ovarian insufficiency"
+        },
+        {
+          "label": "C",
+          "text": "Functional hypothalamic amenorrhea"
+        },
+        {
+          "label": "D",
+          "text": "Transverse vaginal septum"
+        },
+        {
+          "label": "E",
+          "text": "Hyperprolactinemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Secondary amenorrhea after uterine instrumentation with normal hormones is Asherman syndrome.",
+        "whyCorrect": "Asherman syndrome is an acquired uterine cause of secondary amenorrhea from intrauterine adhesions and endometrial scarring, classically after uterine instrumentation in the setting of pregnancy. The adhesions and obliteration of the cavity impair normal endometrial growth and shedding, so amenorrhea occurs despite entirely normal hormonal signaling.",
+        "whyWrongByChoice": {
+          "B": "Ovarian insufficiency would show elevated FSH and low estradiol; her labs are normal.",
+          "C": "Hypothalamic amenorrhea requires a trigger such as weight loss, exercise, or stress, and produces low estradiol with low or normal FSH.",
+          "D": "A transverse vaginal septum is a congenital outflow obstruction that presents with primary amenorrhea and cyclic pain, not new amenorrhea after a procedure.",
+          "E": "Her prolactin is normal, excluding prolactin-mediated GnRH suppression."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "asherman-syndrome",
+        "secondary-amenorrhea",
+        "uterine"
+      ],
+      "topicId": "amenorrhea-and-dysmenorrhea",
+      "topicName": "Amenorrhea and Dysmenorrhea"
+    },
+    {
+      "id": "rp13-008",
+      "stem": "A 17-year-old girl presents with primary amenorrhea. Breast development and pubic hair are Tanner stage 5, and she has no cyclic pelvic pain. Pregnancy test is negative; FSH, estradiol, TSH, and prolactin are normal. Pelvic ultrasound shows normal ovaries but no identifiable uterus. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mullerian agenesis"
+        },
+        {
+          "label": "B",
+          "text": "Imperforate hymen"
+        },
+        {
+          "label": "C",
+          "text": "Primary ovarian insufficiency"
+        },
+        {
+          "label": "D",
+          "text": "Asherman syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Turner syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Normal hormones and breast development with an absent uterus indicate Mullerian agenesis.",
+        "whyCorrect": "Mullerian agenesis may involve absence of the uterus alone or of the uterus, cervix, and upper vagina. The ovaries are preserved because they develop from the genital ridges rather than the Mullerian ducts, so estrogen production, breast development, and gonadotropins are all normal. With no uterus, there is no endometrium to shed and no cyclic pain.",
+        "whyWrongByChoice": {
+          "B": "An imperforate hymen obstructs an otherwise normal uterus, so it causes cyclic pelvic pain and hematocolpos, and the uterus is visible on ultrasound.",
+          "C": "Ovarian insufficiency shows elevated FSH and low estradiol, and the uterus is present.",
+          "D": "Asherman syndrome is acquired scarring after instrumentation in a patient who previously menstruated; the uterus is present.",
+          "E": "Turner syndrome causes estrogen deficiency with delayed or incomplete puberty and elevated FSH, not Tanner 5 development with normal labs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mullerian-agenesis",
+        "primary-amenorrhea",
+        "imaging"
+      ],
+      "topicId": "amenorrhea-and-dysmenorrhea",
+      "topicName": "Amenorrhea and Dysmenorrhea"
+    },
+    {
+      "id": "rp13-009",
+      "stem": "An 18-year-old woman reports crampy lower abdominal pain that begins with the onset of her menses, peaks during the first 24 hours, and resolves within 2 days. Symptoms began about a year after menarche, and pelvic examination is normal. Ibuprofen provides substantial relief. Which of the following sequences best explains her pain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Progesterone withdrawal, increased prostaglandins, uterine contractions, myometrial ischemia"
+        },
+        {
+          "label": "B",
+          "text": "Estrogen withdrawal, decreased prostaglandins, uterine relaxation, endometrial atrophy"
+        },
+        {
+          "label": "C",
+          "text": "Prolactin excess, GnRH suppression, anovulation, endometrial proliferation"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin deficiency, weak contractions, retained menstrual blood, uterine distension"
+        },
+        {
+          "label": "E",
+          "text": "Progesterone excess, sustained secretory endometrium, delayed shedding, spasm of the cervix"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Primary dysmenorrhea is driven by excess endometrial prostaglandin production after progesterone withdrawal.",
+        "whyCorrect": "Withdrawal of progesterone after corpus luteum regression triggers endometrial breakdown. Prostaglandin production then increases, intensifying uterine contractions, decreasing uterine blood flow, and producing myometrial ischemia and pain. This mechanism is why NSAIDs work: they inhibit prostaglandin production, reducing contractions and menstrual pain.",
+        "whyWrongByChoice": {
+          "B": "Menstrual pain follows progesterone decline with increased, not decreased, prostaglandins, and the uterus contracts rather than relaxes.",
+          "C": "Prolactin excess causes amenorrhea through GnRH suppression; it is not the mechanism of cyclic menstrual cramping.",
+          "D": "Primary dysmenorrhea involves prostaglandin excess with intense contractions, not deficiency with weak contractions.",
+          "E": "Menstruation is triggered by progesterone withdrawal, not progesterone excess with delayed shedding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary-dysmenorrhea",
+        "prostaglandins",
+        "pathophysiology"
+      ],
+      "topicId": "amenorrhea-and-dysmenorrhea",
+      "topicName": "Amenorrhea and Dysmenorrhea"
+    },
+    {
+      "id": "rp13-010",
+      "stem": "A 16-year-old girl with primary dysmenorrhea is prescribed naproxen. To maximize its effectiveness, when should she begin taking the medication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "One to two days before her anticipated menses"
+        },
+        {
+          "label": "B",
+          "text": "Only after pain becomes severe"
+        },
+        {
+          "label": "C",
+          "text": "Daily throughout the entire menstrual cycle"
+        },
+        {
+          "label": "D",
+          "text": "On the third day of menstrual bleeding"
+        },
+        {
+          "label": "E",
+          "text": "Only during the week after menses ends"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "NSAIDs for primary dysmenorrhea work best when started 1-2 days before anticipated menstruation or at symptom onset.",
+        "whyCorrect": "NSAIDs such as ibuprofen and naproxen are first-line therapy and reduce pain by decreasing prostaglandin synthesis. Starting them 1-2 days before anticipated menstruation, or at the onset of symptoms, blunts the prostaglandin surge that drives uterine contractions and ischemia.",
+        "whyWrongByChoice": {
+          "B": "Waiting for severe pain allows prostaglandin production, contractions, and ischemia to become established before the drug acts.",
+          "C": "Continuous dosing all cycle is unnecessary because the prostaglandin-driven pain occurs around menstruation.",
+          "D": "Pain peaks during the first 24 hours of menses, so starting on day 3 misses the window of maximal symptoms.",
+          "E": "The week after menses is when symptoms have already resolved; dosing then provides no benefit."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "dysmenorrhea",
+        "NSAIDs",
+        "treatment"
+      ],
+      "topicId": "amenorrhea-and-dysmenorrhea",
+      "topicName": "Amenorrhea and Dysmenorrhea"
+    },
+    {
+      "id": "rp13-011",
+      "stem": "A 28-year-old woman reports 3 years of progressively worsening menstrual pain after many years of painless cycles. She also describes deep pain with intercourse and 18 months of inability to conceive. Menstrual flow is not heavy, and the uterus is normal in size on examination. Ibuprofen no longer controls her pain. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endometriosis"
+        },
+        {
+          "label": "B",
+          "text": "Primary dysmenorrhea"
+        },
+        {
+          "label": "C",
+          "text": "Adenomyosis"
+        },
+        {
+          "label": "D",
+          "text": "Uterine leiomyomas"
+        },
+        {
+          "label": "E",
+          "text": "Pelvic inflammatory disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Progressive dysmenorrhea with dyspareunia, infertility, and poor NSAID response suggests endometriosis, the most common secondary cause.",
+        "whyCorrect": "Endometriosis is the presence of endometrial glands and stroma outside the uterus and is the most common cause of secondary dysmenorrhea. It classically produces pelvic pain, dyspareunia, and infertility, and secondary dysmenorrhea is distinguished by later onset, progressive worsening, and poor response to initial therapy such as NSAIDs.",
+        "whyWrongByChoice": {
+          "B": "Primary dysmenorrhea begins 6-12 months after menarche, is predictable with menses, has a normal exam, and responds well to NSAIDs.",
+          "C": "Adenomyosis (glands and stroma within the myometrium) typically causes a diffusely enlarged, painful uterus with heavy bleeding; her uterus is normal in size and flow is not heavy.",
+          "D": "Leiomyomas commonly cause heavy bleeding, pelvic pressure, and uterine enlargement, none of which she has.",
+          "E": "Pelvic inflammatory disease is an infectious process suggested by pelvic and cervical motion tenderness rather than years of progressive cyclic pain with infertility."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endometriosis",
+        "secondary-dysmenorrhea",
+        "dyspareunia"
+      ],
+      "topicId": "amenorrhea-and-dysmenorrhea",
+      "topicName": "Amenorrhea and Dysmenorrhea"
+    },
+    {
+      "id": "rp13-012",
+      "stem": "Four patients present with secondary amenorrhea, and each is found to have a different underlying cause. Which of the following causes places a patient at the LOWEST risk for decreased bone mineral density?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Polyendocrine Metabolic Ovarian Syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Primary ovarian insufficiency"
+        },
+        {
+          "label": "C",
+          "text": "Functional hypothalamic amenorrhea"
+        },
+        {
+          "label": "D",
+          "text": "Prolactin-secreting pituitary adenoma"
+        },
+        {
+          "label": "E",
+          "text": "Autoimmune ovarian destruction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Osteoporosis risk in amenorrhea comes from low estrogen; PMOS and anatomic causes do not produce estrogen deficiency.",
+        "whyCorrect": "Patients with amenorrhea from hypothalamic, pituitary, or ovarian dysfunction are at risk for osteoporosis because of low estrogen. In PMOS, estradiol is normal or possibly elevated despite chronic anovulation, so bone density is not threatened by estrogen deficiency the way it is in the other causes.",
+        "whyWrongByChoice": {
+          "B": "Primary ovarian insufficiency causes chronic estrogen deficiency, and decreased bone mineral density is an expected consequence.",
+          "C": "Functional hypothalamic amenorrhea suppresses GnRH, lowering estrogen and bone density, as in the Female Athlete Triad.",
+          "D": "A prolactinoma suppresses GnRH pulsatility, reducing gonadotropins and estrogen and putting bone at risk.",
+          "E": "Autoimmune ovarian destruction is an etiology of primary ovarian insufficiency, with the same low-estrogen bone risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PMOS",
+        "osteoporosis",
+        "estrogen-deficiency"
+      ],
+      "topicId": "amenorrhea-and-dysmenorrhea",
+      "topicName": "Amenorrhea and Dysmenorrhea"
+    },
+    {
+      "id": "rp14-001",
+      "stem": "An 11-year-old girl is brought to the pediatrician after her mother notices breast budding and a recent increase in her height velocity. She has no other complaints, and her examination is otherwise unremarkable. Which of the following events most likely initiated this patient's pubertal development?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autonomous secretion of estradiol by an ovarian follicle"
+        },
+        {
+          "label": "B",
+          "text": "Continuous, nonpulsatile secretion of GnRH from the hypothalamus"
+        },
+        {
+          "label": "C",
+          "text": "Reactivation of pulsatile GnRH secretion from the hypothalamus"
+        },
+        {
+          "label": "D",
+          "text": "Maturational increase in adrenal DHEAS production"
+        },
+        {
+          "label": "E",
+          "text": "Increased hepatic production of insulin-like growth factor 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Puberty begins with reactivation of pulsatile hypothalamic GnRH secretion.",
+        "whyCorrect": "Gonadarche is initiated when pulsatile GnRH secretion from the hypothalamus resumes, stimulating anterior-pituitary LH and FSH release. The gonadotropins then activate ovarian estradiol production, which drives breast development and contributes to the growth spurt.",
+        "whyWrongByChoice": {
+          "A": "Autonomous ovarian estradiol secretion causes peripheral (GnRH-independent) precocious puberty, not normally timed puberty in an 11-year-old.",
+          "B": "Continuous GnRH exposure desensitizes gonadotropes and suppresses LH and FSH; physiologic puberty requires pulsatile secretion.",
+          "D": "Rising adrenal DHEAS defines adrenarche, which contributes to pubic hair and body odor but does not activate the HPG axis or drive breast development.",
+          "E": "IGF-1 contributes to linear growth but is not the initiating signal for HPG-axis activation at puberty."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gonadarche",
+        "GnRH",
+        "HPG axis"
+      ],
+      "topicId": "puberty-and-hormonal-regulation",
+      "topicName": "Puberty and Hormonal Regulation"
+    },
+    {
+      "id": "rp14-002",
+      "stem": "A 7-year-old girl is brought to the clinic because her parents have noticed adult-type body odor, mild acne, and a few dark pubic hairs over the past several months. She has no breast development, her growth curve is unchanged, and the remainder of her examination is normal. Increased production of which of the following hormones best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estradiol from ovarian granulosa cells"
+        },
+        {
+          "label": "B",
+          "text": "DHEAS from the adrenal zona reticularis"
+        },
+        {
+          "label": "C",
+          "text": "LH from the anterior pituitary"
+        },
+        {
+          "label": "D",
+          "text": "Progesterone from the corpus luteum"
+        },
+        {
+          "label": "E",
+          "text": "GnRH from the hypothalamus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Adrenarche is a maturational rise in adrenal androgens (DHEA/DHEAS) from the zona reticularis.",
+        "whyCorrect": "Body odor, sebaceous-gland activity with acne, and axillary and pubic hair reflect adrenal androgen action. Adrenarche results from maturation of the adrenal zona reticularis and occurs independently of HPG-axis activation, so breast development is absent.",
+        "whyWrongByChoice": {
+          "A": "Estradiol drives breast development, which this girl lacks; it does not account for isolated androgenic changes.",
+          "C": "LH rises with HPG-axis activation at gonadarche; there is no evidence of gonadotropin-driven puberty here.",
+          "D": "Luteal progesterone requires ovulation and cyclic corpus luteum formation, which occur after menarche, not in this prepubertal child.",
+          "E": "Adrenarche occurs independently of GnRH; its initiating signal remains incompletely understood."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adrenarche",
+        "DHEAS",
+        "pubarche"
+      ],
+      "topicId": "puberty-and-hormonal-regulation",
+      "topicName": "Puberty and Hormonal Regulation"
+    },
+    {
+      "id": "rp14-003",
+      "stem": "A 7-year-old boy is evaluated for testicular enlargement, pubic hair, and accelerated linear growth over the past year. Bone age is advanced. GnRH stimulation testing produces a pubertal, LH-predominant gonadotropin response. Which of the following is the most appropriate next step in evaluation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ultrasonography of the testes"
+        },
+        {
+          "label": "B",
+          "text": "Computed tomography of the adrenal glands"
+        },
+        {
+          "label": "C",
+          "text": "Karyotype analysis"
+        },
+        {
+          "label": "D",
+          "text": "Magnetic resonance imaging of the brain"
+        },
+        {
+          "label": "E",
+          "text": "Reassurance with reexamination in 6 months"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Central precocious puberty in a boy warrants brain MRI because an identifiable CNS cause is more likely in males.",
+        "whyCorrect": "Testicular enlargement, advanced bone age, and a pubertal LH-predominant response to GnRH stimulation establish central (GnRH-dependent) precocious puberty. Brain MRI is particularly important in males because a central nervous system lesion, such as a hypothalamic hamartoma, tumor, prior irradiation, or inflammatory disease, is more often found than in females.",
+        "whyWrongByChoice": {
+          "A": "Testicular imaging targets peripheral causes such as a Leydig-cell tumor; the pubertal gonadotropin response indicates a central process with physiologic bilateral testicular growth.",
+          "B": "Adrenal imaging addresses peripheral, adrenal sources of androgen; gonadotropins would be suppressed in that setting rather than pubertal.",
+          "C": "Karyotyping evaluates suspected gonadal dysgenesis or primary gonadal failure in delayed puberty, not early central puberty.",
+          "E": "Observation alone is inappropriate once central precocious puberty is confirmed in a young boy, given the likelihood of a CNS lesion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "central precocious puberty",
+        "brain MRI",
+        "GnRH stimulation"
+      ],
+      "topicId": "puberty-and-hormonal-regulation",
+      "topicName": "Puberty and Hormonal Regulation"
+    },
+    {
+      "id": "rp14-004",
+      "stem": "A 6-year-old girl with idiopathic central precocious puberty is started on a long-acting GnRH agonist. After a brief initial rise in gonadotropin levels, her LH and FSH concentrations fall and pubertal progression halts. Which of the following mechanisms best explains the therapeutic effect of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Desensitization of pituitary gonadotropes by continuous receptor activation"
+        },
+        {
+          "label": "B",
+          "text": "Competitive antagonism of GnRH receptors on gonadotropes"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of aromatase activity in peripheral tissues"
+        },
+        {
+          "label": "D",
+          "text": "Blockade of estrogen receptors in breast and bone"
+        },
+        {
+          "label": "E",
+          "text": "Direct inhibition of ovarian steroid-synthesis enzymes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Continuous GnRH-receptor activation by a long-acting agonist desensitizes gonadotropes and suppresses LH and FSH.",
+        "whyCorrect": "Physiologic GnRH signaling is pulsatile. A long-acting agonist provides continuous receptor activation, which after an initial stimulatory phase desensitizes pituitary gonadotropes and suppresses LH and FSH secretion. Treatment can later be stopped at an appropriate developmental age, allowing HPG-axis activity to resume.",
+        "whyWrongByChoice": {
+          "B": "The drug is an agonist, not a receptor antagonist; the initial stimulatory phase confirms receptor activation.",
+          "C": "Aromatase inhibition would lower estrogen synthesis peripherally but would not suppress gonadotropin secretion or explain the initial LH surge.",
+          "D": "Estrogen-receptor blockade acts downstream in target tissues and would not reduce LH and FSH concentrations.",
+          "E": "The agonist acts at the pituitary; it does not directly inhibit ovarian steroidogenic enzymes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GnRH agonist",
+        "gonadotrope desensitization",
+        "treatment"
+      ],
+      "topicId": "puberty-and-hormonal-regulation",
+      "topicName": "Puberty and Hormonal Regulation"
+    },
+    {
+      "id": "rp14-005",
+      "stem": "A 5-year-old girl is evaluated for breast development and rapid growth. Examination shows large cafe-au-lait macules with irregular borders that stop abruptly at the midline. Radiographs obtained after a minor fall show multiple expansile bone lesions consistent with polyostotic fibrous dysplasia. Which of the following best explains this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early activation of pulsatile hypothalamic GnRH secretion"
+        },
+        {
+          "label": "B",
+          "text": "Germline loss of a tumor-suppressor gene"
+        },
+        {
+          "label": "C",
+          "text": "Exposure to exogenous estrogen-containing products"
+        },
+        {
+          "label": "D",
+          "text": "Loss of one X chromosome in all cells"
+        },
+        {
+          "label": "E",
+          "text": "Postzygotic activating GNAS variant increasing cAMP production"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "McCune-Albright syndrome results from a postzygotic activating GNAS variant causing constitutive Gs-alpha signaling.",
+        "whyCorrect": "The triad of peripheral precocious puberty, polyostotic fibrous dysplasia, and cafe-au-lait macules with irregular borders that often respect the midline defines McCune-Albright syndrome. A postzygotic activating GNAS variant produces constitutive Gs-alpha signaling and increased cAMP in affected tissues, driving GnRH-independent sex-steroid production.",
+        "whyWrongByChoice": {
+          "A": "Early GnRH pulsatility causes central precocious puberty, which does not produce fibrous dysplasia or midline-respecting skin macules.",
+          "B": "McCune-Albright arises from a somatic activating variant, not germline loss of a tumor suppressor.",
+          "C": "Exogenous estrogen can cause peripheral precocious puberty but would not explain the bone lesions or pigmented macules.",
+          "D": "A 45,X karyotype causes Turner syndrome with ovarian dysgenesis and delayed, not precocious, puberty."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "McCune-Albright syndrome",
+        "GNAS",
+        "peripheral precocious puberty"
+      ],
+      "topicId": "puberty-and-hormonal-regulation",
+      "topicName": "Puberty and Hormonal Regulation"
+    },
+    {
+      "id": "rp14-006",
+      "stem": "An 8-year-old boy is evaluated for pubic hair, penile growth, and accelerated linear growth over 6 months. Serum testosterone is markedly elevated, LH and FSH are suppressed, and serum hCG is elevated. Which of the following mechanisms best explains the increased testosterone production in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early activation of pulsatile hypothalamic GnRH secretion"
+        },
+        {
+          "label": "B",
+          "text": "Activation of Leydig-cell LH receptors by tumor-derived hCG"
+        },
+        {
+          "label": "C",
+          "text": "Hypersecretion of LH by pituitary gonadotropes"
+        },
+        {
+          "label": "D",
+          "text": "Increased aromatase activity in peripheral tissues"
+        },
+        {
+          "label": "E",
+          "text": "Excess androgen precursor output from the adrenal cortex"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "hCG-secreting germ-cell tumors cause peripheral precocious puberty in boys by activating Leydig-cell LH receptors.",
+        "whyCorrect": "hCG from a germ-cell tumor activates LH receptors and stimulates Leydig-cell testosterone production independent of pulsatile GnRH. The resulting sex-steroid excess suppresses LH and FSH, producing the pattern of high testosterone with low gonadotropins and elevated hCG.",
+        "whyWrongByChoice": {
+          "A": "Central precocious puberty produces a pubertal gonadotropin pattern, not suppressed LH and FSH with elevated hCG.",
+          "C": "Measured LH is suppressed, excluding pituitary LH hypersecretion as the driver.",
+          "D": "Increased aromatization would generate estrogens from androgen precursors, not markedly elevated testosterone with high hCG.",
+          "E": "Adrenal precursors such as DHEA are weak androgens; they do not explain elevated hCG or this degree of testosterone excess."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hCG-secreting tumor",
+        "Leydig cell",
+        "peripheral precocious puberty"
+      ],
+      "topicId": "puberty-and-hormonal-regulation",
+      "topicName": "Puberty and Hormonal Regulation"
+    },
+    {
+      "id": "rp14-007",
+      "stem": "A 6-year-old girl is brought in for breast development that began 3 months ago. Serum estradiol is markedly elevated, and LH and FSH are low and remain suppressed after GnRH stimulation. Which of the following is the most likely cause of her pubertal changes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypothalamic hamartoma"
+        },
+        {
+          "label": "B",
+          "text": "Idiopathic early activation of the HPG axis"
+        },
+        {
+          "label": "C",
+          "text": "Estrogen-producing ovarian cyst or tumor"
+        },
+        {
+          "label": "D",
+          "text": "hCG-secreting germ-cell tumor"
+        },
+        {
+          "label": "E",
+          "text": "Constitutional variation in pubertal timing"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "High estradiol with suppressed gonadotropins indicates peripheral, GnRH-independent precocious puberty, which in girls suggests an ovarian source.",
+        "whyCorrect": "In peripheral precocious puberty, sex-steroid production is independent of pulsatile GnRH, so LH and FSH are low or suppressed relative to the degree of sex-steroid exposure. In females this pattern most often reflects an estrogen-producing ovarian cyst or tumor, and treatment targets that underlying cause.",
+        "whyWrongByChoice": {
+          "A": "A hypothalamic hamartoma causes central precocious puberty with a pubertal gonadotropin response to GnRH stimulation, not suppression.",
+          "B": "Idiopathic central precocious puberty is GnRH-dependent and would show a pubertal, LH-predominant stimulation response.",
+          "D": "hCG-secreting tumors drive Leydig-cell testosterone production and cause precocious puberty in males, not isolated estrogen excess in a girl.",
+          "E": "Constitutional variation alters timing of otherwise normal puberty; it does not produce estradiol excess with suppressed gonadotropins at age 6."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peripheral precocious puberty",
+        "ovarian tumor",
+        "suppressed gonadotropins"
+      ],
+      "topicId": "puberty-and-hormonal-regulation",
+      "topicName": "Puberty and Hormonal Regulation"
+    },
+    {
+      "id": "rp14-008",
+      "stem": "A 16-year-old boy who completed his growth spurt 2 years ago has grown less than 1 cm in the past year. Radiographs show near-complete fusion of the epiphyseal growth plates of the hand and wrist. Which of the following hormones is principally responsible for this radiographic finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estradiol"
+        },
+        {
+          "label": "B",
+          "text": "Testosterone acting without aromatization"
+        },
+        {
+          "label": "C",
+          "text": "Growth hormone"
+        },
+        {
+          "label": "D",
+          "text": "Insulin-like growth factor 1"
+        },
+        {
+          "label": "E",
+          "text": "Follicle-stimulating hormone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Estradiol is the principal hormonal mediator of epiphyseal growth-plate maturation and fusion in both sexes.",
+        "whyCorrect": "Although the pubertal growth spurt reflects coordinated action of sex steroids and the growth hormone-IGF-1 axis, estradiol is the principal mediator of growth-plate maturation and fusion in both males and females. Closure of the epiphyseal plates ends longitudinal bone growth.",
+        "whyWrongByChoice": {
+          "B": "Testosterone contributes to linear growth, but its effect on plate fusion depends on conversion to estradiol by aromatase.",
+          "C": "Growth hormone promotes linear growth during puberty; it does not mediate epiphyseal fusion.",
+          "D": "IGF-1 drives linear growth as part of the GH-IGF-1 axis but is not the mediator of growth-plate closure.",
+          "E": "FSH acts on the gonads to support gametogenic function; it has no direct role in growth-plate fusion."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "estradiol",
+        "epiphyseal fusion",
+        "growth spurt"
+      ],
+      "topicId": "puberty-and-hormonal-regulation",
+      "topicName": "Puberty and Hormonal Regulation"
+    },
+    {
+      "id": "rp14-009",
+      "stem": "A 14-year-old boy is brought in because he is the shortest student in his class and has no signs of puberty. Examination shows prepubertal testes without enlargement. Bone age is delayed relative to chronologic age, and history reveals that his father also 'grew late' in high school. Physical examination and screening laboratory studies show no chronic disease. Which of the following is the most likely explanation for this patient's presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Klinefelter syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Growth hormone deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Hypogonadotropic hypogonadism from a pituitary lesion"
+        },
+        {
+          "label": "D",
+          "text": "Constitutional delay of growth and puberty"
+        },
+        {
+          "label": "E",
+          "text": "Primary hypothyroidism with hyperprolactinemia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Constitutional delay of growth and puberty is a common, often familial variation in pubertal timing, especially in boys.",
+        "whyCorrect": "Absence of testicular enlargement by age 14 defines delayed puberty in males, and CDGP is a common cause, particularly in boys. The family history of delayed puberty, delayed bone age, and absence of underlying disease support this diagnosis of exclusion, with spontaneous pubertal development expected. If delay causes substantial distress, a short course of low-dose testosterone may be considered.",
+        "whyWrongByChoice": {
+          "A": "Klinefelter syndrome (47,XXY) causes primary testicular failure with elevated gonadotropins, not a familial pattern of delayed but spontaneous puberty.",
+          "B": "Growth hormone deficiency is not suggested when short stature tracks with delayed bone age and there is a family history of late puberty.",
+          "C": "A pituitary lesion causing hypogonadotropic hypogonadism is pathologic and would not be expected with an otherwise normal evaluation and familial late-bloomer pattern.",
+          "E": "Primary hypothyroidism can suppress GnRH via hyperprolactinemia, but screening studies show no underlying disease in this patient."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CDGP",
+        "delayed puberty",
+        "diagnosis of exclusion"
+      ],
+      "topicId": "puberty-and-hormonal-regulation",
+      "topicName": "Puberty and Hormonal Regulation"
+    },
+    {
+      "id": "rp14-010",
+      "stem": "A 14-year-old girl is evaluated for absence of breast development. She is well below the expected height for her family. Laboratory studies show low serum estradiol with markedly elevated LH and FSH concentrations. Which of the following karyotypes is most likely in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "45,X"
+        },
+        {
+          "label": "B",
+          "text": "46,XX"
+        },
+        {
+          "label": "C",
+          "text": "46,XY"
+        },
+        {
+          "label": "D",
+          "text": "47,XXY"
+        },
+        {
+          "label": "E",
+          "text": "47,XXX"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Turner syndrome (45,X) causes ovarian dysgenesis with primary hypogonadism: low estradiol and elevated LH and FSH.",
+        "whyCorrect": "Delayed puberty (no breast development by age 13) with low estradiol and elevated gonadotropins indicates primary hypogonadism, in which loss of sex-steroid negative feedback increases LH and FSH secretion. In a short girl, Turner syndrome with a classic 45,X karyotype causing ovarian dysgenesis is the most likely cause.",
+        "whyWrongByChoice": {
+          "B": "A normal female karyotype does not explain gonadal failure with short stature; primary ovarian dysgenesis in this setting points to Turner syndrome.",
+          "C": "A 46,XY karyotype is not the classic finding in this presentation of a short girl with ovarian failure; the lecture links this picture to 45,X.",
+          "D": "47,XXY is Klinefelter syndrome, which causes primary testicular failure in males.",
+          "E": "47,XXX is not the karyotype classically associated with ovarian dysgenesis and this hormone pattern."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Turner syndrome",
+        "primary hypogonadism",
+        "karyotype"
+      ],
+      "topicId": "puberty-and-hormonal-regulation",
+      "topicName": "Puberty and Hormonal Regulation"
+    },
+    {
+      "id": "rp14-011",
+      "stem": "A 15-year-old competitive distance runner is evaluated for minimal breast development. She trains 20 hours per week and has lost weight over the past year on a restrictive diet. Examination shows low body weight and Tanner stage 1-2 breast development. Which of the following laboratory patterns is most likely in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low estradiol with elevated LH and FSH"
+        },
+        {
+          "label": "B",
+          "text": "Elevated estradiol with suppressed LH and FSH"
+        },
+        {
+          "label": "C",
+          "text": "Normal estradiol with an isolated elevation of FSH"
+        },
+        {
+          "label": "D",
+          "text": "Elevated estradiol with elevated LH and FSH"
+        },
+        {
+          "label": "E",
+          "text": "Low estradiol with low or inappropriately normal LH and FSH"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Undernutrition and excessive exercise cause secondary (hypogonadotropic) hypogonadism: low sex steroids with low or inappropriately normal gonadotropins.",
+        "whyCorrect": "Chronic energy deficit from undernutrition and excessive exercise impairs hypothalamic GnRH secretion, producing secondary hypogonadism. The hallmark pattern is low estradiol with LH and FSH that are low or inappropriately normal, distinguishing it from primary gonadal failure.",
+        "whyWrongByChoice": {
+          "A": "Low estradiol with elevated gonadotropins indicates primary hypogonadism, such as gonadal dysgenesis or injury, not a hypothalamic cause.",
+          "B": "Elevated estradiol with suppressed gonadotropins is the pattern of peripheral estrogen excess, the opposite of this energy-deficit state.",
+          "C": "An isolated FSH elevation with normal estradiol does not fit any of the described hypogonadism patterns.",
+          "D": "Elevated estradiol with elevated gonadotropins suggests an activated HPG axis, not suppressed GnRH secretion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secondary hypogonadism",
+        "hypogonadotropic",
+        "energy deficit"
+      ],
+      "topicId": "puberty-and-hormonal-regulation",
+      "topicName": "Puberty and Hormonal Regulation"
+    },
+    {
+      "id": "rp14-012",
+      "stem": "A 15-year-old girl is evaluated for absent breast development. Blood pressure is 152/94 mm Hg. Laboratory studies show serum potassium of 2.9 mEq/L and low serum estradiol. A disorder of steroidogenesis is suspected. Deficiency of which of the following enzyme activities best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "21-hydroxylase"
+        },
+        {
+          "label": "B",
+          "text": "Aromatase"
+        },
+        {
+          "label": "C",
+          "text": "17-alpha-hydroxylase/17,20-lyase"
+        },
+        {
+          "label": "D",
+          "text": "5-alpha-reductase"
+        },
+        {
+          "label": "E",
+          "text": "11-beta-hydroxysteroid dehydrogenase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CYP17A1 deficiency (17-alpha-hydroxylase/17,20-lyase) causes delayed puberty with hypertension and hypokalemia.",
+        "whyCorrect": "CYP17A1 deficiency disrupts both adrenal and gonadal steroid synthesis, decreasing sex-steroid production and causing delayed puberty. The same enzymatic block is associated with hypertension and hypokalemia, making the combination of absent pubertal development, high blood pressure, and low potassium the classic clue.",
+        "whyWrongByChoice": {
+          "A": "21-hydroxylase deficiency is a form of congenital adrenal hyperplasia associated with androgen excess and precocious changes, not this triad of delayed puberty with hypertension and hypokalemia.",
+          "B": "Aromatase converts androgens to estrogens in peripheral tissues; its deficiency does not explain hypertension with hypokalemia.",
+          "D": "5-alpha-reductase acts on peripheral androgen conversion and does not produce this combination of blood pressure and electrolyte abnormalities.",
+          "E": "This enzyme is not the steroidogenic defect the lecture ties to delayed puberty with hypertension and hypokalemia; CYP17A1 deficiency is."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CYP17A1",
+        "17-alpha-hydroxylase deficiency",
+        "delayed puberty"
+      ],
+      "topicId": "puberty-and-hormonal-regulation",
+      "topicName": "Puberty and Hormonal Regulation"
+    }
+  ]
+}

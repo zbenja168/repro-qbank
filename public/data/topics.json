@@ -1,0 +1,233 @@
+{
+  "categories": [
+    {
+      "id": "anatomy-histology-structure",
+      "name": "Anatomy, Histology & Structure",
+      "topics": [
+        {
+          "id": "anatomy-histology-female-reproductive-system",
+          "name": "Anatomy and Histology of the Female Reproductive System",
+          "sourceFile": "Endocrine Brick 1",
+          "questionCount": 12
+        },
+        {
+          "id": "anatomy-and-histology-of-the-male-reproductive-system",
+          "name": "Anatomy and Histology of the Male Reproductive System",
+          "sourceFile": "Endocrine Brick 2",
+          "questionCount": 12
+        },
+        {
+          "id": "structure-and-function-of-the-breast",
+          "name": "Structure and Function of the Breast",
+          "sourceFile": "Endocrine Brick 3",
+          "questionCount": 12
+        },
+        {
+          "id": "structure-and-function-of-the-testis",
+          "name": "Structure and Function of the Testis",
+          "sourceFile": "Endocrine Brick 4",
+          "questionCount": 12
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": "Anatomy, Development, Hormones & Cycles"
+    },
+    {
+      "id": "development-congenital",
+      "name": "Development, Identity & Congenital Disorders",
+      "topics": [
+        {
+          "id": "inclusive-language-and-health-equity",
+          "name": "Inclusive Language and Health Equity",
+          "sourceFile": "Endocrine Brick 5",
+          "questionCount": 12
+        },
+        {
+          "id": "sex-determination-and-reproductive-systems-development",
+          "name": "Sex Determination and Reproductive Systems Development",
+          "sourceFile": "Endocrine Brick 6",
+          "questionCount": 12
+        },
+        {
+          "id": "congenital-disorders-of-the-reproductive-systems",
+          "name": "Congenital Disorders of the Reproductive Systems",
+          "sourceFile": "Endocrine Brick 7",
+          "questionCount": 12
+        },
+        {
+          "id": "errors-in-morphogenesis",
+          "name": "Errors in Morphogenesis",
+          "sourceFile": "Endocrine Brick 8",
+          "questionCount": 12
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": "Anatomy, Development, Hormones & Cycles"
+    },
+    {
+      "id": "hormones-cycles",
+      "name": "Hormones, Cycles & Fertility Physiology",
+      "topics": [
+        {
+          "id": "fertilization",
+          "name": "Fertilization",
+          "sourceFile": "Endocrine Brick 9",
+          "questionCount": 12
+        },
+        {
+          "id": "estrogen-and-progesterone",
+          "name": "Estrogen and Progesterone",
+          "sourceFile": "Endocrine Brick 10",
+          "questionCount": 12
+        },
+        {
+          "id": "androgens",
+          "name": "Androgens",
+          "sourceFile": "Endocrine Brick 11",
+          "questionCount": 12
+        },
+        {
+          "id": "ovulation-and-the-menstrual-cycle",
+          "name": "Ovulation and the Menstrual Cycle",
+          "sourceFile": "Endocrine Brick 12",
+          "questionCount": 12
+        },
+        {
+          "id": "amenorrhea-and-dysmenorrhea",
+          "name": "Amenorrhea and Dysmenorrhea",
+          "sourceFile": "Endocrine Brick 13",
+          "questionCount": 12
+        },
+        {
+          "id": "puberty-and-hormonal-regulation",
+          "name": "Puberty and Hormonal Regulation",
+          "sourceFile": "Endocrine Brick 14",
+          "questionCount": 12
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": "Anatomy, Development, Hormones & Cycles"
+    },
+    {
+      "id": "repro-health-endocrine",
+      "name": "Reproductive Health & Hormone Disorders",
+      "topics": [
+        {
+          "id": "contraception",
+          "name": "Contraception",
+          "sourceFile": "Endocrine Brick 15",
+          "questionCount": 12
+        },
+        {
+          "id": "family-planning-preconception-care-and-infertility",
+          "name": "Family Planning, Preconception Care and Infertility",
+          "sourceFile": "Endocrine Brick 16",
+          "questionCount": 12
+        },
+        {
+          "id": "sexual-health-and-complications",
+          "name": "Sexual Health and Complications",
+          "sourceFile": "Endocrine Brick 17",
+          "questionCount": 12
+        },
+        {
+          "id": "menopause-and-andropause",
+          "name": "Menopause and Andropause",
+          "sourceFile": "Endocrine Brick 18",
+          "questionCount": 12
+        },
+        {
+          "id": "disorders-of-sex-hormones",
+          "name": "Disorders of Sex Hormones",
+          "sourceFile": "Endocrine Brick 19",
+          "questionCount": 12
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": "Repro Health, Female & Male Pathology"
+    },
+    {
+      "id": "female-repro-pathology",
+      "name": "Female Reproductive Pathology",
+      "topics": [
+        {
+          "id": "benign-endometrial-disorders",
+          "name": "Benign Endometrial Disorders",
+          "sourceFile": "Endocrine Brick 20",
+          "questionCount": 12
+        },
+        {
+          "id": "uterine-tumors",
+          "name": "Uterine Tumors",
+          "sourceFile": "Endocrine Brick 21",
+          "questionCount": 12
+        },
+        {
+          "id": "ovarian-cysts",
+          "name": "Ovarian Cysts",
+          "sourceFile": "Endocrine Brick 22",
+          "questionCount": 12
+        },
+        {
+          "id": "ovarian-tumors-part-1-of-2",
+          "name": "Ovarian Tumors (Part 1 of 2)",
+          "sourceFile": "Endocrine Brick 23",
+          "questionCount": 12
+        },
+        {
+          "id": "ovarian-tumors-part-2-of-2",
+          "name": "Ovarian Tumors (Part 2 of 2)",
+          "sourceFile": "Endocrine Brick 24",
+          "questionCount": 12
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": "Repro Health, Female & Male Pathology"
+    },
+    {
+      "id": "male-repro-pathology",
+      "name": "Male Reproductive Pathology",
+      "topics": [
+        {
+          "id": "disorders-of-the-penis",
+          "name": "Disorders of the Penis",
+          "sourceFile": "Endocrine Brick 25",
+          "questionCount": 12
+        },
+        {
+          "id": "benign-testicular-disorders",
+          "name": "Benign Testicular Disorders",
+          "sourceFile": "Endocrine Brick 26",
+          "questionCount": 12
+        },
+        {
+          "id": "testicular-tumors",
+          "name": "Testicular Tumors",
+          "sourceFile": "Endocrine Brick 27",
+          "questionCount": 12
+        },
+        {
+          "id": "benign-prostate-disorders",
+          "name": "Benign Prostate Disorders",
+          "sourceFile": "Endocrine Brick 28",
+          "questionCount": 12
+        },
+        {
+          "id": "prostate-cancer",
+          "name": "Prostate Cancer",
+          "sourceFile": "Endocrine Brick 29",
+          "questionCount": 12
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": "Repro Health, Female & Male Pathology"
+    }
+  ],
+  "totalQuestions": 348
+}

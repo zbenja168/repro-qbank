@@ -1,0 +1,2208 @@
+{
+  "categoryId": "development-congenital",
+  "categoryName": "Development, Identity & Congenital Disorders",
+  "questions": [
+    {
+      "id": "rp05-001",
+      "stem": "During a new-patient visit, a 24-year-old patient tells the physician that they were assigned female at birth and identify as a man. Which of the following terms best describes this patient's gender identity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cisgender man"
+        },
+        {
+          "label": "B",
+          "text": "Transgender man"
+        },
+        {
+          "label": "C",
+          "text": "Transgender woman"
+        },
+        {
+          "label": "D",
+          "text": "Gender fluid"
+        },
+        {
+          "label": "E",
+          "text": "Intersex"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A transgender man is a person assigned female at birth who identifies as a man.",
+        "whyCorrect": "Transgender is the umbrella term for people whose gender identity differs from their sex assigned at birth. The lecture defines transgender men specifically as people assigned female at birth who identify as men, a binary-oriented identity.",
+        "whyWrongByChoice": {
+          "A": "A cisgender man's gender identity aligns with a male sex assigned at birth; this patient was assigned female.",
+          "C": "A transgender woman is a person assigned male at birth who identifies as a woman, the reverse of this patient.",
+          "D": "Gender fluid describes an identity that is not fixed and changes over time; this patient states a consistent male identity.",
+          "E": "Intersex refers to congenital differences in chromosomal, gonadal, hormonal, or anatomic sex characteristics, not gender identity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "terminology",
+        "transgender",
+        "gender-identity"
+      ],
+      "topicId": "inclusive-language-and-health-equity",
+      "topicName": "Inclusive Language and Health Equity"
+    },
+    {
+      "id": "rp05-002",
+      "stem": "A 17-year-old describes choosing clothing, a hairstyle, and speech patterns that present their gender to others in a way that feels authentic. Which of the following terms refers to this outward presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gender identity"
+        },
+        {
+          "label": "B",
+          "text": "Sexual orientation"
+        },
+        {
+          "label": "C",
+          "text": "Gender expression"
+        },
+        {
+          "label": "D",
+          "text": "Gender binary"
+        },
+        {
+          "label": "E",
+          "text": "Sex assigned at birth"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Gender expression is a person's outward presentation of gender through clothing, behavior, and speech.",
+        "whyCorrect": "The lecture defines gender expression as the outward presentation of gender, for example through clothing, behavior, and speech, and notes it may or may not align with cultural norms or with the person's gender identity.",
+        "whyWrongByChoice": {
+          "A": "Gender identity is a person's internal sense of their own gender, not the outward presentation of it.",
+          "B": "Sexual orientation describes sexual and emotional attraction to other people, not how gender is presented.",
+          "D": "The gender binary is a classification system with two genders, men and women; it is not an individual's presentation.",
+          "E": "Sex assigned at birth is a designation made from physical characteristics at birth, not a chosen presentation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "terminology",
+        "gender-expression"
+      ],
+      "topicId": "inclusive-language-and-health-equity",
+      "topicName": "Inclusive Language and Health Equity"
+    },
+    {
+      "id": "rp05-003",
+      "stem": "A newborn is found to have a congenital condition in which the gonadal and anatomic sex characteristics do not fit typical definitions of male or female. Which of the following terms describes this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transgender"
+        },
+        {
+          "label": "B",
+          "text": "Non-binary"
+        },
+        {
+          "label": "C",
+          "text": "Gender non-conformity"
+        },
+        {
+          "label": "D",
+          "text": "Intersex"
+        },
+        {
+          "label": "E",
+          "text": "Gender dysphoria"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Intersex refers to congenital differences in chromosomal, gonadal, hormonal, or anatomic sex characteristics.",
+        "whyCorrect": "The lecture defines intersex as a variety of congenital conditions involving differences in chromosomal, gonadal, hormonal, or anatomic sex characteristics that do not fit typical definitions of male or female. It is a matter of physical sex characteristics present at birth.",
+        "whyWrongByChoice": {
+          "A": "Transgender describes a gender identity that differs from the sex assigned at birth, not congenital anatomic findings.",
+          "B": "Non-binary is an umbrella term for gender identities outside the gender binary, not a congenital physical condition.",
+          "C": "Gender non-conformity describes behavior incompatible with cultural gender expectations, not anatomy.",
+          "E": "Gender dysphoria is significant distress associated with a desire to be a gender other than the one assigned at birth."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "terminology",
+        "intersex"
+      ],
+      "topicId": "inclusive-language-and-health-equity",
+      "topicName": "Inclusive Language and Health Equity"
+    },
+    {
+      "id": "rp05-004",
+      "stem": "A family health center is redesigning its patient registration process to be more welcoming to LGBTQIA2+ patients. Which of the following changes is most consistent with recommended inclusive practice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Recording only the name printed on legal identification documents"
+        },
+        {
+          "label": "B",
+          "text": "Having front-desk staff infer pronouns from each patient's appearance"
+        },
+        {
+          "label": "C",
+          "text": "Restricting the sex and gender fields to male or female options"
+        },
+        {
+          "label": "D",
+          "text": "Adding an intake-form field for chosen name and pronouns"
+        },
+        {
+          "label": "E",
+          "text": "Asking patients to state their pronouns aloud in the waiting room"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Intake and registration forms should let patients indicate their preferred name and pronouns, even when these differ from legal documents.",
+        "whyCorrect": "The lecture identifies intake and registration forms as an excellent opportunity to standardize inclusive language, and notes many organizations recommend allowing patients to indicate their preferred name and pronouns, especially when they differ from legal identification and billing information.",
+        "whyWrongByChoice": {
+          "A": "Limiting records to the legal name ignores patients whose preferred name differs from their identification documents.",
+          "B": "Pronouns cannot be determined from physical appearance; they should be asked, not assumed.",
+          "C": "A male-or-female-only field excludes patients; asking gender identity and the sex on the original birth certificate is preferred.",
+          "E": "Forms provide the recommended standardized route; requiring public verbal disclosure is not the practice the lecture describes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inclusive-communication",
+        "intake-forms",
+        "pronouns"
+      ],
+      "topicId": "inclusive-language-and-health-equity",
+      "topicName": "Inclusive Language and Health Equity"
+    },
+    {
+      "id": "rp05-005",
+      "stem": "A physician is beginning a sexual history with a 19-year-old woman at a routine visit. Which of the following opening questions is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "\"Do you have a boyfriend or husband?\""
+        },
+        {
+          "label": "B",
+          "text": "\"How long have you been with your girlfriend?\""
+        },
+        {
+          "label": "C",
+          "text": "\"Are you in a relationship?\""
+        },
+        {
+          "label": "D",
+          "text": "\"How many men have you slept with this year?\""
+        },
+        {
+          "label": "E",
+          "text": "\"Is your partner the same sex as you?\""
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Open-ended questions gather history without stereotyping or assumptions about partners.",
+        "whyCorrect": "The lecture states that open-ended questions allow information gathering without stereotyping or assumptions, and gives \"Are you in a relationship?\" as the preferred alternative. Providers should not assume the number, gender, or sex of partners or the duration of relationships.",
+        "whyWrongByChoice": {
+          "A": "This assumes the patient's partner would be male; the lecture lists it as a phrase to avoid.",
+          "B": "This assumes both that a relationship exists and the partner's gender.",
+          "D": "This assumes the gender of partners and presumes sexual activity rather than asking openly.",
+          "E": "This assumes a partner exists; an open-ended question should establish that first."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "inclusive-communication",
+        "sexual-history"
+      ],
+      "topicId": "inclusive-language-and-health-equity",
+      "topicName": "Inclusive Language and Health Equity"
+    },
+    {
+      "id": "rp05-006",
+      "stem": "A 28-year-old transgender woman with prior distressing healthcare experiences appears anxious before a physical examination. Which of the following approaches best reduces the risk of further trauma during the encounter?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Completing the examination as quickly as possible without discussion"
+        },
+        {
+          "label": "B",
+          "text": "Deferring all examinations until the patient no longer reports anxiety"
+        },
+        {
+          "label": "C",
+          "text": "Asking a family member to remain in the room for all future visits"
+        },
+        {
+          "label": "D",
+          "text": "Requiring psychiatric evaluation before any physical examination"
+        },
+        {
+          "label": "E",
+          "text": "Screening for trauma and applying trauma-informed care practices"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Screening for trauma and implementing trauma-informed care creates a safe environment during history taking and examination.",
+        "whyCorrect": "The lecture advises screening for trauma and implementing trauma-informed care, especially during history taking and physical examinations, which can be particularly sensitive. Trauma-informed care training helps create a physically and emotionally safe environment that reduces the risk of further trauma.",
+        "whyWrongByChoice": {
+          "A": "Rushing through a sensitive examination without communication does not create the safe environment trauma-informed care requires.",
+          "B": "Indefinitely deferring needed care withholds services rather than making the encounter safe.",
+          "C": "Imposing a third party is not the described approach and does not address the patient's trauma history.",
+          "D": "The lecture recommends trauma-informed practices by the treating clinician, not a mandatory psychiatric gatekeeping step."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "trauma-informed-care",
+        "inclusive-communication"
+      ],
+      "topicId": "inclusive-language-and-health-equity",
+      "topicName": "Inclusive Language and Health Equity"
+    },
+    {
+      "id": "rp05-007",
+      "stem": "A 12-year-old assigned male at birth who identifies as a girl wants more time before deciding on further gender-affirming treatment, and her family asks about \"puberty blockers.\" Which of the following statements about GnRH analogue therapy is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It permanently prevents development of secondary sex characteristics"
+        },
+        {
+          "label": "B",
+          "text": "It delays puberty, and puberty resumes if the medication is stopped"
+        },
+        {
+          "label": "C",
+          "text": "It produces feminizing changes such as breast development"
+        },
+        {
+          "label": "D",
+          "text": "It may be started in any state without specialist supervision"
+        },
+        {
+          "label": "E",
+          "text": "It is irreversible and is therefore reserved for adults"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GnRH analogues reversibly delay the emergence of secondary sex characteristics; puberty resumes when therapy stops.",
+        "whyCorrect": "The lecture describes hormone blockers as GnRH analogues that delay secondary sex characteristics such as facial hair growth, menstruation, voice changes, and breast development, giving the patient time to decide before pursuing further interventions. Puberty resumes if the therapy is stopped.",
+        "whyWrongByChoice": {
+          "A": "Blockade is temporary, not permanent; puberty resumes after discontinuation.",
+          "C": "Blockers delay pubertal changes; they do not themselves feminize. Feminizing changes come from hormone therapy or surgery.",
+          "D": "They are available in some states under the supervision of a pediatric endocrinologist, not without specialist oversight everywhere.",
+          "E": "The effects are reversible, which is precisely why they are used in young adolescents who need time to decide."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gender-affirming-care",
+        "puberty-blockers"
+      ],
+      "topicId": "inclusive-language-and-health-equity",
+      "topicName": "Inclusive Language and Health Equity"
+    },
+    {
+      "id": "rp05-008",
+      "stem": "The parents of a 10-year-old who socially transitioned one year ago worry that their child will later reverse the transition. Based on the evidence cited in the lecture, which of the following is the most accurate counseling statement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Roughly half of these youth reverse their transition within five years"
+        },
+        {
+          "label": "B",
+          "text": "Social transition reliably prevents any later change in identity"
+        },
+        {
+          "label": "C",
+          "text": "Most youth abandon their identity once puberty blockers are stopped"
+        },
+        {
+          "label": "D",
+          "text": "Detransition is infrequent; over 90% still identify as transgender at five years"
+        },
+        {
+          "label": "E",
+          "text": "There are no published data on identity after social transition"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Detransition after social transition is infrequent; over 90% of youth still identify as transgender five years later.",
+        "whyCorrect": "The lecture cites Olson et al. (2022): within five years of social transitioning, over 90% of youth still identify as transgender, and detransition, the discontinuation or reversal of some aspects of a prior transition, is infrequent.",
+        "whyWrongByChoice": {
+          "A": "The cited figure is the opposite: more than 90% persist in a transgender identity at five years.",
+          "B": "No intervention guarantees a fixed identity; the accurate statement is that detransition is uncommon, not impossible.",
+          "C": "Stopping puberty blockers allows puberty to resume; it is not described as ending a transgender identity.",
+          "E": "The lecture cites a published five-year follow-up study (Olson et al., 2022, Pediatrics)."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "gender-affirming-care",
+        "detransition",
+        "evidence"
+      ],
+      "topicId": "inclusive-language-and-health-equity",
+      "topicName": "Inclusive Language and Health Equity"
+    },
+    {
+      "id": "rp05-009",
+      "stem": "A pediatrician counsels the family of a 15-year-old transgender boy about supporting him at home. According to survey data cited in the lecture, which of the following household practices is associated with a roughly 50% lower likelihood of a suicide attempt?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Respecting the adolescent's pronouns at home"
+        },
+        {
+          "label": "B",
+          "text": "Scheduling mandatory weekly psychiatric evaluations"
+        },
+        {
+          "label": "C",
+          "text": "Delaying any discussion of gender until age 18"
+        },
+        {
+          "label": "D",
+          "text": "Limiting his contact with LGBTQIA2+ peers"
+        },
+        {
+          "label": "E",
+          "text": "Enrolling him in a single-sex school program"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Youth whose pronouns were respected by household members were 50% less likely to attempt suicide.",
+        "whyCorrect": "The Trevor Project's 2021 survey, cited in the lecture, found that youth whose pronouns were respected by members of their household were 50% less likely to attempt suicide than youth whose pronouns were not respected. Being able to change one's name socially or legally was also associated with lower attempt rates.",
+        "whyWrongByChoice": {
+          "B": "Mandated evaluations are not the protective factor identified; the cited data concern affirmation at home.",
+          "C": "Withholding affirmation is the opposite of the respected-pronoun support the data describe.",
+          "D": "Isolation is not protective; discrimination and negative experiences drive risk in this population.",
+          "E": "School program type is not the household practice linked to reduced suicide attempts in the cited survey."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mental-health",
+        "suicide-risk",
+        "pronouns"
+      ],
+      "topicId": "inclusive-language-and-health-equity",
+      "topicName": "Inclusive Language and Health Equity"
+    },
+    {
+      "id": "rp05-010",
+      "stem": "A 15-year-old assigned female at birth reports persistent, significant distress related to a strong desire to be a gender other than the one assigned at birth. Which of the following statements best reflects how the DSM-5 conceptualizes gender dysphoria?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Any transgender identity meets the criteria for gender dysphoria"
+        },
+        {
+          "label": "B",
+          "text": "The diagnosis is defined by the distress, not by the gender identity itself"
+        },
+        {
+          "label": "C",
+          "text": "The diagnosis requires completion of medical transition"
+        },
+        {
+          "label": "D",
+          "text": "Gender non-conforming expression alone establishes the diagnosis"
+        },
+        {
+          "label": "E",
+          "text": "The condition is classified as a disorder of sexual orientation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In DSM-5, the \"disorder\" in gender dysphoria lies in the significant distress, not in the gender identity or expression.",
+        "whyCorrect": "The lecture states that DSM-5 defines gender dysphoria as significant stress associated with a desire to be a gender other than the one assigned at birth, and emphasizes that the disorder lies in the stress rather than in the identity or expression itself. Patients with dysphoria are at higher risk for psychiatric illness and suicide.",
+        "whyWrongByChoice": {
+          "A": "Transgender status itself is not a disorder; only the associated significant distress defines gender dysphoria.",
+          "C": "No transition step is part of the definition; the diagnosis rests on distress about incongruence.",
+          "D": "Gender non-conformity is behavior outside cultural expectations and is not itself a diagnosis.",
+          "E": "Gender identity is distinct from sexual orientation; the diagnosis concerns identity-related distress, not attraction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mental-health",
+        "gender-dysphoria",
+        "dsm-5"
+      ],
+      "topicId": "inclusive-language-and-health-equity",
+      "topicName": "Inclusive Language and Health Equity"
+    },
+    {
+      "id": "rp05-011",
+      "stem": "A 32-year-old transgender man who has undergone mastectomy with chest reconstruction presents for a health-maintenance visit. He has not had a hysterectomy. Which of the following is most appropriate regarding cancer screening for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue cervical cancer screening because he has a cervix"
+        },
+        {
+          "label": "B",
+          "text": "Discontinue all cancer screening after gender-affirming surgery"
+        },
+        {
+          "label": "C",
+          "text": "Base screening decisions on gender identity rather than anatomy"
+        },
+        {
+          "label": "D",
+          "text": "Defer screening decisions until all planned surgeries are complete"
+        },
+        {
+          "label": "E",
+          "text": "Offer only the screening tests recommended for cisgender men"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Screening and care should continue in alignment with the patient's anatomy, regardless of gender.",
+        "whyCorrect": "The lecture states that regardless of gender, screening and care in alignment with a patient's anatomy should continue, and gives exactly this example: cervical cancer screening is relevant for transgender men who have a cervix. This patient has not had a hysterectomy, so his cervix remains and screening continues.",
+        "whyWrongByChoice": {
+          "B": "Gender-affirming surgery does not remove the need for screening of organs that remain.",
+          "C": "Anatomy, not gender identity, determines which organ-based screenings apply.",
+          "D": "Screening of present anatomy should continue now, not wait on possible future procedures.",
+          "E": "A cisgender-male screening panel would omit cervical cancer screening despite the retained cervix."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "screening",
+        "transgender-health",
+        "anatomy-based-care"
+      ],
+      "topicId": "inclusive-language-and-health-equity",
+      "topicName": "Inclusive Language and Health Equity"
+    },
+    {
+      "id": "rp05-012",
+      "stem": "A 26-year-old transgender woman presents with a complication of an illness for which she delayed seeking care for several months. According to survey data cited in the lecture, which of the following is the most likely reason transgender patients postpone needed care?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Confidence that most symptoms resolve without treatment"
+        },
+        {
+          "label": "B",
+          "text": "A legal requirement for psychiatric clearance before visits"
+        },
+        {
+          "label": "C",
+          "text": "Fear of discrimination in healthcare settings"
+        },
+        {
+          "label": "D",
+          "text": "Higher-than-average rates of health insurance coverage"
+        },
+        {
+          "label": "E",
+          "text": "A preference for care exclusively in emergency departments"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fear of discrimination is a documented reason transgender patients postpone care; 1 in 5 did so in the past year.",
+        "whyCorrect": "The lecture cites survey data showing 1 in 5 transgender people postponed receiving care in the past year due to fear of discrimination, and 29% reported having to teach their providers about transgender health issues. Fear of stigma and discrimination, prior uncomfortable experiences, financial concerns, and refusal of care all limit access.",
+        "whyWrongByChoice": {
+          "A": "Delayed care in this population reflects barriers such as discrimination, not confidence in spontaneous recovery.",
+          "B": "No such legal clearance requirement is described; the cited barrier is fear of discrimination.",
+          "D": "LGBTQIA2+ individuals are less likely to have health insurance and less likely to have needed services covered.",
+          "E": "The cited data describe postponing care out of fear of discrimination, not a preference for a different care setting."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "health-equity",
+        "barriers-to-care",
+        "social-determinants"
+      ],
+      "topicId": "inclusive-language-and-health-equity",
+      "topicName": "Inclusive Language and Health Equity"
+    },
+    {
+      "id": "rp06-001",
+      "stem": "A 16-year-old with a female phenotype is evaluated for primary amenorrhea and delayed puberty. Karyotype analysis reveals 46,XY, and pelvic imaging shows a uterus and bilateral streak gonads. Which of the following best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of the indifferent gonads to develop into testes"
+        },
+        {
+          "label": "B",
+          "text": "Failure of the paramesonephric ducts to develop"
+        },
+        {
+          "label": "C",
+          "text": "Isolated deficiency of anti-Müllerian hormone"
+        },
+        {
+          "label": "D",
+          "text": "Inability of target tissues to convert testosterone to DHT"
+        },
+        {
+          "label": "E",
+          "text": "Excess maternal androgen exposure during gestation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Complete gonadal dysgenesis (46,XY Swyer) produces nonfunctional streak gonads, so no AMH or testosterone is made and a female phenotype with delayed puberty results.",
+        "whyCorrect": "In complete gonadal dysgenesis, the gonads fail to develop into testes despite the Y chromosome. Streak gonads make neither AMH nor testosterone, so the Müllerian ducts persist (uterus present), the Wolffian ducts regress, and external genitalia develop along the female pathway. Absent sex hormone production also explains the delayed puberty.",
+        "whyWrongByChoice": {
+          "B": "The Müllerian ducts clearly developed, because a uterus is present on imaging.",
+          "C": "Isolated AMH deficiency (persistent Müllerian duct syndrome) produces a phenotypic male with a uterus, not a female phenotype with streak gonads.",
+          "D": "Impaired conversion to DHT leaves functioning testes that still make AMH, so the uterus would be absent and testes would be present.",
+          "E": "Androgen excess virilizes XX fetuses; it does not produce streak gonads or a female phenotype in an XY fetus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gonadal dysgenesis",
+        "Swyer syndrome",
+        "sex determination"
+      ],
+      "topicId": "sex-determination-and-reproductive-systems-development",
+      "topicName": "Sex Determination and Reproductive Systems Development"
+    },
+    {
+      "id": "rp06-002",
+      "stem": "Beginning around week 7 of development, an XY embryo initiates testis formation. The protein that directs the indifferent gonad to differentiate into a testis is encoded by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The SRY gene on the Y chromosome"
+        },
+        {
+          "label": "B",
+          "text": "A gene expressed by Sertoli cells"
+        },
+        {
+          "label": "C",
+          "text": "A gene expressed by Leydig cells"
+        },
+        {
+          "label": "D",
+          "text": "Genes on the two X chromosomes"
+        },
+        {
+          "label": "E",
+          "text": "Genes of the urogenital sinus endoderm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The SRY gene on the Y chromosome encodes testis-determining factor (TDF), which converts the indifferent gonad into a testis.",
+        "whyCorrect": "The SRY (sex-determining region of the Y chromosome) gene produces testis-determining factor, also called SRY protein. TDF directs the indifferent gonad to develop into a testis with seminiferous tubules containing Sertoli cells and an interstitium containing Leydig cells.",
+        "whyWrongByChoice": {
+          "B": "Sertoli cells are a product of testis formation and secrete AMH; they do not encode the factor that initiates testis formation.",
+          "C": "Leydig cells arise after TDF acts and secrete testosterone; they do not direct gonadal differentiation into a testis.",
+          "D": "Genes on the XX chromosomes contribute to ovarian development, not testis determination.",
+          "E": "Urogenital sinus endoderm gives rise to the prostate and urethra, not to the signal for testis formation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SRY",
+        "testis-determining factor",
+        "gonadal differentiation"
+      ],
+      "topicId": "sex-determination-and-reproductive-systems-development",
+      "topicName": "Sex Determination and Reproductive Systems Development"
+    },
+    {
+      "id": "rp06-003",
+      "stem": "A 2-year-old boy undergoes surgery for bilateral cryptorchidism. Intraoperatively, the surgeon finds a uterus and uterine tubes alongside otherwise normal male internal reproductive organs. A defect in which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-Müllerian hormone or its receptor"
+        },
+        {
+          "label": "B",
+          "text": "Testosterone production by Leydig cells"
+        },
+        {
+          "label": "C",
+          "text": "Conversion of testosterone to dihydrotestosterone"
+        },
+        {
+          "label": "D",
+          "text": "The SRY gene and testis-determining factor"
+        },
+        {
+          "label": "E",
+          "text": "Estrogen signaling in the fetal gonad"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Persistent Müllerian duct syndrome results from abnormal AMH or AMH receptors, so the paramesonephric ducts fail to regress in a male.",
+        "whyCorrect": "Sertoli cells normally secrete AMH, which causes regression of the paramesonephric (Müllerian) ducts. When AMH or its receptor is abnormal, a male develops normal reproductive organs and external genitalia but also retains a uterus and uterine tubes. PMDS is often found incidentally during surgery for cryptorchidism or inguinal hernia, both characteristic of the condition.",
+        "whyWrongByChoice": {
+          "B": "Testosterone must be present, because the mesonephric-duct derivatives and male external genitalia developed normally.",
+          "C": "Impaired DHT production causes undervirilized external genitalia but does not cause Müllerian structures to persist.",
+          "D": "Without SRY and TDF, testes would not form at all; this boy has testes, although undescended.",
+          "E": "Estrogen from fetal ovaries supports female external development; it plays no role in Müllerian regression in males."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "persistent Müllerian duct syndrome",
+        "AMH",
+        "cryptorchidism"
+      ],
+      "topicId": "sex-determination-and-reproductive-systems-development",
+      "topicName": "Sex Determination and Reproductive Systems Development"
+    },
+    {
+      "id": "rp06-004",
+      "stem": "During an anatomy review of the male internal reproductive organs, a student is asked which structure does NOT arise from the mesonephric (Wolffian) duct. Which of the following is the correct response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epididymis"
+        },
+        {
+          "label": "B",
+          "text": "Ductus deferens"
+        },
+        {
+          "label": "C",
+          "text": "Seminal vesicle"
+        },
+        {
+          "label": "D",
+          "text": "Ejaculatory duct"
+        },
+        {
+          "label": "E",
+          "text": "Prostate"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The mesonephric duct forms the SEED structures (seminal vesicles, epididymis, ejaculatory duct, ductus deferens); the prostate and urethra arise from the urogenital sinus.",
+        "whyCorrect": "The prostate does not derive from the mesonephric duct. It arises from the endoderm of the urogenital sinus, which forms when the embryonic cloaca divides into separate urogenital and anorectal passages. The male urethra shares this urogenital sinus origin.",
+        "whyWrongByChoice": {
+          "A": "The epididymis is a mesonephric-duct derivative (the E in SEED).",
+          "B": "The ductus deferens is a mesonephric-duct derivative (the D in SEED).",
+          "C": "The seminal vesicles are mesonephric-duct derivatives (the S in SEED).",
+          "D": "The ejaculatory ducts are mesonephric-duct derivatives (the second E in SEED)."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mesonephric duct",
+        "SEED",
+        "urogenital sinus"
+      ],
+      "topicId": "sex-determination-and-reproductive-systems-development",
+      "topicName": "Sex Determination and Reproductive Systems Development"
+    },
+    {
+      "id": "rp06-005",
+      "stem": "A 16-year-old girl is evaluated because she has never menstruated. She has normal breast development and pubic hair. Examination shows a short, blind-ended vagina, and pelvic imaging shows an absent uterus with normal-appearing ovaries. Failure of which of the following structures to develop best explains her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paramesonephric ducts"
+        },
+        {
+          "label": "B",
+          "text": "Mesonephric ducts"
+        },
+        {
+          "label": "C",
+          "text": "Urogenital sinus"
+        },
+        {
+          "label": "D",
+          "text": "Gonadal ridge"
+        },
+        {
+          "label": "E",
+          "text": "Labioscrotal swellings"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Müllerian agenesis (MRKH syndrome) is failure of the paramesonephric ducts to develop, so the uterus and upper vagina do not form despite normal ovaries.",
+        "whyCorrect": "The paramesonephric (Müllerian) ducts normally form the uterine tubes, uterus, and upper vagina. In MRKH syndrome these ducts fail to develop, so those structures are absent. The ovaries develop from the gonad, not the ducts, so they function normally, producing normal breast and pubic hair development; the disorder is typically diagnosed when menstruation has not begun by age 16.",
+        "whyWrongByChoice": {
+          "B": "The mesonephric ducts normally regress in females and form male internal structures; their absence would not affect the uterus.",
+          "C": "The urogenital sinus forms the lower vagina, which is present as the short, blind-ended canal in this patient.",
+          "D": "The gonadal ridge developed normally, since the ovaries are present and functioning.",
+          "E": "The labioscrotal swellings form the labia majora, an external structure that is unaffected here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MRKH",
+        "Müllerian agenesis",
+        "primary amenorrhea"
+      ],
+      "topicId": "sex-determination-and-reproductive-systems-development",
+      "topicName": "Sex Determination and Reproductive Systems Development"
+    },
+    {
+      "id": "rp06-006",
+      "stem": "In a female embryo, the caudal portions of the paramesonephric ducts fuse at the midline to form the uterus and upper vagina. The lower (caudal) portion of the vagina develops from which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Urogenital sinus"
+        },
+        {
+          "label": "B",
+          "text": "Unfused cranial paramesonephric ducts"
+        },
+        {
+          "label": "C",
+          "text": "Mesonephric ducts"
+        },
+        {
+          "label": "D",
+          "text": "Genital tubercle"
+        },
+        {
+          "label": "E",
+          "text": "Urogenital folds"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The vagina has a dual origin: the upper vagina comes from the fused paramesonephric ducts and the lower vagina from the urogenital sinus.",
+        "whyCorrect": "The caudal vagina develops from the urogenital sinus, which derives from the ventral division of the cloaca. Only the upper vagina arises from the fused caudal paramesonephric ducts.",
+        "whyWrongByChoice": {
+          "B": "The unfused cranial portions of the paramesonephric ducts remain as the uterine tubes.",
+          "C": "The mesonephric ducts regress in females without testosterone; they do not form the vagina.",
+          "D": "The genital tubercle forms the glans clitoris and part of the clitoral body.",
+          "E": "The urogenital folds form the labia minora and the openings of the urethra and vagina, not the vaginal canal itself."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vagina",
+        "urogenital sinus",
+        "paramesonephric ducts"
+      ],
+      "topicId": "sex-determination-and-reproductive-systems-development",
+      "topicName": "Sex Determination and Reproductive Systems Development"
+    },
+    {
+      "id": "rp06-007",
+      "stem": "As the caudal portions of the paramesonephric ducts fuse during female development, a temporary midline uterovaginal septum forms from the walls of the fused ducts. Which of the following describes the normal fate of this septum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It regresses, producing a single continuous lumen"
+        },
+        {
+          "label": "B",
+          "text": "It persists, dividing the uterus into two cavities"
+        },
+        {
+          "label": "C",
+          "text": "It migrates caudally to form the lower vagina"
+        },
+        {
+          "label": "D",
+          "text": "It thickens to become the round ligament of the uterus"
+        },
+        {
+          "label": "E",
+          "text": "It differentiates into the wall of the uterine tubes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The transient uterovaginal septum normally regresses, leaving one continuous lumen through the uterus, cervix, and cranial vagina.",
+        "whyCorrect": "Fusion of the caudal paramesonephric ducts creates the single midline uterus, cervix, and cranial vagina, and the septum formed by the fused duct walls later regresses. This regression produces a single continuous lumen in the uterus, cervix, and cranial vagina.",
+        "whyWrongByChoice": {
+          "B": "Persistence of the septum is not the normal outcome; regression yields one cavity.",
+          "C": "The lower vagina forms from the urogenital sinus, not from the septum.",
+          "D": "The round ligament of the uterus derives from the gubernaculum, not from the uterovaginal septum.",
+          "E": "The uterine tubes are the unfused cranial portions of the paramesonephric ducts; they do not form from the septum."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "uterovaginal septum",
+        "paramesonephric fusion",
+        "uterus development"
+      ],
+      "topicId": "sex-determination-and-reproductive-systems-development",
+      "topicName": "Sex Determination and Reproductive Systems Development"
+    },
+    {
+      "id": "rp06-008",
+      "stem": "A 44-year-old woman gives birth to an infant with trisomy 21. Which of the following best explains why the risk of this outcome increases with advancing maternal age?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary oocytes remain arrested in prophase I for decades"
+        },
+        {
+          "label": "B",
+          "text": "New oocytes made after birth accumulate replication errors"
+        },
+        {
+          "label": "C",
+          "text": "Oocytes arrest in metaphase II from fetal life until menopause"
+        },
+        {
+          "label": "D",
+          "text": "Germ cells stay quiescent until puberty and then resume mitosis"
+        },
+        {
+          "label": "E",
+          "text": "Ovarian follicles arrest earlier in meiosis with advancing age"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because no new oocytes are made after birth, primary oocytes stay arrested in prophase I for decades, and prolonged arrest increases the risk of nondisjunction and aneuploidy.",
+        "whyCorrect": "In the fetal ovary, germ cells proliferate, begin meiosis, and arrest in prophase I as primary oocytes; the pool is fixed at birth. With advancing maternal age these long-arrested cells are more prone to meiotic errors, especially nondisjunction, raising the risk of chromosomal disorders such as Down syndrome (about 1 in 1,500 at age 18 versus about 1 in 26 at age 49).",
+        "whyWrongByChoice": {
+          "B": "No new oocytes are produced after birth; the pool of primary oocytes is fixed.",
+          "C": "Fetal-life arrest occurs in prophase I of meiosis I, not metaphase II.",
+          "D": "Quiescence until puberty followed by resumed mitosis describes male germ cells, not oocytes.",
+          "E": "The arrest point does not shift with age; the problem is prolonged arrest leading to nondisjunction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oogenesis",
+        "prophase I arrest",
+        "nondisjunction",
+        "advanced maternal age"
+      ],
+      "topicId": "sex-determination-and-reproductive-systems-development",
+      "topicName": "Sex Determination and Reproductive Systems Development"
+    },
+    {
+      "id": "rp06-009",
+      "stem": "During female development, the gubernaculum extends from the developing ovary to the labioscrotal swelling. As the uterus forms, this cord is divided. In the adult, the gubernaculum is represented by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ovarian ligament and round ligament of the uterus"
+        },
+        {
+          "label": "B",
+          "text": "Suspensory ligament of the ovary and broad ligament"
+        },
+        {
+          "label": "C",
+          "text": "Processus vaginalis and tunica vaginalis"
+        },
+        {
+          "label": "D",
+          "text": "Uterosacral ligament and cardinal ligament"
+        },
+        {
+          "label": "E",
+          "text": "Uterine tubes and the upper portion of the uterus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The female gubernaculum is divided by the developing uterus into the ovarian ligament and the round ligament of the uterus.",
+        "whyCorrect": "As the uterus develops, the gubernaculum is divided into the ovarian ligament, connecting the ovary to the uterus, and the round ligament of the uterus, which runs from the uterus through the inguinal canal to the labia majora. The ovaries themselves undergo only limited caudal migration into the pelvis.",
+        "whyWrongByChoice": {
+          "B": "These ligaments are not derived from the gubernaculum.",
+          "C": "The processus vaginalis is a peritoneal pouch that accompanies the descending testis; its distal portion becomes the tunica vaginalis in males.",
+          "D": "These pelvic support ligaments are not gubernacular derivatives.",
+          "E": "The uterine tubes and uterus arise from the paramesonephric ducts, not from the gubernaculum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gubernaculum",
+        "ovarian ligament",
+        "round ligament"
+      ],
+      "topicId": "sex-determination-and-reproductive-systems-development",
+      "topicName": "Sex Determination and Reproductive Systems Development"
+    },
+    {
+      "id": "rp06-010",
+      "stem": "Beginning around week 26, the testis is guided through the inguinal canal into the scrotum, accompanied by a small pouch of peritoneum. The distal portion of this peritoneal pouch normally becomes which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tunica vaginalis of the testis"
+        },
+        {
+          "label": "B",
+          "text": "Gubernaculum of the testis"
+        },
+        {
+          "label": "C",
+          "text": "Ductus deferens (vas deferens)"
+        },
+        {
+          "label": "D",
+          "text": "Duct of the seminal vesicle"
+        },
+        {
+          "label": "E",
+          "text": "Dartos layer of the scrotum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The processus vaginalis accompanies the descending testis; its distal portion becomes the tunica vaginalis while its proximal connection to the abdomen normally closes.",
+        "whyCorrect": "The processus vaginalis is the pouch of peritoneum that travels with the testis during descent. Its distal portion persists as the tunica vaginalis of the testis, and the proximal connection to the abdominal cavity normally closes after descent is complete.",
+        "whyWrongByChoice": {
+          "B": "The gubernaculum is the fibrous cord that guides the descent and then regresses; it is not derived from peritoneum.",
+          "C": "The ductus deferens is a mesonephric-duct derivative, not a peritoneal structure.",
+          "D": "The seminal vesicles arise from the mesonephric ducts.",
+          "E": "The scrotum develops from the labioscrotal swellings of the external genitalia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "processus vaginalis",
+        "tunica vaginalis",
+        "testicular descent"
+      ],
+      "topicId": "sex-determination-and-reproductive-systems-development",
+      "topicName": "Sex Determination and Reproductive Systems Development"
+    },
+    {
+      "id": "rp06-011",
+      "stem": "A newborn with a 46,XX karyotype was exposed to excess androgens in utero and is noted to have fusion of the labioscrotal swellings. In a male fetus, these same swellings normally give rise to which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Scrotum"
+        },
+        {
+          "label": "B",
+          "text": "Penile urethra"
+        },
+        {
+          "label": "C",
+          "text": "Glans penis"
+        },
+        {
+          "label": "D",
+          "text": "Prostate"
+        },
+        {
+          "label": "E",
+          "text": "Bulbourethral glands"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The labioscrotal swellings form the scrotum in males and the labia majora in females, making these structures embryologic homologs.",
+        "whyCorrect": "The three shared precursors of the external genitalia differentiate beginning around week 9. The labioscrotal swellings become the scrotum in males and the labia majora in females. Androgen excess in an XX fetus virilizes the external genitalia, producing labial fusion, while internal female organs remain normal.",
+        "whyWrongByChoice": {
+          "B": "The penile urethra forms when the urogenital folds fuse along the ventral midline of the developing penis.",
+          "C": "The glans penis derives from the genital tubercle, whose female homolog is the glans clitoris.",
+          "D": "The prostate arises from the urogenital sinus, homologous to the female urethral and paraurethral glands.",
+          "E": "The bulbourethral glands arise from the urogenital sinus, homologous to the greater vestibular glands."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "labioscrotal swellings",
+        "homologs",
+        "external genitalia"
+      ],
+      "topicId": "sex-determination-and-reproductive-systems-development",
+      "topicName": "Sex Determination and Reproductive Systems Development"
+    },
+    {
+      "id": "rp06-012",
+      "stem": "A newborn with a 46,XY karyotype has poorly virilized external genitalia. Evaluation shows testes, a normal epididymis and ductus deferens bilaterally, and no uterus or uterine tubes. Serum testosterone is within the normal male range. A deficiency of which of the following best explains the external genital findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrotestosterone"
+        },
+        {
+          "label": "B",
+          "text": "Testosterone"
+        },
+        {
+          "label": "C",
+          "text": "Anti-Müllerian hormone"
+        },
+        {
+          "label": "D",
+          "text": "Testis-determining factor"
+        },
+        {
+          "label": "E",
+          "text": "Estrogen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Male external genitalia require DHT, a tissue-derived product of testosterone; without DHT the external genitalia follow the female pathway even when internal male ducts are intact.",
+        "whyCorrect": "Differentiation of the external genitalia in males is driven by dihydrotestosterone, made in target tissues from testosterone. Testosterone alone maintained the mesonephric-duct derivatives (epididymis, ductus deferens), and AMH caused Müllerian regression, but without adequate DHT the genital tubercle, urogenital folds, and labioscrotal swellings fail to fully virilize.",
+        "whyWrongByChoice": {
+          "B": "Serum testosterone is normal, and its duct derivatives (epididymis, ductus deferens) developed appropriately.",
+          "C": "AMH acted normally, because the uterus and uterine tubes are absent.",
+          "D": "TDF functioned, since testes formed from the indifferent gonads.",
+          "E": "Estrogen from fetal ovaries supports female external development; its absence does not impair male virilization."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "DHT",
+        "external genitalia",
+        "virilization"
+      ],
+      "topicId": "sex-determination-and-reproductive-systems-development",
+      "topicName": "Sex Determination and Reproductive Systems Development"
+    },
+    {
+      "id": "rp07-001",
+      "stem": "A 31-year-old woman is evaluated after two first-trimester pregnancy losses. Hysterosalpingography shows a single uterine cavity divided by a midline partition, with the two cavities meeting at an acute angle. Additional imaging confirms a normal external fundal contour, and septoplasty is recommended. Failure of which of the following developmental processes most likely caused this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Resorption of the uterovaginal septum after duct fusion"
+        },
+        {
+          "label": "B",
+          "text": "Fusion of the paramesonephric ducts in the fundic region"
+        },
+        {
+          "label": "C",
+          "text": "Fusion of the paramesonephric ducts along their entire length"
+        },
+        {
+          "label": "D",
+          "text": "Development of the lower vagina from the urogenital sinus"
+        },
+        {
+          "label": "E",
+          "text": "Regression of the mesonephric ducts in the female fetus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A septate uterus results when the paramesonephric ducts fuse normally but the uterovaginal septum fails to resorb.",
+        "whyCorrect": "The normal fundal contour with an internally divided cavity is the hallmark of a septate uterus: fusion occurred, but the temporary midline uterovaginal septum was not resorbed, leaving a fibrous or muscular septum. This is the anomaly correctable by septoplasty, which improves reproductive outcomes.",
+        "whyWrongByChoice": {
+          "B": "Partial fundal fusion failure produces a bicornuate uterus, which has a divided, horned external contour and a wider angle between cavities on HSG.",
+          "C": "Complete fusion failure produces uterus didelphys, with two separate uteri and typically two cervices, not a single externally normal uterus.",
+          "D": "Failure of the lower vagina to form from the urogenital sinus causes vaginal atresia, not a divided uterine cavity.",
+          "E": "A persistent mesonephric remnant produces a Gartner cyst on the lateral vaginal wall and does not alter the uterine cavity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "septate uterus",
+        "mullerian anomalies",
+        "embryology"
+      ],
+      "topicId": "congenital-disorders-of-the-reproductive-systems",
+      "topicName": "Congenital Disorders of the Reproductive Systems"
+    },
+    {
+      "id": "rp07-002",
+      "stem": "A 27-year-old woman undergoes imaging during an infertility workup. The uterine fundus is divided into two horn-like superior cavities that meet at a wide angle, while the lower uterine segment, cervix, and vagina are normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Septate uterus"
+        },
+        {
+          "label": "B",
+          "text": "Bicornuate uterus"
+        },
+        {
+          "label": "C",
+          "text": "Uterus didelphys"
+        },
+        {
+          "label": "D",
+          "text": "Mullerian agenesis"
+        },
+        {
+          "label": "E",
+          "text": "Gartner duct cyst"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A bicornuate uterus reflects partial failure of paramesonephric duct fusion confined to the fundic region.",
+        "whyCorrect": "Two horn-like fundic cavities with a normal lower uterus, cervix, and vagina define a bicornuate uterus, named for its two unfused superior horns. On imaging the angle between the two cavities is wider than the acute angle of a septate uterus.",
+        "whyWrongByChoice": {
+          "A": "A septate uterus has a normal external contour with an internal septum, and the cavities meet at an acute rather than wide angle.",
+          "C": "Uterus didelphys results from complete fusion failure, producing two separate uteri and typically two cervices, not a single lower uterus.",
+          "D": "In Mullerian agenesis (MRKH) the uterus and upper vagina are absent, not duplicated at the fundus.",
+          "E": "A Gartner cyst is a mesonephric remnant on the lateral vaginal wall and does not change uterine shape."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bicornuate uterus",
+        "mullerian anomalies"
+      ],
+      "topicId": "congenital-disorders-of-the-reproductive-systems",
+      "topicName": "Congenital Disorders of the Reproductive Systems"
+    },
+    {
+      "id": "rp07-003",
+      "stem": "A 13-year-old girl has monthly episodes of lower abdominal pain but has never menstruated. She has Tanner stage 4 breast development. Examination shows a bulging, bluish membrane at the vaginal introitus and a palpable suprapubic mass. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Incision of the hymenal membrane"
+        },
+        {
+          "label": "B",
+          "text": "Hysteroscopic septoplasty"
+        },
+        {
+          "label": "C",
+          "text": "Excision of a lateral vaginal wall cyst"
+        },
+        {
+          "label": "D",
+          "text": "Surgical creation of a neovagina"
+        },
+        {
+          "label": "E",
+          "text": "Reassurance and repeat examination in one year"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Imperforate hymen causes primary amenorrhea with cyclic pain and hematocolpos, treated by hymenotomy.",
+        "whyCorrect": "Cyclic pain, normal secondary sexual characteristics, and a bulging bluish membrane at the introitus indicate menstrual blood trapped behind an imperforate hymen (hematocolpos, with possible hematometra). Surgical incision of the hymen relieves the obstruction and restores normal menstrual outflow.",
+        "whyWrongByChoice": {
+          "B": "Septoplasty corrects a septate uterus; it does not address an obstructed vaginal opening.",
+          "C": "Excision treats a symptomatic Gartner cyst, which sits on the lateral vaginal wall and does not obstruct menstrual flow.",
+          "D": "Vaginal reconstruction addresses vaginal atresia or agenesis; this patient has a normally developed vagina behind the hymen.",
+          "E": "Observation leaves the obstruction in place, allowing continued accumulation of blood and risk of urinary retention from compression."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "imperforate hymen",
+        "hematocolpos",
+        "primary amenorrhea"
+      ],
+      "topicId": "congenital-disorders-of-the-reproductive-systems",
+      "topicName": "Congenital Disorders of the Reproductive Systems"
+    },
+    {
+      "id": "rp07-004",
+      "stem": "A 17-year-old girl is evaluated for primary amenorrhea. She has normal breast development and pubic hair. Pelvic examination shows normal external genitalia with a short, blind-ending lower vagina. Ultrasonography shows normal ovaries but no uterus. Karyotype is 46,XX. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mayer-von Rokitansky-Kuster-Hauser syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Complete androgen insensitivity syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Imperforate hymen with hematocolpos"
+        },
+        {
+          "label": "D",
+          "text": "Classic congenital adrenal hyperplasia"
+        },
+        {
+          "label": "E",
+          "text": "Uterus didelphys with double cervix"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MRKH syndrome (Mullerian agenesis) is failure of the paramesonephric ducts to form, leaving no uterus or upper vagina in a 46,XX female with normal ovaries.",
+        "whyCorrect": "In MRKH syndrome the Mullerian ducts fail to develop normally, so the uterus and upper vagina are absent while the lower vagina, ovaries, and external genitalia are normal. It is typically diagnosed when a girl fails to menstruate, and the 46,XX karyotype with normal ovaries fits this diagnosis.",
+        "whyWrongByChoice": {
+          "B": "Complete AIS occurs in 46,XY individuals with testes; this patient is 46,XX with ovaries.",
+          "C": "An imperforate hymen obstructs an otherwise normally developed uterus and vagina and causes cyclic pain with hematocolpos, not an absent uterus.",
+          "D": "CAH virilizes the external genitalia of a 46,XX fetus; it does not cause absence of the uterus.",
+          "E": "Uterus didelphys is duplication of the uterus from complete fusion failure, the opposite of agenesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MRKH",
+        "mullerian agenesis",
+        "primary amenorrhea"
+      ],
+      "topicId": "congenital-disorders-of-the-reproductive-systems",
+      "topicName": "Congenital Disorders of the Reproductive Systems"
+    },
+    {
+      "id": "rp07-005",
+      "stem": "A male infant born at 34 weeks' gestation has an empty right hemiscrotum, with a smooth mass palpable in the right inguinal region. The testis has not descended by 18 months of age and the family declines surgery. Which of the following best explains the mechanism by which this condition threatens future fertility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sertoli cell function is impaired at core body temperature"
+        },
+        {
+          "label": "B",
+          "text": "Leydig cells stop producing testosterone outside the scrotum"
+        },
+        {
+          "label": "C",
+          "text": "The vas deferens fails to form on the affected side"
+        },
+        {
+          "label": "D",
+          "text": "Target tissues become resistant to circulating androgens"
+        },
+        {
+          "label": "E",
+          "text": "Peritoneal fluid compresses the seminiferous tubules"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Undescended testes sit at core body temperature, where temperature-sensitive Sertoli cells cannot support sperm maturation.",
+        "whyCorrect": "Scrotal temperature is normally lower than core body temperature. In cryptorchidism the testis remains in the abdomen or inguinal canal, and the temperature-sensitive Sertoli cells responsible for sperm maturation do not function optimally at core temperature, producing infertility; the disrupted germ cell differentiation also raises germ cell tumor risk.",
+        "whyWrongByChoice": {
+          "B": "The lecture attributes infertility in cryptorchidism to Sertoli cell temperature sensitivity affecting sperm maturation, not loss of Leydig hormone production.",
+          "C": "Absence of the vas deferens is a separate anomaly related to CFTR mutations, not a consequence of failed testicular descent.",
+          "D": "Androgen receptor resistance is the mechanism of androgen insensitivity syndrome, unrelated to testicular position.",
+          "E": "Peritoneal fluid tracking into the scrotum describes a communicating hydrocele, not the mechanism of infertility in cryptorchidism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cryptorchidism",
+        "infertility",
+        "Sertoli cells"
+      ],
+      "topicId": "congenital-disorders-of-the-reproductive-systems",
+      "topicName": "Congenital Disorders of the Reproductive Systems"
+    },
+    {
+      "id": "rp07-006",
+      "stem": "A 4-month-old boy has painless swelling of the left hemiscrotum. Ultrasonography shows an anechoic fluid collection surrounding the testis, and the swelling has persisted since birth with fluctuation in size. The processus vaginalis is found to be widely patent. In addition to the current findings, this patient is at greatest risk for which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Indirect inguinal hernia"
+        },
+        {
+          "label": "B",
+          "text": "Testicular germ cell tumor"
+        },
+        {
+          "label": "C",
+          "text": "Bladder exstrophy"
+        },
+        {
+          "label": "D",
+          "text": "Obstructive azoospermia"
+        },
+        {
+          "label": "E",
+          "text": "Penile fibrous plaque formation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A widely patent processus vaginalis underlies a communicating hydrocele and increases the risk of indirect inguinal hernia.",
+        "whyCorrect": "A communicating hydrocele results from incomplete closure of the processus vaginalis, allowing peritoneal fluid into the tunica vaginalis. When the processus vaginalis is widely patent, abdominal contents can also pass through it, so these patients are at increased risk of developing an indirect inguinal hernia.",
+        "whyWrongByChoice": {
+          "B": "Germ cell tumor risk is a sequela of cryptorchidism, in which the testis remains at higher temperature; this testis is descended.",
+          "C": "Bladder exstrophy is associated with epispadias and failed midline abdominal wall closure, not with hydrocele.",
+          "D": "Obstructive azoospermia results from congenital absence of the vas deferens, not from a patent processus vaginalis.",
+          "E": "Fibrous plaques of the erectile tissue describe Peyronie disease, an acquired adult condition unrelated to hydrocele."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hydrocele",
+        "processus vaginalis",
+        "inguinal hernia"
+      ],
+      "topicId": "congenital-disorders-of-the-reproductive-systems",
+      "topicName": "Congenital Disorders of the Reproductive Systems"
+    },
+    {
+      "id": "rp07-007",
+      "stem": "A newborn boy has a urethral opening on the ventral surface of the penile shaft, proximal to the glans. The foreskin has a hooded appearance with absent ventral tissue, and the penis curves ventrally. Which of the following developmental abnormalities most likely produced these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Incomplete fusion of the urethral folds along the ventral midline"
+        },
+        {
+          "label": "B",
+          "text": "Abnormally dorsal positioning of the genital tubercle"
+        },
+        {
+          "label": "C",
+          "text": "Persistence of the processus vaginalis after testicular descent"
+        },
+        {
+          "label": "D",
+          "text": "Failure of the testes to descend into the scrotum"
+        },
+        {
+          "label": "E",
+          "text": "Failure of midline closure of the anterior abdominal wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hypospadias results from failure of the urethral folds to fuse completely along the ventral midline.",
+        "whyCorrect": "A ventral urethral opening with a hooded, cobra-head foreskin and chordee (congenital ventral curvature) is classic for hypospadias, the most common congenital penile anomaly. It reflects incomplete fusion of the urethral folds during formation of the penile urethra.",
+        "whyWrongByChoice": {
+          "B": "Dorsal malposition of the genital tubercle causes epispadias, with a dorsal rather than ventral urethral opening.",
+          "C": "A persistent processus vaginalis produces a communicating hydrocele, not an abnormal urethral meatus.",
+          "D": "Failed testicular descent is cryptorchidism, which presents with an empty scrotal sac.",
+          "E": "Failed midline abdominal wall closure causes bladder exstrophy, which is associated with epispadias."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hypospadias",
+        "urethral folds",
+        "chordee"
+      ],
+      "topicId": "congenital-disorders-of-the-reproductive-systems",
+      "topicName": "Congenital Disorders of the Reproductive Systems"
+    },
+    {
+      "id": "rp07-008",
+      "stem": "A newborn boy is noted to have the urethral meatus located on the dorsal surface of the penis rather than at the tip of the glans. This anomaly is most frequently associated with which of the following conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bladder exstrophy"
+        },
+        {
+          "label": "B",
+          "text": "Unilateral renal agenesis"
+        },
+        {
+          "label": "C",
+          "text": "Cryptorchidism"
+        },
+        {
+          "label": "D",
+          "text": "Communicating hydrocele"
+        },
+        {
+          "label": "E",
+          "text": "Peyronie disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Epispadias is frequently associated with bladder exstrophy because both reflect extensive disruption of midline development.",
+        "whyCorrect": "A dorsal urethral opening defines epispadias, which arises when the genital tubercle develops in an abnormally dorsal position. Epispadias is much less common than hypospadias and is frequently associated with bladder exstrophy, in which the bladder is exposed on the anterior abdominal wall from failure of midline closure.",
+        "whyWrongByChoice": {
+          "B": "Unilateral renal agenesis is described in association with congenital absence of the vas deferens, not epispadias.",
+          "C": "Cryptorchidism reflects failed testicular descent and is associated with prematurity, not with dorsal urethral malposition.",
+          "D": "A communicating hydrocele arises from a patent processus vaginalis and is not linked to epispadias.",
+          "E": "Peyronie disease is an acquired adult condition of fibrous plaques in erectile tissue, unrelated to this congenital anomaly."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "epispadias",
+        "bladder exstrophy",
+        "genital tubercle"
+      ],
+      "topicId": "congenital-disorders-of-the-reproductive-systems",
+      "topicName": "Congenital Disorders of the Reproductive Systems"
+    },
+    {
+      "id": "rp07-009",
+      "stem": "A 29-year-old man is evaluated for infertility. Semen analysis on two occasions shows azoospermia. He has normal testicular size, normal secondary sexual characteristics, and a normal serum testosterone concentration, but the vas deferens is not palpable on either side. Mutation of which of the following genes is the most likely cause of his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CFTR"
+        },
+        {
+          "label": "B",
+          "text": "AR"
+        },
+        {
+          "label": "C",
+          "text": "The gene encoding 21-hydroxylase"
+        },
+        {
+          "label": "D",
+          "text": "A gene disrupted by trinucleotide repeat expansion"
+        },
+        {
+          "label": "E",
+          "text": "A gene controlling gonadal differentiation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Congenital bilateral absence of the vas deferens is classically caused by CFTR mutations, producing obstructive azoospermia with preserved spermatogenesis.",
+        "whyCorrect": "In CFTR-related disease, abnormal ion transport during embryogenesis leads to failure of normal formation or early degeneration of the vas deferens. Affected men present in adulthood with infertility from obstructive azoospermia, yet spermatogenesis, testicular size, secondary sexual characteristics, and testosterone are normal; sperm retrieval with IVF or ICSI can allow biological fatherhood.",
+        "whyWrongByChoice": {
+          "B": "AR mutations cause androgen insensitivity, in which 46,XY individuals develop female or ambiguous external genitalia; this man is normally virilized.",
+          "C": "21-hydroxylase deficiency causes congenital adrenal hyperplasia with virilization of XX fetuses, not isolated absence of the vas deferens.",
+          "D": "A trinucleotide repeat in the androgen receptor causes Kennedy disease, which presents with progressive weakness and gynecomastia, not absent vasa.",
+          "E": "Disordered gonadal differentiation produces ovotesticular DSD; this patient has normal testes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CBAVD",
+        "CFTR",
+        "azoospermia"
+      ],
+      "topicId": "congenital-disorders-of-the-reproductive-systems",
+      "topicName": "Congenital Disorders of the Reproductive Systems"
+    },
+    {
+      "id": "rp07-010",
+      "stem": "A newborn with a 46,XX karyotype has virilized external genitalia. Ultrasonography shows ovaries and a uterus, with no testicular tissue identified. Which of the following is the most likely cause of this infant's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "21-hydroxylase deficiency increasing fetal androgen production"
+        },
+        {
+          "label": "B",
+          "text": "Androgen receptor mutation preventing testosterone action"
+        },
+        {
+          "label": "C",
+          "text": "Presence of both ovarian and testicular tissue in the gonads"
+        },
+        {
+          "label": "D",
+          "text": "Persistence of a mesonephric duct remnant"
+        },
+        {
+          "label": "E",
+          "text": "Complete failure of paramesonephric duct fusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The most common cause of 46,XX DSD is congenital adrenal hyperplasia from 21-hydroxylase deficiency, which virilizes a genetically female fetus.",
+        "whyCorrect": "In 46,XX DSD, a female genotype with ovaries develops male or ambiguous external genitalia because of excess androgen exposure in utero. The most common cause is CAH from 21-hydroxylase deficiency: impaired cortisol synthesis drives increased androgen production, virilizing the external genitalia. Teratogenic androgen exposure or maternal tumors can do the same.",
+        "whyWrongByChoice": {
+          "B": "AR mutations cause under-virilization of 46,XY individuals (androgen insensitivity), not virilization of a 46,XX fetus.",
+          "C": "Ovotesticular DSD requires both ovarian and testicular tissue; imaging here shows no testicular tissue.",
+          "D": "A mesonephric remnant produces a Gartner cyst on the vaginal wall and does not virilize external genitalia.",
+          "E": "Complete fusion failure of the paramesonephric ducts causes uterus didelphys, a structural uterine anomaly without virilization."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "46,XX DSD",
+        "congenital adrenal hyperplasia",
+        "21-hydroxylase"
+      ],
+      "topicId": "congenital-disorders-of-the-reproductive-systems",
+      "topicName": "Congenital Disorders of the Reproductive Systems"
+    },
+    {
+      "id": "rp07-011",
+      "stem": "A 16-year-old phenotypic female is evaluated for primary amenorrhea. Examination shows normal-appearing female external genitalia. Bilateral inguinal masses are identified as testes on imaging, karyotype is 46,XY, and the serum testosterone concentration is in the normal male range. Which of the following best explains this patient's phenotype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Target tissues cannot respond to circulating testosterone"
+        },
+        {
+          "label": "B",
+          "text": "The adrenal glands overproduce androgen precursors"
+        },
+        {
+          "label": "C",
+          "text": "The testes are unable to synthesize testosterone"
+        },
+        {
+          "label": "D",
+          "text": "The gonads contain both ovarian and testicular tissue"
+        },
+        {
+          "label": "E",
+          "text": "Abnormal ion transport degraded the mesonephric duct derivatives"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In androgen insensitivity syndrome, androgen receptor mutations leave target tissues unable to respond to testosterone, so external genitalia follow the default female pattern.",
+        "whyCorrect": "This is 46,XY DSD from androgen insensitivity syndrome, the most common cause. Testosterone is produced by the testes, and levels are normal, but mutations in the androgen receptor prevent target tissues from responding, so external genital development follows the default female pattern. Complete and partial forms exist.",
+        "whyWrongByChoice": {
+          "B": "Adrenal androgen excess (CAH) virilizes 46,XX fetuses; it would not feminize a 46,XY individual with normal testosterone.",
+          "C": "Defective testosterone synthesis, as in rare forms of CAH, causes under-virilization with low androgen production, but this patient's testosterone is normal.",
+          "D": "Ovotesticular DSD involves both gonadal tissue types, most often with a 46,XX karyotype; imaging here shows testes.",
+          "E": "CFTR-related degeneration of the vas deferens causes obstructive azoospermia in normally virilized men, not a female phenotype."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "androgen insensitivity",
+        "46,XY DSD",
+        "androgen receptor"
+      ],
+      "topicId": "congenital-disorders-of-the-reproductive-systems",
+      "topicName": "Congenital Disorders of the Reproductive Systems"
+    },
+    {
+      "id": "rp07-012",
+      "stem": "A newborn has ambiguous genitalia, and evaluation at a quaternary center with a multidisciplinary team is arranged. The parents request genital surgery before hospital discharge to spare the child distress, while several team members recommend waiting. Which of the following best characterizes the central ethical tension in this decision?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early intervention to relieve ambiguity versus deferring surgery to preserve the patient's autonomy"
+        },
+        {
+          "label": "B",
+          "text": "Confirming a genetic diagnosis versus beginning any supportive care"
+        },
+        {
+          "label": "C",
+          "text": "Achieving surgical precision versus limiting anesthesia exposure"
+        },
+        {
+          "label": "D",
+          "text": "Choosing which single specialist should direct the treatment plan"
+        },
+        {
+          "label": "E",
+          "text": "Protecting patient confidentiality versus informing the extended family"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The key ethical tension in DSD management is between early intervention and deferring irreversible decisions until the patient can exercise autonomy.",
+        "whyCorrect": "Management of DSDs is guided by autonomy, benevolence, non-maleficence, and justice, and the central unresolved tension is between the desire for early intervention (to relieve the angst of ambiguity and achieve better surgical outcomes) and patient autonomy, which would require deferring intervention until adulthood. Care should be individualized by a multidisciplinary team with the family, incorporating the patient's cultural setting.",
+        "whyWrongByChoice": {
+          "B": "Supportive care is not withheld pending genetic results; sequencing diagnosis against support is not the described tension.",
+          "C": "Anesthesia exposure is not the ethical dilemma the lecture identifies; the conflict concerns timing of irreversible intervention versus self-determination.",
+          "D": "Care is delivered cooperatively by a multidisciplinary team with the family, not directed by a single lead specialist.",
+          "E": "Confidentiality versus family disclosure is not the central conflict described in DSD management."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DSD ethics",
+        "autonomy",
+        "multidisciplinary care"
+      ],
+      "topicId": "congenital-disorders-of-the-reproductive-systems",
+      "topicName": "Congenital Disorders of the Reproductive Systems"
+    },
+    {
+      "id": "rp08-001",
+      "stem": "A 25-year-old woman who never received routine childhood vaccinations develops fever, headache, lymphadenopathy, and a diffuse erythematous rash; serologic testing confirms rubella. Several weeks later she is found to be pregnant, with the infection estimated to have occurred very early in gestation. The fetus is at greatest risk for which of the following patterns of congenital anomalies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Microcephaly with intracranial calcifications"
+        },
+        {
+          "label": "B",
+          "text": "Cataracts, sensorineural deafness, and heart defects"
+        },
+        {
+          "label": "C",
+          "text": "Limb reduction defects of the upper extremities"
+        },
+        {
+          "label": "D",
+          "text": "Smooth philtrum, thin upper lip, and joint anomalies"
+        },
+        {
+          "label": "E",
+          "text": "Neural tube defects of the lumbosacral spine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Congenital rubella causes cataracts, sensorineural deafness, and congenital heart disease.",
+        "whyCorrect": "Rubella is a TORCHeS pathogen that crosses the placenta even when maternal illness is mild. Infection in very early pregnancy carries a high risk of miscarriage, stillbirth, and the classic triad of cataracts, sensorineural deafness, and congenital heart defects, along with developmental delay.",
+        "whyWrongByChoice": {
+          "A": "Microcephaly with intracranial calcifications, hearing loss, and vision impairment is the classic pattern of congenital CMV infection, not rubella.",
+          "C": "Limb reduction defects (phocomelia) are the hallmark of thalidomide exposure, a chemical teratogen rather than an infectious one.",
+          "D": "A smooth philtrum, thin upper lip, and joint anomalies characterize fetal alcohol syndrome, not congenital rubella.",
+          "E": "Neural tube defects are associated with valproic acid exposure and folate deficiency, not with rubella infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TORCHeS",
+        "rubella",
+        "infectious teratogens"
+      ],
+      "topicId": "errors-in-morphogenesis",
+      "topicName": "Errors in Morphogenesis"
+    },
+    {
+      "id": "rp08-002",
+      "stem": "A 28-year-old woman is exposed to a known chemical teratogen during week 6 of gestation. Compared with exposure at other times in pregnancy, exposure during this period places the embryo at highest risk for which of the following outcomes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of the embryo or no lasting effect"
+        },
+        {
+          "label": "B",
+          "text": "Isolated functional deficits without structural change"
+        },
+        {
+          "label": "C",
+          "text": "Major structural anomalies of developing organs"
+        },
+        {
+          "label": "D",
+          "text": "Minor structural changes in fully formed organs"
+        },
+        {
+          "label": "E",
+          "text": "Postnatal growth failure without congenital anomalies"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Weeks 3-8 are the most teratogen-sensitive period because organogenesis is occurring.",
+        "whyCorrect": "During weeks 3-8, all major body structures are forming (organogenesis), making this the most sensitive window for teratogenic injury. Exposure during this period can produce major structural anomalies.",
+        "whyWrongByChoice": {
+          "A": "An all-or-none effect (embryo loss or no lasting effect) describes exposure during weeks 1-2, before significant differentiation has occurred.",
+          "B": "Functional deficits without major structural change are more typical of the fetal period (weeks 9-38), after organogenesis is largely complete.",
+          "D": "Minor structural changes are characteristic of exposure during weeks 9-38, when organogenesis is largely finished.",
+          "E": "Postnatal growth failure alone is not the characteristic risk of exposure during organogenesis, which threatens major structural development."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "teratogen timing",
+        "organogenesis",
+        "embryonic period"
+      ],
+      "topicId": "errors-in-morphogenesis",
+      "topicName": "Errors in Morphogenesis"
+    },
+    {
+      "id": "rp08-003",
+      "stem": "A 30-year-old woman unknowingly takes a teratogenic medication 10 days after fertilization, before significant embryonic differentiation has occurred. Which of the following best describes the expected effect of this exposure on the conceptus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Major structural anomalies of multiple organ systems"
+        },
+        {
+          "label": "B",
+          "text": "Minor anomalies limited to one organ system"
+        },
+        {
+          "label": "C",
+          "text": "Either loss of the embryo or no lasting effect"
+        },
+        {
+          "label": "D",
+          "text": "Functional deficits that appear only after birth"
+        },
+        {
+          "label": "E",
+          "text": "Disorganized cellular architecture in a single tissue"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Teratogen exposure in weeks 1-2 produces an all-or-none effect.",
+        "whyCorrect": "Because the embryo has not yet undergone significant differentiation during weeks 1-2, a teratogenic insult in this window either kills the embryo or leaves no lasting effect. This is the classic all-or-none phenomenon.",
+        "whyWrongByChoice": {
+          "A": "Major structural anomalies result from exposure during weeks 3-8, when organogenesis is under way, not before differentiation begins.",
+          "B": "Minor structural anomalies are typical of exposure in the fetal period (weeks 9-38), not the first two weeks.",
+          "D": "Functional deficits characterize later fetal exposure; the pre-differentiation embryo instead shows an all-or-none response.",
+          "E": "Disorganized cellular architecture describes dysplasia, an intrinsic genetic abnormality of tissue organization, not the effect of very early teratogen exposure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "all-or-none effect",
+        "teratogen timing",
+        "weeks 1-2"
+      ],
+      "topicId": "errors-in-morphogenesis",
+      "topicName": "Errors in Morphogenesis"
+    },
+    {
+      "id": "rp08-004",
+      "stem": "A 26-year-old woman with epilepsy becomes pregnant while taking a medication for seizure prophylaxis. Her fetus is subsequently found to have a neural tube defect. Which of the following mechanisms best explains this anomaly?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasoconstriction of placental blood vessels"
+        },
+        {
+          "label": "B",
+          "text": "Disruption of maternal-fetal folate metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Direct DNA strand breaks in embryonic cells"
+        },
+        {
+          "label": "D",
+          "text": "Fetal hyperglycemia with oxidative stress"
+        },
+        {
+          "label": "E",
+          "text": "Constriction of the embryo by amniotic bands"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Valproic acid raises neural tube defect risk by disrupting folate metabolism.",
+        "whyCorrect": "Valproic acid, used for seizure prophylaxis and mood stabilization, disrupts folate metabolism. Because folate supports DNA synthesis and methylation needed for neural tube closure, this disruption increases the risk of neural tube defects.",
+        "whyWrongByChoice": {
+          "A": "Placental vasoconstriction is the mechanism of cocaine, which causes low birth weight and prematurity rather than neural tube defects.",
+          "C": "DNA breaks in rapidly dividing cells describe the injury caused by ionizing radiation, a physical rather than chemical teratogen.",
+          "D": "Fetal hyperglycemia and oxidative stress are the mechanism by which poorly controlled maternal diabetes injures the fetus.",
+          "E": "Amniotic bands cause disruption through mechanical constriction of limbs or digits, not neural tube defects from a medication."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "valproic acid",
+        "neural tube defects",
+        "folate"
+      ],
+      "topicId": "errors-in-morphogenesis",
+      "topicName": "Errors in Morphogenesis"
+    },
+    {
+      "id": "rp08-005",
+      "stem": "A 32-year-old woman with bipolar disorder has been maintained on a mood-stabilizing medication throughout an unplanned pregnancy. Fetal echocardiography is performed because her medication is classically associated with which of the following anomalies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ebstein anomaly of the tricuspid valve"
+        },
+        {
+          "label": "B",
+          "text": "Neural tube defect of the lumbar spine"
+        },
+        {
+          "label": "C",
+          "text": "Limb reduction defect of both arms"
+        },
+        {
+          "label": "D",
+          "text": "Cleft palate with skeletal defects"
+        },
+        {
+          "label": "E",
+          "text": "Cataracts with sensorineural deafness"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lithium is classically associated with Ebstein anomaly, a tricuspid valve malformation.",
+        "whyCorrect": "Lithium, used to treat bipolar disorder, is associated with Ebstein anomaly, a malformation of the tricuspid valve. Although the association is weaker than initially reported, it remains a board-tested link that prompts fetal cardiac evaluation.",
+        "whyWrongByChoice": {
+          "B": "Neural tube defects are linked to valproic acid, which disrupts folate metabolism; valproate is a mood stabilizer but the classic cardiac link here is lithium's.",
+          "C": "Limb reduction defects are the hallmark of thalidomide, historically used as a sedative and anti-nausea drug.",
+          "D": "Cleft palate with skeletal and visceral defects is described with high-dose ionizing radiation exposure, not lithium.",
+          "E": "Cataracts and sensorineural deafness are features of congenital rubella infection, not a medication effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lithium",
+        "Ebstein anomaly",
+        "chemical teratogens"
+      ],
+      "topicId": "errors-in-morphogenesis",
+      "topicName": "Errors in Morphogenesis"
+    },
+    {
+      "id": "rp08-006",
+      "stem": "A 3-year-old boy is evaluated for developmental delay. Examination shows growth restriction, a smooth philtrum, a thin upper lip, joint anomalies, and a ventricular septal defect. Prenatal exposure to which of the following most likely explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maternal cigarette smoking"
+        },
+        {
+          "label": "B",
+          "text": "Maternal cocaine use"
+        },
+        {
+          "label": "C",
+          "text": "Significant maternal alcohol ingestion"
+        },
+        {
+          "label": "D",
+          "text": "Poorly controlled maternal diabetes"
+        },
+        {
+          "label": "E",
+          "text": "Untreated maternal phenylketonuria"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fetal alcohol syndrome causes growth restriction, intellectual disability, characteristic facies, joint anomalies, and heart defects.",
+        "whyCorrect": "Significant alcohol ingestion during pregnancy can cause fetal alcohol syndrome, characterized by growth restriction, intellectual disability, joint anomalies, congenital heart defects, and characteristic facial features including a smooth philtrum and thin upper lip.",
+        "whyWrongByChoice": {
+          "A": "Smoking is associated with low birth weight and preterm labor from impaired placental blood flow, not this facial phenotype.",
+          "B": "Cocaine causes placental vasoconstriction leading to low birth weight, prematurity, and subtle cognitive deficits, without the characteristic FAS facies.",
+          "D": "Maternal diabetes causes nervous system, skeletal, and heart anomalies through fetal hyperglycemia, but not the smooth philtrum and thin upper lip.",
+          "E": "Maternal PKU causes intellectual disability, heart defects, and growth restriction via high phenylalanine, but lacks the distinctive facial features described here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fetal alcohol syndrome",
+        "substances of abuse"
+      ],
+      "topicId": "errors-in-morphogenesis",
+      "topicName": "Errors in Morphogenesis"
+    },
+    {
+      "id": "rp08-007",
+      "stem": "A 24-year-old woman diagnosed with phenylketonuria in infancy stopped following her restricted diet years ago. She is now pregnant. Which of the following best explains how her condition threatens the fetus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A pathogen crosses the placenta despite mild maternal illness"
+        },
+        {
+          "label": "B",
+          "text": "Elevated maternal phenylalanine acts as a metabolic teratogen"
+        },
+        {
+          "label": "C",
+          "text": "Reduced amniotic fluid compresses normally formed structures"
+        },
+        {
+          "label": "D",
+          "text": "An inherited enzyme defect is transmitted to the fetus"
+        },
+        {
+          "label": "E",
+          "text": "Maternal hyperglycemia produces fetal oxidative stress"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In maternal PKU, high phenylalanine crosses the placenta and acts as a metabolic teratogen.",
+        "whyCorrect": "In maternal PKU, high maternal phenylalanine levels cross the placenta and act as a metabolic teratogen. Elevated phenylalanine in fetal blood can cause intellectual disability, heart defects, and intrauterine growth restriction, which is why newborn PKU screening enables dietary counseling before future pregnancies.",
+        "whyWrongByChoice": {
+          "A": "Transplacental pathogen passage describes infectious teratogens such as the TORCHeS organisms, not a maternal metabolic disease.",
+          "C": "Oligohydramnios causing compression describes the mechanism of deformations such as clubfoot, not maternal PKU.",
+          "D": "The fetal risk in maternal PKU comes from exposure to the mother's elevated phenylalanine, not from the fetus inheriting the enzyme defect itself.",
+          "E": "Fetal hyperglycemia with oxidative stress is the mechanism of injury in poorly controlled maternal diabetes mellitus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "maternal PKU",
+        "metabolic teratogen",
+        "maternal factors"
+      ],
+      "topicId": "errors-in-morphogenesis",
+      "topicName": "Errors in Morphogenesis"
+    },
+    {
+      "id": "rp08-008",
+      "stem": "A newborn is delivered with constriction rings around the right forearm and amputation of two fingers. Torn strands of amniotic tissue are found wrapped around the affected limb. The digits had been developing normally before becoming entangled. This anomaly is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malformation"
+        },
+        {
+          "label": "B",
+          "text": "Disruption"
+        },
+        {
+          "label": "C",
+          "text": "Deformation"
+        },
+        {
+          "label": "D",
+          "text": "Dysplasia"
+        },
+        {
+          "label": "E",
+          "text": "Syndrome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Amniotic band injury is the classic disruption: an extrinsic force damages a normally developing structure.",
+        "whyCorrect": "A disruption results from extrinsic breakdown or interference with a structure that was developing normally. Amniotic bands wrapping around fetal limbs or digits cause constriction, ischemia, or amputation, making them the classic example of this mechanism.",
+        "whyWrongByChoice": {
+          "A": "A malformation arises from an intrinsically abnormal developmental program; here the digits were forming normally until the bands injured them.",
+          "C": "A deformation is caused by mechanical forces that alter shape or position while the tissue remains intact; amniotic bands destroy tissue rather than merely reshaping it.",
+          "D": "Dysplasia is an intrinsic abnormality of cellular organization within a tissue, not damage from an external structure.",
+          "E": "A syndrome is a group of anomalies sharing one underlying cause, not a single mechanical injury to one limb."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "disruption",
+        "amniotic bands",
+        "classification"
+      ],
+      "topicId": "errors-in-morphogenesis",
+      "topicName": "Errors in Morphogenesis"
+    },
+    {
+      "id": "rp08-009",
+      "stem": "A newborn twin is noted to have clubfoot. The pregnancy was complicated by oligohydramnios, and imaging during gestation showed persistent pressure of the fetus against the uterine wall. The affected foot has structurally intact, normally formed tissues. Which of the following best classifies this anomaly?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malformation"
+        },
+        {
+          "label": "B",
+          "text": "Disruption"
+        },
+        {
+          "label": "C",
+          "text": "Deformation"
+        },
+        {
+          "label": "D",
+          "text": "Dysplasia"
+        },
+        {
+          "label": "E",
+          "text": "Association"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Clubfoot from uterine compression is a deformation: mechanical force reshaping an intact, normally developing structure.",
+        "whyCorrect": "A deformation is caused by external mechanical forces acting on a normally developing structure; the tissue is intact and only its shape or position is altered. Oligohydramnios and crowding from multiple gestation produce persistent pressure that can cause clubfoot or retrognathia.",
+        "whyWrongByChoice": {
+          "A": "A malformation reflects an intrinsically abnormal developmental process, but this foot formed normally and was reshaped by pressure.",
+          "B": "A disruption involves destruction or interruption of a developing structure by an outside force; here the tissue is intact, not damaged.",
+          "D": "Dysplasia is disorganized cellular architecture from an intrinsic genetic abnormality, not a positional change from compression.",
+          "E": "An association is a pattern of multiple co-occurring anomalies without a unifying cause, not a single pressure-related defect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "deformation",
+        "oligohydramnios",
+        "clubfoot"
+      ],
+      "topicId": "errors-in-morphogenesis",
+      "topicName": "Errors in Morphogenesis"
+    },
+    {
+      "id": "rp08-010",
+      "stem": "An infant is evaluated for disproportionately short limbs and other features of dwarfism. Genetic testing identifies a mutation in FGFR3 that impairs endochondral ossification by altering cell growth and signaling within developing cartilage. This condition is best classified as which type of error in morphogenesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deformation from mechanical compression"
+        },
+        {
+          "label": "B",
+          "text": "Disruption of a normally forming skeleton"
+        },
+        {
+          "label": "C",
+          "text": "Sequence initiated by a single skeletal defect"
+        },
+        {
+          "label": "D",
+          "text": "Dysplasia with disorganized cellular architecture"
+        },
+        {
+          "label": "E",
+          "text": "Association of sporadic skeletal findings"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Achondroplasia, from an FGFR3 mutation, is the most common skeletal dysplasia.",
+        "whyCorrect": "Dysplasia is an intrinsic developmental abnormality characterized by disorganized cell structure within a tissue, typically arising from mutations that alter cell growth, differentiation, or signaling. Achondroplasia, caused by an FGFR3 mutation that impairs endochondral ossification, is the classic and most common skeletal dysplasia.",
+        "whyWrongByChoice": {
+          "A": "Deformations result from external mechanical forces such as uterine compression, not from a genetic defect in tissue organization.",
+          "B": "Disruptions require an extrinsic force damaging a normally developing structure; achondroplasia is intrinsic and genetic.",
+          "C": "A sequence is a cascade of multiple anomalies from one initiating event, not a single tissue-level abnormality of cartilage.",
+          "E": "An association describes co-occurring anomalies without an identified unifying cause; achondroplasia has a defined single-gene cause."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dysplasia",
+        "achondroplasia",
+        "FGFR3"
+      ],
+      "topicId": "errors-in-morphogenesis",
+      "topicName": "Errors in Morphogenesis"
+    },
+    {
+      "id": "rp08-011",
+      "stem": "A stillborn infant has pulmonary hypoplasia, limb positioning abnormalities, and flattened facial features. Autopsy reveals a severe primary abnormality of the urinary system that had caused markedly reduced urine production and oligohydramnios. Which of the following best explains why these anomalies are classified as a sequence rather than a syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All the anomalies share one underlying chromosomal abnormality"
+        },
+        {
+          "label": "B",
+          "text": "Each anomaly resulted from a cascade begun by a single initiating defect"
+        },
+        {
+          "label": "C",
+          "text": "The findings co-occur more often than expected without a known cause"
+        },
+        {
+          "label": "D",
+          "text": "The anomalies are parallel manifestations of one teratogenic exposure"
+        },
+        {
+          "label": "E",
+          "text": "At least three hallmark features were required for the diagnosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A sequence is a cascade of anomalies all stemming from a single initiating event, as in Potter sequence.",
+        "whyCorrect": "In Potter sequence, a primary urinary abnormality severely reduces urine production, causing oligohydramnios, which in turn produces pulmonary hypoplasia and compression deformities such as limb positioning abnormalities and flattened facies. Because each abnormality leads to the next, the pattern is a sequence.",
+        "whyWrongByChoice": {
+          "A": "A shared chromosomal abnormality producing parallel anomalies defines a syndrome, such as Down syndrome from trisomy 21.",
+          "C": "Findings that co-occur more often than expected without a unifying cause define an association, such as VACTERL.",
+          "D": "Parallel manifestations of a single etiologic event, including a teratogenic exposure, describe a syndrome rather than a cascade.",
+          "E": "A minimum of three hallmark features is the diagnostic criterion for VACTERL association, not the definition of a sequence."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Potter sequence",
+        "sequence vs syndrome",
+        "oligohydramnios"
+      ],
+      "topicId": "errors-in-morphogenesis",
+      "topicName": "Errors in Morphogenesis"
+    },
+    {
+      "id": "rp08-012",
+      "stem": "A newborn girl has a coloboma, a congenital heart defect, choanal atresia, growth retardation, genital anomalies, and ear abnormalities with deafness. Which of the following is the most likely cause of this pattern of anomalies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sporadic mutation in the CHD7 gene"
+        },
+        {
+          "label": "B",
+          "text": "Trisomy of chromosome 21"
+        },
+        {
+          "label": "C",
+          "text": "Activating mutation in the FGFR3 gene"
+        },
+        {
+          "label": "D",
+          "text": "Mutation in the RET proto-oncogene"
+        },
+        {
+          "label": "E",
+          "text": "Recessive mutation in the NECTIN1 gene"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CHARGE syndrome is a usually sporadic genetic disorder caused by CHD7 mutations.",
+        "whyCorrect": "The findings spell out CHARGE syndrome: Coloboma, Heart defects, choanal Atresia, growth Retardation, Genital anomalies, and Ear abnormalities with deafness. CHARGE is a usually sporadic syndrome caused by mutations in the CHD7 gene, with the anomalies representing parallel manifestations of that single genetic cause.",
+        "whyWrongByChoice": {
+          "B": "Trisomy 21 causes Down syndrome, with intellectual disability, characteristic facies, and heart defects, but not coloboma or choanal atresia.",
+          "C": "FGFR3 mutation causes achondroplasia, a skeletal dysplasia with impaired endochondral ossification and dwarfism.",
+          "D": "RET mutations impair enteric neural crest migration and cause Hirschsprung disease with absent colonic ganglion cells and severe constipation.",
+          "E": "NECTIN1 mutations cause the autosomal recessive Cleft Lip/Palate-Ectodermal Dysplasia Syndrome, not this constellation of findings."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CHARGE syndrome",
+        "CHD7",
+        "syndrome"
+      ],
+      "topicId": "errors-in-morphogenesis",
+      "topicName": "Errors in Morphogenesis"
+    }
+  ]
+}

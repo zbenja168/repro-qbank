@@ -1,0 +1,2763 @@
+{
+  "categoryId": "male-repro-pathology",
+  "categoryName": "Male Reproductive Pathology",
+  "questions": [
+    {
+      "id": "rp25-001",
+      "stem": "A newborn male is noted on examination to have his urethral opening on the ventral surface of the penis, along with a mild ventral curvature of the penile shaft. Which of the following embryologic events most likely accounts for the abnormal position of the urethral meatus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of the genital tubercle to attain its correct position"
+        },
+        {
+          "label": "B",
+          "text": "Failure of the urethral folds to fuse"
+        },
+        {
+          "label": "C",
+          "text": "Persistence of adhesions between the prepuce and the glans"
+        },
+        {
+          "label": "D",
+          "text": "Fibrosis of the tunica albuginea near the dorsal midline"
+        },
+        {
+          "label": "E",
+          "text": "Scarring of the distal prepuce after recurrent inflammation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hypospadias, a ventral urethral opening, results from failure of the urethral folds to fuse.",
+        "whyCorrect": "A urethral meatus on the ventral (under) surface of the penis defines hypospadias, which is caused by failure of the urethral folds to fuse. The accompanying ventral curvature is chordee, which is often seen concurrently with hypospadias.",
+        "whyWrongByChoice": {
+          "A": "Malposition of the genital tubercle causes epispadias, in which the urethral opening is on the dorsal surface of the penis.",
+          "C": "Adhesions between the inner prepuce and the glans explain physiologic phimosis in newborns, not an ectopic urethral meatus.",
+          "D": "A fibrous plaque of the tunica albuginea is the lesion of Peyronie disease, an acquired condition of adults.",
+          "E": "Distal preputial scarring causes pathologic phimosis in older children; it does not alter the position of the urethral meatus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hypospadias",
+        "congenital",
+        "embryology"
+      ],
+      "topicId": "disorders-of-the-penis",
+      "topicName": "Disorders of the Penis"
+    },
+    {
+      "id": "rp25-002",
+      "stem": "The parents of a 2-day-old boy request circumcision before discharge from the newborn nursery. On examination, the urethral opening is located on the dorsal surface of the penis. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Perform circumcision under local anesthesia with a Plastibell device"
+        },
+        {
+          "label": "B",
+          "text": "Defer circumcision and plan surgical repair of the anomaly at 6-12 months of age"
+        },
+        {
+          "label": "C",
+          "text": "Perform immediate surgical repair of the urethral anomaly in the newborn period"
+        },
+        {
+          "label": "D",
+          "text": "Perform preputial balloon dilation before proceeding with circumcision"
+        },
+        {
+          "label": "E",
+          "text": "Obtain a retrograde urethrogram before any decision about circumcision"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Epispadias is a contraindication to circumcision, and the anomaly is repaired ideally at 6-12 months of age.",
+        "whyCorrect": "A dorsal urethral opening is epispadias. Hypospadias and epispadias are both contraindications to circumcision, as are chordee and ambiguous genitalia. These congenital anomalies are surgically repaired, ideally when the patient is 6-12 months old.",
+        "whyWrongByChoice": {
+          "A": "Circumcision is contraindicated in the presence of epispadias, regardless of the technique or device used.",
+          "C": "Repair is not performed immediately in the newborn period; the ideal timing is 6-12 months of age.",
+          "D": "Preputial balloon dilation is a treatment for pathologic phimosis in older children, not part of managing epispadias.",
+          "E": "Retrograde urethrography evaluates traumatic urethral injury; it is not needed to recognize this congenital anomaly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epispadias",
+        "circumcision",
+        "contraindication"
+      ],
+      "topicId": "disorders-of-the-penis",
+      "topicName": "Disorders of the Penis"
+    },
+    {
+      "id": "rp25-003",
+      "stem": "A 24-year-old man presents with several pedunculated, red-brown growths on the penile shaft that occasionally itch. A biopsy is performed because the diagnosis is initially uncertain. Which of the following histologic findings is most characteristic of this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epithelial cells with large wrinkled nuclei and perinuclear halos"
+        },
+        {
+          "label": "B",
+          "text": "Nests of basaloid malignant squamous cells invading the stroma"
+        },
+        {
+          "label": "C",
+          "text": "Well-differentiated keratin-producing squamous cell carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Malignant intraepithelial cells confined above the basement membrane"
+        },
+        {
+          "label": "E",
+          "text": "Dense fibrous plaque within the tunica albuginea"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Condyloma acuminatum shows koilocytes, HPV-transformed epithelial cells with raisinoid nuclei and perinuclear halos.",
+        "whyCorrect": "Sessile or pedunculated red-brown penile growths are condylomata acuminata, caused by low-risk HPV types 6 and 11. The most characteristic histologic feature is the koilocyte: an epithelial cell transformed by HPV with a large, dark, often wrinkled (raisinoid) nucleus surrounded by a clear perinuclear halo.",
+        "whyWrongByChoice": {
+          "B": "Basaloid invasive carcinoma is a histologic pattern of HPV-associated squamous cell carcinoma, not a benign genital wart.",
+          "C": "The well-differentiated keratinizing pattern characterizes HPV-independent squamous cell carcinoma of the penis.",
+          "D": "Intraepithelial malignant cells that have not invaded the stroma define penile intraepithelial neoplasia (PeIN), not condyloma.",
+          "E": "A fibrous plaque of the tunica albuginea is the lesion of Peyronie disease, which is not an epithelial proliferation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "condyloma-acuminatum",
+        "koilocyte",
+        "HPV"
+      ],
+      "topicId": "disorders-of-the-penis",
+      "topicName": "Disorders of the Penis"
+    },
+    {
+      "id": "rp25-004",
+      "stem": "A 30-year-old man has biopsy-proven condylomata acuminata of the penis. A large lesion has persisted despite courses of topical imiquimod, podofilox, and trichloroacetic acid, as well as cryotherapy. Which of the following is the most appropriate next step in treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Laser or excisional surgical removal of the lesion"
+        },
+        {
+          "label": "B",
+          "text": "Partial penile resection with lymph node dissection"
+        },
+        {
+          "label": "C",
+          "text": "Radiation therapy combined with systemic chemotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Intralesional injection of collagenase clostridium histolyticum"
+        },
+        {
+          "label": "E",
+          "text": "Observation, because these lesions always resolve within weeks"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Surgical (laser or excisional) removal is the option for recalcitrant or larger condylomata acuminata.",
+        "whyCorrect": "Condyloma treatment options include topical imiquimod, podofilox, trichloroacetic acid, and cryotherapy. When lesions are recalcitrant to these measures or are large, surgical removal by laser or excision is the appropriate next option.",
+        "whyWrongByChoice": {
+          "B": "Penile resection with possible node dissection is treatment for localized invasive squamous cell carcinoma, not a benign wart.",
+          "C": "Radiation with chemotherapy is reserved for metastatic penile cancer that has spread to distant organs.",
+          "D": "Intralesional collagenase is an evidence-based treatment for stable Peyronie disease, not for condylomata.",
+          "E": "Condylomata may resolve spontaneously, but this can take months, and this lesion has already failed multiple therapies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "condyloma-acuminatum",
+        "treatment"
+      ],
+      "topicId": "disorders-of-the-penis",
+      "topicName": "Disorders of the Penis"
+    },
+    {
+      "id": "rp25-005",
+      "stem": "A 66-year-old uncircumcised man with obesity, HIV infection, and a 2-year history of phimosis presents with a painless, nonhealing 2-cm ulcer on the glans penis that has been present for 5 months. Which of the following is the most appropriate next step to establish the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biopsy of the ulcer for tissue confirmation"
+        },
+        {
+          "label": "B",
+          "text": "Empiric treatment with topical imiquimod"
+        },
+        {
+          "label": "C",
+          "text": "Cryotherapy of the ulcer base"
+        },
+        {
+          "label": "D",
+          "text": "Retrograde urethrogram with contrast"
+        },
+        {
+          "label": "E",
+          "text": "Reassurance and re-examination in 6 months"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Suspected penile carcinoma requires biopsy for tissue confirmation.",
+        "whyCorrect": "A penile mass or ulcer in a man who has not been circumcised should raise suspicion for squamous cell carcinoma, particularly with risk factors such as phimosis, obesity, and HIV infection. The diagnosis of penile carcinoma requires biopsy for tissue confirmation before treatment planning.",
+        "whyWrongByChoice": {
+          "B": "Topical imiquimod is used for condylomata or for carcinoma in situ, and only after the diagnosis is established by tissue.",
+          "C": "Cryotherapy is a treatment for condyloma acuminatum; treating without a diagnosis could delay recognition of cancer.",
+          "D": "Retrograde urethrography evaluates traumatic urethral injury, not a chronic penile ulcer.",
+          "E": "A chronic nonhealing penile ulcer with multiple cancer risk factors must be biopsied, not observed."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "penile-scc",
+        "diagnosis",
+        "biopsy"
+      ],
+      "topicId": "disorders-of-the-penis",
+      "topicName": "Disorders of the Penis"
+    },
+    {
+      "id": "rp25-006",
+      "stem": "A 61-year-old man presents with a persistent red plaque on the glans penis. Biopsy shows an intraepithelial proliferation of malignant squamous cells that have not invaded the underlying stroma. Which of the following is the most appropriate clinical designation for this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bowen disease"
+        },
+        {
+          "label": "B",
+          "text": "Bowenoid papulosis"
+        },
+        {
+          "label": "C",
+          "text": "Condyloma acuminatum"
+        },
+        {
+          "label": "D",
+          "text": "Erythroplasia of Queyrat"
+        },
+        {
+          "label": "E",
+          "text": "Invasive squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Carcinoma in situ presenting as a red plaque on the glans is called erythroplasia of Queyrat.",
+        "whyCorrect": "Penile intraepithelial neoplasia (PeIN) is named by location and appearance. Erythroplasia of Queyrat is carcinoma in situ on the glans, usually manifesting as a red plaque, exactly matching this presentation and histology.",
+        "whyWrongByChoice": {
+          "A": "Bowen disease is carcinoma in situ on the shaft of the penis, appearing as flat or slightly raised red, pink, or white patches.",
+          "B": "Bowenoid papulosis occurs in younger males as multiple red-to-violet papules and behaves in a benign fashion.",
+          "C": "Condyloma acuminatum is a benign wart caused by low-risk HPV; its histology shows koilocytes, not malignant cells.",
+          "E": "Invasive carcinoma requires malignant cells that have breached the basement membrane and invaded the stroma, which is absent here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PeIN",
+        "erythroplasia-of-queyrat",
+        "carcinoma-in-situ"
+      ],
+      "topicId": "disorders-of-the-penis",
+      "topicName": "Disorders of the Penis"
+    },
+    {
+      "id": "rp25-007",
+      "stem": "A 27-year-old man presents with multiple slightly elevated, red-to-violet papules on the penis. Biopsy shows changes that histologically resemble penile intraepithelial neoplasia, and testing is positive for HPV-16. Which of the following best describes the expected clinical behavior of this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It behaves benignly and rarely becomes invasive"
+        },
+        {
+          "label": "B",
+          "text": "It progresses to invasive carcinoma in two-thirds of cases"
+        },
+        {
+          "label": "C",
+          "text": "It requires partial penile resection for cure"
+        },
+        {
+          "label": "D",
+          "text": "It represents metastatic spread from a distant primary"
+        },
+        {
+          "label": "E",
+          "text": "It resolves only after treatment with intralesional collagenase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bowenoid papulosis resembles PeIN histologically but behaves benignly and rarely becomes invasive.",
+        "whyCorrect": "Multiple elevated red-to-violet papules in a younger male with PeIN-like histology and HPV-16 association describe bowenoid papulosis. Despite its worrisome histologic appearance, it behaves in a benign fashion and rarely becomes invasive.",
+        "whyWrongByChoice": {
+          "B": "The two-thirds figure refers to the proportion of penile squamous cell carcinomas containing HPV types 16, 18, 31, or 33, not a progression rate for bowenoid papulosis.",
+          "C": "Penile resection is treatment for localized invasive carcinoma; bowenoid papulosis behaves benignly.",
+          "D": "Bowenoid papulosis is an HPV-associated epithelial lesion, not a metastasis.",
+          "E": "Intralesional collagenase treats the fibrous plaque of Peyronie disease and has no role here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "bowenoid-papulosis",
+        "HPV-16",
+        "PeIN"
+      ],
+      "topicId": "disorders-of-the-penis",
+      "topicName": "Disorders of the Penis"
+    },
+    {
+      "id": "rp25-008",
+      "stem": "A 54-year-old man with type 2 diabetes mellitus and a smoking history reports 8 months of curved, painful erections with poor rigidity of the distal penis. Examination of the flaccid penis reveals a hard, palpable mass near the dorsal midline of the shaft. This mass is most likely located within which of the following structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erectile tissue of the corpora cavernosa"
+        },
+        {
+          "label": "B",
+          "text": "Distal portion of the urethra"
+        },
+        {
+          "label": "C",
+          "text": "Epithelium of the glans penis"
+        },
+        {
+          "label": "D",
+          "text": "Tunica albuginea"
+        },
+        {
+          "label": "E",
+          "text": "Skin and superficial blood vessels of the shaft"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The fibrous plaque of Peyronie disease lies in the tunica albuginea near the dorsal midline of the shaft.",
+        "whyCorrect": "Peyronie disease is an acquired condition causing abnormal penile curvature due to a fibrous plaque in the tunica albuginea, typically near the dorsal midline, often palpable as a hard mass. Plaque formation may be related to trauma, diabetes mellitus, or smoking, and the disease is associated with other fibroproliferative disorders such as Dupuytren contracture.",
+        "whyWrongByChoice": {
+          "A": "The corpora cavernosa house erectile tissue and are where prosthetic cylinders are placed; the plaque itself forms in the tunica albuginea.",
+          "B": "Urethral pathology presents with voiding symptoms such as obstruction or blood at the meatus, not a curved erection with a dorsal plaque.",
+          "C": "Lesions of the glans epithelium, such as erythroplasia of Queyrat, are surface lesions rather than deep palpable plaques.",
+          "E": "Injury to the skin and superficial vessels describes a penile laceration, not a chronic fibrous plaque."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peyronie-disease",
+        "tunica-albuginea"
+      ],
+      "topicId": "disorders-of-the-penis",
+      "topicName": "Disorders of the Penis"
+    },
+    {
+      "id": "rp25-009",
+      "stem": "A 58-year-old man with stable Peyronie disease has persistent penile curvature that interferes with intercourse. He wishes to avoid surgery, and his erectile function is otherwise intact. Which of the following is the most appropriate evidence-based nonoperative treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral vitamin E supplementation"
+        },
+        {
+          "label": "B",
+          "text": "Oral p-aminobenzoic acid therapy"
+        },
+        {
+          "label": "C",
+          "text": "Intralesional collagenase clostridium histolyticum"
+        },
+        {
+          "label": "D",
+          "text": "Plication of the tunica albuginea on the unaffected side"
+        },
+        {
+          "label": "E",
+          "text": "Placement of inflatable prosthetic cylinders in the corpora cavernosa"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Intralesional collagenase clostridium histolyticum is the evidence-based nonoperative treatment for stable Peyronie disease.",
+        "whyCorrect": "Intralesional collagenase clostridium histolyticum (Xiaflex) is a commonly used, evidence-based treatment for appropriate patients with stable Peyronie disease. It is nonsurgical, fitting this patient's preference to avoid an operation.",
+        "whyWrongByChoice": {
+          "A": "Oral vitamin E has shown very limited benefit and is rarely prescribed today.",
+          "B": "Oral p-aminobenzoic acid likewise has very limited benefit and is rarely used.",
+          "D": "Plication of the unaffected side is the Nesbit procedure, a surgical option this patient wants to avoid.",
+          "E": "Penile prosthesis placement is surgery reserved for patients with concomitant erectile dysfunction, which he does not have."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peyronie-disease",
+        "collagenase",
+        "treatment"
+      ],
+      "topicId": "disorders-of-the-penis",
+      "topicName": "Disorders of the Penis"
+    },
+    {
+      "id": "rp25-010",
+      "stem": "A 22-year-old man loses control of his bicycle and lands hard on the top tube, striking his perineum. In the emergency department he has blood at the urethral meatus, dysuria, and perineal ecchymosis. A retrograde urethrogram shows abnormal flow of contrast from the urethra. Which of the following best characterizes this injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior urethral injury from a straddle mechanism"
+        },
+        {
+          "label": "B",
+          "text": "Posterior urethral injury from a pelvic fracture"
+        },
+        {
+          "label": "C",
+          "text": "Penile fracture with a torn tunica albuginea"
+        },
+        {
+          "label": "D",
+          "text": "Paraphimosis with entrapment of the foreskin"
+        },
+        {
+          "label": "E",
+          "text": "Pathologic phimosis from preputial scarring"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Straddle injuries to the perineum cause anterior urethral injuries, confirmed by retrograde urethrogram.",
+        "whyCorrect": "Urethral trauma is categorized as anterior or posterior by the site of impact. Anterior urethral injuries generally occur from a perineal straddle injury or motor vehicle accident, and the retrograde urethrogram demonstrates abnormal contrast flow through the injured urethra. Surgical repair is often needed, and the major complication is urethral stricture.",
+        "whyWrongByChoice": {
+          "B": "Posterior urethral injuries are usually associated with pelvic fractures, which are not present after this straddle mechanism.",
+          "C": "Penile fracture results from blunt trauma to an erect penis, classically with a popping sound and eggplant deformity.",
+          "D": "Paraphimosis is foreskin entrapment behind the coronal sulcus causing glans congestion, not a contrast leak on urethrography.",
+          "E": "Pathologic phimosis is a chronically nonretractable foreskin from scarring, unrelated to acute perineal trauma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "urethral-injury",
+        "straddle-injury",
+        "retrograde-urethrogram"
+      ],
+      "topicId": "disorders-of-the-penis",
+      "topicName": "Disorders of the Penis"
+    },
+    {
+      "id": "rp25-011",
+      "stem": "A 35-year-old man presents 1 hour after hearing a popping sound during sexual intercourse, followed by sudden penile pain and rapid detumescence. Examination shows severe swelling with dark purple bruising and a twisted appearance of the penile shaft. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prompt surgical repair"
+        },
+        {
+          "label": "B",
+          "text": "Manual reduction of the foreskin"
+        },
+        {
+          "label": "C",
+          "text": "Conservative wound care with dressings"
+        },
+        {
+          "label": "D",
+          "text": "Intralesional collagenase injection"
+        },
+        {
+          "label": "E",
+          "text": "Observation with follow-up in 1 week"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Penile fracture is a urologic emergency requiring prompt surgical management.",
+        "whyCorrect": "A popping sound with sudden pain, rapid swelling, and the eggplant deformity after blunt trauma to an erect penis is the classic presentation of penile fracture, a tear of the tunica albuginea. It is a urologic emergency, may be associated with urethral injury, and requires prompt surgical management.",
+        "whyWrongByChoice": {
+          "B": "Manual reduction is the emergency treatment for paraphimosis, in which the foreskin is trapped behind the coronal sulcus.",
+          "C": "Conservative wound care suffices for many superficial penile lacerations, not for a torn tunica albuginea.",
+          "D": "Intralesional collagenase treats the chronic fibrous plaque of stable Peyronie disease, not acute trauma.",
+          "E": "Delaying intervention in a urologic emergency risks worse outcomes, including unaddressed urethral injury."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "penile-fracture",
+        "emergency",
+        "tunica-albuginea"
+      ],
+      "topicId": "disorders-of-the-penis",
+      "topicName": "Disorders of the Penis"
+    },
+    {
+      "id": "rp25-012",
+      "stem": "A 74-year-old uncircumcised man undergoes urinary catheterization during a hospital admission. Several hours later, he has severe penile pain. Examination shows the foreskin retracted and trapped behind the coronal sulcus, with marked swelling and congestion of the glans. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immediate manual reduction of the foreskin"
+        },
+        {
+          "label": "B",
+          "text": "Elective circumcision in several weeks"
+        },
+        {
+          "label": "C",
+          "text": "Topical trichloroacetic acid application"
+        },
+        {
+          "label": "D",
+          "text": "Retrograde urethrogram to assess the urethra"
+        },
+        {
+          "label": "E",
+          "text": "Reassurance that adhesions will break down over time"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Paraphimosis is a medical emergency treated with immediate manual reduction or reduction in the operating room.",
+        "whyCorrect": "Foreskin entrapment behind the coronal sulcus after a genitourinary procedure is paraphimosis. It causes venous and lymphatic congestion of the glans and can ultimately compromise arterial flow, so it requires immediate care with manual reduction or reduction in the operating room.",
+        "whyWrongByChoice": {
+          "B": "Waiting weeks risks progressive congestion and arterial compromise of the glans; this is an emergency, not an elective problem.",
+          "C": "Trichloroacetic acid is a topical treatment for condylomata acuminata and has no role in paraphimosis.",
+          "D": "Retrograde urethrography is for suspected traumatic urethral injury; the diagnosis here is made on examination and demands immediate reduction.",
+          "E": "Adhesions breaking down over time describes physiologic phimosis in infants, not entrapped foreskin with a congested glans."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "paraphimosis",
+        "emergency",
+        "manual-reduction"
+      ],
+      "topicId": "disorders-of-the-penis",
+      "topicName": "Disorders of the Penis"
+    },
+    {
+      "id": "rp26-001",
+      "stem": "A 13-year-old boy develops sudden, severe left scrotal pain with nausea while playing basketball. On examination, the left testis is exquisitely tender and rides higher than the right, and stroking the left superior medial thigh produces no testicular elevation. Which of the following congenital abnormalities most likely predisposed this patient to his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Persistent patency of the processus vaginalis"
+        },
+        {
+          "label": "B",
+          "text": "Abnormal fixation of the testis within the tunica vaginalis"
+        },
+        {
+          "label": "C",
+          "text": "Absent valves at the junction of the gonadal and renal veins"
+        },
+        {
+          "label": "D",
+          "text": "Congenital dilation of the pampiniform plexus veins"
+        },
+        {
+          "label": "E",
+          "text": "Compression of the left renal vein by the superior mesenteric artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The bell-clapper deformity, an abnormal congenital development of the tunica vaginalis, is the most common cause of testicular torsion.",
+        "whyCorrect": "This patient has classic testicular torsion: sudden severe unilateral pain, a high-riding testis, and an absent cremasteric reflex. Torsion results from abnormal mobility of the testis, most commonly because the tunica vaginalis fails to fix the testis properly within the scrotum, letting it swing like the clapper of a bell and twist the spermatic cord.",
+        "whyWrongByChoice": {
+          "A": "A patent processus vaginalis causes a communicating hydrocele, which presents as painless scrotal swelling in infants, not acute torsion.",
+          "C": "Ineffective anti-reflux valves at the left gonadal-renal vein junction predispose to varicocele, a gradual 'bag of worms' enlargement rather than acute pain.",
+          "D": "Dilation of the pampiniform plexus is the varicocele itself, not a fixation defect that allows the testis to twist.",
+          "E": "Left renal vein compression (nutcracker syndrome) raises left gonadal vein pressure and contributes to varicocele, not torsion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "testicular torsion",
+        "bell-clapper deformity",
+        "pathophysiology"
+      ],
+      "topicId": "benign-testicular-disorders",
+      "topicName": "Benign Testicular Disorders"
+    },
+    {
+      "id": "rp26-002",
+      "stem": "A 15-year-old boy is brought to the emergency department 3 hours after sudden onset of severe right scrotal pain and vomiting. The right testis is tender, swollen, and high-riding, with no cremasteric reflex on that side. Urology is consulted immediately. Which of the following is the most appropriate definitive management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotic therapy with outpatient urology follow-up"
+        },
+        {
+          "label": "B",
+          "text": "Scrotal exploration with detorsion and unilateral orchiopexy"
+        },
+        {
+          "label": "C",
+          "text": "Scrotal exploration with detorsion and bilateral orchiopexy"
+        },
+        {
+          "label": "D",
+          "text": "Computed tomography of the abdomen and pelvis before intervention"
+        },
+        {
+          "label": "E",
+          "text": "Serial scrotal examinations over the next 24 hours"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Testicular torsion is treated with emergent detorsion and bilateral orchiopexy.",
+        "whyCorrect": "Torsion is a urologic emergency; treatment aims to unwind the spermatic cord and restore blood flow as soon as possible. Bilateral orchiopexy is performed in all patients to prevent recurrence on the affected side and to prevent torsion of the contralateral testis, which shares the same anatomic predisposition.",
+        "whyWrongByChoice": {
+          "A": "Antibiotics treat epididymitis; delaying surgery in torsion risks irreversible ischemic injury, infarction, and loss of the testis.",
+          "B": "Fixing only the affected testis leaves the contralateral side, which often has the same fixation defect, at risk of future torsion.",
+          "D": "CT plays no role in diagnosing torsion and would dangerously delay restoration of blood flow.",
+          "E": "Observation wastes the narrow window for salvage; untreated torsion progresses to infarction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "testicular torsion",
+        "orchiopexy",
+        "management"
+      ],
+      "topicId": "benign-testicular-disorders",
+      "topicName": "Benign Testicular Disorders"
+    },
+    {
+      "id": "rp26-003",
+      "stem": "A 19-year-old man presents with right scrotal pain that has worsened over 2 days. On examination, gently lifting the scrotum clearly relieves his pain, and the cremasteric reflex is intact. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Testicular torsion"
+        },
+        {
+          "label": "B",
+          "text": "Epididymitis"
+        },
+        {
+          "label": "C",
+          "text": "Varicocele"
+        },
+        {
+          "label": "D",
+          "text": "Communicating hydrocele"
+        },
+        {
+          "label": "E",
+          "text": "Spermatocele"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A positive Prehn sign, in which pain improves with scrotal elevation, usually points to epididymitis.",
+        "whyCorrect": "The Prehn sign helps sort out sudden testicular pain: relief of pain when the scrotum is lifted (positive Prehn sign) usually indicates epididymitis, whereas pain that is unchanged or worse (negative Prehn sign) raises concern for torsion. His intact cremasteric reflex further argues against torsion.",
+        "whyWrongByChoice": {
+          "A": "Torsion typically shows a negative Prehn sign, an absent cremasteric reflex, and a high-riding testis with abrupt onset of pain.",
+          "C": "A varicocele presents as a 'bag of worms' mass that enlarges with Valsalva, usually asymptomatic rather than acutely painful.",
+          "D": "A communicating hydrocele causes painless transilluminating swelling, typically in infants.",
+          "E": "A spermatocele is a nontender, incidental cystic mass of the epididymis, not a source of positional pain relief."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Prehn sign",
+        "epididymitis",
+        "physical exam"
+      ],
+      "topicId": "benign-testicular-disorders",
+      "topicName": "Benign Testicular Disorders"
+    },
+    {
+      "id": "rp26-004",
+      "stem": "A 16-year-old boy with 4 hours of sudden severe left scrotal pain undergoes color Doppler ultrasonography. Which of the following findings on the affected side would confirm the suspected diagnosis of testicular torsion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced or absent intratesticular blood flow with edema"
+        },
+        {
+          "label": "B",
+          "text": "Increased blood flow throughout the affected testis"
+        },
+        {
+          "label": "C",
+          "text": "Dilated peritesticular veins that enlarge with Valsalva"
+        },
+        {
+          "label": "D",
+          "text": "A simple anechoic fluid collection surrounding the testis"
+        },
+        {
+          "label": "E",
+          "text": "Normal symmetric perfusion of both testes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Color Doppler ultrasonography in testicular torsion shows testicular edema with reduced or absent blood flow on the torsed side.",
+        "whyCorrect": "Doppler ultrasonography is the test of choice for torsion because it is inexpensive and readily accessible. Twisting of the spermatic cord first impairs venous drainage, causing congestion and edema, and then compromises arterial inflow, so the engorged torsed testis shows no color flow on Doppler.",
+        "whyWrongByChoice": {
+          "B": "Blood flow is cut off, not increased, when the spermatic cord twists.",
+          "C": "Veins that dilate during Valsalva describe a varicocele, not torsion.",
+          "D": "A fluid collection around the testis suggests a hydrocele, which is painless and transilluminates.",
+          "E": "Normal symmetric flow would argue against torsion rather than confirm it."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "testicular torsion",
+        "Doppler ultrasound",
+        "diagnosis"
+      ],
+      "topicId": "benign-testicular-disorders",
+      "topicName": "Benign Testicular Disorders"
+    },
+    {
+      "id": "rp26-005",
+      "stem": "A 14-year-old boy is diagnosed with testicular torsion and taken emergently to the operating room. To minimize the risk of testicular necrosis, blood flow should ideally be restored within which of the following intervals from symptom onset?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 hour"
+        },
+        {
+          "label": "B",
+          "text": "6 hours"
+        },
+        {
+          "label": "C",
+          "text": "12 hours"
+        },
+        {
+          "label": "D",
+          "text": "24 hours"
+        },
+        {
+          "label": "E",
+          "text": "48 hours"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In testicular torsion, blood flow should ideally be restored within 6 hours of symptom onset to reduce the risk of testicular necrosis.",
+        "whyCorrect": "The goal of treatment is to unwind the twisted spermatic cord and restore blood flow to the testis as soon as possible, ideally within 6 hours from the start of symptoms. Beyond this window, the risk of irreversible ischemic injury, infarction, and loss of the testis climbs.",
+        "whyWrongByChoice": {
+          "A": "Sooner is always better, but 1 hour is not the taught threshold; the ideal window for salvage extends to 6 hours.",
+          "C": "By 12 hours the likelihood of irreversible ischemic injury has substantially increased.",
+          "D": "Waiting 24 hours risks infarction and loss of the testis.",
+          "E": "At 48 hours the testis is very likely to be nonviable."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "testicular torsion",
+        "treatment window",
+        "ischemia"
+      ],
+      "topicId": "benign-testicular-disorders",
+      "topicName": "Benign Testicular Disorders"
+    },
+    {
+      "id": "rp26-006",
+      "stem": "A 22-year-old man is evaluated for a painless left scrotal mass that feels like a 'bag of worms' and enlarges when he bears down. Which of the following anatomic features best explains why this condition occurs far more often on the left side?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The left gonadal vein joins the left renal vein at a right angle"
+        },
+        {
+          "label": "B",
+          "text": "The left gonadal vein drains obliquely into the inferior vena cava"
+        },
+        {
+          "label": "C",
+          "text": "The left gonadal vein is shorter than the right gonadal vein"
+        },
+        {
+          "label": "D",
+          "text": "The left gubernaculum ligament is congenitally underdeveloped"
+        },
+        {
+          "label": "E",
+          "text": "The left processus vaginalis obliterates later than the right"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Varicoceles are predominantly left-sided because the longer left gonadal vein joins the left renal vein at a right angle and lacks effective anti-reflux valves.",
+        "whyCorrect": "About 80% to 90% of varicoceles occur on the left. The left gonadal vein is longer and inserts into the left renal vein at a right angle, creating turbulent flow that disrupts forward movement, and the junction lacks effective anti-reflux valves, so blood refluxes and pools in the pampiniform plexus.",
+        "whyWrongByChoice": {
+          "B": "It is the right gonadal vein that drains directly into the inferior vena cava with an oblique insertion, which is why right-sided varicoceles are uncommon.",
+          "C": "The left gonadal vein is longer than the right, not shorter.",
+          "D": "An absent or underdeveloped gubernaculum predisposes to testicular torsion, not varicocele.",
+          "E": "Processus vaginalis patency causes communicating hydroceles, not dilation of the pampiniform plexus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "varicocele",
+        "venous anatomy",
+        "left-sided predominance"
+      ],
+      "topicId": "benign-testicular-disorders",
+      "topicName": "Benign Testicular Disorders"
+    },
+    {
+      "id": "rp26-007",
+      "stem": "A 31-year-old man undergoing an infertility evaluation is found to have a left-sided varicocele on examination and Doppler ultrasonography. Which of the following mechanisms best explains how this lesion contributes to his infertility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated scrotal temperature that impairs spermatogenesis"
+        },
+        {
+          "label": "B",
+          "text": "Mechanical obstruction of sperm transport through the epididymis"
+        },
+        {
+          "label": "C",
+          "text": "Twisting of the spermatic cord with intermittent ischemia"
+        },
+        {
+          "label": "D",
+          "text": "Accumulation of serous fluid compressing the seminiferous tubules"
+        },
+        {
+          "label": "E",
+          "text": "Herniation of bowel into the scrotum compressing the testis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Backed-up blood in a varicocele raises scrotal temperature, impairing spermatogenesis and contributing to infertility and testicular atrophy.",
+        "whyCorrect": "Varicocele is found in 40% of infertile males. Pooled venous blood in the dilated pampiniform plexus disrupts the scrotum's normal temperature regulation; the resulting rise in scrotal temperature impairs spermatogenesis and can lead to testicular atrophy. Treatments such as embolization or ligation work by restoring normal venous flow and temperature regulation.",
+        "whyWrongByChoice": {
+          "B": "A varicocele is a venous abnormality; it does not block the sperm-conducting ducts.",
+          "C": "Cord twisting with ischemia describes testicular torsion, an acute emergency rather than a cause of chronic infertility.",
+          "D": "A serous fluid collection describes a hydrocele, not the mechanism by which a varicocele harms sperm production.",
+          "E": "Bowel herniation is a complication of a persistent patent processus vaginalis, unrelated to varicocele physiology."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "varicocele",
+        "infertility",
+        "spermatogenesis"
+      ],
+      "topicId": "benign-testicular-disorders",
+      "topicName": "Benign Testicular Disorders"
+    },
+    {
+      "id": "rp26-008",
+      "stem": "A 63-year-old man presents with a new left scrotal mass with a 'bag of worms' texture. The mass cannot be reduced and does not decompress when he lies supine. This presentation should raise concern for which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A retroperitoneal or renal mass obstructing venous drainage"
+        },
+        {
+          "label": "B",
+          "text": "Incomplete obliteration of the processus vaginalis"
+        },
+        {
+          "label": "C",
+          "text": "A bell-clapper deformity of the tunica vaginalis"
+        },
+        {
+          "label": "D",
+          "text": "A benign epididymal cyst compressing the spermatic cord"
+        },
+        {
+          "label": "E",
+          "text": "Rupture of the tunica albuginea from remote trauma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A new-onset, nonreducible varicocele that fails to decompress when supine, especially in an older patient, should raise concern for a retroperitoneal or renal mass.",
+        "whyCorrect": "Ordinary varicoceles decompress when venous pressure falls in the supine position. A varicocele that appears late in life and stays distended suggests fixed obstruction or extraluminal compression of the left renal vein or gonadal venous outflow, so a retroperitoneal or renal mass must be considered.",
+        "whyWrongByChoice": {
+          "B": "A patent processus vaginalis produces a communicating hydrocele, a transilluminating fluid collection, not a venous 'bag of worms.'",
+          "C": "The bell-clapper deformity predisposes to torsion, which presents with acute severe pain rather than a chronic vascular mass.",
+          "D": "Epididymal cysts are small, benign, incidental cystic lesions; they do not produce fixed dilation of the pampiniform plexus.",
+          "E": "Tunica albuginea rupture follows significant blunt trauma and presents acutely with ecchymosis and pain, not an insidious venous mass."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "varicocele",
+        "renal mass",
+        "red flag"
+      ],
+      "topicId": "benign-testicular-disorders",
+      "topicName": "Benign Testicular Disorders"
+    },
+    {
+      "id": "rp26-009",
+      "stem": "A 4-month-old boy is brought in for a painless swelling of the right scrotum first noticed at birth. The swelling transilluminates, and Doppler ultrasonography shows normal testicular blood flow with a fluid collection consistent with a communicating hydrocele. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Observation, because most resolve spontaneously within 1 year"
+        },
+        {
+          "label": "B",
+          "text": "Immediate surgical repair of the processus vaginalis"
+        },
+        {
+          "label": "C",
+          "text": "Aspiration of the fluid followed by tetracycline sclerotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Emergent scrotal exploration with bilateral orchiopexy"
+        },
+        {
+          "label": "E",
+          "text": "Embolization of the gonadal vein to reduce venous pooling"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A communicating hydrocele in an infant is managed with observation because most resolve spontaneously within 1 year.",
+        "whyCorrect": "Communicating (congenital) hydroceles result from incomplete obliteration of the processus vaginalis and are a common cause of scrotal swelling in infants. Because most close and resolve on their own within the first year of life, observation is the best initial management in a neonate or young infant.",
+        "whyWrongByChoice": {
+          "B": "Surgical repair is reserved for hydroceles that have not closed by about 1 year of age, because of the later risk of a strangulated inguinal hernia.",
+          "C": "Aspiration with sclerotherapy is an option for symptomatic noncommunicating hydroceles in adults, not congenital hydroceles in infants.",
+          "D": "Emergent exploration with orchiopexy treats testicular torsion; this infant has normal blood flow and a painless fluid collection.",
+          "E": "Embolization treats varicocele by correcting venous pooling; it has no role in a hydrocele."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "communicating hydrocele",
+        "infant",
+        "observation"
+      ],
+      "topicId": "benign-testicular-disorders",
+      "topicName": "Benign Testicular Disorders"
+    },
+    {
+      "id": "rp26-010",
+      "stem": "A 15-month-old boy has a communicating hydrocele that has persisted without any decrease in size since birth, and surgical repair is recommended. Repair at this point is indicated primarily to prevent which of the following complications?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Strangulation of bowel that enters the patent processus vaginalis"
+        },
+        {
+          "label": "B",
+          "text": "Torsion of the spermatic cord within the fluid collection"
+        },
+        {
+          "label": "C",
+          "text": "Impaired spermatogenesis from elevated scrotal temperature"
+        },
+        {
+          "label": "D",
+          "text": "Malignant transformation of the tunica vaginalis lining"
+        },
+        {
+          "label": "E",
+          "text": "Chronic epididymitis from stagnant serous fluid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A communicating hydrocele that fails to close by 1 year is repaired because of the risk of a strangulated inguinal hernia.",
+        "whyCorrect": "If the processus vaginalis remains patent beyond about 1 year, bowel can travel through it and become trapped in the scrotum. Strangulation of that herniated bowel leads to bowel ischemia, which is why surgical repair is indicated once spontaneous closure is no longer expected.",
+        "whyWrongByChoice": {
+          "B": "Torsion results from poor fixation of the testis (for example, the bell-clapper deformity), not from a persistent hydrocele.",
+          "C": "Elevated scrotal temperature impairing spermatogenesis is the mechanism of varicocele-associated infertility.",
+          "D": "The lecture describes no malignant transformation of a hydrocele; it is a benign fluid collection.",
+          "E": "The serous fluid of a hydrocele is not described as a cause of epididymal infection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "communicating hydrocele",
+        "inguinal hernia",
+        "surgical indication"
+      ],
+      "topicId": "benign-testicular-disorders",
+      "topicName": "Benign Testicular Disorders"
+    },
+    {
+      "id": "rp26-011",
+      "stem": "A 30-year-old man notices a small, painless, cystic mass above his left testis during routine self-examination. Ultrasonography shows a simple fluid-filled lesion of the epididymis, and analysis of the cyst fluid demonstrates sperm cells. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epididymal cyst"
+        },
+        {
+          "label": "B",
+          "text": "Spermatocele"
+        },
+        {
+          "label": "C",
+          "text": "Noncommunicating hydrocele"
+        },
+        {
+          "label": "D",
+          "text": "Varicocele"
+        },
+        {
+          "label": "E",
+          "text": "Testicular hematoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A spermatocele is a benign epididymal cyst distinguished from a simple epididymal cyst by containing sperm cells in its fluid.",
+        "whyCorrect": "Both spermatoceles and epididymal cysts are benign, fluid-filled epididymal masses usually found incidentally on self-examination or routine physical examination. The only difference between them is that the spermatocele contains fluid plus sperm cells. Most require no treatment unless large or painful.",
+        "whyWrongByChoice": {
+          "A": "An epididymal cyst contains fluid without sperm; the sperm in this aspirate identifies the lesion as a spermatocele.",
+          "C": "A noncommunicating hydrocele is fluid within the scrotum around the testis, not a discrete sperm-containing epididymal cyst.",
+          "D": "A varicocele is a dilated venous plexus with a 'bag of worms' feel, not a simple cyst.",
+          "E": "A hematoma follows trauma and contains blood, not sperm-laden serous fluid."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "spermatocele",
+        "epididymal cyst",
+        "diagnosis"
+      ],
+      "topicId": "benign-testicular-disorders",
+      "topicName": "Benign Testicular Disorders"
+    },
+    {
+      "id": "rp26-012",
+      "stem": "A 27-year-old man sustains a stab wound to the scrotum. Examination shows a laceration that penetrates through the dartos layer; the testes appear grossly intact, and he is hemodynamically stable. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Urologic referral for surgical exploration of the wound"
+        },
+        {
+          "label": "B",
+          "text": "Local wound care with closure using absorbable sutures"
+        },
+        {
+          "label": "C",
+          "text": "Discharge home with scrotal ultrasound in 1 week"
+        },
+        {
+          "label": "D",
+          "text": "Oral antibiotics with outpatient wound checks"
+        },
+        {
+          "label": "E",
+          "text": "Observation with serial scrotal examinations overnight"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Penetrating scrotal trauma that reaches or passes through the dartos layer warrants urologic referral for surgical exploration.",
+        "whyCorrect": "Penetrating trauma to or through the dartos layer has a high rate of associated testicular injury even when the testes look intact externally, so surgical exploration is required. Only superficial scrotal lacerations are appropriate for local wound care and closure with absorbable sutures.",
+        "whyWrongByChoice": {
+          "B": "Simple closure is reserved for superficial lacerations that do not reach the dartos layer.",
+          "C": "Delayed imaging risks missing a testicular injury that needs prompt operative repair; ultrasound is an adjunct mainly after blunt trauma.",
+          "D": "Antibiotics alone do not address the high likelihood of underlying testicular injury.",
+          "E": "Observation defers definitive care despite a wound depth that predicts testicular injury."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "scrotal trauma",
+        "penetrating injury",
+        "surgical exploration"
+      ],
+      "topicId": "benign-testicular-disorders",
+      "topicName": "Benign Testicular Disorders"
+    },
+    {
+      "id": "rp27-001",
+      "stem": "A 39-year-old man presents with a painless right testicular mass discovered on self-examination. Ultrasound shows a solid intratesticular lesion, and radical inguinal orchiectomy is performed. Gross examination shows a well-demarcated, homogeneous, pale fleshy mass. Histology reveals sheets of malignant cells with pale nuclei, prominent nucleoli, and glycogen-rich clear cytoplasm, accompanied by a prominent lymphocytic infiltrate. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Embryonal carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Seminoma"
+        },
+        {
+          "label": "C",
+          "text": "Yolk sac tumor"
+        },
+        {
+          "label": "D",
+          "text": "Choriocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Spermatocytic tumor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Seminoma shows sheets of 'fried egg' cells with glycogen-rich clear cytoplasm and a lymphocytic infiltrate.",
+        "whyCorrect": "Seminoma is the most common single histologic subtype of GCT, with a mean age at onset of 40 years. Grossly it forms a well-demarcated, homogeneous, pale mass, and histologically its cells have pale nuclei, prominent nucleoli, and glycogen-rich cytoplasm giving a 'fried egg' appearance, often with lymphocytic infiltrate and occasionally granulomas.",
+        "whyWrongByChoice": {
+          "A": "Embryonal carcinoma is grossly hemorrhagic, necrotic, and poorly demarcated, with primitive pleomorphic cells rather than uniform clear cells.",
+          "C": "Yolk sac tumor produces a waxy, tan-yellow mass with Schiller-Duval bodies and occurs mainly in children under 3-4 years.",
+          "D": "Choriocarcinoma consists of cytotrophoblasts and multinucleate syncytiotrophoblasts with hemorrhage, not uniform clear cells.",
+          "E": "Spermatocytic tumors occur in men over 50 and specifically lack the lymphocytic infiltrate seen here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "seminoma",
+        "histology",
+        "germ-cell-tumor"
+      ],
+      "topicId": "testicular-tumors",
+      "topicName": "Testicular Tumors"
+    },
+    {
+      "id": "rp27-002",
+      "stem": "A 2-year-old boy is brought in after his mother notices scrotal enlargement. Examination reveals a firm, painless testicular mass, and serum alpha-fetoprotein is markedly elevated. Orchiectomy is performed. Which of the following histologic findings is most likely in this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reinke crystals in eosinophilic cytoplasm"
+        },
+        {
+          "label": "B",
+          "text": "Schiller-Duval bodies resembling primitive glomeruli"
+        },
+        {
+          "label": "C",
+          "text": "Sheets of cytotrophoblasts and syncytiotrophoblasts"
+        },
+        {
+          "label": "D",
+          "text": "Cartilage adjacent to keratinizing epidermis"
+        },
+        {
+          "label": "E",
+          "text": "Clear cells with a dense lymphocytic infiltrate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Yolk sac tumor, the most common testicular tumor of young children, is defined histologically by Schiller-Duval bodies.",
+        "whyCorrect": "Yolk sac tumors are the most common testicular GCT in children up to 3 years of age and secrete AFP. Their definitive histologic feature is the Schiller-Duval body, a structure resembling a primitive kidney glomerulus (though not derived from kidney cells).",
+        "whyWrongByChoice": {
+          "A": "Reinke crystals are the hallmark of Leydig cell tumors, which present with hormonal effects rather than elevated AFP.",
+          "C": "Cytotrophoblasts and syncytiotrophoblasts characterize choriocarcinoma, which elevates beta-hCG and occurs at ages 20-30.",
+          "D": "Cartilage with keratinizing epidermis indicates a teratoma composed of multiple germ layers, not an AFP-secreting tumor of infancy.",
+          "E": "Clear 'fried egg' cells with lymphocytic infiltrate describe seminoma, which occurs around age 40 and does not elevate AFP."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "yolk-sac-tumor",
+        "AFP",
+        "pediatric"
+      ],
+      "topicId": "testicular-tumors",
+      "topicName": "Testicular Tumors"
+    },
+    {
+      "id": "rp27-003",
+      "stem": "A 26-year-old man presents with hemoptysis, palpitations, heat intolerance, and bilateral breast enlargement. Examination reveals a small firm testicular mass. Chest imaging shows multiple hemorrhagic pulmonary nodules, and serum beta-hCG is markedly elevated while AFP is normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Seminoma"
+        },
+        {
+          "label": "B",
+          "text": "Teratoma"
+        },
+        {
+          "label": "C",
+          "text": "Choriocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Leydig cell tumor"
+        },
+        {
+          "label": "E",
+          "text": "Spermatocytic tumor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Choriocarcinoma markedly elevates beta-hCG, causing hyperthyroidism and gynecomastia, and spreads early with hemorrhagic metastases.",
+        "whyCorrect": "Choriocarcinoma secretes beta-hCG, which is structurally similar to LH and can weakly stimulate TSH receptors at very high levels, producing gynecomastia and hyperthyroid symptoms. It is the most aggressive GCT, and widespread hemorrhagic metastases (causing hemoptysis) are characteristic.",
+        "whyWrongByChoice": {
+          "A": "Seminoma may elevate beta-hCG only in a subset and only modestly; it spreads first to para-aortic nodes rather than causing early hemorrhagic lung metastases.",
+          "B": "Teratoma contains multiple germ layers and is not described as producing markedly elevated beta-hCG with hyperthyroid symptoms.",
+          "D": "Leydig cell tumors cause gynecomastia via testosterone-to-estradiol conversion, not via beta-hCG, and are usually benign without metastases.",
+          "E": "Spermatocytic tumors occur in men over 50 and are indolent, inconsistent with aggressive metastatic disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "choriocarcinoma",
+        "beta-hCG",
+        "metastasis"
+      ],
+      "topicId": "testicular-tumors",
+      "topicName": "Testicular Tumors"
+    },
+    {
+      "id": "rp27-004",
+      "stem": "A 7-year-old boy is evaluated for deepening voice, pubic hair growth, and rapid height gain over the past 6 months. Examination reveals a painless left testicular mass. After orchiectomy, histology shows polygonal cells with round nuclei, prominent nucleoli, abundant eosinophilic cytoplasm, and rod-shaped eosinophilic cytoplasmic inclusions. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sertoli cell tumor"
+        },
+        {
+          "label": "B",
+          "text": "Leydig cell tumor"
+        },
+        {
+          "label": "C",
+          "text": "Yolk sac tumor"
+        },
+        {
+          "label": "D",
+          "text": "Embryonal carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Testicular lymphoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Leydig cell tumors produce testosterone, causing precocious puberty, and show Reinke crystals on histology.",
+        "whyCorrect": "Leydig cell tumors arise from the testosterone-producing stromal cells and present with signs of androgen excess such as precocious puberty. Histologically, the polygonal eosinophilic cells may contain Reinke crystals, the eosinophilic cytoplasmic inclusions described here. Grossly these tumors are golden brown.",
+        "whyWrongByChoice": {
+          "A": "Sertoli cell tumors are usually hormonally silent, occur in adults averaging age 45, and form tubule-like structures rather than crystal-containing cells.",
+          "C": "Yolk sac tumors of childhood elevate AFP and show Schiller-Duval bodies; they do not cause virilization.",
+          "D": "Embryonal carcinoma occurs at ages 20-30 with primitive pleomorphic cells and necrosis, not hormone production.",
+          "E": "Testicular lymphoma affects men over 60 and arises from B cells, not hormone-secreting stromal cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "leydig-cell-tumor",
+        "reinke-crystals",
+        "precocious-puberty"
+      ],
+      "topicId": "testicular-tumors",
+      "topicName": "Testicular Tumors"
+    },
+    {
+      "id": "rp27-005",
+      "stem": "A 68-year-old man presents with painless enlargement of both testicles and a 5-kg unintentional weight loss over 3 months. Serum AFP and beta-hCG are normal; LDH is elevated. Orchiectomy reveals a malignant tumor of lymphocytic origin. Which of the following best characterizes this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is usually a diffuse large B-cell lymphoma that may recur in the CNS"
+        },
+        {
+          "label": "B",
+          "text": "It is an indolent germ cell tumor associated with gain of chromosome 9q"
+        },
+        {
+          "label": "C",
+          "text": "It is a benign stromal tumor cured by orchiectomy alone"
+        },
+        {
+          "label": "D",
+          "text": "It is a metastasis, most often from a primary melanoma of the skin"
+        },
+        {
+          "label": "E",
+          "text": "It is a germ cell tumor that secretes AFP and beta-hCG in most cases"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Testicular lymphoma, typically diffuse large B-cell lymphoma, is the most common testicular tumor in men over 60 and is often bilateral.",
+        "whyCorrect": "Testicular lymphoma presents in males older than 60 years, is typically an aggressive non-Hodgkin B-cell lymphoma (most commonly diffuse large B-cell lymphoma), is often bilateral, and commonly recurs in the central nervous system. It may be primary or secondary.",
+        "whyWrongByChoice": {
+          "B": "Gain of 9q describes the spermatocytic tumor, an indolent germ cell tumor that is not of lymphocytic origin and is not typically bilateral.",
+          "C": "Benign stromal tumors (Leydig, Sertoli) are not of lymphocytic origin and do not cause bilateral disease with weight loss.",
+          "D": "Metastases to the testis are rare and come from prostate, kidney, lung, colorectal, and stomach primaries per the lecture, and this tumor is lymphocytic.",
+          "E": "Germ cell tumor markers AFP and beta-hCG are normal here, and lymphoma does not arise from germ cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "testicular-lymphoma",
+        "older-men",
+        "DLBCL"
+      ],
+      "topicId": "testicular-tumors",
+      "topicName": "Testicular Tumors"
+    },
+    {
+      "id": "rp27-006",
+      "stem": "A 31-year-old man with a solid intratesticular mass on ultrasound is scheduled for surgery. A junior trainee asks why a trans-scrotal needle biopsy is not obtained first to confirm malignancy before removing the testis. Which of the following is the best explanation for avoiding the trans-scrotal approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It disrupts lymphatic drainage and risks local tumor seeding"
+        },
+        {
+          "label": "B",
+          "text": "It cannot obtain enough tissue for a histologic diagnosis"
+        },
+        {
+          "label": "C",
+          "text": "It causes permanent infertility in the biopsied testis"
+        },
+        {
+          "label": "D",
+          "text": "It delays the start of systemic chemotherapy"
+        },
+        {
+          "label": "E",
+          "text": "It carries a high risk of injuring the contralateral testis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Trans-scrotal biopsy disrupts lymphatic pathways, seeds tumor locally, and alters predictable retroperitoneal spread toward inguinal nodes.",
+        "whyCorrect": "The lecture states that trans-scrotal biopsy or scrotal surgery disrupts lymphatic pathways, increases the risk of local tumor seeding, and alters the otherwise predictable metastatic spread to retroperitoneal lymph nodes by introducing inappropriate inguinal node involvement. That is why radical inguinal orchiectomy with early, high ligation of the spermatic cord is the gold standard.",
+        "whyWrongByChoice": {
+          "B": "Tissue adequacy is not the stated concern; the problem is the route of access, not the specimen size.",
+          "C": "Infertility is a complication of testicular tumors and their treatment overall, not the specific reason the scrotal route is avoided.",
+          "D": "Chemotherapy timing is not the rationale; most localized tumors are managed with orchiectomy and surveillance, not immediate chemotherapy.",
+          "E": "The contralateral, uninvolved testis is not disturbed during the work-up; injuring it is not the stated risk of the scrotal approach."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "orchiectomy",
+        "diagnosis",
+        "lymphatic-spread"
+      ],
+      "topicId": "testicular-tumors",
+      "topicName": "Testicular Tumors"
+    },
+    {
+      "id": "rp27-007",
+      "stem": "A 24-year-old man presents with 2 weeks of unilateral scrotal swelling. He recalls no trauma. Palpation suggests a firm area within the right testis, but the examination is limited by the swelling. Which of the following is the most appropriate initial diagnostic study?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Computed tomography of the abdomen and pelvis"
+        },
+        {
+          "label": "B",
+          "text": "Magnetic resonance imaging of the brain"
+        },
+        {
+          "label": "C",
+          "text": "Testicular ultrasonography"
+        },
+        {
+          "label": "D",
+          "text": "Chest radiography"
+        },
+        {
+          "label": "E",
+          "text": "Trans-scrotal needle biopsy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Testicular ultrasound is the first study for a suspected testicular mass because it distinguishes cancer from other scrotal conditions.",
+        "whyCorrect": "Testicular ultrasonography is usually completed first because it differentiates cancer from other testicular diseases such as hydrocele (a collection of peritoneal fluid around the testis) and traumatic injury. Advanced imaging is reserved for assessing metastases after a solid lesion is identified.",
+        "whyWrongByChoice": {
+          "A": "CT of the chest, abdomen, and pelvis assesses regional or distant metastases after a tumor is suspected, not as the first test.",
+          "B": "MRI is used when brain metastasis is suspected, which is not the situation at initial presentation.",
+          "D": "Chest x-ray looks for pulmonary involvement later in the work-up, not to characterize the scrotal swelling itself.",
+          "E": "Trans-scrotal biopsy is avoided because it seeds tumor and disrupts lymphatic drainage; diagnosis requires radical inguinal orchiectomy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ultrasound",
+        "diagnosis",
+        "hydrocele"
+      ],
+      "topicId": "testicular-tumors",
+      "topicName": "Testicular Tumors"
+    },
+    {
+      "id": "rp27-008",
+      "stem": "A 24-year-old man undergoes evaluation of a painless testicular mass. Serum AFP is markedly elevated and beta-hCG is normal. Radical inguinal orchiectomy is performed. Which of the following histologic findings is most consistent with this marker pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clear 'fried egg' cells with a lymphocytic infiltrate"
+        },
+        {
+          "label": "B",
+          "text": "Schiller-Duval bodies resembling primitive glomeruli"
+        },
+        {
+          "label": "C",
+          "text": "Multinucleate syncytiotrophoblasts with dark cytoplasm"
+        },
+        {
+          "label": "D",
+          "text": "Polygonal cells containing Reinke crystals"
+        },
+        {
+          "label": "E",
+          "text": "Variably sized cells lacking lymphocytic infiltrate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Elevated AFP points to a nonseminomatous GCT with a yolk sac component, identified by Schiller-Duval bodies.",
+        "whyCorrect": "AFP is elevated in nonseminomatous GCTs such as yolk sac tumor and embryonal carcinoma but not in seminomatous GCTs. Schiller-Duval bodies are the definitive histologic feature of yolk sac tumor; in post-pubertal patients yolk sac elements are usually part of a mixed tumor, but they account for the AFP elevation.",
+        "whyWrongByChoice": {
+          "A": "'Fried egg' cells with lymphocytes indicate seminoma, which does not elevate AFP.",
+          "C": "Syncytiotrophoblasts indicate choriocarcinoma, which invariably elevates beta-hCG; here beta-hCG is normal.",
+          "D": "Reinke crystals indicate a Leydig cell tumor, which produces testosterone rather than AFP.",
+          "E": "Variably sized cells without lymphocytic infiltrate describe a spermatocytic tumor of men over 50, not an AFP-producing tumor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "AFP",
+        "yolk-sac-tumor",
+        "tumor-markers"
+      ],
+      "topicId": "testicular-tumors",
+      "topicName": "Testicular Tumors"
+    },
+    {
+      "id": "rp27-009",
+      "stem": "A 22-year-old man with a 47,XXY karyotype and a history of tall stature and small firm testes asks about his cancer risk during a routine visit. His condition increases his risk of germ cell tumors. Compared with the general population, where are his germ cell tumors most likely to arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Testis"
+        },
+        {
+          "label": "B",
+          "text": "Mediastinum"
+        },
+        {
+          "label": "C",
+          "text": "Kidney"
+        },
+        {
+          "label": "D",
+          "text": "Liver"
+        },
+        {
+          "label": "E",
+          "text": "Brain"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Klinefelter syndrome predisposes to germ cell tumors that are more likely mediastinal than testicular.",
+        "whyCorrect": "Klinefelter syndrome (47,XXY) is a risk factor for germ cell tumors, but the lecture notes these patients are more likely to present with mediastinal germ cell tumors rather than testicular GCTs.",
+        "whyWrongByChoice": {
+          "A": "Although testicular GCTs can occur, Klinefelter patients characteristically develop mediastinal rather than testicular germ cell tumors.",
+          "C": "The kidney is listed as a source of rare metastases to the testis, not a site of primary GCTs in Klinefelter syndrome.",
+          "D": "The liver is a common site of testicular tumor metastasis, not the characteristic primary GCT site in Klinefelter syndrome.",
+          "E": "The brain is a metastatic site for testicular tumors, not the characteristic primary location in these patients."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "klinefelter",
+        "risk-factors",
+        "mediastinal-GCT"
+      ],
+      "topicId": "testicular-tumors",
+      "topicName": "Testicular Tumors"
+    },
+    {
+      "id": "rp27-010",
+      "stem": "A 41-year-old man is diagnosed with pure seminoma after radical inguinal orchiectomy. Staging evaluation is planned to look for early lymphatic spread. Which of the following nodal groups is the most likely first site of metastasis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inguinal lymph nodes"
+        },
+        {
+          "label": "B",
+          "text": "Para-aortic lymph nodes"
+        },
+        {
+          "label": "C",
+          "text": "Axillary lymph nodes"
+        },
+        {
+          "label": "D",
+          "text": "Cervical lymph nodes"
+        },
+        {
+          "label": "E",
+          "text": "Mediastinal lymph nodes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Seminomas typically spread first via lymphatics to the para-aortic lymph nodes.",
+        "whyCorrect": "The lecture states that seminomas typically spread first to para-aortic lymph nodes, following the testis's normal lymphatic drainage to the retroperitoneum, whereas nonseminomatous tumors more often metastasize hematogenously.",
+        "whyWrongByChoice": {
+          "A": "Inguinal node involvement occurs inappropriately only when scrotal surgery or biopsy has disrupted normal lymphatic drainage.",
+          "C": "Axillary nodes are not part of testicular lymphatic drainage and are not a first site of spread.",
+          "D": "Cervical nodes are not the initial drainage basin of the testis.",
+          "E": "Mediastinal nodes are not the first site; retroperitoneal para-aortic nodes are reached first."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "seminoma",
+        "metastasis",
+        "para-aortic-nodes"
+      ],
+      "topicId": "testicular-tumors",
+      "topicName": "Testicular Tumors"
+    },
+    {
+      "id": "rp27-011",
+      "stem": "A pathology resident is reviewing the report of a radical orchiectomy specimen showing a mixed germ cell tumor. Which of the following statements about the classification of testicular germ cell tumors is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are graded by mitotic activity but are not staged"
+        },
+        {
+          "label": "B",
+          "text": "They are staged with a TNM system that incorporates serum tumor markers"
+        },
+        {
+          "label": "C",
+          "text": "They are staged only after retroperitoneal node dissection in all patients"
+        },
+        {
+          "label": "D",
+          "text": "They are graded by degree of differentiation and staged by tumor size alone"
+        },
+        {
+          "label": "E",
+          "text": "They are neither graded nor staged because prognosis depends on histology"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Testicular GCTs are not graded; they are staged with a TNM system modified to include serum tumor markers.",
+        "whyCorrect": "GCTs are not graded. They are staged by the tumor, nodes, metastases (TNM) system, which for testicular tumors is modified to take serum tumor markers (AFP, beta-hCG, LDH) into account. Some patients may additionally undergo surgical staging with retroperitoneal lymph node dissection.",
+        "whyWrongByChoice": {
+          "A": "The opposite is true: GCTs are staged but not graded.",
+          "C": "Retroperitoneal lymph node dissection is used for surgical staging in only some patients, not all.",
+          "D": "GCTs are not graded, and TNM staging assesses nodes, metastases, and markers, not tumor size alone.",
+          "E": "GCTs are staged with the modified TNM system; only grading is omitted."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "staging",
+        "TNM",
+        "tumor-markers"
+      ],
+      "topicId": "testicular-tumors",
+      "topicName": "Testicular Tumors"
+    },
+    {
+      "id": "rp27-012",
+      "stem": "A 36-year-old man undergoes radical inguinal orchiectomy for a testicular mass; pathology shows pure seminoma confined to the testis. CT imaging shows no lymph node involvement or distant metastases, and post-operative tumor markers are normal. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active surveillance with beta-hCG monitoring and imaging"
+        },
+        {
+          "label": "B",
+          "text": "Systemic combination chemotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Retroperitoneal lymph node dissection"
+        },
+        {
+          "label": "D",
+          "text": "Radiation therapy to the para-aortic nodes"
+        },
+        {
+          "label": "E",
+          "text": "Scrotal irradiation of the contralateral testis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Localized seminoma requires no treatment beyond orchiectomy; patients undergo active surveillance with marker monitoring and imaging.",
+        "whyCorrect": "A localized testicular seminoma does not usually require additional intervention beyond orchiectomy. Patients undergo active surveillance with regular follow-up visits, monitoring of beta-hCG levels, and imaging studies such as chest x-ray and CT. Prognosis is excellent, with 5-year survival around 92%.",
+        "whyWrongByChoice": {
+          "B": "Chemotherapy is reserved for extensive lymph node involvement or advanced metastatic disease, not localized seminoma.",
+          "C": "RPLND is a management option for nonseminomatous GCTs, not localized seminoma.",
+          "D": "Radiation therapy is indicated when lymph nodes are involved; this patient has no nodal disease.",
+          "E": "Scrotal irradiation is part of testicular lymphoma treatment to prevent contralateral recurrence, not seminoma management."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "seminoma",
+        "treatment",
+        "active-surveillance"
+      ],
+      "topicId": "testicular-tumors",
+      "topicName": "Testicular Tumors"
+    },
+    {
+      "id": "rp28-001",
+      "stem": "A 68-year-old man reports 8 months of waking three times nightly to urinate, a weak stream with hesitancy, terminal dribbling, and a sensation of incomplete bladder emptying. Digital rectal examination reveals a smooth, firm, symmetrically enlarged, nontender prostate without nodules. Urinalysis and serum creatinine are normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute bacterial prostatitis"
+        },
+        {
+          "label": "B",
+          "text": "Benign prostatic hyperplasia"
+        },
+        {
+          "label": "C",
+          "text": "Chronic bacterial prostatitis"
+        },
+        {
+          "label": "D",
+          "text": "Prostatic adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Acute cystitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Obstructive voiding symptoms with a smooth, symmetric, enlarged prostate in an older man indicate BPH.",
+        "whyCorrect": "BPH affects about 70% of men over 60 and produces obstructive symptoms (WISE: weak stream, intermittent flow, straining, incomplete emptying) plus nocturia and hesitancy. The smooth, elastic, symmetric prostate without nodules on DRE and a normal urinalysis fit benign hyperplasia compressing the prostatic urethra.",
+        "whyWrongByChoice": {
+          "A": "Acute bacterial prostatitis presents as a severe UTI with fever, chills, and an exquisitely tender prostate, none of which are present.",
+          "C": "Chronic bacterial prostatitis causes recurrent mild UTIs with leukocytes and bacteria on urinalysis; his urinalysis is normal.",
+          "D": "Prostate cancer is suggested by an irregular or asymmetric gland with nodules, not a smooth symmetric enlargement.",
+          "E": "Cystitis causes irritative symptoms with an abnormal urinalysis and would not explain the enlarged prostate or obstructive stream."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "BPH",
+        "diagnosis",
+        "digital rectal exam"
+      ],
+      "topicId": "benign-prostate-disorders",
+      "topicName": "Benign Prostate Disorders"
+    },
+    {
+      "id": "rp28-002",
+      "stem": "A 64-year-old man has urinary hesitancy, a weak stream, and nocturia. Imaging shows an enlarged prostate compressing the prostatic urethra into a slit-like lumen. Hyperplastic nodules causing this presentation most likely arose in which region of the prostate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior fibromuscular stroma"
+        },
+        {
+          "label": "B",
+          "text": "Central zone"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral zone"
+        },
+        {
+          "label": "D",
+          "text": "Transition zone"
+        },
+        {
+          "label": "E",
+          "text": "Prostatic apex"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "BPH arises primarily in the transition (periurethral) zone of the prostate.",
+        "whyCorrect": "The transition zone surrounds the prostatic urethra as it passes through the central portion of the gland. Hyperplastic nodules in this periurethral region compress the urethra into a slit-like lumen, producing the obstructive voiding symptoms of BPH.",
+        "whyWrongByChoice": {
+          "A": "The anterior fibromuscular stroma is not the periurethral region where BPH nodules characteristically develop.",
+          "B": "The central zone is not the primary site of benign hyperplastic nodules.",
+          "C": "The peripheral zone is not the periurethral site where BPH arises, so nodules there would not compress the urethra this way.",
+          "E": "The prostatic apex is not the described site of origin for the hyperplastic nodules of BPH."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BPH",
+        "anatomy",
+        "transition zone"
+      ],
+      "topicId": "benign-prostate-disorders",
+      "topicName": "Benign Prostate Disorders"
+    },
+    {
+      "id": "rp28-003",
+      "stem": "A 66-year-old man with benign prostatic hyperplasia and a 40-cc prostate is started on finasteride. Which of the following best describes the mechanism by which this drug reduces prostatic hyperplasia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of alpha-1 receptors on prostatic smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of the enzyme converting testosterone to dihydrotestosterone"
+        },
+        {
+          "label": "C",
+          "text": "Direct antagonism of intracellular androgen receptors"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of phosphodiesterase-5 in vascular smooth muscle"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of estrogen production to suppress cell growth"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Finasteride inhibits 5-alpha-reductase, blocking conversion of testosterone to DHT and reducing prostatic hyperplasia.",
+        "whyCorrect": "DHT, derived from testosterone by 5-alpha-reductase, is the hormone most directly associated with BPH; it binds intracellular androgen receptors and promotes prostatic growth. Finasteride and dutasteride inhibit 5-alpha-reductase, lowering DHT and reducing tissue hyperplasia.",
+        "whyWrongByChoice": {
+          "A": "Alpha-1 blockade is the mechanism of terazosin and tamsulosin, which relax smooth muscle rather than shrink hyperplastic tissue.",
+          "C": "Finasteride lowers DHT synthesis; it does not act as a direct androgen receptor antagonist.",
+          "D": "Phosphodiesterase-5 inhibition is the mechanism of sildenafil, an erectile dysfunction drug, not of finasteride.",
+          "E": "Estrogens appear to tip the balance toward prostatic proliferation, so stimulating them would not treat BPH."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BPH",
+        "pharmacology",
+        "5-alpha-reductase inhibitors"
+      ],
+      "topicId": "benign-prostate-disorders",
+      "topicName": "Benign Prostate Disorders"
+    },
+    {
+      "id": "rp28-004",
+      "stem": "A 71-year-old man with benign prostatic hyperplasia managed with tamsulosin takes a new medication for erectile dysfunction. One hour later he becomes lightheaded on standing and briefly loses consciousness. His blood pressure is 82/50 mm Hg. Which of the following mechanisms best explains this episode?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Additive vasodilation from alpha-1 blockade plus phosphodiesterase-5 inhibition"
+        },
+        {
+          "label": "B",
+          "text": "Reduced dihydrotestosterone synthesis lowering vascular tone"
+        },
+        {
+          "label": "C",
+          "text": "Reflex bradycardia caused by androgen receptor blockade"
+        },
+        {
+          "label": "D",
+          "text": "Volume depletion from chronic bladder outlet obstruction"
+        },
+        {
+          "label": "E",
+          "text": "Hypersensitivity reaction to alpha-1A-selective agents"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Combining an alpha-1 blocker with a PDE-5 inhibitor such as sildenafil can cause significant hypotension.",
+        "whyCorrect": "Alpha-1 blockers relax vascular and prostatic smooth muscle, and PDE-5 inhibitors like sildenafil add further vasodilation. Even uroselective alpha-1A agents such as tamsulosin, which relatively spare vascular receptors, can still produce significant hypotension when combined with a PDE-5 inhibitor.",
+        "whyWrongByChoice": {
+          "B": "Tamsulosin does not affect DHT synthesis; that is the mechanism of 5-alpha-reductase inhibitors, and neither drug he took lowers DHT.",
+          "C": "Neither drug blocks androgen receptors, and the episode reflects vasodilatory hypotension rather than a reflex arrhythmia.",
+          "D": "Bladder outlet obstruction causes urinary stasis and retention, not acute volume depletion with syncope after a new drug.",
+          "E": "This is a predictable pharmacodynamic interaction, not an allergic hypersensitivity reaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BPH",
+        "drug interaction",
+        "alpha-1 blockers",
+        "sildenafil"
+      ],
+      "topicId": "benign-prostate-disorders",
+      "topicName": "Benign Prostate Disorders"
+    },
+    {
+      "id": "rp28-005",
+      "stem": "A 63-year-old man has bothersome urinary hesitancy, weak stream, and nocturia from benign prostatic hyperplasia. Transrectal ultrasonography estimates a prostate volume of 45 cc, and his PSA is 2.1 ng/mL. According to current guidelines, which of the following is the most appropriate initial pharmacologic therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tamsulosin monotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Finasteride monotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Sildenafil monotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Ciprofloxacin for 4-6 weeks"
+        },
+        {
+          "label": "E",
+          "text": "Immediate transurethral resection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "With prostate volume >30 cc and/or PSA >1.5 ng/mL, a 5-alpha-reductase inhibitor is indicated rather than alpha-1 blocker monotherapy.",
+        "whyCorrect": "Alpha-1 blockers are the usual first-line BPH treatment, but per the 2026 AUA guidelines, a prostate volume greater than 30 cc and/or PSA greater than 1.5 ng/mL calls for 5-alpha-reductase inhibitor monotherapy or combination therapy. This patient exceeds both thresholds, so finasteride is the appropriate choice offered.",
+        "whyWrongByChoice": {
+          "A": "Alpha-1 blocker monotherapy is first-line only when the prostate is not enlarged beyond 30 cc and PSA is 1.5 ng/mL or less.",
+          "C": "Sildenafil is a PDE-5 inhibitor for erectile dysfunction and is a hypotension risk with alpha-1 blockers, not a BPH therapy.",
+          "D": "Prolonged fluoroquinolone therapy treats chronic bacterial prostatitis, not benign hyperplasia.",
+          "E": "Surgery such as TURP is reserved for persistent or worsening symptoms or complications after medical therapy, not initial management."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "BPH",
+        "treatment selection",
+        "AUA guidelines"
+      ],
+      "topicId": "benign-prostate-disorders",
+      "topicName": "Benign Prostate Disorders"
+    },
+    {
+      "id": "rp28-006",
+      "stem": "A 74-year-old man with long-standing untreated benign prostatic hyperplasia undergoes renal ultrasonography for mildly elevated creatinine. The study also shows a diffusely thickened bladder wall. Which of the following best explains this bladder finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Detrusor muscle hypertrophy from increased voiding workload"
+        },
+        {
+          "label": "B",
+          "text": "Infiltration of the bladder wall by hyperplastic prostate glands"
+        },
+        {
+          "label": "C",
+          "text": "Chronic bacterial invasion of the bladder muscle"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatous inflammation of the bladder wall"
+        },
+        {
+          "label": "E",
+          "text": "Deposition of prostate-specific antigen in the detrusor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In BPH the detrusor works harder against outlet obstruction and hypertrophies, seen as a thickened bladder wall.",
+        "whyCorrect": "The enlarged prostate compresses the prostatic urethra, so the detrusor muscle must generate more force to empty the bladder. Compensatory detrusor hypertrophy can be detected as an enlarged bladder on exam or a thickened bladder wall on ultrasonography.",
+        "whyWrongByChoice": {
+          "B": "BPH is a benign proliferation confined to the prostate; it compresses the urethra rather than invading the bladder wall.",
+          "C": "Urinary stasis in BPH raises UTI risk, but the diffuse wall thickening here reflects muscular compensation, not bacterial invasion of muscle.",
+          "D": "Granulomatous inflammation relates to granulomatous prostatitis (e.g., after BCG), which involves the prostate, not the bladder wall.",
+          "E": "PSA is a protein that leaks into the bloodstream from prostatic epithelium; it does not deposit in the detrusor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BPH",
+        "complications",
+        "detrusor hypertrophy"
+      ],
+      "topicId": "benign-prostate-disorders",
+      "topicName": "Benign Prostate Disorders"
+    },
+    {
+      "id": "rp28-007",
+      "stem": "A 34-year-old man presents with fever of 39.1 C, chills, burning with urination, urinary frequency, and severe rectal pain. He recently underwent urinary catheterization. Gentle examination reveals an enlarged, extremely tender prostate. Urinalysis shows leukocytes and bacteria. Which of the following organisms is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "D",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "E",
+          "text": "Treponema pallidum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acute bacterial prostatitis is caused by the usual UTI organisms, most commonly E. coli.",
+        "whyCorrect": "Acute prostatitis arises from retrograde spread of bacteria from the urethra, reflux of infected urine into prostatic ducts, or follows catheterization or biopsy. The responsible organisms are those causing most UTIs: E. coli, Proteus, and Klebsiella, with E. coli most likely.",
+        "whyWrongByChoice": {
+          "B": "Staphylococcus aureus is not among the typical UTI organisms described as causing acute prostatitis.",
+          "C": "Fungal infection is a cause of granulomatous prostatitis, which shows granulomas on histology, not this acute UTI picture.",
+          "D": "Tuberculosis causes granulomatous prostatitis, a chronic granulomatous tissue reaction rather than an acute febrile UTI syndrome.",
+          "E": "Syphilis is not described as a cause of acute bacterial prostatitis; typical uropathogens are responsible."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute prostatitis",
+        "microbiology",
+        "E. coli"
+      ],
+      "topicId": "benign-prostate-disorders",
+      "topicName": "Benign Prostate Disorders"
+    },
+    {
+      "id": "rp28-008",
+      "stem": "A 41-year-old man has acute bacterial prostatitis with fever, dysuria, and perineal pain. Urinalysis shows leukocytes and bacteria, and a urine culture is pending. In addition to analgesics and stool softeners, which of the following is the most appropriate empiric therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral ciprofloxacin"
+        },
+        {
+          "label": "B",
+          "text": "Tamsulosin"
+        },
+        {
+          "label": "C",
+          "text": "Finasteride"
+        },
+        {
+          "label": "D",
+          "text": "Warm baths and NSAIDs alone"
+        },
+        {
+          "label": "E",
+          "text": "Transurethral resection of the prostate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Empiric therapy for acute bacterial prostatitis is a fluoroquinolone or trimethoprim-sulfamethoxazole while cultures are pending.",
+        "whyCorrect": "Acute prostatitis responds to routine antibiotics targeting the cultured bacteria; while culture results are pending, a fluoroquinolone such as ciprofloxacin or trimethoprim-sulfamethoxazole is a good empiric choice. Analgesics and stool softeners help reduce symptoms.",
+        "whyWrongByChoice": {
+          "B": "Alpha-1 blockers treat BPH and may help CP/CPPS symptoms, but they do not treat an acute bacterial infection.",
+          "C": "5-alpha-reductase inhibitors reduce prostatic hyperplasia in BPH; they have no role in treating infection.",
+          "D": "Supportive care alone is the approach for CP/CPPS; a bacterial infection requires antibiotics.",
+          "E": "TURP is a surgical treatment for refractory BPH, not therapy for acute prostatitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute prostatitis",
+        "treatment",
+        "fluoroquinolone"
+      ],
+      "topicId": "benign-prostate-disorders",
+      "topicName": "Benign Prostate Disorders"
+    },
+    {
+      "id": "rp28-009",
+      "stem": "A 52-year-old man has had three mild urinary tract infections over the past 6 months with low back pain, dysuria, and perineal discomfort but no fever or chills. Digital rectal examination reveals a soft, spongy, fluid-feeling prostate. Which of the following is the best next diagnostic step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Urine cultures obtained before and after prostatic massage"
+        },
+        {
+          "label": "B",
+          "text": "Transrectal prostate biopsy"
+        },
+        {
+          "label": "C",
+          "text": "Transurethral resection with tissue examination"
+        },
+        {
+          "label": "D",
+          "text": "Serum blood urea nitrogen and creatinine measurement"
+        },
+        {
+          "label": "E",
+          "text": "Repeat PSA measurement in 6 months"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic bacterial prostatitis is diagnosed by comparing urine cultures before and after prostatic massage.",
+        "whyCorrect": "Recurrent mild UTIs without systemic symptoms, plus a boggy prostate on exam, suggest chronic bacterial prostatitis. A urine sample is obtained before and after prostatic massage, and the expressed discharge is cultured; a tenfold increase in bacteria in the post-massage specimen supports the diagnosis, though bacteria are cultured in only about 10% of patients.",
+        "whyWrongByChoice": {
+          "B": "Biopsy differentiates prostate cancer from benign tissue when PSA is elevated with questionable DRE findings; it is not the test for prostatitis.",
+          "C": "TURP is a surgical treatment for refractory BPH, not a diagnostic maneuver for chronic prostatitis.",
+          "D": "BUN and creatinine assess obstructive kidney injury from BPH; they do not identify a chronically infected prostate.",
+          "E": "PSA is elevated in all forms of prostatitis, so waiting to repeat it neither confirms nor localizes the infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic bacterial prostatitis",
+        "diagnosis",
+        "prostatic massage"
+      ],
+      "topicId": "benign-prostate-disorders",
+      "topicName": "Benign Prostate Disorders"
+    },
+    {
+      "id": "rp28-010",
+      "stem": "A 45-year-old man reports 5 months of pain in the perineum and genitals with intermittent irritative voiding symptoms. Urinalysis shows no white blood cells or bacteria, prostatic fluid obtained after massage shows no bacteria or increased white blood cells, and all cultures are negative. PSA is 3 ng/mL. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Category I acute bacterial prostatitis"
+        },
+        {
+          "label": "B",
+          "text": "Category II chronic bacterial prostatitis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic prostatitis/chronic pelvic pain syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Category IV asymptomatic inflammatory prostatitis"
+        },
+        {
+          "label": "E",
+          "text": "Benign prostatic hyperplasia with voiding symptoms"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Chronic pelvic pain for more than 3 months with normal urinalysis and negative cultures defines CP/CPPS.",
+        "whyCorrect": "CP/CPPS presents as unexplained chronic pain in the groin, genitals, or perineum lasting more than 3 months, with a normal urinalysis and prostatic fluid showing no bacteria or increased WBCs. It is a diagnosis of exclusion and accounts for about 90% of symptomatic prostatitis. Treatment is supportive with warm baths, NSAIDs, and alpha-1 blockers.",
+        "whyWrongByChoice": {
+          "A": "Acute bacterial prostatitis presents as a severe febrile UTI with leukocytes and bacteria on urinalysis.",
+          "B": "Chronic bacterial prostatitis causes recurrent UTIs with bacteria demonstrable on post-massage cultures; his studies are negative.",
+          "D": "Asymptomatic inflammatory prostatitis has WBCs on urinalysis or seminal fluid but no symptoms; this patient has chronic pain.",
+          "E": "BPH causes obstructive voiding symptoms from an enlarged gland, not months of perineal and genital pain with negative studies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CP/CPPS",
+        "diagnosis of exclusion",
+        "prostatitis"
+      ],
+      "topicId": "benign-prostate-disorders",
+      "topicName": "Benign Prostate Disorders"
+    },
+    {
+      "id": "rp28-011",
+      "stem": "A 38-year-old man undergoing infertility evaluation has white blood cells noted on seminal fluid analysis. He has no urinary symptoms or pain. Urinalysis again shows white blood cells, prostatic fluid after massage shows white blood cells without bacteria, and all cultures are negative. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No therapy; the condition is self-limited"
+        },
+        {
+          "label": "B",
+          "text": "Ciprofloxacin for 4-6 weeks"
+        },
+        {
+          "label": "C",
+          "text": "Tamsulosin with warm baths"
+        },
+        {
+          "label": "D",
+          "text": "Ultrasound-guided prostatic drainage"
+        },
+        {
+          "label": "E",
+          "text": "Transurethral resection of the prostate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Asymptomatic inflammatory prostatitis is self-limited and requires no therapy.",
+        "whyCorrect": "This is type 4 prostatitis: WBCs found incidentally on routine urinalysis or seminal fluid analysis in a patient with no symptoms, with no bacteria in urine or prostatic fluid and negative cultures. No infectious organism is responsible, and the condition is usually self-limited, so no treatment is needed.",
+        "whyWrongByChoice": {
+          "B": "Prolonged fluoroquinolone courses treat chronic bacterial prostatitis; there is no bacterial infection here.",
+          "C": "Alpha-1 blockers and warm baths are supportive measures for CP/CPPS, which requires chronic pain; he is asymptomatic.",
+          "D": "Drainage treats a prostatic abscess complicating acute prostatitis, which presents with severe febrile illness.",
+          "E": "TURP is the surgical treatment for BPH that has failed medical therapy, not for incidental inflammation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "asymptomatic inflammatory prostatitis",
+        "management"
+      ],
+      "topicId": "benign-prostate-disorders",
+      "topicName": "Benign Prostate Disorders"
+    },
+    {
+      "id": "rp28-012",
+      "stem": "A 69-year-old man treated with intravesical bacillus Calmette-Guerin for bladder cancer later has an elevated PSA, and a prostate biopsy is performed. Histology shows a mixed, mostly chronic inflammatory infiltrate containing granulomas. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granulomatous prostatitis"
+        },
+        {
+          "label": "B",
+          "text": "Acute bacterial prostatitis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic bacterial prostatitis"
+        },
+        {
+          "label": "D",
+          "text": "Benign prostatic hyperplasia"
+        },
+        {
+          "label": "E",
+          "text": "Chronic prostatitis/chronic pelvic pain syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Granulomas in the prostate after BCG therapy indicate granulomatous prostatitis.",
+        "whyCorrect": "Granulomatous prostatitis can be caused by specific infections (tuberculosis, fungi) or by a tissue reaction to non-infectious stimuli such as intravesical BCG treatment for bladder cancer or prior transurethral resection. Histology shows a mixed, mostly chronic inflammatory infiltrate that also contains granulomas, exactly as seen here.",
+        "whyWrongByChoice": {
+          "B": "Acute bacterial prostatitis shows an intensely inflamed gland with neutrophils, not granulomas, and presents as a severe febrile UTI.",
+          "C": "Chronic bacterial prostatitis shows periglandular lymphocytes and plasma cells without granuloma formation.",
+          "D": "BPH shows hyperplastic epithelial glands in stroma, a proliferative rather than granulomatous process.",
+          "E": "CP/CPPS is a diagnosis of exclusion defined by chronic pelvic pain with negative studies, not by granulomas on biopsy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "granulomatous prostatitis",
+        "BCG",
+        "histology"
+      ],
+      "topicId": "benign-prostate-disorders",
+      "topicName": "Benign Prostate Disorders"
+    },
+    {
+      "id": "rp29-001",
+      "stem": "A 63-year-old man undergoes a routine health maintenance examination. Digital rectal examination reveals a firm, irregular nodule on the posterior surface of the prostate, and subsequent biopsy demonstrates adenocarcinoma. In which of the following regions of the prostate did this tumor most likely arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Central zone"
+        },
+        {
+          "label": "B",
+          "text": "Transitional zone"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral zone"
+        },
+        {
+          "label": "D",
+          "text": "Prostatic urethra"
+        },
+        {
+          "label": "E",
+          "text": "Seminal vesicles"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Prostate adenocarcinoma typically arises in the peripheral zone, which corresponds to the posterior lobe palpable on rectal exam.",
+        "whyCorrect": "The three Ps of prostate cancer are Primary, Posterior lobe, and Peripheral zone. Because the peripheral zone lies along the outer, posterior edge of the gland, tumors there are readily felt as irregular nodularity on digital rectal examination.",
+        "whyWrongByChoice": {
+          "A": "The central zone is a periurethral region classically involved in benign prostatic hyperplasia, not the usual site of adenocarcinoma.",
+          "B": "The transitional zone is the other periurethral zone typical of benign prostatic hyperplasia, which compresses the urethra rather than presenting as a posterior nodule.",
+          "D": "The prostatic urethra is compressed by periurethral hyperplasia; it is not the tissue of origin for prostatic adenocarcinoma.",
+          "E": "The seminal vesicles are removed with the prostate at radical prostatectomy but are not where primary prostate cancer arises."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "anatomy",
+        "peripheral-zone",
+        "digital-rectal-exam"
+      ],
+      "topicId": "prostate-cancer",
+      "topicName": "Prostate Cancer"
+    },
+    {
+      "id": "rp29-002",
+      "stem": "A 66-year-old man is diagnosed with localized prostate adenocarcinoma after an elevated screening PSA. He is surprised because he has no urinary symptoms, while his brother with benign prostatic hyperplasia has severe hesitancy and a weak stream. Which of the following best explains why this patient's cancer has remained asymptomatic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The tumor arose in the periurethral transitional zone"
+        },
+        {
+          "label": "B",
+          "text": "The tumor arose in the peripheral zone, away from the urethra"
+        },
+        {
+          "label": "C",
+          "text": "The tumor shrinks the gland rather than enlarging it"
+        },
+        {
+          "label": "D",
+          "text": "The tumor suppresses androgen signaling in the bladder neck"
+        },
+        {
+          "label": "E",
+          "text": "The tumor secretes PSA, which relaxes the prostatic urethra"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Prostate cancer is usually asymptomatic because it begins in the peripheral zone, distant from the prostatic urethra.",
+        "whyCorrect": "Because prostate cancer typically starts along the outer edges of the gland in the peripheral zone, it does not compress the urethra early in its course. In contrast, benign prostatic hyperplasia involves the periurethral central and transitional zones, so it produces obstructive urinary symptoms much earlier.",
+        "whyWrongByChoice": {
+          "A": "The transitional zone is the classic location of benign prostatic hyperplasia; a periurethral tumor would tend to cause urinary symptoms, not silence.",
+          "C": "Prostate cancer forms a solid tumor within the gland; it does not shrink the prostate, and gland size is not why early cancer is silent.",
+          "D": "Prostate cancer cells depend on androgen signaling for growth; the tumor does not suppress androgen effects elsewhere.",
+          "E": "PSA is a protein secreted by prostatic epithelial cells used for detection; it has no urethra-relaxing action."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clinical-presentation",
+        "peripheral-zone",
+        "bph-contrast"
+      ],
+      "topicId": "prostate-cancer",
+      "topicName": "Prostate Cancer"
+    },
+    {
+      "id": "rp29-003",
+      "stem": "A 57-year-old man asks about his chance of developing prostate cancer. His father was diagnosed with prostate adenocarcinoma at age 58. He drinks two beers most weekends, works as an accountant, and had a urinary tract infection in his 20s. Which of the following features of his history most increases his risk of prostate cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A first-degree relative diagnosed before age 65"
+        },
+        {
+          "label": "B",
+          "text": "A remote history of urinary tract infection"
+        },
+        {
+          "label": "C",
+          "text": "Regular weekend alcohol consumption"
+        },
+        {
+          "label": "D",
+          "text": "A sedentary desk occupation"
+        },
+        {
+          "label": "E",
+          "text": "Being younger than 60 years of age"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A first-degree relative diagnosed with prostate cancer before age 65 raises a man's risk severalfold.",
+        "whyCorrect": "Prostate cancer has a strong familial component, and having a first-degree relative diagnosed before age 65 increases risk severalfold. Other established risk factors include increasing age (incidence rises after 50), African American race, and genetic abnormalities such as BRCA2 and MYC.",
+        "whyWrongByChoice": {
+          "B": "A remote urinary tract infection is not a described risk factor for prostate cancer.",
+          "C": "Alcohol use is not among the risk factors described; dietary fat and red meat intake are only probable associations with inconsistent evidence.",
+          "D": "Occupation and sedentary work are not described risk factors for prostate carcinoma.",
+          "E": "Younger age is protective, not a risk; incidence increases in men older than 50 years."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "risk-factors",
+        "family-history"
+      ],
+      "topicId": "prostate-cancer",
+      "topicName": "Prostate Cancer"
+    },
+    {
+      "id": "rp29-004",
+      "stem": "A 68-year-old man undergoes transrectal ultrasound-guided core biopsy for an elevated PSA and an irregular prostatic nodule. Microscopy shows small, crowded glands lying back-to-back between larger benign glands, lined by a single layer of cuboidal cells with enlarged nuclei and prominent nucleoli. Which of the following additional findings would confirm that these glands are malignant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of the outer basal cell layer"
+        },
+        {
+          "label": "B",
+          "text": "Preservation of a two-layered glandular epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Abundant fibromuscular stroma between the glands"
+        },
+        {
+          "label": "D",
+          "text": "Tall columnar cells with small, inconspicuous nucleoli"
+        },
+        {
+          "label": "E",
+          "text": "Widely spaced tubuloalveolar glands of uniform size"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Loss of the basal cell layer characterizes prostate adenocarcinoma.",
+        "whyCorrect": "Normal prostatic glands have a two-layered epithelium: an inner columnar secretory layer and an outer flattened regenerative (basal) layer. Adenocarcinoma arises from the secretory layer, so the basal layer is lost and malignant glands are lined by a single layer of cuboidal cells with enlarged nuclei and visible nucleoli.",
+        "whyWrongByChoice": {
+          "B": "A two-layered epithelium is the architecture of benign prostatic glands; its preservation argues against carcinoma.",
+          "C": "Malignant glands are characteristically back-to-back with no intervening stroma; abundant stroma between glands is a feature of normal tissue.",
+          "D": "Malignant cells show enlarged nuclei with prominent nucleoli; small inconspicuous nucleoli suggest benign epithelium.",
+          "E": "Widely spaced tubuloalveolar glands in fibromuscular stroma describe normal prostate, not the small crowded glands of adenocarcinoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histology",
+        "basal-cell-layer",
+        "biopsy"
+      ],
+      "topicId": "prostate-cancer",
+      "topicName": "Prostate Cancer"
+    },
+    {
+      "id": "rp29-005",
+      "stem": "A 58-year-old man with a PSA of 4.6 ng/mL undergoes transrectal ultrasound-guided core biopsy of the prostate; all 12 cores show benign tissue. One week later, before any new symptoms develop, a repeat PSA drawn in error returns at 8.9 ng/mL. Which of the following is the most likely explanation for the higher value?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interval development of prostatic adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Recent instrumentation and manipulation of the prostate"
+        },
+        {
+          "label": "C",
+          "text": "Age-related enlargement of the gland over the interval"
+        },
+        {
+          "label": "D",
+          "text": "New osteoblastic metastases releasing antigen"
+        },
+        {
+          "label": "E",
+          "text": "Loss of PSA secretion by benign epithelial cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "PSA is not specific for cancer; procedures that manipulate the prostate, such as biopsy, elevate it.",
+        "whyCorrect": "PSA is secreted by prostatic epithelial cells and rises with prostatitis, benign prostatic hyperplasia, urinary retention, and procedures that manipulate the prostate such as biopsy. A PSA drawn one week after a 12-core biopsy is expected to be falsely elevated by the procedure itself.",
+        "whyWrongByChoice": {
+          "A": "A cancer large enough to double the PSA would not develop in one week, and 12 cores were just benign.",
+          "C": "Prostate size does increase PSA with age, but that occurs over years, not one week.",
+          "D": "There is no evidence of malignancy, and bony metastases occur in advanced cancer, not after a benign biopsy.",
+          "E": "Benign epithelial cells continue to secrete PSA; losing secretion would lower the level, not raise it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "psa",
+        "false-positive",
+        "screening"
+      ],
+      "topicId": "prostate-cancer",
+      "topicName": "Prostate Cancer"
+    },
+    {
+      "id": "rp29-006",
+      "stem": "A healthy, asymptomatic 74-year-old man requests prostate cancer screening after shared decision-making. His PSA returns at 5.9 ng/mL, and digital rectal examination is unremarkable. Using age-specific PSA reference ranges, which of the following is the most accurate interpretation of this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It falls within the reference range for his age group"
+        },
+        {
+          "label": "B",
+          "text": "It exceeds the reference range for any age group"
+        },
+        {
+          "label": "C",
+          "text": "It is diagnostic of prostatic adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "It indicates urinary retention requiring catheterization"
+        },
+        {
+          "label": "E",
+          "text": "It can only be interpreted after a bone scan"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Age-specific PSA reference ranges rise with age; for men 70-79 years the range is 0-6.5 ng/mL.",
+        "whyCorrect": "PSA increases with age even in healthy men because the prostate enlarges. The age-specific reference range for 70-79 years is 0-6.5 ng/mL, so a value of 5.9 ng/mL is within range for this 74-year-old, whereas the same value would exceed the 0-4.5 ng/mL range for a man in his 60s.",
+        "whyWrongByChoice": {
+          "B": "The 70-79 year reference range extends to 6.5 ng/mL, so 5.9 ng/mL does not exceed it.",
+          "C": "No PSA level is diagnostic of cancer; biopsy is the only way to truly diagnose prostate cancer.",
+          "D": "Urinary retention can elevate PSA, but this asymptomatic man has no evidence of retention, and the value itself does not indicate it.",
+          "E": "Bone scans are used in staging patients with worrisome established cancer, not for interpreting a screening PSA."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "psa",
+        "age-specific-range",
+        "screening"
+      ],
+      "topicId": "prostate-cancer",
+      "topicName": "Prostate Cancer"
+    },
+    {
+      "id": "rp29-007",
+      "stem": "A prostate biopsy report describes the two most prevalent architectural patterns of a tumor: the predominant pattern shows well-formed glands with some cells invading surrounding tissue, and the secondary pattern shows few glands with invading cells. The pathologist assigns these patterns grades of 3 and 4, respectively. Which of the following is this tumor's Gleason score?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "7"
+        },
+        {
+          "label": "D",
+          "text": "10"
+        },
+        {
+          "label": "E",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The Gleason score sums the two most prevalent architectural patterns, yielding a score of 2-10.",
+        "whyCorrect": "Gleason grading evaluates the tumor's architectural pattern, picking the two most prevalent patterns from the biopsy and combining them into a score of 2-10. Patterns of 3 and 4 sum to a Gleason score of 7. Higher scores predict more aggressive disease and poorer outcomes.",
+        "whyWrongByChoice": {
+          "A": "3 is only the predominant single pattern; the score requires adding the second most prevalent pattern.",
+          "B": "4 is only the secondary pattern grade, not the combined score.",
+          "D": "10 is the maximum possible score, reached only when both patterns are grade 5 sheets of cells.",
+          "E": "12 is outside the Gleason system, which ranges from 2 to 10."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gleason-score",
+        "grading",
+        "pathology"
+      ],
+      "topicId": "prostate-cancer",
+      "topicName": "Prostate Cancer"
+    },
+    {
+      "id": "rp29-008",
+      "stem": "A 76-year-old man presents with 2 months of progressive low back pain. Radiographs show multiple dense, sclerotic lesions within the lumbar vertebral bodies and pelvis. Which of the following primary malignancies is the most likely source of these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prostatic adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Renal cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Multiple myeloma"
+        },
+        {
+          "label": "D",
+          "text": "Urothelial carcinoma of the bladder"
+        },
+        {
+          "label": "E",
+          "text": "Hepatocellular carcinoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Osteoblastic bony metastases in a male point strongly to a prostate primary.",
+        "whyCorrect": "Prostate cancer spreads hematogenously, especially to the spine, and its bony metastases are typically osteoblastic, appearing as dense sclerotic lesions. The bones most commonly involved are the lumbar spine, proximal femur, pelvis, thoracic spine, and ribs, matching this man's imaging.",
+        "whyWrongByChoice": {
+          "B": "Renal cell carcinoma does not characteristically produce the osteoblastic pattern that points to a prostate origin in males.",
+          "C": "Multiple myeloma produces destructive marrow lesions rather than the dense sclerotic lesions typical of prostate metastases.",
+          "D": "Urothelial carcinoma is not the classic source of diffusely sclerotic vertebral and pelvic lesions in an elderly man.",
+          "E": "Hepatocellular carcinoma is not the malignancy classically linked to osteoblastic spine metastases in males."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metastasis",
+        "osteoblastic-lesions",
+        "back-pain"
+      ],
+      "topicId": "prostate-cancer",
+      "topicName": "Prostate Cancer"
+    },
+    {
+      "id": "rp29-009",
+      "stem": "A 61-year-old man in excellent health is found to have low-risk prostatic adenocarcinoma on biopsy. His life expectancy exceeds 20 years. He is a good candidate for curative treatment but wishes to safely defer it as long as possible to avoid erectile dysfunction and incontinence. Which of the following management plans is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Watchful waiting with palliative treatment if symptoms develop"
+        },
+        {
+          "label": "B",
+          "text": "Active surveillance with serial PSA, rectal exams, and biopsies"
+        },
+        {
+          "label": "C",
+          "text": "Androgen deprivation therapy alone for the localized tumor"
+        },
+        {
+          "label": "D",
+          "text": "Docetaxel chemotherapy to eradicate the localized disease"
+        },
+        {
+          "label": "E",
+          "text": "Bilateral orchiectomy to achieve castrate testosterone levels"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Active surveillance suits low-risk patients with good life expectancy who wish to defer curative treatment while remaining candidates for it.",
+        "whyCorrect": "Active surveillance is indicated for patients with good life expectancy (over 10-20 years) and low-risk disease who are good candidates for curative treatment but want to defer it to avoid adverse effects. It involves active monitoring with regular PSA tests, digital rectal examinations, and prostate biopsies, with curative treatment still available if the disease progresses.",
+        "whyWrongByChoice": {
+          "A": "Watchful waiting abandons curative intent and is reserved for patients with limited life expectancy under 10 years, not a healthy man with more than 20 years.",
+          "C": "ADT alone is not routine treatment for low-risk localized disease; it backbones therapy for recurrent or metastatic cancer.",
+          "D": "Docetaxel is systemic treatment for advanced or metastatic prostate cancer, not a curative option for low-risk localized disease.",
+          "E": "Orchiectomy is a permanent form of androgen deprivation used in advanced disease and would impose the very adverse effects he wants to avoid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "active-surveillance",
+        "management",
+        "watchful-waiting"
+      ],
+      "topicId": "prostate-cancer",
+      "topicName": "Prostate Cancer"
+    },
+    {
+      "id": "rp29-010",
+      "stem": "A 69-year-old man with metastatic prostate cancer and painful vertebral metastases is scheduled to begin leuprolide. His oncologist is concerned that starting this drug could transiently worsen his bone pain and even precipitate spinal cord compression. Which of the following medications should be given when initiating therapy to limit this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flutamide"
+        },
+        {
+          "label": "B",
+          "text": "Prednisone"
+        },
+        {
+          "label": "C",
+          "text": "Goserelin"
+        },
+        {
+          "label": "D",
+          "text": "Docetaxel"
+        },
+        {
+          "label": "E",
+          "text": "Abiraterone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A first-generation androgen-receptor antagonist such as flutamide is used when starting a GnRH agonist to limit the testosterone flare.",
+        "whyCorrect": "GnRH agonists such as leuprolide initially stimulate pituitary GnRH receptors, transiently increasing LH and testosterone before receptor desensitization lowers them. This flare can worsen bone pain, urinary obstruction, or spinal cord compression, so a short course of an androgen-receptor antagonist, classically the first-generation agent flutamide, is given to block the flare's effects on the tumor.",
+        "whyWrongByChoice": {
+          "B": "A glucocorticoid is co-administered with abiraterone to offset mineralocorticoid excess, not with leuprolide for flare protection.",
+          "C": "Goserelin is another GnRH agonist and would produce the same initial testosterone flare, not prevent it.",
+          "D": "Docetaxel is a microtubule-stabilizing chemotherapy for advanced disease; it does not block androgen-receptor activation during a flare.",
+          "E": "Abiraterone lowers androgen synthesis via CYP17 inhibition but is not the described short-course agent for covering a GnRH agonist flare."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "gnrh-agonist",
+        "testosterone-flare",
+        "flutamide"
+      ],
+      "topicId": "prostate-cancer",
+      "topicName": "Prostate Cancer"
+    },
+    {
+      "id": "rp29-011",
+      "stem": "A 72-year-old man with metastatic prostate cancer begins a new oral agent that decreases androgen synthesis in the testes, adrenal glands, and tumor tissue. Six weeks later he has a blood pressure of 168/96 mm Hg, serum potassium of 2.9 mEq/L, and new lower-extremity edema. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CYP17 inhibition shifting steroid synthesis toward mineralocorticoid excess"
+        },
+        {
+          "label": "B",
+          "text": "Androgen-receptor blockade causing renal sodium and water wasting"
+        },
+        {
+          "label": "C",
+          "text": "GnRH-receptor desensitization stimulating adrenal catecholamine release"
+        },
+        {
+          "label": "D",
+          "text": "Microtubule stabilization impairing cardiac and vascular contractility"
+        },
+        {
+          "label": "E",
+          "text": "Direct activation of glucocorticoid receptors by the drug itself"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Abiraterone inhibits CYP17, and the resulting fall in cortisol promotes mineralocorticoid excess with hypertension, hypokalemia, and edema.",
+        "whyCorrect": "The drug described is abiraterone, a CYP17 inhibitor that decreases androgen synthesis in the testes, adrenals, and tumor. Because CYP17 inhibition also decreases cortisol and promotes mineralocorticoid excess, patients develop hypertension, hypokalemia, and edema, which is why abiraterone is administered with a glucocorticoid.",
+        "whyWrongByChoice": {
+          "B": "Androgen-receptor antagonists cause hepatotoxicity, gynecomastia, and sexual dysfunction, not a mineralocorticoid-excess picture, and sodium wasting would lower blood pressure.",
+          "C": "GnRH-receptor desensitization is the mechanism of GnRH agonists and does not produce catecholamine-driven hypokalemia and edema.",
+          "D": "Microtubule stabilization is the mechanism of docetaxel and does not explain hypertension with hypokalemia.",
+          "E": "Abiraterone reduces cortisol rather than acting as a glucocorticoid agonist; a glucocorticoid must be added alongside it."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "abiraterone",
+        "cyp17",
+        "adverse-effects"
+      ],
+      "topicId": "prostate-cancer",
+      "topicName": "Prostate Cancer"
+    },
+    {
+      "id": "rp29-012",
+      "stem": "A 70-year-old man with castration-resistant metastatic prostate cancer is started on docetaxel. Which of the following best describes the mechanism of action of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stabilizes microtubules and prevents mitosis"
+        },
+        {
+          "label": "B",
+          "text": "Inhibits CYP17-mediated androgen synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Blocks pituitary GnRH receptors directly"
+        },
+        {
+          "label": "D",
+          "text": "Antagonizes androgen receptors in tumor cells"
+        },
+        {
+          "label": "E",
+          "text": "Desensitizes GnRH receptors with continuous stimulation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Docetaxel is a taxane microtubule inhibitor that stabilizes microtubules and prevents mitosis.",
+        "whyCorrect": "Docetaxel is a taxane that stabilizes microtubules, preventing mitosis in dividing tumor cells. It is used as part of systemic treatment for advanced or metastatic prostate cancer, including selected castration-sensitive disease and castration-resistant disease.",
+        "whyWrongByChoice": {
+          "B": "CYP17 inhibition is the mechanism of abiraterone, which decreases androgen synthesis in the testes, adrenals, and tumor.",
+          "C": "Direct blockade of pituitary GnRH receptors describes GnRH antagonists such as degarelix and relugolix.",
+          "D": "Androgen-receptor antagonism describes bicalutamide, flutamide, and enzalutamide.",
+          "E": "Receptor desensitization from continuous stimulation is the mechanism of GnRH agonists such as leuprolide and goserelin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "docetaxel",
+        "chemotherapy",
+        "mechanism"
+      ],
+      "topicId": "prostate-cancer",
+      "topicName": "Prostate Cancer"
+    }
+  ]
+}

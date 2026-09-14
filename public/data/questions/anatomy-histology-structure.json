@@ -1,0 +1,2215 @@
+{
+  "categoryId": "anatomy-histology-structure",
+  "categoryName": "Anatomy, Histology & Structure",
+  "questions": [
+    {
+      "id": "rp01-001",
+      "stem": "A 29-year-old woman presents to the emergency department with 6 hours of severe right lower quadrant pain. Her last menstrual period was about 6 weeks ago. Serum hCG is positive, and transvaginal ultrasound shows no gestational sac within the uterine cavity but reveals a mass in the right adnexa. The abnormally implanted pregnancy is most likely located in which of the following sites?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interstitial segment of the uterine tube"
+        },
+        {
+          "label": "B",
+          "text": "Isthmus of the uterine tube"
+        },
+        {
+          "label": "C",
+          "text": "Ampulla of the uterine tube"
+        },
+        {
+          "label": "D",
+          "text": "Infundibulum of the uterine tube"
+        },
+        {
+          "label": "E",
+          "text": "Cortex of the ovary"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tubal ectopic pregnancies most often implant in the ampulla, the normal site of fertilization.",
+        "whyCorrect": "Fertilization normally occurs in the ampulla, the widest portion of the uterine tube. When the fertilized egg fails to progress into the uterine cavity, it implants where it already is, so most tubal ectopic pregnancies are ampullary.",
+        "whyWrongByChoice": {
+          "A": "Interstitial ectopics occur but are less common; they are notable for late, catastrophic rupture rather than frequency.",
+          "B": "The isthmus is a narrow segment adjacent to the uterus and is not the usual site of fertilization or implantation.",
+          "D": "The infundibulum is the funnel-shaped distal end bearing the fimbriae, not the typical implantation site.",
+          "E": "Ovarian implantation is possible in principle but the fertilized ovum typically lodges in the tube, at the ampullary site of fertilization."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "uterine tube",
+        "ectopic pregnancy",
+        "ampulla"
+      ],
+      "topicId": "anatomy-histology-female-reproductive-system",
+      "topicName": "Anatomy and Histology of the Female Reproductive System"
+    },
+    {
+      "id": "rp01-002",
+      "stem": "A 32-year-old woman has a screening Papanicolaou smear showing a high-grade squamous intraepithelial lesion. She is referred for colposcopy with directed biopsy. Sampling of which of the following locations is most likely to identify the dysplastic focus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Internal os of the cervical canal"
+        },
+        {
+          "label": "B",
+          "text": "Squamocolumnar junction of the cervix"
+        },
+        {
+          "label": "C",
+          "text": "Lateral fornix of the vagina"
+        },
+        {
+          "label": "D",
+          "text": "Stratum basalis of the endometrium"
+        },
+        {
+          "label": "E",
+          "text": "Duct of the greater vestibular gland"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The squamocolumnar (transformation) zone is the most common site of cervical dysplasia and squamous cell carcinoma.",
+        "whyCorrect": "The squamocolumnar junction lies where the stratified squamous ectocervix meets the simple columnar endocervix. This transformation zone is more than a histologic landmark: it is the most common location for cervical dysplasia and cervical squamous cell carcinoma to develop.",
+        "whyWrongByChoice": {
+          "A": "The internal os opens into the uterus at the far end of the cervical canal, away from the transformation zone.",
+          "C": "The vaginal fornix is lined by the same stratified squamous epithelium as the vagina but is not the characteristic site of cervical dysplasia.",
+          "D": "The stratum basalis is the regenerative endometrial layer, unrelated to squamous dysplasia of the cervix.",
+          "E": "The greater vestibular gland lies at the posterior introitus and is associated with cysts and abscesses, not cervical dysplasia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cervix",
+        "squamocolumnar junction",
+        "dysplasia"
+      ],
+      "topicId": "anatomy-histology-female-reproductive-system",
+      "topicName": "Anatomy and Histology of the Female Reproductive System"
+    },
+    {
+      "id": "rp01-003",
+      "stem": "A 24-year-old woman with regular 28-day cycles completes menstruation, during which the superficial portion of her endometrium is shed. Which of the following structures is primarily responsible for regenerating the lost tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stratum functionalis of the endometrium"
+        },
+        {
+          "label": "B",
+          "text": "Stratum basalis of the endometrium"
+        },
+        {
+          "label": "C",
+          "text": "Stratum vasculare of the myometrium"
+        },
+        {
+          "label": "D",
+          "text": "Mesothelium of the perimetrium"
+        },
+        {
+          "label": "E",
+          "text": "Glandular epithelium of the endocervix"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The stratum basalis is retained through the cycle and replenishes the shed stratum functionalis.",
+        "whyCorrect": "The endometrium has an upper functional layer that proliferates and sheds each cycle and a lower basal layer that is maintained throughout the menstrual cycle. The role of the stratum basalis is to replenish the functionalis tissue lost during menstruation.",
+        "whyWrongByChoice": {
+          "A": "The stratum functionalis is the layer that is shed; it cannot regenerate itself.",
+          "C": "The stratum vasculare is a smooth muscle layer of the myometrium responsible for contraction, not endometrial regeneration.",
+          "D": "The perimetrium is the serosal covering of the uterus and does not contribute to the endometrial lining.",
+          "E": "Endocervical glands secrete mucus into the cervical canal and do not rebuild the endometrium."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "endometrium",
+        "menstruation",
+        "stratum basalis"
+      ],
+      "topicId": "anatomy-histology-female-reproductive-system",
+      "topicName": "Anatomy and Histology of the Female Reproductive System"
+    },
+    {
+      "id": "rp01-004",
+      "stem": "A 31-year-old primigravid woman at 39 weeks' gestation is in active labor with strong, regular uterine contractions. The layer of uterine wall generating most of this contractile force has which of the following histologic arrangements?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Outer longitudinal pattern of smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "Middle crisscrossing pattern of smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "Inner circular pattern of smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "Simple columnar epithelium with glands and stroma"
+        },
+        {
+          "label": "E",
+          "text": "Mesothelium over loose connective tissue"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The stratum vasculare, the middle myometrial layer with a crisscrossing pattern, produces most uterine contraction during labor.",
+        "whyCorrect": "The myometrium has three layers. The middle stratum vasculare has a crisscrossing fiber pattern and is responsible for most of the uterine contraction during labor.",
+        "whyWrongByChoice": {
+          "A": "The longitudinal outer layer is the stratum supravasculare, which stabilizes the uterine wall rather than powering labor.",
+          "C": "The circular inner layer is the stratum subvasculare, which contracts during menses to help shed the functionalis and aids placental separation.",
+          "D": "Simple columnar epithelium with glands and stroma describes the endometrium, which is not contractile muscle.",
+          "E": "Mesothelium over loose connective tissue describes the perimetrium (serosa), the outer covering of the uterus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "myometrium",
+        "stratum vasculare",
+        "labor"
+      ],
+      "topicId": "anatomy-histology-female-reproductive-system",
+      "topicName": "Anatomy and Histology of the Female Reproductive System"
+    },
+    {
+      "id": "rp01-005",
+      "stem": "A 27-year-old woman at 28 weeks' gestation develops dull left-sided pelvic discomfort attributed to venous congestion from compression of the vein draining her left ovary. Into which of the following does this vein normally empty?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inferior vena cava directly"
+        },
+        {
+          "label": "B",
+          "text": "Left renal vein"
+        },
+        {
+          "label": "C",
+          "text": "Left internal iliac vein"
+        },
+        {
+          "label": "D",
+          "text": "Left external iliac vein"
+        },
+        {
+          "label": "E",
+          "text": "Left common iliac vein"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The left ovarian vein drains into the left renal vein, and its longer course makes it prone to compression.",
+        "whyCorrect": "The right ovarian vein drains directly into the inferior vena cava, whereas the left ovarian vein drains into the left renal vein. The increased length of the left ovarian vein makes it more susceptible to compression, especially during pregnancy.",
+        "whyWrongByChoice": {
+          "A": "Direct drainage into the inferior vena cava describes the right ovarian vein, not the left.",
+          "C": "The internal iliac vein receives the uterine vein and other pelvic organ veins, not the ovarian vein.",
+          "D": "The external iliac vein drains the lower limb territory and joins the internal iliac to form the common iliac vein.",
+          "E": "The common iliac vein is formed by the union of internal and external iliac veins; the ovarian vein does not empty into it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ovarian vein",
+        "venous drainage",
+        "pregnancy"
+      ],
+      "topicId": "anatomy-histology-female-reproductive-system",
+      "topicName": "Anatomy and Histology of the Female Reproductive System"
+    },
+    {
+      "id": "rp01-006",
+      "stem": "A 62-year-old woman is diagnosed with a carcinoma confined to the left ovary. In planning staging surgery, the team samples the lymph nodes that receive the primary lymphatic drainage of the ovary. Which of the following nodal groups is the most appropriate first site to sample?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Internal iliac nodes"
+        },
+        {
+          "label": "B",
+          "text": "External iliac nodes"
+        },
+        {
+          "label": "C",
+          "text": "Para-aortic nodes"
+        },
+        {
+          "label": "D",
+          "text": "Superficial inguinal nodes"
+        },
+        {
+          "label": "E",
+          "text": "Common iliac nodes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ovarian lymphatics follow the ovarian vessels and drain directly to the para-aortic nodes, bypassing pelvic nodes.",
+        "whyCorrect": "Most pelvic organs drain into the internal and external iliac lymph nodes, but the ovaries are the exception. Their lymphatic drainage follows their blood supply from the abdominal aorta, so they drain directly to the para-aortic lymph nodes.",
+        "whyWrongByChoice": {
+          "A": "Internal iliac nodes receive drainage from most pelvic organs but not the primary drainage of the ovary.",
+          "B": "External iliac nodes likewise serve general pelvic drainage rather than the ovary's first echelon.",
+          "D": "Superficial inguinal nodes are not described as the drainage route of the ovaries.",
+          "E": "Common iliac nodes lie downstream of the iliac groups and are not the ovary's direct drainage site."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ovary",
+        "lymphatic drainage",
+        "para-aortic nodes"
+      ],
+      "topicId": "anatomy-histology-female-reproductive-system",
+      "topicName": "Anatomy and Histology of the Female Reproductive System"
+    },
+    {
+      "id": "rp01-007",
+      "stem": "A 45-year-old woman undergoes left oophorectomy. To control the ovarian vessels, the surgeon clamps and ligates the ligament attaching the ovary to the lateral pelvic wall. Which of the following structures is at greatest risk of injury during this step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ureter"
+        },
+        {
+          "label": "B",
+          "text": "Uterine artery"
+        },
+        {
+          "label": "C",
+          "text": "Round ligament of the uterus"
+        },
+        {
+          "label": "D",
+          "text": "External iliac vein"
+        },
+        {
+          "label": "E",
+          "text": "Pudendal nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ureter passes inferior and posterior to the suspensory ligament of the ovary and is at risk during ligation of the ovarian vessels.",
+        "whyCorrect": "The suspensory (infundibulopelvic) ligament attaches the ovary to the lateral pelvic wall and contains the ovarian vessels and lymphatics. Because the ureter passes inferior and posterior to this ligament, it can be injured when the ovarian vessels are ligated.",
+        "whyWrongByChoice": {
+          "B": "The uterine artery relates to the ureter at the 'water under the bridge' crossing during hysterectomy, not within the suspensory ligament.",
+          "C": "The round ligament runs from the uterine fundus through the inguinal canal to the labia majora, away from this ligation site.",
+          "D": "The external iliac vein courses along the pelvic brim but is not the structure classically injured beneath the suspensory ligament.",
+          "E": "The pudendal nerve supplies the inferior vagina, external genitalia, and pelvic floor and is not encountered at this ligament."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "suspensory ligament",
+        "ureter",
+        "surgical anatomy"
+      ],
+      "topicId": "anatomy-histology-female-reproductive-system",
+      "topicName": "Anatomy and Histology of the Female Reproductive System"
+    },
+    {
+      "id": "rp01-008",
+      "stem": "A 25-year-old woman presents with a painful, fluctuant swelling at the posterior aspect of the vaginal introitus on the right side. The lesion most likely arises from a gland whose normal function is which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secreting mucus to lubricate the vulva during arousal"
+        },
+        {
+          "label": "B",
+          "text": "Producing sebum for the hair-bearing labial skin"
+        },
+        {
+          "label": "C",
+          "text": "Secreting mucus within the endocervical canal"
+        },
+        {
+          "label": "D",
+          "text": "Releasing fluid at the paraurethral openings"
+        },
+        {
+          "label": "E",
+          "text": "Producing the fatty tissue of the mons pubis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bartholin (greater vestibular) glands at the posterior introitus secrete lubricating mucus and commonly form cysts or abscesses.",
+        "whyCorrect": "The greater vestibular (Bartholin) glands are located at the posterior vaginal introitus and secrete mucus to lubricate the vulva, especially during sexual arousal. They are the glands most commonly associated with cysts or abscesses presenting as labial swellings.",
+        "whyWrongByChoice": {
+          "B": "Sebaceous glands of the labia majora accompany hair follicles in the labial skin, not the posterior introitus.",
+          "C": "Endocervical mucous glands lie in the cervical canal, far from the introitus.",
+          "D": "The paraurethral (Skene) glands open near the urethral meatus anteriorly, not at the posterior introitus.",
+          "E": "The mons pubis is a fatty tissue layer over the pubic symphysis, not a secretory gland."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Bartholin gland",
+        "vestibule",
+        "vulva"
+      ],
+      "topicId": "anatomy-histology-female-reproductive-system",
+      "topicName": "Anatomy and Histology of the Female Reproductive System"
+    },
+    {
+      "id": "rp01-009",
+      "stem": "A biopsy is taken from the wall of the mid-vagina of a healthy 35-year-old woman. Which of the following best describes the epithelium expected on histologic examination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Keratinized stratified squamous epithelium"
+        },
+        {
+          "label": "B",
+          "text": "Non-keratinized stratified squamous epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Simple columnar epithelium with glands"
+        },
+        {
+          "label": "D",
+          "text": "Ciliated columnar epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Simple cuboidal mesothelium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The vagina is lined by non-keratinized stratified squamous epithelium over a lamina propria and smooth muscle wall.",
+        "whyCorrect": "The vaginal canal is an elastic muscular tube lined by non-keratinizing stratified squamous epithelium, with a lamina propria and a muscular layer of inner circular and outer longitudinal smooth muscle beneath.",
+        "whyWrongByChoice": {
+          "A": "Keratinized stratified squamous epithelium covers the skin of the labia majora, not the vaginal canal.",
+          "C": "Simple columnar glandular epithelium lines the endocervix and uterine cavity, not the vagina.",
+          "D": "Ciliated columnar epithelium lines the uterine tubes, where the cilia beat toward the uterus.",
+          "E": "Simple cuboidal mesothelium covers the surface of the ovary."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vagina",
+        "histology",
+        "epithelium"
+      ],
+      "topicId": "anatomy-histology-female-reproductive-system",
+      "topicName": "Anatomy and Histology of the Female Reproductive System"
+    },
+    {
+      "id": "rp01-010",
+      "stem": "A 33-year-old woman with a history of tubal scarring is found to have an ectopic pregnancy implanted in the interstitial portion of the uterine tube at the cornu. Compared with ectopic pregnancies elsewhere in the tube, which of the following best explains why this location carries a particularly high risk of severe hemorrhage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Surrounding myometrium permits prolonged growth before rupture"
+        },
+        {
+          "label": "B",
+          "text": "The interstitium is the widest and most distensible tubal segment"
+        },
+        {
+          "label": "C",
+          "text": "The interstitial lumen lacks any surrounding muscular support"
+        },
+        {
+          "label": "D",
+          "text": "Fertilization normally occurs within the interstitial segment"
+        },
+        {
+          "label": "E",
+          "text": "Beating cilia continually force the conceptus deeper into the wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Interstitial (cornual) ectopics are dangerous because the surrounding myometrium lets the pregnancy grow longer before rupture.",
+        "whyCorrect": "The interstitium connects the isthmus to the uterine musculature at the cornua. Because the surrounding myometrium allows an interstitial ectopic pregnancy to grow longer before rupture, rupture occurs later and often results in severe hemorrhage.",
+        "whyWrongByChoice": {
+          "B": "The ampulla, not the interstitium, is the widest portion of the tube; the interstitium is embedded in the uterine wall.",
+          "C": "The opposite is true: the interstitium is surrounded by the muscular uterine wall, which is exactly why rupture is delayed and severe.",
+          "D": "Fertilization normally occurs in the ampulla, not the interstitial segment.",
+          "E": "Tubal cilia beat toward the uterus to transport the ovum; they do not drive the conceptus into the uterine wall."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "interstitial ectopic",
+        "cornua",
+        "hemorrhage"
+      ],
+      "topicId": "anatomy-histology-female-reproductive-system",
+      "topicName": "Anatomy and Histology of the Female Reproductive System"
+    },
+    {
+      "id": "rp01-011",
+      "stem": "A 58-year-old woman who has had four vaginal deliveries reports pelvic pressure and a sensation of a vaginal bulge that worsens with standing. Examination shows descent of the uterus into the vaginal canal. Weakness of which of the following muscle groups, forming the deepest layer of pelvic floor support, most directly explains her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bulbospongiosus and ischiocavernosus"
+        },
+        {
+          "label": "B",
+          "text": "External urethral sphincter and deep transverse perineal"
+        },
+        {
+          "label": "C",
+          "text": "Levator ani and coccygeus"
+        },
+        {
+          "label": "D",
+          "text": "Obturator internus and piriformis"
+        },
+        {
+          "label": "E",
+          "text": "Superficial transverse perineal and external anal sphincter"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The pelvic diaphragm — levator ani (pubococcygeus, puborectalis, iliococcygeus) plus coccygeus — is the deep layer whose failure underlies pelvic organ prolapse.",
+        "whyCorrect": "The deepest of the three pelvic floor layers is the pelvic diaphragm, composed of the levator ani (pubococcygeus, puborectalis, iliococcygeus) and coccygeus, and it provides the primary dynamic support of the uterus. When pelvic floor muscles and connective tissue no longer support the organs, prolapse such as uterine descent occurs; childbirth is a key risk factor.",
+        "whyWrongByChoice": {
+          "A": "Bulbospongiosus and ischiocavernosus belong to the superficial layer of the urogenital triangle.",
+          "B": "The external urethral sphincter and deep transverse perineal form the middle layer at the perineal membrane, not the pelvic diaphragm.",
+          "D": "Obturator internus and piriformis are primarily hip muscles that act as the pelvic 'walls,' supporting organs only indirectly.",
+          "E": "The superficial transverse perineal and external anal sphincter are superficial-layer muscles, not the deep diaphragm."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pelvic floor",
+        "levator ani",
+        "prolapse"
+      ],
+      "topicId": "anatomy-histology-female-reproductive-system",
+      "topicName": "Anatomy and Histology of the Female Reproductive System"
+    },
+    {
+      "id": "rp01-012",
+      "stem": "In a developing ovarian follicle, endocrine cells of the theca interna secrete progesterone and estrogen precursors. Which of the following cells is responsible for converting these precursors into estrogen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granulosa cells"
+        },
+        {
+          "label": "B",
+          "text": "Primordial oocytes"
+        },
+        {
+          "label": "C",
+          "text": "Surface cuboidal mesothelial cells"
+        },
+        {
+          "label": "D",
+          "text": "Fibroblasts of the corpus albicans"
+        },
+        {
+          "label": "E",
+          "text": "Stromal cells of the ovarian medulla"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Theca interna cells make estrogen precursors that granulosa cells convert to estrogen.",
+        "whyCorrect": "The follicle's support cells are the granulosa cells (called follicle cells early on) and the thecal cells around the follicle. Endocrine cells of the theca interna secrete progesterone and estrogen precursors, and the granulosa cells convert those precursors to estrogen. Tumors can arise from both cell types (granulosa cell tumors and thecomas).",
+        "whyWrongByChoice": {
+          "B": "The oocyte is the germ cell within the follicle and does not perform this hormonal conversion.",
+          "C": "The simple cuboidal mesothelium merely covers the ovarian surface.",
+          "D": "The corpus albicans is the collagen-filled remnant left after the corpus luteum regresses; it is not steroidogenic.",
+          "E": "The ovarian medulla contains nerves, vessels, and lymphatics in stroma, not the estrogen-converting cells of the follicle."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ovarian follicle",
+        "granulosa cells",
+        "theca interna"
+      ],
+      "topicId": "anatomy-histology-female-reproductive-system",
+      "topicName": "Anatomy and Histology of the Female Reproductive System"
+    },
+    {
+      "id": "rp02-001",
+      "stem": "A 24-year-old man presents with a dull ache in the left side of his scrotum. On examination, there is a soft, compressible mass superior to the left testis with a 'bag of worms' texture. Which of the following anatomic features best explains why this condition occurs more often on the left side?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The left gonadal artery arises from the internal iliac artery"
+        },
+        {
+          "label": "B",
+          "text": "The left gonadal vein drains into the left renal vein at a right angle"
+        },
+        {
+          "label": "C",
+          "text": "The left pampiniform plexus drains directly into the inferior vena cava"
+        },
+        {
+          "label": "D",
+          "text": "The left testis drains lymph to the superficial inguinal lymph nodes"
+        },
+        {
+          "label": "E",
+          "text": "The left spermatic cord lacks an internal spermatic fascia layer"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Varicocele is more common on the left because the left testicular vein drains into the left renal vein rather than directly into the inferior vena cava.",
+        "whyCorrect": "Both testes drain first into the pampiniform plexus along the spermatic cord. The right gonadal vein empties directly into the inferior vena cava, but the left gonadal vein first enters the left renal vein at a right angle. This produces higher venous pressure on the left, predisposing to abnormal dilation of the pampiniform plexus (varicocele), which feels like a 'bag of worms' superior to the testis.",
+        "whyWrongByChoice": {
+          "A": "The gonadal arteries arise directly from the abdominal aorta, not the internal iliac artery, and arterial anatomy does not explain venous congestion.",
+          "C": "It is the right pampiniform plexus, via the right gonadal vein, that drains directly into the inferior vena cava; the left does not.",
+          "D": "The testes drain lymph to the para-aortic nodes, not the superficial inguinal nodes, and lymphatic drainage does not cause varicocele.",
+          "E": "The spermatic cord on both sides is wrapped in external spermatic fascia, cremasteric muscle, and internal spermatic fascia; no layer is missing on the left."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "varicocele",
+        "testicular venous drainage",
+        "pampiniform plexus"
+      ],
+      "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
+      "topicName": "Anatomy and Histology of the Male Reproductive System"
+    },
+    {
+      "id": "rp02-002",
+      "stem": "A 71-year-old man with biopsy-proven prostate cancer develops progressive low back pain. Imaging shows multiple metastatic lesions in the lumbar vertebral bodies. Which of the following routes best explains this pattern of spread?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphatic spread through the para-aortic lymph nodes"
+        },
+        {
+          "label": "B",
+          "text": "Direct extension of tumor through the posterior rectal wall"
+        },
+        {
+          "label": "C",
+          "text": "Arterial seeding via branches of the inferior vesical artery"
+        },
+        {
+          "label": "D",
+          "text": "Venous connection between the prostatic and vertebral plexuses"
+        },
+        {
+          "label": "E",
+          "text": "Lymphatic spread through the superficial inguinal lymph nodes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Prostatic venous drainage communicates with the vertebral venous plexus, making vertebrae the most common site of prostate cancer metastasis.",
+        "whyCorrect": "The prostate drains first into the prostatic plexus and then into the internal iliac vein, which is connected to the vertebral venous plexus. This venous connection provides a direct route for tumor cells to reach the vertebrae, which is why vertebrae are the most common sites for prostate cancer metastasis.",
+        "whyWrongByChoice": {
+          "A": "Para-aortic nodes are the first metastatic site for testicular cancer, which drains along the gonadal vessels, not the typical route for prostatic spread to bone.",
+          "B": "The rectum lies posterior to the prostate, but the vertebral metastases described are explained by venous spread, not direct extension through the rectum.",
+          "C": "The inferior vesical artery supplies blood to the prostate; arterial inflow is not the described route of metastatic outflow to the vertebrae.",
+          "E": "Superficial inguinal nodes drain the scrotum; the prostate drains primarily to internal iliac and sacral nodes, and the vertebral spread here is venous."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prostate cancer",
+        "vertebral metastasis",
+        "venous plexus"
+      ],
+      "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
+      "topicName": "Anatomy and Histology of the Male Reproductive System"
+    },
+    {
+      "id": "rp02-003",
+      "stem": "A 68-year-old man reports a weak urinary stream, hesitancy, and waking three times nightly to urinate. Digital rectal examination shows a smoothly enlarged, nontender prostate. Enlargement of which of the following regions of the prostate is most likely responsible for his urinary symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral zone"
+        },
+        {
+          "label": "B",
+          "text": "Central zone"
+        },
+        {
+          "label": "C",
+          "text": "Transitional zone"
+        },
+        {
+          "label": "D",
+          "text": "Anterior fibromuscular stroma"
+        },
+        {
+          "label": "E",
+          "text": "Membranous urethra"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The transitional zone, though only about 5% of prostate volume, causes most symptoms of benign prostatic hyperplasia by compressing the prostatic urethra.",
+        "whyCorrect": "The transitional zone makes up only about 5% of prostate volume but is responsible for most symptoms of benign prostatic hyperplasia. Because it immediately surrounds the prostatic urethra, its enlargement compresses the urethral lumen and produces obstructive urinary symptoms such as weak stream and nocturia.",
+        "whyWrongByChoice": {
+          "A": "The peripheral zone comprises up to 70% of prostate volume and is the most common site of prostate cancer, but it is not the zone that produces BPH symptoms.",
+          "B": "The central zone comprises roughly 25% of the gland and surrounds the ejaculatory ducts; it is not the region implicated in BPH symptoms.",
+          "D": "The anterior fibromuscular stroma is a thickened band of tissue surrounding the prostatic apex, not a glandular zone that hypertrophies to obstruct the urethra.",
+          "E": "The membranous urethra lies distal to the prostate; it is not a region of the prostate and is not enlarged in BPH."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "benign prostatic hyperplasia",
+        "transitional zone",
+        "prostatic urethra"
+      ],
+      "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
+      "topicName": "Anatomy and Histology of the Male Reproductive System"
+    },
+    {
+      "id": "rp02-004",
+      "stem": "A 45-year-old man is evaluated for infertility. He reports that very little fluid is expelled when he climaxes, and a urine sample collected immediately afterward contains abundant sperm. Which of the following abnormalities best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Obstruction of the ejaculatory ducts"
+        },
+        {
+          "label": "B",
+          "text": "Weakness of the sphincter at the base of the bladder"
+        },
+        {
+          "label": "C",
+          "text": "Absent secretory function of the seminal vesicles"
+        },
+        {
+          "label": "D",
+          "text": "Failure of peristalsis in the vas deferens"
+        },
+        {
+          "label": "E",
+          "text": "Prior ligation of both vas deferens"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Weakness of the sphincter at the base of the bladder causes retrograde ejaculation, in which semen passes backward into the bladder and can cause infertility.",
+        "whyCorrect": "A sphincter at the base of the bladder normally prevents urination during ejaculation and keeps semen moving outward. When this sphincter is weak, sperm travel backward into the bladder rather than outward (retrograde ejaculation), producing a low-volume ejaculate, sperm in the post-climax urine, and infertility.",
+        "whyWrongByChoice": {
+          "A": "Obstructed ejaculatory ducts could reduce ejaculate volume, but they would not deliver abundant sperm into the bladder and urine.",
+          "C": "Loss of seminal vesicle secretions would lower ejaculate volume, since they contribute 70-85% of it, but it would not place sperm in the urine.",
+          "D": "Sympathetically driven peristalsis of the vas deferens propels sperm forward; its failure would not push sperm backward into the bladder.",
+          "E": "Vasectomy prevents sperm from reaching the ejaculate at all, so sperm would be absent from both the ejaculate and the urine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "retrograde ejaculation",
+        "bladder sphincter",
+        "infertility"
+      ],
+      "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
+      "topicName": "Anatomy and Histology of the Male Reproductive System"
+    },
+    {
+      "id": "rp02-005",
+      "stem": "A 28-year-old man is found to have a firm, painless mass in his right testis. Biopsy confirms testicular cancer. A CT scan is ordered to evaluate for nodal metastasis. Which group of lymph nodes is the most likely site of initial spread?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superficial inguinal lymph nodes"
+        },
+        {
+          "label": "B",
+          "text": "Deep inguinal lymph nodes"
+        },
+        {
+          "label": "C",
+          "text": "Internal iliac lymph nodes"
+        },
+        {
+          "label": "D",
+          "text": "Para-aortic lymph nodes"
+        },
+        {
+          "label": "E",
+          "text": "Sacral lymph nodes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The testes drain lymph along the gonadal vessels to the para-aortic (lateral aortic) nodes, the first site of testicular cancer metastasis.",
+        "whyCorrect": "Testicular lymphatic vessels run alongside the gonadal arteries to the para-aortic (lateral aortic) retroperitoneal nodes, which lie anterior to the lumbar vertebrae near the abdominal aorta. These nodes are the most common site for initial metastasis of testicular cancers, which is why CT imaging is used to assess nodal involvement.",
+        "whyWrongByChoice": {
+          "A": "Superficial inguinal nodes drain the scrotum, not the testis itself.",
+          "B": "Deep inguinal nodes, together with superficial inguinal nodes, drain the penis rather than the testis.",
+          "C": "Internal iliac nodes are a primary drainage site for the prostate, not the testis.",
+          "E": "Sacral nodes drain the prostate along with the internal iliac nodes; they are not the first stop for testicular lymph."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "testicular cancer",
+        "para-aortic nodes",
+        "lymphatic drainage"
+      ],
+      "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
+      "topicName": "Anatomy and Histology of the Male Reproductive System"
+    },
+    {
+      "id": "rp02-006",
+      "stem": "A 58-year-old man has a chronic ulcerated lesion confined to the skin of the scrotum. Biopsy shows carcinoma. Which group of lymph nodes should be examined first for regional metastasis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Para-aortic lymph nodes"
+        },
+        {
+          "label": "B",
+          "text": "Superficial inguinal lymph nodes"
+        },
+        {
+          "label": "C",
+          "text": "Deep inguinal lymph nodes"
+        },
+        {
+          "label": "D",
+          "text": "Internal iliac lymph nodes"
+        },
+        {
+          "label": "E",
+          "text": "Sacral lymph nodes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Although the scrotum lies next to the testes, its lymph drains to the superficial inguinal nodes, not the para-aortic nodes.",
+        "whyCorrect": "The scrotum, despite its proximity to the testes, drains to the superficial inguinal lymph nodes. This contrasts sharply with the testes themselves, which drain along the gonadal vessels to the para-aortic nodes. A carcinoma limited to scrotal skin therefore spreads first to the superficial inguinal group.",
+        "whyWrongByChoice": {
+          "A": "Para-aortic nodes receive lymph from the testes, not from the overlying scrotal skin.",
+          "C": "Deep inguinal nodes participate in draining the penis; the scrotum drains to the superficial inguinal group.",
+          "D": "Internal iliac nodes are primary drainage for the prostate, not the scrotum.",
+          "E": "Sacral nodes drain the prostate together with internal iliac nodes and do not receive scrotal lymph."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "scrotum",
+        "superficial inguinal nodes",
+        "lymphatic drainage"
+      ],
+      "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
+      "topicName": "Anatomy and Histology of the Male Reproductive System"
+    },
+    {
+      "id": "rp02-007",
+      "stem": "A 39-year-old man considering a vasectomy worries that he will no longer ejaculate any fluid afterward. His physician reassures him that ejaculate volume changes very little. Which of the following structures contributes the largest share of seminal fluid volume?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Testes"
+        },
+        {
+          "label": "B",
+          "text": "Epididymis"
+        },
+        {
+          "label": "C",
+          "text": "Seminal vesicles"
+        },
+        {
+          "label": "D",
+          "text": "Bulbourethral glands"
+        },
+        {
+          "label": "E",
+          "text": "Vas deferens"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The seminal vesicles produce roughly 70-85% of total seminal fluid volume, which is unaffected by vasectomy.",
+        "whyCorrect": "The seminal vesicles secrete a fructose-rich fluid containing proteins, enzymes, and nutrients that makes up roughly 70-85% of total seminal fluid volume. Because vasectomy severs only the vas deferens, the seminal vesicles and prostate continue to contribute their secretions, so ejaculate volume changes little; it simply lacks sperm.",
+        "whyWrongByChoice": {
+          "A": "The testes produce sperm and testosterone; sperm contribute only a small fraction of ejaculate volume.",
+          "B": "The epididymis stores and matures sperm; it is not a major fluid-producing gland.",
+          "D": "The bulbourethral glands secrete a clear lubricating pre-ejaculate that does not contribute to final seminal fluid volume.",
+          "E": "The vas deferens is a muscular transport tube for sperm, not a secretory source of seminal fluid."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "seminal vesicles",
+        "vasectomy",
+        "seminal fluid volume"
+      ],
+      "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
+      "topicName": "Anatomy and Histology of the Male Reproductive System"
+    },
+    {
+      "id": "rp02-008",
+      "stem": "A histology slide shows a tubular structure lined by pseudostratified columnar epithelium with stereocilia. Its thick muscular wall contains a central layer of smooth muscle fibers encircling the lumen, sandwiched between two longitudinal layers. Which of the following structures is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epididymis"
+        },
+        {
+          "label": "B",
+          "text": "Vas deferens"
+        },
+        {
+          "label": "C",
+          "text": "Seminal vesicle"
+        },
+        {
+          "label": "D",
+          "text": "Bulbourethral gland"
+        },
+        {
+          "label": "E",
+          "text": "Prostate gland"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The vas deferens is identified by stereociliated pseudostratified columnar epithelium plus a three-layered smooth muscle wall.",
+        "whyCorrect": "The vas deferens is lined with stereociliated pseudostratified columnar epithelium and has three smooth muscle layers in its wall: a central layer with fibers circling the lumen and two surrounding longitudinal layers. These layers contract reflexively and forcefully during ejaculation to propel sperm forward.",
+        "whyWrongByChoice": {
+          "A": "The epididymis also has pseudostratified epithelium with stereocilia, but it is described as a two-layered epithelium-lined storage tube, not a duct with a prominent three-layered muscular wall.",
+          "C": "The seminal vesicle is a tubular gland of pseudostratified columnar cells that secretes fructose-rich fluid; it is not defined by three organized smooth muscle layers around a transport lumen.",
+          "D": "The bulbourethral gland is a tubuloalveolar gland composed of lobules of acini, not a muscular transport duct.",
+          "E": "The prostate consists of convoluted two-layered glands within a fibromuscular stroma, not a single stereociliated tube with layered muscle."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vas deferens",
+        "histology",
+        "smooth muscle layers"
+      ],
+      "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
+      "topicName": "Anatomy and Histology of the Male Reproductive System"
+    },
+    {
+      "id": "rp02-009",
+      "stem": "A 67-year-old man presents with several days of scrotal pain. Examination shows tenderness and swelling localized to a convoluted structure posterior to the left testis. He is diagnosed with a bacterial infection of this structure and started on antibiotics. Which of the following organisms is the most likely cause in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neisseria gonorrhoeae"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Epididymitis in older males is most commonly caused by Escherichia coli, whereas gonococcus predominates in young males.",
+        "whyCorrect": "The structure described is the epididymis, the long convoluted tube posterior to the testis responsible for sperm storage and maturation. Epididymitis is commonly caused by gonococcus in young males but by Escherichia coli in older males, and it responds well to antibiotics. In a 67-year-old, E. coli is the most likely organism.",
+        "whyWrongByChoice": {
+          "A": "Gonococcal epididymitis is typical of young males, not a 67-year-old.",
+          "C": "Staphylococcus aureus is not the organism associated with epididymitis in older males.",
+          "D": "Pseudomonas aeruginosa is not the typical cause of epididymitis in this setting.",
+          "E": "Streptococcus pyogenes is not the organism linked to epididymitis in older males."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "epididymitis",
+        "Escherichia coli",
+        "epididymis"
+      ],
+      "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
+      "topicName": "Anatomy and Histology of the Male Reproductive System"
+    },
+    {
+      "id": "rp02-010",
+      "stem": "A 66-year-old man undergoes prostate biopsy for a suspicious nodule. Throughout the abnormal areas, the glands are lined by only a single layer of epithelial cells, with no identifiable second cell layer at the gland periphery. Which of the following best explains the significance of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is normal, because prostatic glands are lined by one cell layer"
+        },
+        {
+          "label": "B",
+          "text": "It indicates benign hyperplasia of the transitional zone"
+        },
+        {
+          "label": "C",
+          "text": "It indicates adenocarcinoma, with loss of the basal cell layer"
+        },
+        {
+          "label": "D",
+          "text": "It reflects age-related deposition of corpora amylacea"
+        },
+        {
+          "label": "E",
+          "text": "It reflects lipofuscin accumulation within secretory cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Normal prostatic glands have a two-layered epithelium; loss of the deep basal layer, leaving a single layer, marks prostatic adenocarcinoma.",
+        "whyCorrect": "Normal prostatic glands are lined by a two-layered epithelium: an inner row of pale columnar secretory cells with large basal nuclei and a deeper row of squamous regenerative cells with flat nuclei. In prostatic cancer the epithelium has only one layer, so progressive loss of the basal epithelial layer across the glands indicates adenocarcinoma rather than normal tissue.",
+        "whyWrongByChoice": {
+          "A": "Normal prostatic epithelium is two-layered; a single layer is the abnormality that distinguishes cancer, even though the deep layer can be difficult to see.",
+          "B": "Benign prostatic hyperplasia arises from the transitional zone and causes urethral compression; it is not defined by loss of the basal cell layer.",
+          "D": "Corpora amylacea are glycoprotein and keratan sulfate concretions in gland lumens that increase with age and have no clinical significance.",
+          "E": "Lipofuscin granules are yellow pigments from dead epithelial cells described in the seminal vesicles, tinting seminal fluid; they do not explain a missing cell layer."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "prostate adenocarcinoma",
+        "basal cell layer",
+        "prostate histology"
+      ],
+      "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
+      "topicName": "Anatomy and Histology of the Male Reproductive System"
+    },
+    {
+      "id": "rp02-011",
+      "stem": "A 60-year-old man undergoes radical prostatectomy for prostate cancer. After surgery, he is unable to achieve an erection. Injury to which of the following nerves during the operation best explains this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pudendal nerve"
+        },
+        {
+          "label": "B",
+          "text": "Hypogastric nerve"
+        },
+        {
+          "label": "C",
+          "text": "Pelvic splanchnic nerves"
+        },
+        {
+          "label": "D",
+          "text": "Vagus nerve"
+        },
+        {
+          "label": "E",
+          "text": "Obturator nerve"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The pelvic splanchnic nerves (S2-S4), which run near the prostate and drive erection, are at risk during prostatectomy.",
+        "whyCorrect": "Parasympathetic innervation of the pelvic organs arises from S2-S4 as the pelvic splanchnic nerves, which travel on the walls of the rectum close to the prostate. These parasympathetic fibers dilate penile blood vessels to produce erection (the 'point' phase). Their proximity to the prostate puts them at risk of injury during prostatectomy, causing erectile dysfunction.",
+        "whyWrongByChoice": {
+          "A": "The pudendal nerve (S2-S4) provides somatic motor and sensory innervation to pelvic and perineal structures, not the parasympathetic vasodilation that produces erection.",
+          "B": "The hypogastric nerve (L1-L2) carries sympathetic fibers, which constrict penile vessels and drive ejaculation rather than erection.",
+          "D": "The vagus nerve supplies parasympathetic innervation to the testes, not to the penile vessels, and does not course near the prostate.",
+          "E": "The obturator nerve is not described as supplying autonomic input to the penile vasculature."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pelvic splanchnic nerves",
+        "prostatectomy",
+        "erection"
+      ],
+      "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
+      "topicName": "Anatomy and Histology of the Male Reproductive System"
+    },
+    {
+      "id": "rp02-012",
+      "stem": "The penis contains three cylindrical masses of erectile tissue. Which of the following structures surrounds and protects the spongy (penile) urethra?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corpora cavernosa"
+        },
+        {
+          "label": "B",
+          "text": "Corpus spongiosum"
+        },
+        {
+          "label": "C",
+          "text": "Prepuce"
+        },
+        {
+          "label": "D",
+          "text": "Frenulum"
+        },
+        {
+          "label": "E",
+          "text": "Prostatic stroma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The single ventral corpus spongiosum surrounds and protects the spongy (penile) urethra.",
+        "whyCorrect": "The penis is composed of two paired corpora cavernosa dorsally and a single corpus spongiosum ventrally. The corpus spongiosum surrounds and protects the spongy (penile) urethra, the shared final passage for semen and urine during ejaculation and urination.",
+        "whyWrongByChoice": {
+          "A": "The corpora cavernosa are the paired dorsal erectile bodies; they do not contain the urethra.",
+          "C": "The prepuce (foreskin) covers the glans externally and does not enclose the urethra.",
+          "D": "The frenulum attaches the prepuce ventrally to the glans; it is not erectile tissue around the urethra.",
+          "E": "The prostatic fibromuscular stroma surrounds prostatic glands around the prostatic urethra, not the spongy urethra in the penis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "corpus spongiosum",
+        "penile anatomy",
+        "spongy urethra"
+      ],
+      "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
+      "topicName": "Anatomy and Histology of the Male Reproductive System"
+    },
+    {
+      "id": "rp03-001",
+      "stem": "A 48-year-old woman presents with a warm, swollen right breast. On examination, the skin is erythematous and diffusely dimpled, resembling the surface of an orange peel. Biopsy confirms inflammatory carcinoma of the breast. Which of the following mechanisms best explains the dimpled appearance of the skin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphatic obstruction with tension exerted by the suspensory ligaments"
+        },
+        {
+          "label": "B",
+          "text": "Sustained contraction of myoepithelial cells around the acini"
+        },
+        {
+          "label": "C",
+          "text": "Direct tumor invasion of the pectoralis major muscle"
+        },
+        {
+          "label": "D",
+          "text": "Dilation of the lactiferous sinuses beneath the areola"
+        },
+        {
+          "label": "E",
+          "text": "Replacement of the fibrous stroma by adipose tissue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Peau d'orange results from blocked lymphatics causing breast swelling while Cooper's ligaments tether the skin, producing dimpling.",
+        "whyCorrect": "In inflammatory carcinoma, lymphatic ducts within the breast become blocked, which causes the breast to swell. The suspensory (Cooper's) ligaments, which run from the dermis to the deep pectoral fascia, exert excessive tension on the overlying skin under these circumstances, producing the characteristic orange-peel dimpling.",
+        "whyWrongByChoice": {
+          "B": "Myoepithelial cells contract to move milk within ducts and acini; they do not tether or dimple the overlying skin.",
+          "C": "Peau d'orange is a skin change from lymphedema and ligamentous tension, not from invasion of the underlying chest wall muscle.",
+          "D": "Lactiferous sinuses are dilated milk channels near the nipple; their caliber does not alter the skin surface.",
+          "E": "Conversion of fibrous stroma to adipose tissue is a postmenopausal involutional change, not the cause of dimpling in inflammatory carcinoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peau d'orange",
+        "suspensory ligaments",
+        "inflammatory carcinoma"
+      ],
+      "topicId": "structure-and-function-of-the-breast",
+      "topicName": "Structure and Function of the Breast"
+    },
+    {
+      "id": "rp03-002",
+      "stem": "During a mastectomy, a surgeon ligates the artery that provides a primary source of blood to the breast and arises directly from the subclavian artery. Which of the following arteries was ligated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lateral thoracic artery"
+        },
+        {
+          "label": "B",
+          "text": "Internal thoracic artery"
+        },
+        {
+          "label": "C",
+          "text": "Thoracoacromial artery"
+        },
+        {
+          "label": "D",
+          "text": "Posterior intercostal artery"
+        },
+        {
+          "label": "E",
+          "text": "Axillary artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The internal thoracic artery, a branch of the subclavian artery, is a primary arterial supply of the breast.",
+        "whyCorrect": "The breast receives its arterial supply primarily from the internal thoracic artery, which branches from the subclavian artery, and from the lateral thoracic artery, which branches from the axillary artery. The vessel described as both a primary supply and a subclavian branch is therefore the internal thoracic artery.",
+        "whyWrongByChoice": {
+          "A": "The lateral thoracic artery is a primary supply of the breast but arises from the axillary artery, not the subclavian.",
+          "C": "The thoracoacromial artery provides only additional (secondary) supply to the breast.",
+          "D": "Posterior intercostal arteries provide additional supply and are not the primary subclavian-derived source described.",
+          "E": "The axillary artery is the parent vessel of the lateral thoracic artery; it is not itself described as the breast's primary supply arising from the subclavian."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "arterial supply",
+        "internal thoracic artery",
+        "gross anatomy"
+      ],
+      "topicId": "structure-and-function-of-the-breast",
+      "topicName": "Structure and Function of the Breast"
+    },
+    {
+      "id": "rp03-003",
+      "stem": "A 10-year-old girl is brought to clinic by her mother, who noticed a small, firm, slightly tender swelling beneath the child's left areola. Examination reveals a palpable breast bud, and the physician explains this is one of the earliest signs of puberty. Increased sensitivity to which of the following hormones is primarily responsible for the ductal proliferation and adipose deposition now beginning in this patient's breast?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Progesterone"
+        },
+        {
+          "label": "B",
+          "text": "Prolactin"
+        },
+        {
+          "label": "C",
+          "text": "Estradiol"
+        },
+        {
+          "label": "D",
+          "text": "Growth hormone"
+        },
+        {
+          "label": "E",
+          "text": "Placental lactogen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Thelarche is driven primarily by estradiol, which stimulates ductal development and adipose deposition in the pubertal breast.",
+        "whyCorrect": "Breast tissue is highly responsive to estradiol, particularly during early puberty. This sensitivity initiates rapid development of the ductal system (thelarche, marked clinically by breast buds) and promotes deposition of adipose tissue that enlarges the breast.",
+        "whyWrongByChoice": {
+          "A": "Progesterone plays only a supportive role in breast maturation; it is not the primary driver of thelarche.",
+          "B": "Prolactin has a supportive role during maturation and acts mainly in lactation, not as the main pubertal stimulus.",
+          "D": "Growth hormone contributes supportively to breast maturation but does not initiate ductal development at thelarche.",
+          "E": "Placental lactogen acts during pregnancy as part of the hormonal changes preparing the breast for lactation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "thelarche",
+        "estradiol",
+        "puberty"
+      ],
+      "topicId": "structure-and-function-of-the-breast",
+      "topicName": "Structure and Function of the Breast"
+    },
+    {
+      "id": "rp03-004",
+      "stem": "A 58-year-old woman is diagnosed with carcinoma of the left breast. Her oncology team evaluates the regional lymph nodes to assess for metastatic spread. Which of the following node groups receives the majority of lymphatic drainage from the breast?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parasternal (internal thoracic) nodes"
+        },
+        {
+          "label": "B",
+          "text": "Inferior phrenic nodes"
+        },
+        {
+          "label": "C",
+          "text": "Supraclavicular nodes"
+        },
+        {
+          "label": "D",
+          "text": "Axillary lymph nodes"
+        },
+        {
+          "label": "E",
+          "text": "Cervical lymph nodes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "About 75% of breast lymph drains to the axillary nodes, making them the most clinically significant group in breast cancer.",
+        "whyCorrect": "Approximately 75% of the lymph from the breast drains into the axillary lymph nodes. Because they receive the majority of drainage, they are the most clinically significant node group when evaluating the spread of breast cancer.",
+        "whyWrongByChoice": {
+          "A": "Parasternal nodes receive the remaining drainage that travels medially, a minority of breast lymph.",
+          "B": "Inferior phrenic nodes receive only a small portion of drainage, connecting to abdominal lymphatics.",
+          "C": "Supraclavicular nodes are not described as a major drainage pathway of the breast.",
+          "E": "Cervical nodes drain the neck and are not a primary route of breast lymphatic drainage."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lymphatic drainage",
+        "axillary nodes",
+        "breast cancer"
+      ],
+      "topicId": "structure-and-function-of-the-breast",
+      "topicName": "Structure and Function of the Breast"
+    },
+    {
+      "id": "rp03-005",
+      "stem": "During an axillary dissection for breast cancer, the surgeon identifies a metastatic lymph node lying directly posterior to the pectoralis minor muscle. According to the standard classification used for staging, this node belongs to which of the following groups?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Level I axillary nodes"
+        },
+        {
+          "label": "B",
+          "text": "Level II axillary nodes"
+        },
+        {
+          "label": "C",
+          "text": "Level III axillary nodes"
+        },
+        {
+          "label": "D",
+          "text": "Parasternal (internal thoracic) nodes"
+        },
+        {
+          "label": "E",
+          "text": "Inferior phrenic nodes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Axillary node levels are defined by position relative to the pectoralis minor: Level I lateral, Level II posterior, Level III medial.",
+        "whyCorrect": "The axillary nodes are divided into levels based on their relationship to the pectoralis minor muscle. Level II nodes lie posterior to the muscle, so a node directly behind the pectoralis minor is a Level II node. This classification helps guide staging and treatment decisions in breast cancer.",
+        "whyWrongByChoice": {
+          "A": "Level I nodes lie lateral to the pectoralis minor, not posterior to it.",
+          "C": "Level III nodes lie medial to the pectoralis minor.",
+          "D": "Parasternal nodes lie medially near the sternum along the internal thoracic route, not in the axilla.",
+          "E": "Inferior phrenic nodes lie inferiorly and connect to abdominal lymphatics; they are not axillary nodes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "axillary node levels",
+        "pectoralis minor",
+        "staging"
+      ],
+      "topicId": "structure-and-function-of-the-breast",
+      "topicName": "Structure and Function of the Breast"
+    },
+    {
+      "id": "rp03-006",
+      "stem": "A 49-year-old woman with newly diagnosed breast cancer undergoes sentinel lymph node biopsy. Pathologic examination of the sentinel node shows no evidence of malignant cells. Which of the following is the most appropriate interpretation of this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cancer has likely already spread to the parasternal nodes"
+        },
+        {
+          "label": "B",
+          "text": "An extensive axillary dissection can likely be avoided"
+        },
+        {
+          "label": "C",
+          "text": "All Level III axillary nodes must still be removed"
+        },
+        {
+          "label": "D",
+          "text": "The primary tumor is confirmed to be benign"
+        },
+        {
+          "label": "E",
+          "text": "Drainage to the inferior phrenic nodes must be assessed next"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A cancer-free sentinel node implies the disease is unlikely to have spread further, sparing a more extensive axillary dissection.",
+        "whyCorrect": "Sentinel lymph node biopsy samples the first node(s) that drain a tumor. If the sentinel node is free of cancer, it is unlikely that the disease has spread further through the lymphatic network, which can spare the patient a more extensive axillary dissection.",
+        "whyWrongByChoice": {
+          "A": "A negative sentinel node argues against further lymphatic spread, including to the parasternal nodes.",
+          "C": "The purpose of a negative sentinel biopsy is to avoid removing additional axillary nodes, not to mandate Level III removal.",
+          "D": "The sentinel node result describes lymphatic spread; it says nothing about whether the primary tumor itself is malignant, which biopsy of the tumor determines.",
+          "E": "Inferior phrenic nodes receive only a small portion of drainage; a negative sentinel node does not direct evaluation there."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sentinel lymph node",
+        "biopsy",
+        "clinical reasoning"
+      ],
+      "topicId": "structure-and-function-of-the-breast",
+      "topicName": "Structure and Function of the Breast"
+    },
+    {
+      "id": "rp03-007",
+      "stem": "A 61-year-old woman presents with a fixed, palpable mass in her right breast. Core biopsy demonstrates neoplastic epithelial cells arising from small intralobular ducts and invading the surrounding stroma, consistent with invasive ductal carcinoma. This tumor most likely originated from which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epithelial cells of the terminal duct lobular unit"
+        },
+        {
+          "label": "B",
+          "text": "Myoepithelial cells of the terminal ducts"
+        },
+        {
+          "label": "C",
+          "text": "Adipocytes of the interlobular stroma"
+        },
+        {
+          "label": "D",
+          "text": "Epithelium of the lactiferous sinuses"
+        },
+        {
+          "label": "E",
+          "text": "Fibroblasts of the suspensory ligaments"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Breast cancer almost always originates from epithelial cells in the terminal lobules of the glands.",
+        "whyCorrect": "Breast cancer almost always arises from epithelial cells in the terminal lobules. In invasive ductal carcinoma, the most common form, neoplastic cells of the intralobular ducts or small branches of the lactiferous ducts invade the surrounding stroma, producing a fixed, palpable mass.",
+        "whyWrongByChoice": {
+          "B": "Myoepithelial cells are contractile cells that move milk; they are not the cell of origin of invasive ductal carcinoma.",
+          "C": "Adipocytes are stromal fat cells and are not the epithelial source of breast carcinoma.",
+          "D": "Lactiferous sinuses are dilated conduits near the nipple; carcinoma arises in the terminal lobular epithelium, not the sinuses.",
+          "E": "Fibroblasts of the suspensory ligaments form supportive connective tissue and are not the origin of ductal carcinoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "invasive ductal carcinoma",
+        "TDLU",
+        "histology"
+      ],
+      "topicId": "structure-and-function-of-the-breast",
+      "topicName": "Structure and Function of the Breast"
+    },
+    {
+      "id": "rp03-008",
+      "stem": "A histology slide of lactating breast tissue shows terminal ducts lined by simple cuboidal epithelium. Interspersed among the epithelial cells is a second cell population responsible for propelling milk along the duct system. Which of the following best identifies these cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myoepithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Secretory cuboidal epithelial cells"
+        },
+        {
+          "label": "C",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "D",
+          "text": "Adipocytes"
+        },
+        {
+          "label": "E",
+          "text": "Macrophages"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Myoepithelial cells interspersed in ducts and forming the outer acinar layer contract to move milk.",
+        "whyCorrect": "The terminal ducts are lined by simple cuboidal epithelium with interspersed myoepithelial cells that assist with contraction and movement of milk. The acini likewise have an inner secretory cuboidal layer and an outer myoepithelial layer serving the same contractile function.",
+        "whyWrongByChoice": {
+          "B": "The secretory cuboidal cells produce the milk itself; they are not the contractile population that propels it.",
+          "C": "Plasma cells infiltrate the connective tissue in late pregnancy to secrete IgA; they do not move milk.",
+          "D": "Adipocytes are fat cells of the stroma with no contractile role in the duct system.",
+          "E": "Macrophages remove dead cells and debris during weaning; they do not propel milk."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "myoepithelial cells",
+        "terminal ducts",
+        "histology"
+      ],
+      "topicId": "structure-and-function-of-the-breast",
+      "topicName": "Structure and Function of the Breast"
+    },
+    {
+      "id": "rp03-009",
+      "stem": "A 31-year-old woman is breastfeeding her healthy newborn. Which of the following correctly orders the structures through which her milk passes, from its site of production to its exit at the nipple?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveoli, lactiferous sinuses, lactiferous ducts, nipple"
+        },
+        {
+          "label": "B",
+          "text": "Alveoli, lactiferous ducts, lactiferous sinuses, nipple"
+        },
+        {
+          "label": "C",
+          "text": "Lactiferous sinuses, alveoli, lactiferous ducts, nipple"
+        },
+        {
+          "label": "D",
+          "text": "Lactiferous ducts, alveoli, lactiferous sinuses, nipple"
+        },
+        {
+          "label": "E",
+          "text": "Alveoli, lactiferous ducts, nipple, lactiferous sinuses"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Milk made in the alveoli travels through lactiferous ducts, then the dilated lactiferous sinuses, and finally exits at the nipple.",
+        "whyCorrect": "Milk is produced by the alveolar cells. The alveoli converge into lactiferous ducts, which drain the milk toward the nipple. Near the nipple the ducts further converge and dilate to form lactiferous sinuses, which connect directly to the nipple (papilla).",
+        "whyWrongByChoice": {
+          "A": "This places the sinuses before the ducts; the sinuses are the dilated final segments formed near the nipple.",
+          "C": "Milk originates in the alveoli, not in the lactiferous sinuses.",
+          "D": "The lactiferous ducts receive milk from the alveoli; they do not precede the alveoli in the pathway.",
+          "E": "The lactiferous sinuses connect to the nipple; milk does not reach the nipple before passing through the sinuses."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "milk pathway",
+        "lactiferous ducts",
+        "lactation"
+      ],
+      "topicId": "structure-and-function-of-the-breast",
+      "topicName": "Structure and Function of the Breast"
+    },
+    {
+      "id": "rp03-010",
+      "stem": "A section of breast tissue shows greatly enlarged lobules in which the lumens of the acini and the excretory ducts are filled with secretory material, with only sparse intervening connective tissue. This histologic appearance is most consistent with which of the following physiologic states?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inactive adult (nonpregnant) breast"
+        },
+        {
+          "label": "B",
+          "text": "Early pubertal breast at thelarche"
+        },
+        {
+          "label": "C",
+          "text": "Actively lactating breast"
+        },
+        {
+          "label": "D",
+          "text": "Involuting breast after weaning"
+        },
+        {
+          "label": "E",
+          "text": "Postmenopausal breast"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "During lactation, lobules are greatly enlarged, acinar and ductal lumens fill with milk, and connective tissue becomes sparse.",
+        "whyCorrect": "In the lactating breast, the lobules are greatly enlarged and the lumens of the acini/alveoli and excretory ducts are filled with milk, while the connective tissue between them becomes more sparse. Milk-filled lumens with scant stroma are the defining features of active lactation.",
+        "whyWrongByChoice": {
+          "A": "The inactive adult breast has small ducts, few lobules with poorly developed alveoli, and a predominance of connective tissue.",
+          "B": "At thelarche the ductal network proliferates and adipose is deposited; the lobules are not enlarged and filled with milk.",
+          "D": "After weaning, alveoli degenerate through apoptosis, autophagy, or sloughing and the gland returns toward its inactive appearance.",
+          "E": "After menopause, alveoli and ducts continue to shrink and the fibrous stroma converts primarily to adipose tissue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lactation",
+        "histology",
+        "mammary gland"
+      ],
+      "topicId": "structure-and-function-of-the-breast",
+      "topicName": "Structure and Function of the Breast"
+    },
+    {
+      "id": "rp03-011",
+      "stem": "A term newborn is exclusively breastfed and receives colostrum during the first days of life, conferring passive acquired immunity. The protective antibodies in the colostrum are secreted by which of the following cells within the mother's breast?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cells in the connective tissue of the TDLUs"
+        },
+        {
+          "label": "B",
+          "text": "Myoepithelial cells surrounding the acini"
+        },
+        {
+          "label": "C",
+          "text": "Macrophages within the lobular stroma"
+        },
+        {
+          "label": "D",
+          "text": "Cuboidal epithelial cells of the terminal ducts"
+        },
+        {
+          "label": "E",
+          "text": "Adipocytes of the interlobular connective tissue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Plasma cells infiltrating the TDLU connective tissue secrete the IgA antibodies of colostrum that provide passive immunity to the newborn.",
+        "whyCorrect": "During pregnancy, the connective tissue within the TDLUs becomes infiltrated with lymphocytes and plasma cells, the plasma cells becoming more numerous late in pregnancy. These plasma cells secrete IgA antibodies for the colostrum, which confers passive acquired immunity to the newborn.",
+        "whyWrongByChoice": {
+          "B": "Myoepithelial cells are contractile and assist milk movement; they do not produce antibodies.",
+          "C": "Macrophages clear dead cells and debris, most notably during weaning; they are not the source of colostral IgA.",
+          "D": "Ductal cuboidal epithelium lines the ducts and, in the acini, secretes milk components, but the IgA is produced by plasma cells.",
+          "E": "Adipocytes are stromal fat cells with no antibody-producing function."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "IgA",
+        "colostrum",
+        "plasma cells"
+      ],
+      "topicId": "structure-and-function-of-the-breast",
+      "topicName": "Structure and Function of the Breast"
+    },
+    {
+      "id": "rp03-012",
+      "stem": "A 30-year-old woman stopped breastfeeding her infant 2 months ago. Which of the following processes is primarily responsible for returning her mammary glands toward their inactive, prepregnancy appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apoptosis of alveolar epithelial cells with macrophage clearance of debris"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of the fibrous stroma primarily into adipose tissue"
+        },
+        {
+          "label": "C",
+          "text": "Rapid proliferation and branching of the ductal system"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cell infiltration with increased IgA secretion"
+        },
+        {
+          "label": "E",
+          "text": "Progressive filling of the acinar lumens with milk"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "After weaning, alveoli regress through apoptosis, autophagy, and sloughing, with macrophages removing the dead cells and debris.",
+        "whyCorrect": "When breastfeeding stops, most alveoli that developed during pregnancy and lactation degenerate. The epithelial cells undergo apoptosis, autophagy, or sloughing, and the dead cells and debris are removed by macrophages, allowing the duct system to return to its general inactive-state appearance.",
+        "whyWrongByChoice": {
+          "B": "Conversion of fibrous stroma primarily to adipose tissue is the involutional change that occurs after menopause, not at weaning.",
+          "C": "Rapid ductal proliferation and branching characterize pregnancy (and puberty), the opposite of postweaning regression.",
+          "D": "Plasma cell infiltration with IgA secretion occurs late in pregnancy to supply colostrum, not during involution after weaning.",
+          "E": "Milk-filled acinar lumens describe active lactation, not the regression that follows its cessation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "weaning",
+        "involution",
+        "apoptosis"
+      ],
+      "topicId": "structure-and-function-of-the-breast",
+      "topicName": "Structure and Function of the Breast"
+    },
+    {
+      "id": "rp04-001",
+      "stem": "A 26-year-old man undergoes testicular biopsy during an infertility evaluation. In the connective tissue between the seminiferous tubules, the pathologist identifies compact clusters of large, eosinophilic cells. The major secretory product of these cells is released in direct response to which of the following hormones?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Androgen-binding protein"
+        },
+        {
+          "label": "B",
+          "text": "Follicle-stimulating hormone"
+        },
+        {
+          "label": "C",
+          "text": "Gonadotropin-releasing hormone"
+        },
+        {
+          "label": "D",
+          "text": "Luteinizing hormone"
+        },
+        {
+          "label": "E",
+          "text": "Testosterone"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Leydig (interstitial) cells are large eosinophilic cells in clusters between the tubules that produce testosterone in response to LH.",
+        "whyCorrect": "Large, eosinophilic cells forming compact clusters in the interstitium are Leydig cells. LH from the anterior pituitary acts directly on Leydig cells, and they are the main cells responsible for testosterone production.",
+        "whyWrongByChoice": {
+          "A": "ABP is a Sertoli cell product that binds androgens in the tubule lumen; it does not stimulate Leydig cell secretion.",
+          "B": "FSH acts on Sertoli cells, the gamete support cells, not on Leydig cells.",
+          "C": "GnRH acts on the anterior pituitary to release LH and FSH; it does not act directly on testicular cells.",
+          "E": "Testosterone is the product of Leydig cells, not the stimulus for their secretion."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "leydig-cells",
+        "LH",
+        "testosterone",
+        "histology"
+      ],
+      "topicId": "structure-and-function-of-the-testis",
+      "topicName": "Structure and Function of the Testis"
+    },
+    {
+      "id": "rp04-002",
+      "stem": "In an animal study, a protein tracer injected into the bloodstream diffuses across the basement membrane of the seminiferous tubule and reaches the basal compartment, but it never reaches the developing spermatocytes near the lumen. Which of the following structures most likely prevented the tracer from advancing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytoplasmic bridges between daughter germ cells"
+        },
+        {
+          "label": "B",
+          "text": "Fibrous septa projecting from the tunica albuginea"
+        },
+        {
+          "label": "C",
+          "text": "Gap junctions between Sertoli cells and germ cells"
+        },
+        {
+          "label": "D",
+          "text": "The thickened tunica albuginea of the mediastinum testis"
+        },
+        {
+          "label": "E",
+          "text": "Tight junctions between adjacent Sertoli cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The blood-testis barrier is formed by tight junctions between neighboring Sertoli cells.",
+        "whyCorrect": "As Sertoli cells mature under FSH stimulation, they form tight junctions with neighboring Sertoli cells. These tight junctions constitute the blood-testis barrier, which separates the adluminal compartment from the systemic circulation and shields spermatocytes and spermatids from blood-borne substances.",
+        "whyWrongByChoice": {
+          "A": "Cytoplasmic bridges link daughter germ cells to synchronize their development; they are not a permeability barrier.",
+          "B": "The septa divide the testis into lobules; they do not seal the tubule interior from the circulation.",
+          "C": "Gap junctions mediate communication between Sertoli and germ cells; they permit exchange rather than block it.",
+          "D": "The mediastinum testis contains the rete testis; it is not the barrier within the seminiferous tubule wall."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "blood-testis-barrier",
+        "sertoli-cells",
+        "tight-junctions"
+      ],
+      "topicId": "structure-and-function-of-the-testis",
+      "topicName": "Structure and Function of the Testis"
+    },
+    {
+      "id": "rp04-003",
+      "stem": "A new drug is found to be unable to cross the blood-testis barrier after entering the circulation. Which of the following germ cell populations would be most directly exposed to this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary spermatocytes undergoing meiosis I"
+        },
+        {
+          "label": "B",
+          "text": "Secondary spermatocytes entering meiosis II"
+        },
+        {
+          "label": "C",
+          "text": "Spermatids undergoing spermiogenesis"
+        },
+        {
+          "label": "D",
+          "text": "Spermatogonia on the basement membrane"
+        },
+        {
+          "label": "E",
+          "text": "Spermatozoa awaiting release into the lumen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Spermatogonia sit in the basal compartment, outside the blood-testis barrier, and are exposed to the general circulation.",
+        "whyCorrect": "The blood-testis barrier divides the germ cell layers into a basal compartment and an adluminal compartment. Undifferentiated and differentiating spermatogonial stem cells lie in the basal compartment on the basement membrane, where they remain exposed to the systemic circulation.",
+        "whyWrongByChoice": {
+          "A": "Spermatocytes undergoing meiosis reside in the adluminal compartment, protected by the barrier.",
+          "B": "Secondary spermatocytes are adluminal and shielded from circulating substances.",
+          "C": "Spermatids undergoing spermiogenesis lie in the protected adluminal compartment.",
+          "E": "The most mature cells sit nearest the lumen, farthest from the circulation and behind the barrier."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "blood-testis-barrier",
+        "basal-compartment",
+        "spermatogonia"
+      ],
+      "topicId": "structure-and-function-of-the-testis",
+      "topicName": "Structure and Function of the Testis"
+    },
+    {
+      "id": "rp04-004",
+      "stem": "During spermatogenesis, germ cells pass through a sequence of mitotic and meiotic divisions. Which of the following cell types directly undergoes meiosis I?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary spermatocyte"
+        },
+        {
+          "label": "B",
+          "text": "Secondary spermatocyte"
+        },
+        {
+          "label": "C",
+          "text": "Spermatid"
+        },
+        {
+          "label": "D",
+          "text": "Type A spermatogonium"
+        },
+        {
+          "label": "E",
+          "text": "Type B spermatogonium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The primary spermatocyte is the last diploid cell of the lineage and is the cell that carries out meiosis I.",
+        "whyCorrect": "Type B spermatogonia divide mitotically to form primary spermatocytes, the last diploid (2n) stage in spermatogenesis. Completion of meiosis I by the primary spermatocyte produces two haploid secondary spermatocytes.",
+        "whyWrongByChoice": {
+          "B": "Secondary spermatocytes are haploid products of meiosis I; they undergo meiosis II, forming spermatids.",
+          "C": "Spermatids are post-meiotic haploid cells that mature by spermiogenesis without further division.",
+          "D": "Type A spermatogonia divide by mitosis, asymmetrically renewing the stem cell pool and producing type B cells.",
+          "E": "Type B spermatogonia divide by mitosis to generate primary spermatocytes; they do not enter meiosis themselves."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "spermatogenesis",
+        "meiosis",
+        "primary-spermatocyte"
+      ],
+      "topicId": "structure-and-function-of-the-testis",
+      "topicName": "Structure and Function of the Testis"
+    },
+    {
+      "id": "rp04-005",
+      "stem": "Electron microscopy of maturing spermatids shows a developing enzyme-filled cap forming over the nucleus of each cell. This structure, which will later enable the sperm to penetrate the outer layers of the egg, is derived from which of the following organelles?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Centriole"
+        },
+        {
+          "label": "B",
+          "text": "Golgi apparatus"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrion"
+        },
+        {
+          "label": "D",
+          "text": "Nucleolus"
+        },
+        {
+          "label": "E",
+          "text": "Rough endoplasmic reticulum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The acrosome forms from the Golgi apparatus during spermiogenesis.",
+        "whyCorrect": "During spermiogenesis, the acrosome forms from the Golgi apparatus over the nucleus. The acrosome at the sperm head contains proteolytic enzymes that allow the sperm to penetrate the outer layers of the egg at fertilization.",
+        "whyWrongByChoice": {
+          "A": "The centriole gives rise to the flagellum, not the acrosome.",
+          "C": "Mitochondria align around the developing midpiece to power sperm motility.",
+          "D": "The nucleolus is not described as the source of the acrosome; the nucleus itself undergoes chromatin compaction.",
+          "E": "Rough endoplasmic reticulum is not the origin of the acrosomal cap in spermiogenesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "spermiogenesis",
+        "acrosome",
+        "golgi"
+      ],
+      "topicId": "structure-and-function-of-the-testis",
+      "topicName": "Structure and Function of the Testis"
+    },
+    {
+      "id": "rp04-006",
+      "stem": "A research protocol selectively blocks FSH signaling in the testis. Serum testosterone remains normal, but the concentration of testosterone within the seminiferous tubule lumen falls markedly. Decreased secretion of which of the following best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Androgen-binding protein by Sertoli cells"
+        },
+        {
+          "label": "B",
+          "text": "GnRH by the hypothalamus"
+        },
+        {
+          "label": "C",
+          "text": "Luteinizing hormone by the anterior pituitary"
+        },
+        {
+          "label": "D",
+          "text": "Proteolytic enzymes by the acrosome"
+        },
+        {
+          "label": "E",
+          "text": "Testosterone by Leydig cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "FSH drives Sertoli cell production of androgen-binding protein, which concentrates testosterone within the tubule lumen.",
+        "whyCorrect": "FSH acts on Sertoli cells and stimulates production of androgen-binding protein. ABP binds lipophilic androgens such as testosterone and makes them water soluble, allowing them to remain at high concentration in the tubule lumen, where they enhance sperm development.",
+        "whyWrongByChoice": {
+          "B": "GnRH acts upstream on the pituitary; the scenario blocks FSH signaling at the testis, and serum hormones are unaffected.",
+          "C": "LH signaling to Leydig cells is intact, which is why serum testosterone remains normal.",
+          "D": "Acrosomal enzymes serve egg penetration at fertilization; they have no role in luminal androgen concentration.",
+          "E": "Leydig cell testosterone production depends on LH, not FSH, and serum testosterone is stated to be normal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "FSH",
+        "sertoli-cells",
+        "androgen-binding-protein"
+      ],
+      "topicId": "structure-and-function-of-the-testis",
+      "topicName": "Structure and Function of the Testis"
+    },
+    {
+      "id": "rp04-007",
+      "stem": "A 32-year-old man elects to undergo vasectomy for contraception. The surgeon ligates and transects the ductus deferens bilaterally. Which of the following changes is most likely after this procedure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absence of sperm in the ejaculate"
+        },
+        {
+          "label": "B",
+          "text": "Decreased serum testosterone concentration"
+        },
+        {
+          "label": "C",
+          "text": "Impaired erectile function"
+        },
+        {
+          "label": "D",
+          "text": "Loss of secondary sexual characteristics"
+        },
+        {
+          "label": "E",
+          "text": "Reduced sperm production within the testes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Vasectomy causes azoospermia by blocking sperm transport while leaving testicular endocrine function intact.",
+        "whyCorrect": "Ligation and transection of the vas deferens prevents sperm from traveling from the epididymis to the ejaculatory ducts, producing azoospermia. Because testicular endocrine function is preserved, testosterone production, libido, erectile function, and secondary sexual characteristics are unchanged.",
+        "whyWrongByChoice": {
+          "B": "Leydig cell testosterone production is unaffected; the procedure interrupts only the sperm transport pathway.",
+          "C": "Erectile function is explicitly preserved after vasectomy because endocrine function is intact.",
+          "D": "Secondary sexual characteristics depend on testosterone, which remains normal.",
+          "E": "Spermatogenesis in the seminiferous tubules continues; the sperm simply cannot exit through the ductal system."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vasectomy",
+        "ductus-deferens",
+        "azoospermia"
+      ],
+      "topicId": "structure-and-function-of-the-testis",
+      "topicName": "Structure and Function of the Testis"
+    },
+    {
+      "id": "rp04-008",
+      "stem": "A couple is evaluated for infertility. The man's semen analysis shows normal sperm count, morphology, and baseline motility. In vitro testing shows that his sperm fail to remove cholesterol and glycoproteins from the sperm head, never develop hypermotility, and cannot bind the zona pellucida. A defect in which of the following processes best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capacitation"
+        },
+        {
+          "label": "B",
+          "text": "Meiosis II"
+        },
+        {
+          "label": "C",
+          "text": "Spermiation"
+        },
+        {
+          "label": "D",
+          "text": "Spermiogenesis"
+        },
+        {
+          "label": "E",
+          "text": "The spermatogenic cycle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Capacitation is the final maturation step triggered in the female reproductive tract that enables zona pellucida binding.",
+        "whyCorrect": "After ejaculation, cervical secretions cause sperm to undergo capacitation: removal of cholesterol and glycoproteins from the sperm head and development of hypermotility, which allow binding to the zona pellucida and fertilization. Capacitation defects cause male infertility even when the semen analysis is normal.",
+        "whyWrongByChoice": {
+          "B": "A meiosis II defect reduces conversion of spermatocytes to spermatids and lowers sperm count, which is normal here.",
+          "C": "Spermiation is release of spermatids from the Sertoli cell scaffold into the tubule lumen; a defect would impair sperm output, not zona binding.",
+          "D": "Spermiogenesis defects would produce abnormal sperm structure, but morphology is normal on semen analysis.",
+          "E": "The spermatogenic cycle describes new spermatogonial groups arising every 16 days; it governs production timing, not post-ejaculatory maturation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "capacitation",
+        "male-infertility",
+        "zona-pellucida"
+      ],
+      "topicId": "structure-and-function-of-the-testis",
+      "topicName": "Structure and Function of the Testis"
+    },
+    {
+      "id": "rp04-009",
+      "stem": "On a histologic section of the testis, a network of interconnected channels is identified within the thickened connective tissue on the posterior aspect of the organ. Which of the following is the primary function of this network?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Concentrating sperm by removing excess fluid"
+        },
+        {
+          "label": "B",
+          "text": "Forming the blood-testis barrier"
+        },
+        {
+          "label": "C",
+          "text": "Producing testosterone for the tubule lumen"
+        },
+        {
+          "label": "D",
+          "text": "Secreting the nutrient-rich fluid of semen"
+        },
+        {
+          "label": "E",
+          "text": "Storing mature sperm until ejaculation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The rete testis, housed in the mediastinum testis, concentrates sperm by removing excess fluid before they enter the epididymis.",
+        "whyCorrect": "The posterior thickening of the tunica albuginea is the mediastinum testis, which contains the rete testis. The rete testis acts to concentrate sperm by removing excess fluid before they move to the epididymis for storage and final maturation.",
+        "whyWrongByChoice": {
+          "B": "The blood-testis barrier is formed by tight junctions between Sertoli cells within the seminiferous tubules.",
+          "C": "Testosterone is produced by Leydig cells in the interstitium between the seminiferous tubules.",
+          "D": "The nutrient and enzyme components of semen come from the seminal vesicles, prostate, and bulbourethral glands.",
+          "E": "Sperm storage until ejaculation occurs in the epididymis, not the rete testis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rete-testis",
+        "mediastinum-testis",
+        "duct-system"
+      ],
+      "topicId": "structure-and-function-of-the-testis",
+      "topicName": "Structure and Function of the Testis"
+    },
+    {
+      "id": "rp04-010",
+      "stem": "A 28-year-old man presents with a painless mass in his right testis. His history is notable for an undescended right testis that was never treated in childhood. The mass is most likely a tumor arising from which of the following cell types?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epididymal epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Fibroblasts of the tunica albuginea"
+        },
+        {
+          "label": "C",
+          "text": "Germ cells"
+        },
+        {
+          "label": "D",
+          "text": "Leydig (interstitial) cells"
+        },
+        {
+          "label": "E",
+          "text": "Sertoli cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Most testicular cancers are germ cell tumors, and untreated cryptorchidism markedly increases the risk.",
+        "whyCorrect": "About 95% of testicular cancers involve germ cell tumors, which appear only after puberty and are much more likely to develop in males with untreated cryptorchidism. Early germ cells share properties with embryonic stem cells and are thought to be the origin of adult germ cell tumors.",
+        "whyWrongByChoice": {
+          "A": "The epididymis is a duct-system structure; it is not the typical origin of testicular cancer in this setting.",
+          "B": "The tunica albuginea is a dense connective tissue capsule and is not the common source of testicular tumors.",
+          "D": "Interstitial (Leydig) cell tumors are rare compared with germ cell tumors.",
+          "E": "Sertoli cell tumors are also rare and are not linked here to cryptorchidism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "germ-cell-tumor",
+        "cryptorchidism",
+        "testicular-cancer"
+      ],
+      "topicId": "structure-and-function-of-the-testis",
+      "topicName": "Structure and Function of the Testis"
+    },
+    {
+      "id": "rp04-011",
+      "stem": "The testes are located outside the abdomen within the scrotum. For normal sperm production to occur, the temperature of the testes must be which of the following relative to core body temperature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2-3 degrees C above core temperature"
+        },
+        {
+          "label": "B",
+          "text": "2-3 degrees C below core temperature"
+        },
+        {
+          "label": "C",
+          "text": "8-10 degrees C above core temperature"
+        },
+        {
+          "label": "D",
+          "text": "8-10 degrees C below core temperature"
+        },
+        {
+          "label": "E",
+          "text": "Exactly equal to core temperature"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Normal spermatogenesis requires a scrotal temperature 2-3 degrees C below core body temperature.",
+        "whyCorrect": "The testes reside in the scrotum, outside the abdomen, where the temperature is 2-3 degrees C lower than core body temperature. This lower temperature is required for normal sperm production.",
+        "whyWrongByChoice": {
+          "A": "A temperature above core body temperature is not compatible with normal spermatogenesis.",
+          "C": "The required difference is a modest reduction, not a large elevation.",
+          "D": "The scrotal temperature difference is 2-3 degrees C, not 8-10 degrees C.",
+          "E": "Core body temperature is too warm for normal sperm production, which is why the testes sit outside the abdomen."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "scrotum",
+        "temperature",
+        "spermatogenesis"
+      ],
+      "topicId": "structure-and-function-of-the-testis",
+      "topicName": "Structure and Function of the Testis"
+    },
+    {
+      "id": "rp04-012",
+      "stem": "A 30-year-old man is evaluated for infertility due to a very low sperm count. Serum FSH is normal. Testicular biopsy shows normal-to-increased numbers of spermatogonia and spermatocytes but very few spermatids, with marked cell breakdown at the late meiotic stage. Which of the following steps of spermatogenesis is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asymmetric division of type A spermatogonia"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of spermatocytes to spermatids in meiosis II"
+        },
+        {
+          "label": "C",
+          "text": "Migration of primordial germ cells into the testes"
+        },
+        {
+          "label": "D",
+          "text": "Mitotic proliferation of type B spermatogonia"
+        },
+        {
+          "label": "E",
+          "text": "Remodeling of spermatids in the epididymis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In infertile males with low sperm counts, the most common deficient stage is the conversion of spermatocytes to spermatids in the second meiotic division.",
+        "whyCorrect": "Most infertile males with low sperm counts have a normal FSH level and normal or even high numbers of spermatogonia and spermatocytes, but poor conversion from spermatocyte to spermatid in the second meiotic division, with late meiotic breakdown far more severe than in fertile males. This biopsy pattern matches that defect.",
+        "whyWrongByChoice": {
+          "A": "A stem cell renewal defect would deplete spermatogonia, which are present in normal-to-increased numbers here.",
+          "C": "Primordial germ cell migration occurs in the embryo; failure would leave no germ cells at all in the tubules.",
+          "D": "Impaired type B mitosis would reduce spermatocyte numbers, but spermatocytes are abundant on this biopsy.",
+          "E": "An epididymal remodeling problem would follow normal spermatid formation, yet spermatids here are scarce."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "male-infertility",
+        "meiosis-II",
+        "spermatids"
+      ],
+      "topicId": "structure-and-function-of-the-testis",
+      "topicName": "Structure and Function of the Testis"
+    }
+  ]
+}

@@ -1,0 +1,2759 @@
+{
+  "categoryId": "female-repro-pathology",
+  "categoryName": "Female Reproductive Pathology",
+  "questions": [
+    {
+      "id": "rp20-001",
+      "stem": "A 32-year-old woman presents with 8 years of severe pelvic pain that begins with her menses and resolves after a few days. She also reports pain with intercourse, and she and her partner have been unable to conceive for 2 years despite regular unprotected intercourse. Over-the-counter ibuprofen provides little relief. Pelvic examination is unremarkable. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenomyosis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic endometritis"
+        },
+        {
+          "label": "C",
+          "text": "Endometrial hyperplasia"
+        },
+        {
+          "label": "D",
+          "text": "Endometrial polyp"
+        },
+        {
+          "label": "E",
+          "text": "Endometriosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The classic triad of endometriosis is dysmenorrhea, dyspareunia, and infertility.",
+        "whyCorrect": "Ectopic endometrial implants respond to cyclic hormones just like the uterine lining, building up and bleeding with each menses. This produces cyclic pelvic pain timed to menstruation, pain with intercourse, and infertility from fibrosis and pelvic adhesions around the ovaries and tubes. Poor response to NSAIDs also favors endometriosis over primary dysmenorrhea.",
+        "whyWrongByChoice": {
+          "A": "Adenomyosis (endometrial tissue within the myometrium) presents with abnormal uterine bleeding and dysmenorrhea, but the uterus is diffusely enlarged and soft on examination, which this patient lacks.",
+          "B": "Chronic endometritis may be asymptomatic or cause abnormal uterine bleeding and pelvic pain, but it does not classically cause the cyclic triad with dyspareunia and infertility.",
+          "C": "Endometrial hyperplasia presents with abnormal or excessive uterine bleeding rather than cyclic pain, dyspareunia, and infertility.",
+          "D": "Endometrial polyps are usually asymptomatic or cause irregular pelvic bleeding, not cyclic menstrual pain with infertility."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "endometriosis",
+        "clinical-presentation"
+      ],
+      "topicId": "benign-endometrial-disorders",
+      "topicName": "Benign Endometrial Disorders"
+    },
+    {
+      "id": "rp20-002",
+      "stem": "A 38-year-old woman with long-standing cyclic pelvic pain undergoes laparoscopy, which reveals a markedly distorted right ovary containing a large cystic mass filled with dark brown fluid from previous hemorrhage. Biopsy of the cyst wall is most likely to show which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crowded glands with prominent nucleoli and open chromatin"
+        },
+        {
+          "label": "B",
+          "text": "Endometrial glands and stroma resembling normal endometrium"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophils filling glandular lumens"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cells scattered through the stroma"
+        },
+        {
+          "label": "E",
+          "text": "Sheets of malignant cells invading the ovarian cortex"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A chocolate cyst (endometrioma) is ovarian endometriosis, and endometriosis is histologically normal endometrial tissue in the wrong place.",
+        "whyCorrect": "The ovary is the most common site of endometriosis. Repeated cyclic bleeding of ovarian implants creates cystic masses filled with old hemorrhagic fluid, called chocolate cysts or endometriomas. Histologically the lesion shows endometrial glands and stroma, often with an inflamed stroma, identical in appearance to eutopic endometrium.",
+        "whyWrongByChoice": {
+          "A": "Crowded, complex glands with cytologic atypia describe atypical endometrial hyperplasia/EIN, a lesion of the uterine lining, not an ovarian endometrioma.",
+          "C": "Neutrophils infiltrating stroma and filling gland lumens are the hallmark of acute endometritis, not endometriosis.",
+          "D": "Plasma cells in the stroma define chronic endometritis, not an ovarian endometriotic cyst.",
+          "E": "Endometriosis is a benign condition; the cyst is formed by benign endometrial tissue and old blood, not malignant cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endometriosis",
+        "endometrioma",
+        "histology"
+      ],
+      "topicId": "benign-endometrial-disorders",
+      "topicName": "Benign Endometrial Disorders"
+    },
+    {
+      "id": "rp20-003",
+      "stem": "A 41-year-old woman with surgically confirmed pelvic endometriosis develops cyclic hemoptysis, and imaging identifies an endometriotic implant in the lung. Which of the following mechanisms best explains disease at this distant site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascending infection past the endocervical barrier"
+        },
+        {
+          "label": "B",
+          "text": "Invagination of the basal endometrial layer into the myometrium"
+        },
+        {
+          "label": "C",
+          "text": "Metaplasia of peritoneal mesothelial cells into endometrial cells"
+        },
+        {
+          "label": "D",
+          "text": "Retrograde flow of menstrual blood through the fallopian tubes"
+        },
+        {
+          "label": "E",
+          "text": "Spread of endometrial cells through vascular and lymphatic channels"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hematogenous and lymphatic dissemination of endometrial cells explains endometriosis at distant sites such as the lung.",
+        "whyCorrect": "One theory of endometriosis proposes that endometrial cells enter the vascular and lymphatic systems, travel through the circulation, and then implant and multiply. This is the mechanism that accounts for rare implants far from the pelvis, including pulmonary endometriosis.",
+        "whyWrongByChoice": {
+          "A": "Ascending infection relates to endometritis; the endocervix normally acts as a barrier to it, and infection does not create endometrial implants in the lung.",
+          "B": "Invagination of the basal endometrium into the uterine wall is a proposed mechanism of adenomyosis, which is confined to the myometrium.",
+          "C": "Coelomic metaplasia involves transformation of peritoneal or visceral mesothelial cells and explains pelvic disease, not implants in the lung.",
+          "D": "Retrograde menstruation carries shed endometrium into the tubes, ovaries, and pelvic or peritoneal cavities; it does not account for spread to the thorax."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endometriosis",
+        "pathogenesis"
+      ],
+      "topicId": "benign-endometrial-disorders",
+      "topicName": "Benign Endometrial Disorders"
+    },
+    {
+      "id": "rp20-004",
+      "stem": "Researchers compare biopsy specimens of ectopic endometriotic implants with normal eutopic endometrium from the same patients. Compared with normal endometrial tissue, the implants are most likely to show overproduction of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Follicle-stimulating hormone and luteinizing hormone"
+        },
+        {
+          "label": "B",
+          "text": "Matrix metalloproteinase inhibitors"
+        },
+        {
+          "label": "C",
+          "text": "Progesterone and its receptor"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandins and cytokines"
+        },
+        {
+          "label": "E",
+          "text": "PTEN tumor suppressor protein"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Endometriotic tissue is not simply transplanted endometrium; it overproduces prostaglandins and cytokines.",
+        "whyCorrect": "Although endometriosis looks histologically like normal endometrium, the ectopic tissue overproduces prostaglandins and cytokines, key mediators of the inflammatory response, compared with normal endometrial tissue. This overproduction contributes to the pain and inflammation of the disease.",
+        "whyWrongByChoice": {
+          "A": "FSH and LH are pituitary gonadotropins; endometrial tissue responds to downstream ovarian hormones but does not secrete gonadotropins.",
+          "B": "Progestins used in treatment suppress matrix metalloproteinases; the implants themselves are not characterized by overproducing MMP inhibitors.",
+          "C": "The implants respond to ovarian hormones during the cycle; excess progesterone production is not a feature of endometriotic tissue.",
+          "E": "PTEN is a tumor suppressor gene whose mutations are associated with atypical endometrial hyperplasia and endometrioid carcinoma, not endometriosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "endometriosis",
+        "inflammation",
+        "pathophysiology"
+      ],
+      "topicId": "benign-endometrial-disorders",
+      "topicName": "Benign Endometrial Disorders"
+    },
+    {
+      "id": "rp20-005",
+      "stem": "A 29-year-old woman with endometriosis begins an estrogen-progesterone combined oral contraceptive, and her cyclic pelvic pain improves markedly over the next 3 months. Which of the following is the most important mechanism of this benefit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antagonism of GnRH receptors in the pituitary"
+        },
+        {
+          "label": "B",
+          "text": "Direct inhibition of prostaglandin synthesis in implants"
+        },
+        {
+          "label": "C",
+          "text": "Downregulation of GnRH receptors by nonpulsatile stimulation"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of enzymes required for estrogen synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of the midcycle surge of luteinizing hormone"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Combined oral contraceptives treat endometriosis chiefly by inhibiting the midcycle LH surge.",
+        "whyCorrect": "Combined oral contraceptives act through several mechanisms, but most importantly they inhibit the midcycle LH surge. The resulting suppression of ovarian function eliminates the cyclic fluctuations of estrogen and progesterone that drive the buildup and bleeding of ectopic implants, so hormone-responsive pain improves.",
+        "whyWrongByChoice": {
+          "A": "Blocking the GnRH receptor without an initial gonadotropin rise is the mechanism of GnRH antagonists, not combined oral contraceptives.",
+          "B": "Direct treatment of inflammation and pain via prostaglandin pathways is how NSAIDs work, not the key action of combined contraceptives.",
+          "C": "Receptor downregulation from steady, nonpulsatile GnRH exposure describes GnRH agonists such as leuprolide.",
+          "D": "Inhibiting estrogen-synthesis enzymes is one of danazol's mechanisms, not the principal action of combined oral contraceptives."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endometriosis",
+        "oral-contraceptives",
+        "pharmacology"
+      ],
+      "topicId": "benign-endometrial-disorders",
+      "topicName": "Benign Endometrial Disorders"
+    },
+    {
+      "id": "rp20-006",
+      "stem": "A 36-year-old woman with severe endometriosis symptoms is started on sustained-release leuprolide. Her physician warns her that symptoms may briefly worsen before they improve. Which of the following best explains the eventual therapeutic effect of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Competitive blockade of the GnRH receptor prevents any rise in LH and FSH"
+        },
+        {
+          "label": "B",
+          "text": "Constant GnRH receptor stimulation downregulates the receptor, suppressing LH and FSH"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced pulsatile GnRH secretion increases progesterone to oppose estrogen"
+        },
+        {
+          "label": "D",
+          "text": "Structural mimicry of sex steroids blocks implantation of ectopic tissue"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of matrix metalloproteinases limits growth of ectopic endometrium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GnRH agonists provide steady, nonpulsatile receptor stimulation that downregulates GnRH receptors and shuts off LH and FSH.",
+        "whyCorrect": "GnRH agonists such as leuprolide replace pulsatile GnRH signaling with a steady level of agonist. After an initial transient flare of LH and FSH, GnRH receptors downregulate, leading to complete suppression of LH and FSH secretion, decreased estrogen, and a physiologic menopause-like state that shrinks endometriotic tissue.",
+        "whyWrongByChoice": {
+          "A": "Receptor antagonism without an acute gonadotropin increase describes GnRH antagonists; the flare this patient was warned about identifies an agonist.",
+          "C": "Agonists abolish, rather than enhance, pulsatile GnRH signaling; the benefit comes from suppressing the axis, not raising progesterone.",
+          "D": "A cholesterol-like structure acting at sex-hormone targets and blocking implantation describes danazol.",
+          "E": "Suppression of matrix metalloproteinases is the mechanism of progestin-only agents."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endometriosis",
+        "GnRH-agonist",
+        "pharmacology"
+      ],
+      "topicId": "benign-endometrial-disorders",
+      "topicName": "Benign Endometrial Disorders"
+    },
+    {
+      "id": "rp20-007",
+      "stem": "A 34-year-old woman with endometriosis and a history of deep venous thrombosis is prescribed a hormonal agent considered safe given her clotting history. Which of the following is the mechanism by which this agent treats her endometriosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Creation of a steady nonpulsatile GnRH level"
+        },
+        {
+          "label": "B",
+          "text": "Direct anti-inflammatory action on implant tissue"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of estrogen synthesis by a synthetic androgen"
+        },
+        {
+          "label": "D",
+          "text": "Suppression of matrix metalloproteinases"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of ovulation by combined estrogen and progestin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Progesterone-only agents, the preferred choice when estrogen is contraindicated, suppress matrix metalloproteinases.",
+        "whyCorrect": "Patients who cannot take exogenous estrogen, such as those with a history of blood clots, are treated with progesterone-only agents. Progestins suppress matrix metalloproteinases, a class of enzymes important in the growth and implantation of endometrium, thereby limiting ectopic endometrial tissue.",
+        "whyWrongByChoice": {
+          "A": "A steady nonpulsatile GnRH level is how GnRH agonists work; that is not the estrogen-free agent chosen specifically for clot history in this context.",
+          "B": "Direct treatment of inflammation is the mechanism of NSAIDs, which are not the hormonal agent described.",
+          "C": "The synthetic androgen danazol inhibits estrogen-synthesis enzymes but carries androgenic effects and is not defined by safety in clotting disorders.",
+          "E": "Combined estrogen-progestin contraceptives contain exogenous estrogen, which this patient must avoid because of her thrombosis history."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "endometriosis",
+        "progestins",
+        "pharmacology"
+      ],
+      "topicId": "benign-endometrial-disorders",
+      "topicName": "Benign Endometrial Disorders"
+    },
+    {
+      "id": "rp20-008",
+      "stem": "A 33-year-old woman treated for refractory endometriosis returns to clinic reporting new coarse facial hair, worsening acne, and deepening of her voice. Which of the following medications is the most likely cause of these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Combined oral contraceptive"
+        },
+        {
+          "label": "B",
+          "text": "Danazol"
+        },
+        {
+          "label": "C",
+          "text": "GnRH antagonist"
+        },
+        {
+          "label": "D",
+          "text": "Ibuprofen"
+        },
+        {
+          "label": "E",
+          "text": "Leuprolide"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Danazol is a synthetic androgen, so its adverse effects include hirsutism, masculinization, and acne.",
+        "whyCorrect": "Danazol has a chemical structure similar to cholesterol-based sex steroids, letting it act at many sex-hormone targets: it inhibits estrogen-synthesis enzymes, the LH surge, and implantation of ectopic tissue. Because it can be considered a synthetic androgen, androgen-related adverse effects such as hirsutism, masculinization, and acne are characteristic.",
+        "whyWrongByChoice": {
+          "A": "Combined estrogen-progesterone contraceptives suppress the LH surge and are not described as causing androgenic virilization.",
+          "C": "GnRH antagonists suppress the hypothalamic-pituitary-ovarian axis by receptor blockade; androgen excess is not their characteristic effect.",
+          "D": "Ibuprofen is an NSAID used for pain and inflammation and does not cause hirsutism or masculinization.",
+          "E": "Leuprolide creates a menopause-like state through receptor downregulation rather than androgenic side effects."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "endometriosis",
+        "danazol",
+        "adverse-effects"
+      ],
+      "topicId": "benign-endometrial-disorders",
+      "topicName": "Benign Endometrial Disorders"
+    },
+    {
+      "id": "rp20-009",
+      "stem": "A 58-year-old postmenopausal woman presents with vaginal bleeding. Endometrial biopsy shows markedly crowded glands with complex architecture, open chromatin, and conspicuous nucleoli. She has no desire for future fertility. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hysterectomy"
+        },
+        {
+          "label": "B",
+          "text": "Local excision of the lesion by curettage"
+        },
+        {
+          "label": "C",
+          "text": "Progestin therapy with repeat biopsy"
+        },
+        {
+          "label": "D",
+          "text": "Reassurance and observation"
+        },
+        {
+          "label": "E",
+          "text": "Sustained-release GnRH agonist therapy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Atypical endometrial hyperplasia warrants hysterectomy because of a 30-50% chance of concurrent endometrial carcinoma.",
+        "whyCorrect": "Crowded glands with complex architecture and cytologic atypia (open chromatin, conspicuous nucleoli) define atypical endometrial hyperplasia/EIN. These features overlap with well-differentiated endometrioid adenocarcinoma, and because 30-50% of patients harbor concurrent carcinoma, surgical hysterectomy is recommended when atypia is found and fertility is not desired.",
+        "whyWrongByChoice": {
+          "B": "Curettage for local excision is the treatment for endometrial polyps, not for hyperplasia with atypia.",
+          "C": "Progestins are first-line for hyperplasia without atypia; once atypia is present, the high risk of concurrent carcinoma makes hysterectomy the recommended treatment for a patient not seeking fertility.",
+          "D": "Observation ignores a lesion with substantial risk of harboring carcinoma and is inappropriate.",
+          "E": "GnRH agonists are used for severe endometriosis, not for atypical endometrial hyperplasia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endometrial-hyperplasia",
+        "atypia",
+        "management"
+      ],
+      "topicId": "benign-endometrial-disorders",
+      "topicName": "Benign Endometrial Disorders"
+    },
+    {
+      "id": "rp20-010",
+      "stem": "A 48-year-old perimenopausal woman with chronic anovulatory cycles presents with several months of heavy, irregular uterine bleeding. Endometrial biopsy shows an increased gland-to-stroma ratio with crowded glands but minimal cytologic atypia. Which of the following is the most appropriate initial treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Broad-spectrum antibiotic therapy"
+        },
+        {
+          "label": "B",
+          "text": "Hysterectomy"
+        },
+        {
+          "label": "C",
+          "text": "NSAID therapy during menses"
+        },
+        {
+          "label": "D",
+          "text": "Progestin therapy"
+        },
+        {
+          "label": "E",
+          "text": "Unopposed estrogen replacement"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nonatypical endometrial hyperplasia is treated first with progestins, which cause regression in most cases.",
+        "whyCorrect": "Chronic anovulation during the perimenopausal transition removes progesterone's restraint on the estrogen-driven endometrium, producing hyperplasia. Biopsy showing crowded glands without atypia is nonatypical hyperplasia, which rarely progresses to adenocarcinoma (1-3%) and regresses with progestin therapy in most cases.",
+        "whyWrongByChoice": {
+          "A": "Antibiotics treat endometritis; there is no evidence of infection here.",
+          "B": "Hysterectomy is reserved for hyperplasia with atypia, where concurrent carcinoma risk is 30-50%; this biopsy shows no atypia.",
+          "C": "NSAIDs address inflammatory menstrual pain and mild endometriosis, not proliferative overgrowth of the endometrium.",
+          "E": "Unopposed estrogen is a cause of endometrial hyperplasia and would worsen the condition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endometrial-hyperplasia",
+        "progestins",
+        "anovulation"
+      ],
+      "topicId": "benign-endometrial-disorders",
+      "topicName": "Benign Endometrial Disorders"
+    },
+    {
+      "id": "rp20-011",
+      "stem": "A 61-year-old woman taking tamoxifen after treatment for breast cancer reports intermittent irregular pelvic bleeding. Hysteroscopy shows a discrete, benign-appearing projection of glandular and stromal tissue extending into the endometrial cavity. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Empiric clindamycin plus gentamicin"
+        },
+        {
+          "label": "B",
+          "text": "Hysterectomy with removal of ovaries and tubes"
+        },
+        {
+          "label": "C",
+          "text": "Local excision by curettage"
+        },
+        {
+          "label": "D",
+          "text": "Long-term GnRH agonist therapy"
+        },
+        {
+          "label": "E",
+          "text": "Systemic progestin therapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Endometrial polyps, which are associated with tamoxifen, are removed by local excision using curettage.",
+        "whyCorrect": "A localized benign hyperplastic overgrowth of glands and stroma projecting into the endometrial cavity is an endometrial polyp. Polyps may arise in association with tamoxifen and can cause irregular pelvic bleeding; they are usually removed by local excision using curettage.",
+        "whyWrongByChoice": {
+          "A": "Clindamycin plus gentamicin is an empiric regimen for endometritis, an infectious process not present here.",
+          "B": "Removal of the uterus, ovaries, and tubes is treatment for severe refractory endometriosis or hyperplasia with atypia, far beyond what a benign polyp requires.",
+          "D": "GnRH agonists treat severe endometriosis; they are not the treatment for a discrete polyp.",
+          "E": "Progestins are first-line for endometrial hyperplasia, whereas a localized polyp is managed by excision."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endometrial-polyp",
+        "tamoxifen",
+        "management"
+      ],
+      "topicId": "benign-endometrial-disorders",
+      "topicName": "Benign Endometrial Disorders"
+    },
+    {
+      "id": "rp20-012",
+      "stem": "A 27-year-old woman develops fever, malaise, uterine tenderness, and foul vaginal discharge 5 days after cesarean delivery complicated by retained placental fragments. Blood cultures are pending. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Await culture results before starting therapy"
+        },
+        {
+          "label": "B",
+          "text": "Begin combined estrogen-progesterone therapy"
+        },
+        {
+          "label": "C",
+          "text": "Obtain endometrial biopsy to look for plasma cells"
+        },
+        {
+          "label": "D",
+          "text": "Perform hysterectomy"
+        },
+        {
+          "label": "E",
+          "text": "Start empiric clindamycin plus gentamicin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Acute pregnancy-related endometritis is treated promptly with empiric broad-spectrum antibiotics, most commonly clindamycin plus gentamicin.",
+        "whyCorrect": "Postpartum endometritis is more frequent after cesarean delivery, and retained products of conception are the usual predisposing factor. Patients present acutely with discharge, bleeding, and constitutional symptoms. Empiric antibiotic therapy should begin promptly regardless of whether culture data are available; clindamycin plus gentamicin is the most common regimen, with piperacillin-tazobactam or ceftriaxone plus metronidazole as alternatives.",
+        "whyWrongByChoice": {
+          "A": "Empiric therapy should be initiated promptly regardless of culture availability; waiting delays needed treatment.",
+          "B": "Hormonal therapy treats endometriosis, not an acute uterine infection.",
+          "C": "Plasma cells on biopsy diagnose chronic endometritis; acute endometritis is diagnosed clinically, and biopsy is not the next step in this acutely ill patient.",
+          "D": "Hysterectomy is not the management of acute postpartum endometritis, which responds to antibiotics."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endometritis",
+        "postpartum",
+        "antibiotics"
+      ],
+      "topicId": "benign-endometrial-disorders",
+      "topicName": "Benign Endometrial Disorders"
+    },
+    {
+      "id": "rp21-001",
+      "stem": "A 62-year-old woman comes to the office because of intermittent vaginal spotting for 2 months. Menopause occurred at age 57 years. She has never been pregnant, and her BMI is 32. Pelvic examination is normal. Transvaginal ultrasonography shows a thickened endometrial stripe. Which of the following is required to establish the definitive diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Repeat transvaginal ultrasonography in 6 months"
+        },
+        {
+          "label": "B",
+          "text": "Cervical Papanicolaou testing"
+        },
+        {
+          "label": "C",
+          "text": "Endometrial biopsy"
+        },
+        {
+          "label": "D",
+          "text": "Hysterectomy with bilateral salpingo-oophorectomy"
+        },
+        {
+          "label": "E",
+          "text": "Empiric progestin therapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Postmenopausal bleeding is the cardinal sign of endometrial cancer, and diagnosis requires an endometrial biopsy.",
+        "whyCorrect": "Ultrasound (intravaginal or hydro ultrasonography) can detect endometrial cancer, and in postmenopausal patients the cancer risk rises with endometrial thickness, but the lecture is explicit that diagnosis requires an endometrial biopsy. This patient also carries classic risk factors: late menopause, nulliparity, and obesity.",
+        "whyWrongByChoice": {
+          "A": "Waiting delays tissue diagnosis in a postmenopausal woman with bleeding and a thickened endometrium, the main warning sign of endometrial cancer.",
+          "B": "Pap testing samples the cervix; it does not establish a diagnosis of endometrial pathology.",
+          "D": "Definitive surgery is the treatment once cancer is confirmed, not the step that establishes the diagnosis.",
+          "E": "Hormonal therapy without a tissue diagnosis could mask or delay recognition of a carcinoma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "endometrial-cancer",
+        "diagnosis",
+        "postmenopausal-bleeding"
+      ],
+      "topicId": "uterine-tumors",
+      "topicName": "Uterine Tumors"
+    },
+    {
+      "id": "rp21-002",
+      "stem": "A 58-year-old woman with a BMI of 36 is diagnosed with well-differentiated endometrioid endometrial carcinoma. Which of the following best explains how her obesity contributed to this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adipose tissue increases peripheral conversion to estrogen"
+        },
+        {
+          "label": "B",
+          "text": "Adipose tissue secretes progesterone that drives glandular growth"
+        },
+        {
+          "label": "C",
+          "text": "Obesity accelerates menopause and shortens estrogen exposure"
+        },
+        {
+          "label": "D",
+          "text": "Obesity causes endometrial atrophy that precedes carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Obesity directly induces somatic TP53 mutations"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Type I endometrial cancer is driven by chronic estrogen exposure, and obesity raises estrogen through peripheral conversion in adipose tissue.",
+        "whyCorrect": "The main risk factor for type I (endometrioid) tumors is chronic estrogen exposure, which drives endometrial growth through hyperplasia and atypical hyperplasia/EIN to carcinoma. Obesity contributes because adipose tissue increases peripheral conversion of estrogen.",
+        "whyWrongByChoice": {
+          "B": "Progesterone opposes estrogen-driven proliferation; the risk comes from estrogen excess, exemplified by estrogen replacement without progesterone.",
+          "C": "Late menopause, which lengthens estrogen exposure, is the risk factor; a shortened exposure would lower risk.",
+          "D": "Endometrial atrophy is the background for type II serous carcinoma, not the estrogen-driven type I pathway.",
+          "E": "TP53 mutation characterizes type II serous (copy-number high) tumors, not the estrogen-driven mechanism of obesity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "endometrial-cancer",
+        "risk-factors",
+        "estrogen"
+      ],
+      "topicId": "uterine-tumors",
+      "topicName": "Uterine Tumors"
+    },
+    {
+      "id": "rp21-003",
+      "stem": "A 55-year-old woman taking tamoxifen for estrogen receptor-positive breast cancer develops abnormal uterine bleeding. Ultrasonography shows a thickened endometrium with a polyp. Which of the following properties of tamoxifen best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Competitive antagonism of the endometrial estrogen receptor"
+        },
+        {
+          "label": "B",
+          "text": "Weak estrogen agonist activity at the uterine estrogen receptor"
+        },
+        {
+          "label": "C",
+          "text": "Induction of somatic mutations in the TP53 gene"
+        },
+        {
+          "label": "D",
+          "text": "Blockade of progesterone receptors in the endometrium"
+        },
+        {
+          "label": "E",
+          "text": "Increased aromatization of androgens in adipose tissue"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tamoxifen is a SERM that antagonizes estrogen receptors in breast but acts as a weak estrogen agonist in the uterus.",
+        "whyCorrect": "As a selective estrogen receptor modulator, tamoxifen is a competitive antagonist at the breast tissue estrogen receptor, but in the uterus it is a weak estrogen agonist. This can lead to endometrial proliferation, hyperplasia, and polyps, raising the risk of endometrial cancer.",
+        "whyWrongByChoice": {
+          "A": "Competitive antagonism describes tamoxifen's action in breast tissue, which is why it treats breast cancer; the uterine effect is the opposite.",
+          "C": "TP53 mutations characterize serous carcinoma; the lecture does not attribute them to tamoxifen, which acts through estrogen receptor agonism.",
+          "D": "Tamoxifen modulates estrogen receptors, not progesterone receptors.",
+          "E": "Peripheral conversion in adipose tissue is the mechanism by which obesity raises estrogen, not a tamoxifen effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tamoxifen",
+        "SERM",
+        "endometrial-cancer"
+      ],
+      "topicId": "uterine-tumors",
+      "topicName": "Uterine Tumors"
+    },
+    {
+      "id": "rp21-004",
+      "stem": "A 61-year-old woman undergoes hysterectomy for a well-differentiated endometrioid endometrial carcinoma. Molecular analysis of the tumor is performed. The mutations most commonly found in this tumor type act to increase signaling through which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of p53-mediated cell cycle control"
+        },
+        {
+          "label": "B",
+          "text": "The exonuclease domain of DNA polymerase epsilon"
+        },
+        {
+          "label": "C",
+          "text": "Loss of DNA mismatch repair activity"
+        },
+        {
+          "label": "D",
+          "text": "The PI3K/AKT pathway"
+        },
+        {
+          "label": "E",
+          "text": "Amplification of the estrogen receptor gene itself"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The most common mutations in type I endometrioid carcinoma increase PI3K/AKT signaling.",
+        "whyCorrect": "In type I (endometrioid) tumors, the most common mutations increase signaling through the PI3K/AKT pathway, which augments expression of estrogen receptor-dependent target genes in endometrial cells, fitting the estrogen-driven pathogenesis of these cancers.",
+        "whyWrongByChoice": {
+          "A": "TP53 disruption is the hallmark of serous (type II, copy-number high) carcinoma, not the most common alteration in endometrioid tumors.",
+          "B": "POLE exonuclease mutations define the ultra-mutated TCGA subtype, a minority of endometrioid cancers, not the most common mutation class.",
+          "C": "Mismatch repair deficiency defines the hypermutated/MSI subtype and Lynch-associated tumors, not the most common alteration overall.",
+          "E": "The lecture describes augmented expression of estrogen receptor-dependent target genes via PI3K/AKT, not amplification of the receptor gene."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endometrial-cancer",
+        "PI3K-AKT",
+        "molecular-pathology"
+      ],
+      "topicId": "uterine-tumors",
+      "topicName": "Uterine Tumors"
+    },
+    {
+      "id": "rp21-005",
+      "stem": "A 48-year-old thin woman is diagnosed with an endometrioid endometrial carcinoma. Tumor sequencing shows an ultra-high mutation burden. Which of the following molecular findings in her tumor would predict the best prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mutation in the exonuclease domain of the POLE gene"
+        },
+        {
+          "label": "B",
+          "text": "Somatic TP53 mutation with extensive copy-number changes"
+        },
+        {
+          "label": "C",
+          "text": "Defective mismatch repair with microsatellite instability"
+        },
+        {
+          "label": "D",
+          "text": "Low mutation rate with few copy-number abnormalities"
+        },
+        {
+          "label": "E",
+          "text": "Strong diffuse nuclear accumulation of p53 protein"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "POLE ultra-mutated carcinomas have an exceptionally good prognosis with conventional therapy.",
+        "whyCorrect": "The TCGA ultra-mutated subtype harbors mutations in the exonuclease domain of DNA polymerase epsilon (POLE), is usually endometrioid, and can present in younger, often thinner women. Patients with these lesions have an exceptionally good prognosis with conventional therapy, the best of the four molecular subtypes.",
+        "whyWrongByChoice": {
+          "B": "Copy-number high tumors with somatic TP53 mutations are aggressive and have the worst survival outcomes.",
+          "C": "Hypermutated MSI tumors, including Lynch syndrome-associated cancers, carry an intermediate survival, not the best.",
+          "D": "Copy-number low tumors also have an intermediate survival.",
+          "E": "Diffuse p53 accumulation on immunohistochemistry marks serous-type lesions in the worst-prognosis copy-number high group."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TCGA",
+        "POLE",
+        "prognosis"
+      ],
+      "topicId": "uterine-tumors",
+      "topicName": "Uterine Tumors"
+    },
+    {
+      "id": "rp21-006",
+      "stem": "A 46-year-old woman with Lynch syndrome develops heavy, prolonged menstrual bleeding, and endometrial biopsy shows endometrioid carcinoma. Molecular testing of her tumor is most likely to show which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "POLE exonuclease domain mutation with ultra-high mutation burden"
+        },
+        {
+          "label": "B",
+          "text": "Somatic TP53 mutation with high copy-number abnormalities"
+        },
+        {
+          "label": "C",
+          "text": "Low mutation rate with low copy-number abnormalities"
+        },
+        {
+          "label": "D",
+          "text": "Germline BRCA-type homologous recombination deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Defective mismatch repair function with microsatellite instability"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Lynch syndrome is a disorder of mismatch repair, and its endometrial cancers fall in the hypermutated, microsatellite-unstable TCGA subtype.",
+        "whyCorrect": "Hypermutated carcinomas with defective mismatch repair (MMR) protein function and microsatellite instability are the tumors associated with Lynch syndrome. They are typically endometrioid and account for 29% of low-grade and 54% of high-grade endometrioid carcinomas, with intermediate survival.",
+        "whyWrongByChoice": {
+          "A": "POLE ultra-mutated tumors form a separate subtype found in younger, thinner women and are not the Lynch-associated group.",
+          "B": "TP53-mutant, copy-number high biology characterizes serous carcinoma, not Lynch-associated endometrioid tumors.",
+          "C": "Copy-number low tumors are associated with higher BMI or exogenous estrogen rather than Lynch syndrome.",
+          "D": "Homologous recombination deficiency is not one of the mechanisms described for endometrial cancer in this lecture; Lynch syndrome involves mismatch repair."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Lynch-syndrome",
+        "MSI",
+        "mismatch-repair"
+      ],
+      "topicId": "uterine-tumors",
+      "topicName": "Uterine Tumors"
+    },
+    {
+      "id": "rp21-007",
+      "stem": "A 73-year-old woman has postmenopausal bleeding. Endometrial biopsy shows malignant cells forming papillae and tufts with marked cytologic atypia arising in a background of atrophic endometrium. Immunohistochemistry shows strong, diffuse nuclear p53 staining. Disruptive mutation of which of the following genes is most likely present in this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "POLE"
+        },
+        {
+          "label": "B",
+          "text": "A DNA mismatch repair gene"
+        },
+        {
+          "label": "C",
+          "text": "TP53"
+        },
+        {
+          "label": "D",
+          "text": "A PI3K/AKT pathway gene"
+        },
+        {
+          "label": "E",
+          "text": "The estrogen receptor gene"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Serous endometrial carcinoma arises in atrophic endometrium and is highly associated with disruptive TP53 mutations.",
+        "whyCorrect": "Papillae and tufts in an older woman with endometrial atrophy describe serous (type II) carcinoma. Serous endometrial carcinoma is highly associated with disruptive TP53 mutations, corresponding to the copy-number high molecular category, and shows nuclear accumulation of p53 protein on immunohistochemistry.",
+        "whyWrongByChoice": {
+          "A": "POLE mutations define the ultra-mutated subtype, which is mostly endometrioid and carries an exceptionally good prognosis, unlike this lesion.",
+          "B": "Mismatch repair defects define the hypermutated endometrioid subtype associated with Lynch syndrome, not serous carcinoma.",
+          "D": "PI3K/AKT-activating mutations are the most common alterations of type I endometrioid tumors, which mimic normal endometrial glands.",
+          "E": "Type II tumors are nonestrogen-driven; estrogen receptor gene mutation is not the described mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "serous-carcinoma",
+        "TP53",
+        "type-II"
+      ],
+      "topicId": "uterine-tumors",
+      "topicName": "Uterine Tumors"
+    },
+    {
+      "id": "rp21-008",
+      "stem": "A 66-year-old woman with biopsy-proven endometrial carcinoma undergoes evaluation. The tumor involves the uterine corpus and extends into the cervix, but there is no disease outside the uterus. Which of the following is the correct stage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stage I"
+        },
+        {
+          "label": "B",
+          "text": "Stage II"
+        },
+        {
+          "label": "C",
+          "text": "Stage III"
+        },
+        {
+          "label": "D",
+          "text": "Stage IV"
+        },
+        {
+          "label": "E",
+          "text": "Stage cannot be assigned without lymph node sampling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Endometrial carcinoma that involves the cervix is stage II.",
+        "whyCorrect": "In the staging system for endometrial carcinoma, stage I is confined to the uterus, stage II involves the cervix, stage III extends outside the uterus but not outside the true pelvis, and stage IV extends outside the true pelvis or involves the bladder or rectal mucosa. Cervical involvement therefore makes this stage II.",
+        "whyWrongByChoice": {
+          "A": "Stage I requires carcinoma confined to the uterus without cervical involvement.",
+          "C": "Stage III requires extension outside the uterus, which is absent here.",
+          "D": "Stage IV requires spread outside the true pelvis or involvement of bladder or rectal mucosa.",
+          "E": "The stage in this system is defined by anatomic extent; cervical involvement itself assigns stage II."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "staging",
+        "endometrial-cancer"
+      ],
+      "topicId": "uterine-tumors",
+      "topicName": "Uterine Tumors"
+    },
+    {
+      "id": "rp21-009",
+      "stem": "A 34-year-old woman has heavy, prolonged menses, urinary frequency, and constipation. Ultrasonography shows multiple firm masses in submucosal, intramural, and subserosal locations of the uterus. Histologic examination of one of these masses would most likely show which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malignant glands invading the myometrium"
+        },
+        {
+          "label": "B",
+          "text": "Papillae and tufts with high nuclear-to-cytoplasmic ratio"
+        },
+        {
+          "label": "C",
+          "text": "Irregular cells with hyperchromatic nuclei and many mitoses"
+        },
+        {
+          "label": "D",
+          "text": "Regular, well-differentiated spindle-shaped smooth muscle cells"
+        },
+        {
+          "label": "E",
+          "text": "Concentric lamellated calcifications throughout the stroma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Uterine leiomyomas are benign smooth muscle tumors showing well-differentiated, regular spindle cells, often with hyalinization.",
+        "whyCorrect": "Multiple firm uterine masses in a premenopausal woman with heavy menses, urinary symptoms, and constipation are classic leiomyomas (fibroids), the most common benign tumor of the urogenital tract. Histology shows well-differentiated, regular, spindle-shaped smooth muscle cells associated with hyalinization.",
+        "whyWrongByChoice": {
+          "A": "Invasive malignant glands describe endometrioid adenocarcinoma, an endometrial rather than myometrial lesion.",
+          "B": "Papillary growth with tufts and marked atypia describes serous carcinoma of the endometrium.",
+          "C": "Cellular irregularity, hyperchromatic nuclei, and numerous mitotic figures describe leiomyosarcoma, which is rare and typically postmenopausal.",
+          "E": "Psammoma bodies are seen in serous and clear cell carcinomas, not in fibroids."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "leiomyoma",
+        "fibroids",
+        "histology"
+      ],
+      "topicId": "uterine-tumors",
+      "topicName": "Uterine Tumors"
+    },
+    {
+      "id": "rp21-010",
+      "stem": "A 38-year-old woman with ultrasound-confirmed uterine fibroids reports heavy menstrual bleeding that interferes with work. She wishes to avoid any surgical procedure. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Placement of a levonorgestrel intrauterine device"
+        },
+        {
+          "label": "B",
+          "text": "Hysterectomy with removal of the uterus"
+        },
+        {
+          "label": "C",
+          "text": "Uterine artery embolization"
+        },
+        {
+          "label": "D",
+          "text": "Early radical surgery for presumed leiomyosarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Tamoxifen therapy to shrink the fibroids"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Levonorgestrel IUDs (and combination OCPs) reduce the bleeding symptoms of fibroids without surgery.",
+        "whyCorrect": "Both levonorgestrel intrauterine devices and combination oral contraceptive pills can reduce the bleeding symptoms associated with fibroids, making the IUD the appropriate nonsurgical choice for a patient whose chief problem is heavy bleeding.",
+        "whyWrongByChoice": {
+          "B": "Hysterectomy is a last option for fibroids, not first-line therapy in a woman who wants to avoid surgery.",
+          "C": "Uterine artery embolization is one of the surgical/procedural options, which this patient wishes to avoid.",
+          "D": "Fibroids in a premenopausal woman without rapid enlargement do not suggest leiomyosarcoma, which typically occurs in postmenopausal women.",
+          "E": "Tamoxifen is a breast cancer drug that acts as a weak estrogen agonist in the uterus; it is not a fibroid treatment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fibroids",
+        "management",
+        "levonorgestrel-IUD"
+      ],
+      "topicId": "uterine-tumors",
+      "topicName": "Uterine Tumors"
+    },
+    {
+      "id": "rp21-011",
+      "stem": "A 63-year-old woman has a rapidly enlarging uterine mass. Hysterectomy is performed, and the pathologist must decide whether the mass is a leiomyoma or a leiomyosarcoma. Which of the following sets of features is used to make this distinction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tumor diameter, number of tumors, and uterine location"
+        },
+        {
+          "label": "B",
+          "text": "Nuclear atypia, mitotic index, and tumor necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Degree of hyalinization, tumor color, and firmness"
+        },
+        {
+          "label": "D",
+          "text": "Presence of psammoma bodies and papillary architecture"
+        },
+        {
+          "label": "E",
+          "text": "Estrogen receptor status and p53 immunostaining"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Leiomyosarcoma is distinguished from leiomyoma by nuclear atypia, mitotic index, and tumor necrosis.",
+        "whyCorrect": "The lecture states that the distinction from leiomyoma is based on nuclear atypia, mitotic index, and tumor necrosis. Leiomyosarcomas show irregular cells with hyperchromatic nuclei and numerous mitotic figures, whereas leiomyomas show regular, well-differentiated spindle cells.",
+        "whyWrongByChoice": {
+          "A": "Leiomyomas are often multiple and can be large; size, number, and location do not establish malignancy.",
+          "C": "Hyalinization and a firm white cut surface are features of benign leiomyomas and do not separate the two.",
+          "D": "Psammoma bodies and papillary growth belong to serous carcinoma of the endometrium, not smooth muscle tumors.",
+          "E": "Receptor status and p53 staining are discussed for endometrial carcinomas, not for grading myometrial smooth muscle tumors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "leiomyosarcoma",
+        "leiomyoma",
+        "pathology"
+      ],
+      "topicId": "uterine-tumors",
+      "topicName": "Uterine Tumors"
+    },
+    {
+      "id": "rp21-012",
+      "stem": "A 46-year-old woman is found to have a uterine smooth muscle tumor that extends into pelvic veins and reaches the inferior vena cava and right atrium. Resected tissue shows well-differentiated, regular smooth muscle cells without atypia, necrosis, or increased mitotic activity. Which of the following best describes this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metastatic leiomyosarcoma with cardiac involvement"
+        },
+        {
+          "label": "B",
+          "text": "Stage IV endometrioid endometrial carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Disseminated peritoneal leiomyomatosis"
+        },
+        {
+          "label": "D",
+          "text": "Intravenous leiomyomatosis, a benign leiomyoma variant"
+        },
+        {
+          "label": "E",
+          "text": "Serous carcinoma with vascular invasion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Intravenous leiomyomatosis is a benign leiomyoma variant that grows into vessels and can reach the vena cava and right atrium.",
+        "whyCorrect": "Intravenous leiomyomatosis is an extremely rare variant of uterine leiomyoma that extends into vessels and spreads hematogenously, most commonly to the vena cava and the right atrium. Despite this unusual behavior it is considered benign, consistent with the bland, well-differentiated histology here.",
+        "whyWrongByChoice": {
+          "A": "Leiomyosarcoma would show nuclear atypia, a high mitotic index, and necrosis, all absent in this specimen.",
+          "B": "This is a smooth muscle (myometrial) lesion, not a glandular endometrial carcinoma.",
+          "C": "Disseminated peritoneal leiomyomatosis presents as multiple small peritoneal nodules, not intravascular extension.",
+          "E": "Serous carcinoma is an endometrial epithelial malignancy with papillae, tufts, and marked atypia, unlike this bland smooth muscle proliferation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "intravenous-leiomyomatosis",
+        "leiomyoma-variants"
+      ],
+      "topicId": "uterine-tumors",
+      "topicName": "Uterine Tumors"
+    },
+    {
+      "id": "rp22-001",
+      "stem": "A 27-year-old woman reports two months of unusually heavy menstrual bleeding and a cycle that has lengthened from 28 to 40 days. Pelvic ultrasound shows a 4-cm thin-walled, fluid-filled right ovarian cyst. The cyst later resolves without treatment. Which cell type in the wall of this lesion was most likely responsible for her menstrual symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granulosa cells producing estrogen"
+        },
+        {
+          "label": "B",
+          "text": "Theca lutein cells producing androstenedione"
+        },
+        {
+          "label": "C",
+          "text": "Luteinized theca cells producing progesterone"
+        },
+        {
+          "label": "D",
+          "text": "Ectopic endometrial cells shedding old blood"
+        },
+        {
+          "label": "E",
+          "text": "Malignant epithelial cells secreting CA 125"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Follicular cysts are lined by granulosa cells whose estrogen causes menorrhagia or lengthened cycles.",
+        "whyCorrect": "A thin-walled, fluid-filled cyst in a menstruating woman that resolves spontaneously is a follicular cyst. Its wall is made of theca and granulosa cells, and the granulosa cells make estrogen, which can produce menstrual irregularities such as heavy bleeding or a longer cycle.",
+        "whyWrongByChoice": {
+          "B": "Theca lutein cells are stimulated by hCG from placental disorders like hydatidiform mole, not part of a simple follicular cyst.",
+          "C": "Luteinized theca cells producing progesterone characterize a corpus luteum cyst, which delays menses rather than causing heavy bleeding from estrogen.",
+          "D": "Ectopic endometrial tissue defines an endometrioma, which causes pelvic pain with menstruation and contains old blood, not a simple resolving cyst.",
+          "E": "A spontaneously resolving thin-walled cyst in a premenopausal woman is functional, not neoplastic."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "follicular-cyst",
+        "granulosa-cells",
+        "estrogen"
+      ],
+      "topicId": "ovarian-cysts",
+      "topicName": "Ovarian Cysts"
+    },
+    {
+      "id": "rp22-002",
+      "stem": "A 31-year-old woman whose menstrual period is 10 days late develops sudden severe lower abdominal pain with nausea. A urine pregnancy test is negative. Ultrasound shows free fluid in the pelvis and a collapsed cystic structure on the left ovary with a yellow, convoluted wall noted at surgery. Which of the following best explains her delayed menses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continued progesterone production by theca cells"
+        },
+        {
+          "label": "B",
+          "text": "Excess estrogen production by granulosa cells"
+        },
+        {
+          "label": "C",
+          "text": "hCG stimulation of the theca lutein layer"
+        },
+        {
+          "label": "D",
+          "text": "Elevated LH stimulation of theca interna cells"
+        },
+        {
+          "label": "E",
+          "text": "Aromatization of androstenedione in adipose tissue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Corpus luteum cysts persist beyond the normal 14 days, and their theca cells keep making progesterone, delaying menstruation; rupture can cause severe intraperitoneal bleeding.",
+        "whyCorrect": "The yellow convoluted cyst wall and rupture with intraperitoneal blood loss describe a corpus luteum cyst, which arises when the corpus luteum abnormally persists after ovulation. Its luteinized theca cells may continue producing progesterone, which delays the onset of normal menstruation.",
+        "whyWrongByChoice": {
+          "B": "Granulosa-cell estrogen from a follicular cyst causes menorrhagia or a longer cycle, but the yellow luteinized wall and hemorrhagic rupture point to the corpus luteum.",
+          "C": "Theca lutein cysts require high hCG from placental disorders such as molar pregnancy; her pregnancy test is negative.",
+          "D": "LH-driven theca interna androgen production is the mechanism of PMOS, a bilateral disorder of small unruptured follicles, not a single ruptured cyst.",
+          "E": "Peripheral aromatization to estrone is part of PMOS pathophysiology and does not explain a hemorrhagic luteal cyst."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "corpus-luteum-cyst",
+        "progesterone",
+        "cyst-rupture"
+      ],
+      "topicId": "ovarian-cysts",
+      "topicName": "Ovarian Cysts"
+    },
+    {
+      "id": "rp22-003",
+      "stem": "A 24-year-old woman with a recently evacuated hydatidiform mole is found on ultrasound to have bilaterally enlarged ovaries containing multiple large cysts. Her serum testosterone precursor levels are elevated. Which of the following is the most likely course of these ovarian lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Regression as hCG levels decline"
+        },
+        {
+          "label": "B",
+          "text": "Progression to endometrial carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Torsion requiring routine prophylactic surgery"
+        },
+        {
+          "label": "D",
+          "text": "Persistence requiring bilateral oophorectomy"
+        },
+        {
+          "label": "E",
+          "text": "Transformation into chocolate cysts"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Theca lutein cysts are driven by hCG from placental disorders and recede when hCG levels decrease.",
+        "whyCorrect": "Hydatidiform mole and choriocarcinoma secrete large amounts of hCG, which stimulates the theca lutein layer of the corpus luteum to form theca lutein cysts. These cells make androstenedione, explaining the high androgen levels, and the cysts enlarge and then recede as hCG falls.",
+        "whyWrongByChoice": {
+          "B": "Endometrial carcinoma risk relates to unopposed estrogen in PMOS, not to hCG-driven theca lutein cysts.",
+          "C": "Torsion is a possible complication of ovarian masses but is managed urgently when it occurs, and these cysts are expected to recede rather than warrant prophylactic surgery.",
+          "D": "Bilateral oophorectomy is reserved for patients with cancer, whereas theca lutein cysts resolve as the hCG source is treated.",
+          "E": "Chocolate cysts are endometriomas filled with old blood from endometriosis, a different disease process."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "theca-lutein-cyst",
+        "hCG",
+        "hydatidiform-mole"
+      ],
+      "topicId": "ovarian-cysts",
+      "topicName": "Ovarian Cysts"
+    },
+    {
+      "id": "rp22-004",
+      "stem": "A 33-year-old woman has several years of pelvic pain that is worst during menstruation. Laparoscopy reveals an ovarian cyst filled with thick brown-black material. Which of the following processes best accounts for the color of the cyst contents?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breakdown of old blood into hemosiderin"
+        },
+        {
+          "label": "B",
+          "text": "Luteinization of granulosa cells"
+        },
+        {
+          "label": "C",
+          "text": "Accumulation of clear straw-colored follicular fluid"
+        },
+        {
+          "label": "D",
+          "text": "Necrosis from twisting of the vascular pedicle"
+        },
+        {
+          "label": "E",
+          "text": "Secretion of mucin by neoplastic epithelium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Endometriomas are chocolate cysts: ectopic endometrial tissue on the ovary bleeds, and the old blood breaks down to hemosiderin, producing a brown to black color.",
+        "whyCorrect": "Pelvic pain that peaks with menstruation plus a cyst of old brown-black blood describes an endometrioma, which forms when endometriosis deposits on the ovary. The old blood is broken down to hemosiderin, giving the classic chocolate cyst appearance.",
+        "whyWrongByChoice": {
+          "B": "Luteinized granulosa cells give the corpus luteum cyst a pink hue, not brown-black contents.",
+          "C": "Clear to straw-colored fluid fills a follicular cyst, which is thin-walled and not associated with menstrual pain of this type.",
+          "D": "Torsion causes sudden severe unilateral pain from ischemia, not chronic cyclic pain with old blood in a cyst.",
+          "E": "Neoplastic cysts arise with ovarian tumors and are suspected in postmenopausal patients; the lecture ties brown-black contents to endometriosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "endometrioma",
+        "chocolate-cyst",
+        "endometriosis"
+      ],
+      "topicId": "ovarian-cysts",
+      "topicName": "Ovarian Cysts"
+    },
+    {
+      "id": "rp22-005",
+      "stem": "A 26-year-old woman with a known 6-cm right ovarian dermoid cyst presents with sudden-onset severe right lower quadrant pain, nausea, and vomiting. The pain has waxed and waned over several hours. Transvaginal ultrasound with Doppler shows preserved arterial flow to the right ovary. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Urgent laparoscopy with detorsion of the ovary"
+        },
+        {
+          "label": "B",
+          "text": "Observation with a repeat ultrasound in 3 months"
+        },
+        {
+          "label": "C",
+          "text": "Serum CA 125 measurement to rule out malignancy"
+        },
+        {
+          "label": "D",
+          "text": "Combined oral contraceptives for cyst suppression"
+        },
+        {
+          "label": "E",
+          "text": "Open bilateral oophorectomy with hysterectomy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ovarian torsion is a gynecologic emergency; normal Doppler flow does not exclude it, and management is urgent surgery, usually laparoscopic detorsion with ovarian preservation.",
+        "whyCorrect": "Sudden severe unilateral pain with nausea and vomiting in a woman with an ovarian mass over 5 cm, with intermittent pain suggesting partial torsion, is torsion until proven otherwise. Diagnosis is primarily clinical, normal flow on Doppler does not exclude torsion, and urgent laparoscopic detorsion prevents necrosis and preserves fertility.",
+        "whyWrongByChoice": {
+          "B": "Serial observation suits asymptomatic incidental cysts, not a suspected torsion where delay risks ovarian necrosis.",
+          "C": "CA 125 helps evaluate postmenopausal masses for cancer and would not change the urgent management of torsion.",
+          "D": "Oral contraceptives address irregular menses and androgen excess in PMOS; they have no role in acute torsion.",
+          "E": "Bilateral oophorectomy with hysterectomy is reserved for cancer; torsion in a reproductive-age woman calls for ovary-sparing detorsion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ovarian-torsion",
+        "gynecologic-emergency",
+        "doppler-ultrasound"
+      ],
+      "topicId": "ovarian-cysts",
+      "topicName": "Ovarian Cysts"
+    },
+    {
+      "id": "rp22-006",
+      "stem": "A 63-year-old woman, 11 years postmenopausal, is found on bimanual examination to have a left adnexal mass. She is otherwise asymptomatic. Which of the following is the most appropriate first test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pelvic ultrasound"
+        },
+        {
+          "label": "B",
+          "text": "Diagnostic laparoscopy"
+        },
+        {
+          "label": "C",
+          "text": "Serum hemoglobin A1c"
+        },
+        {
+          "label": "D",
+          "text": "Serum prolactin"
+        },
+        {
+          "label": "E",
+          "text": "Urine pregnancy test"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pelvic ultrasound is the first test for any patient with a pelvic mass because it distinguishes cystic from solid tissue.",
+        "whyCorrect": "All pelvic masses are initially evaluated with pelvic ultrasound, which is good for distinguishing cysts from solid tissue. This matters especially in a postmenopausal patient, who should not have functional cysts and in whom ovarian cancer is part of the differential.",
+        "whyWrongByChoice": {
+          "B": "Diagnostic laparoscopy for tissue diagnosis is reserved for selected patients depending on the size and appearance seen on imaging, which comes first.",
+          "C": "Hemoglobin A1c screens for diabetes in the PMOS workup, not the evaluation of a postmenopausal adnexal mass.",
+          "D": "Prolactin is checked when PMOS-like endocrine disorders are being excluded, not as the first test for a pelvic mass.",
+          "E": "Pregnancy testing is indicated for amenorrhea in reproductive-age patients, not an 11-years-postmenopausal woman."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pelvic-ultrasound",
+        "postmenopausal",
+        "pelvic-mass-workup"
+      ],
+      "topicId": "ovarian-cysts",
+      "topicName": "Ovarian Cysts"
+    },
+    {
+      "id": "rp22-007",
+      "stem": "A 58-year-old postmenopausal woman with an ovarian cyst has an elevated serum CA 125 level. Her physician cautions that this result alone does not prove ovarian cancer. Which of the following conditions is a recognized cause of a falsely elevated CA 125?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uterine leiomyomas"
+        },
+        {
+          "label": "B",
+          "text": "Hypothyroidism"
+        },
+        {
+          "label": "C",
+          "text": "Obstructive sleep apnea"
+        },
+        {
+          "label": "D",
+          "text": "Type 2 diabetes mellitus"
+        },
+        {
+          "label": "E",
+          "text": "Acanthosis nigricans"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CA 125 is nonspecific: endometriosis, uterine leiomyomas, pregnancy, and liver or kidney failure can all elevate it without ovarian malignancy.",
+        "whyCorrect": "CA 125 is elevated in 50%-85% of ovarian cancers but also in 5%-10% of patients without ovarian malignancy. Recognized non-malignant causes include endometriosis, uterine leiomyomas, pregnancy, and liver or kidney failure, and the false-positive rate is especially high in premenopausal patients.",
+        "whyWrongByChoice": {
+          "B": "Hypothyroidism can alter the ovulatory cycle and cause functional cysts, but it is not listed as a cause of elevated CA 125.",
+          "C": "Obstructive sleep apnea accompanies obesity in PMOS and does not raise CA 125.",
+          "D": "Type 2 diabetes is part of the metabolic syndrome associated with PMOS, not a cause of CA 125 elevation.",
+          "E": "Acanthosis nigricans is a skin finding of insulin resistance and certain cancers, not a listed cause of elevated CA 125."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CA-125",
+        "tumor-markers",
+        "false-positive"
+      ],
+      "topicId": "ovarian-cysts",
+      "topicName": "Ovarian Cysts"
+    },
+    {
+      "id": "rp22-008",
+      "stem": "A female neonate undergoing abdominal imaging for an unrelated indication is incidentally found to have a small ovarian cyst. Which of the following best explains its development and expected course?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maternal estrogen stimulated follicular growth; it will resolve as that estrogen is withdrawn"
+        },
+        {
+          "label": "B",
+          "text": "Neonatal ovulation formed a corpus luteum; it will persist until menarche"
+        },
+        {
+          "label": "C",
+          "text": "Ectopic endometrial implants bled into the ovary; surgical excision is required"
+        },
+        {
+          "label": "D",
+          "text": "A germ cell neoplasm is developing; urgent oophorectomy is indicated"
+        },
+        {
+          "label": "E",
+          "text": "Excess neonatal LH stimulated theca cells; antiandrogen therapy is needed"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fetal and neonatal ovarian cysts arise from high maternal estrogen stimulating follicular growth and usually resolve without intervention once maternal estrogen is withdrawn.",
+        "whyCorrect": "Babies do not ovulate, but high levels of maternal estrogen can stimulate follicular growth, occasionally producing a functional cyst found incidentally in a fetus or neonate. The cyst usually resolves without intervention as maternal estrogen is withdrawn, just as some newborns have transient uterine bleeding from the same in utero stimulation.",
+        "whyWrongByChoice": {
+          "B": "Neonates do not ovulate, so a corpus luteum cannot be the source.",
+          "C": "Endometriomas occur when endometriosis forms on the ovaries in menstruating patients, not neonates, and this cyst needs no excision.",
+          "D": "Neoplastic cysts are suspected chiefly in postmenopausal patients; an incidental neonatal cyst is expected to resolve.",
+          "E": "LH-driven theca stimulation is the mechanism of PMOS in reproductive-age females, and no antiandrogen therapy is indicated here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-cyst",
+        "maternal-estrogen",
+        "functional-cyst"
+      ],
+      "topicId": "ovarian-cysts",
+      "topicName": "Ovarian Cysts"
+    },
+    {
+      "id": "rp22-009",
+      "stem": "A 19-year-old woman presents with irregular menses, acne, and coarse hair on her chin and lower abdomen. Her BMI is 34 kg/m2 and she has velvety hyperpigmented plaques on her neck. Ultrasound shows numerous small follicles arranged around the periphery of both ovaries. Increased secretion of which of the following hormones is the initiating step in the pathogenesis of her ovarian androgen excess?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Luteinizing hormone"
+        },
+        {
+          "label": "B",
+          "text": "Follicle stimulating hormone"
+        },
+        {
+          "label": "C",
+          "text": "Progesterone"
+        },
+        {
+          "label": "D",
+          "text": "Human chorionic gonadotropin"
+        },
+        {
+          "label": "E",
+          "text": "Thyroid stimulating hormone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In PMOS, an exaggerated LH response to GnRH raises LH, which stimulates ovarian theca interna cells to produce androstenedione, the key hormonal finding of focal ovarian hyperandrogenism.",
+        "whyCorrect": "This patient has PMOS: hirsutism, acne, irregular menses, obesity, acanthosis nigricans, and a string-of-pearls ovary. Elevated anterior pituitary LH secretion, from an exaggerated response to GnRH, stimulates theca interna cells to increase androstenedione production, causing hyperandrogenism and some degree of hyperthecosis.",
+        "whyWrongByChoice": {
+          "B": "FSH is suppressed in PMOS because elevated estrone inhibits pituitary FSH secretion, raising the LH/FSH ratio.",
+          "C": "Progesterone is low in PMOS since anovulation means no corpus luteum forms to produce it.",
+          "D": "hCG drives theca lutein cysts in placental disorders like hydatidiform mole, not PMOS.",
+          "E": "TSH is measured to exclude thyroid disease that mimics PMOS, not as a driver of ovarian androgen excess."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PMOS",
+        "LH",
+        "theca-interna",
+        "hyperandrogenism"
+      ],
+      "topicId": "ovarian-cysts",
+      "topicName": "Ovarian Cysts"
+    },
+    {
+      "id": "rp22-010",
+      "stem": "A 34-year-old woman with longstanding PMOS, obesity, and chronic anovulation asks about her long-term health risks. Which of the following malignancies is she at increased risk of developing, and by what mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endometrial carcinoma, from estrogen unopposed by progesterone"
+        },
+        {
+          "label": "B",
+          "text": "Ovarian carcinoma, from repeated follicular rupture"
+        },
+        {
+          "label": "C",
+          "text": "Breast carcinoma, from chronic progesterone excess"
+        },
+        {
+          "label": "D",
+          "text": "Cervical carcinoma, from chronic androgen exposure"
+        },
+        {
+          "label": "E",
+          "text": "Choriocarcinoma, from persistent hCG stimulation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PMOS causes high estrogen with low progesterone, and this unopposed estrogen is a risk factor for endometrial hyperplasia and endometrial carcinoma.",
+        "whyCorrect": "Women with PMOS are not ovulating regularly, so no corpus luteum forms and progesterone stays low, while adipose tissue aromatizes androgens to estrone, raising estrogen. Estrogen unopposed by progesterone drives endometrial hyperplasia and increases the risk of endometrial carcinoma.",
+        "whyWrongByChoice": {
+          "B": "PMOS follicles are arrested and unruptured; the lecture links PMOS risk to the endometrium, not the ovary.",
+          "C": "Progesterone is low, not excessive, in PMOS because of anovulation.",
+          "D": "Cervical cancer is not the malignancy the lecture associates with PMOS, and androgens are not described as its driver.",
+          "E": "Choriocarcinoma is a placental disorder that causes theca lutein cysts; it is not a consequence of PMOS."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "PMOS",
+        "endometrial-cancer",
+        "unopposed-estrogen"
+      ],
+      "topicId": "ovarian-cysts",
+      "topicName": "Ovarian Cysts"
+    },
+    {
+      "id": "rp22-011",
+      "stem": "A 29-year-old woman with PMOS has been unable to conceive for two years because of anovulation. She is prescribed a drug that acts as a mixed agonist-antagonist at the estrogen receptor and is warned about pelvic pain and hot flashes. This same drug class is sometimes used in males for which of the following purposes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Treatment of gynecomastia"
+        },
+        {
+          "label": "B",
+          "text": "Treatment of male-pattern hair growth"
+        },
+        {
+          "label": "C",
+          "text": "Suppression of prostate cancer growth"
+        },
+        {
+          "label": "D",
+          "text": "Reduction of insulin resistance"
+        },
+        {
+          "label": "E",
+          "text": "Induction of spermatogenesis after torsion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Clomiphene, a SERM, restores ovulation in anovulatory PMOS patients and is sometimes used in males to treat gynecomastia.",
+        "whyCorrect": "Clomiphene is a mixed agonist-antagonist of the estrogen receptor, a selective estrogen receptor modulator. It helps anovulatory women with PMOS regain fertility, its adverse effects include pelvic pain and hot flashes, and it is sometimes used in males to treat gynecomastia.",
+        "whyWrongByChoice": {
+          "B": "Male-pattern hair growth in PMOS (hirsutism) is treated with antiandrogens like spironolactone, not SERMs, and is a finding in females.",
+          "C": "The lecture does not describe SERMs as prostate cancer therapy; prostate cancer appears only as a cause of acanthosis nigricans.",
+          "D": "Insulin resistance in PMOS is addressed with weight management and diabetes care, not clomiphene.",
+          "E": "Torsion management is urgent surgical detorsion; SERMs play no role, and this indication is invented."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "clomiphene",
+        "SERM",
+        "infertility",
+        "PMOS-treatment"
+      ],
+      "topicId": "ovarian-cysts",
+      "topicName": "Ovarian Cysts"
+    },
+    {
+      "id": "rp22-012",
+      "stem": "A 55-year-old woman has a complex 8-cm ovarian cyst with features on ultrasound that raise strong suspicion for malignancy. Surgical removal is planned. Which of the following is the main reason an open approach is preferred over laparoscopy in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rupture of the cyst and spread of tumor cells are less likely"
+        },
+        {
+          "label": "B",
+          "text": "Open surgery allows the cyst to be observed with serial imaging"
+        },
+        {
+          "label": "C",
+          "text": "Laparoscopy cannot distinguish cystic from solid tissue"
+        },
+        {
+          "label": "D",
+          "text": "Open surgery avoids the need for any tissue diagnosis"
+        },
+        {
+          "label": "E",
+          "text": "Laparoscopy is contraindicated in postmenopausal patients"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Open surgery is favored for suspected malignancy because cyst rupture and subsequent spread of tumor cells are less likely than with laparoscopy.",
+        "whyCorrect": "Persistent, symptomatic, or enlarging cysts are removed by laparoscopy or open surgery depending on the preoperative suspicion of malignancy. When cancer is suspected, open surgery is more commonly used because rupture of the cyst contents and subsequent spread of tumor cells are less likely with this approach.",
+        "whyWrongByChoice": {
+          "B": "Serial ultrasound observation is the conservative alternative to surgery, not a feature of the open approach.",
+          "C": "Distinguishing cystic from solid tissue is the job of pelvic ultrasound, and it is not the reason to choose open over laparoscopic surgery.",
+          "D": "Tissue diagnosis remains essential in suspected cancer; the approach does not eliminate that need.",
+          "E": "Laparoscopy is used in postmenopausal patients when malignancy suspicion is low; there is no such contraindication."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "surgical-management",
+        "open-surgery",
+        "suspected-malignancy"
+      ],
+      "topicId": "ovarian-cysts",
+      "topicName": "Ovarian Cysts"
+    },
+    {
+      "id": "rp23-001",
+      "stem": "A 62-year-old woman presents with 3 months of bloating, early satiety, and pelvic discomfort. Examination reveals abdominal distention with a fluid wave and a fixed right adnexal mass. Serum CA-125 is markedly elevated. After debulking surgery, histology of the ovarian mass shows invasive epithelial nests with high-grade nuclear atypia and numerous concentric, laminated calcified spheres. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mucinous carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "High-grade serous carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Endometrioid carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Clear cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Transitional cell (Brenner) tumor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Psammoma bodies with high-grade atypia, ascites, and elevated CA-125 point to high-grade serous carcinoma.",
+        "whyCorrect": "Serous carcinomas are the most common malignant ovarian tumors and are histologically noted for psammoma bodies, concentric layers of calcium. High-grade serous carcinoma classically presents in older women with peritoneal spread, ascites, and elevated CA-125.",
+        "whyWrongByChoice": {
+          "A": "Mucinous carcinoma forms large mucin-filled multiloculated cysts and secretes CEA; psammoma bodies are not its hallmark.",
+          "C": "Endometrioid carcinoma shows back-to-back malignant glands resembling endometrial tissue, not laminated calcifications.",
+          "D": "Clear cell carcinoma is composed of large cells with abundant clear cytoplasm forming sheets or tubes.",
+          "E": "Brenner tumors contain nests of urothelium-like epithelium and are usually benign."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "serous carcinoma",
+        "psammoma bodies",
+        "CA-125"
+      ],
+      "topicId": "ovarian-tumors-part-1-of-2",
+      "topicName": "Ovarian Tumors (Part 1 of 2)"
+    },
+    {
+      "id": "rp23-002",
+      "stem": "A 58-year-old woman with a known germline BRCA1 mutation is diagnosed with an invasive ovarian carcinoma showing marked cytologic atypia. Molecular analysis of the tumor is most likely to reveal a mutation in which of the following genes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "KRAS"
+        },
+        {
+          "label": "B",
+          "text": "BRAF"
+        },
+        {
+          "label": "C",
+          "text": "TP53"
+        },
+        {
+          "label": "D",
+          "text": "RET"
+        },
+        {
+          "label": "E",
+          "text": "APC"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ovarian carcinomas in BRCA1/2 carriers are almost always high-grade serous carcinomas with TP53 mutations.",
+        "whyCorrect": "High-grade serous carcinoma arises from in situ lesions in the fallopian tube fimbriae and is associated with TP53 mutations. Almost all ovarian carcinomas arising in women with BRCA1 or BRCA2 mutations are high-grade serous carcinomas carrying TP53 mutations.",
+        "whyWrongByChoice": {
+          "A": "KRAS mutations characterize low-grade serous and mucinous tumors, not BRCA-associated high-grade disease.",
+          "B": "BRAF mutations are found in serous borderline tumors and low-grade serous carcinoma.",
+          "D": "RET is not a mutation described in ovarian epithelial carcinogenesis.",
+          "E": "APC is not part of the described pathogenesis of ovarian epithelial tumors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BRCA",
+        "TP53",
+        "high-grade serous carcinoma"
+      ],
+      "topicId": "ovarian-tumors-part-1-of-2",
+      "topicName": "Ovarian Tumors (Part 1 of 2)"
+    },
+    {
+      "id": "rp23-003",
+      "stem": "A 44-year-old woman undergoes staging surgery for a cystic ovarian mass lined by complex branching papillae with mildly atypical, ciliated cuboidal cells, low mitotic activity, and no stromal invasion. Staging shows disease confined to the ovary. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adjuvant platinum-based chemotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Pelvic radiation therapy"
+        },
+        {
+          "label": "C",
+          "text": "Maintenance PARP inhibitor therapy"
+        },
+        {
+          "label": "D",
+          "text": "No adjuvant therapy after surgery"
+        },
+        {
+          "label": "E",
+          "text": "Neoadjuvant chemotherapy with debulking"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Serous borderline tumors confined to the ovary are managed surgically without adjuvant therapy.",
+        "whyCorrect": "The histology describes a serous borderline tumor: epithelial proliferation with branching papillae but no stromal invasion. Management is primarily surgical, and there is currently no indication for adjuvant chemotherapy or radiation when disease is confined to the ovary or limited to noninvasive extraovarian implants.",
+        "whyWrongByChoice": {
+          "A": "Platinum-based chemotherapy is used for invasive serous carcinoma, not borderline tumors confined to the ovary.",
+          "B": "Radiation has no indication for borderline tumors confined to the ovary.",
+          "C": "PARP inhibitors are maintenance options in advanced or recurrent carcinoma, particularly with BRCA mutations.",
+          "E": "Neoadjuvant chemotherapy is reserved for advanced invasive carcinoma, not an ovary-confined borderline tumor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "serous borderline tumor",
+        "management"
+      ],
+      "topicId": "ovarian-tumors-part-1-of-2",
+      "topicName": "Ovarian Tumors (Part 1 of 2)"
+    },
+    {
+      "id": "rp23-004",
+      "stem": "A 39-year-old woman has a 28-cm unilateral multiloculated ovarian mass removed. The cut surface shows numerous cysts separated by delicate septa and filled with thick, gelatinous material; the cysts are lined by columnar mucin-producing epithelium. Which of the following serum markers is most likely to be secreted by this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CA-125"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-fetoprotein"
+        },
+        {
+          "label": "C",
+          "text": "Inhibin"
+        },
+        {
+          "label": "D",
+          "text": "Carcinoembryonic antigen"
+        },
+        {
+          "label": "E",
+          "text": "Estrogen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mucinous ovarian tumors secrete carcinoembryonic antigen (CEA).",
+        "whyCorrect": "A very large, unilateral, multiloculated cyst filled with gelatinous mucin and lined by columnar mucinous epithelium is a mucinous tumor. Mucinous tumors secrete CEA, which can be used as a tumor marker.",
+        "whyWrongByChoice": {
+          "A": "CA-125 is elevated in many epithelial carcinomas, particularly advanced high-grade serous carcinoma, and is not the marker tied to mucinous tumors.",
+          "B": "Alpha-fetoprotein is produced by yolk sac tumors.",
+          "C": "Inhibin is secreted by granulosa cell tumors and other sex cord-stromal tumors.",
+          "E": "Estrogen is produced by theca cell and granulosa cell tumors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mucinous tumor",
+        "CEA",
+        "tumor markers"
+      ],
+      "topicId": "ovarian-tumors-part-1-of-2",
+      "topicName": "Ovarian Tumors (Part 1 of 2)"
+    },
+    {
+      "id": "rp23-005",
+      "stem": "A 55-year-old woman undergoes laparotomy for progressive abdominal distention and early intestinal obstruction. The peritoneal cavity contains massive gelatinous ascites with cystic epithelial implants studding the peritoneal surfaces and both ovaries. Which of the following is the most likely primary source of this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ovary"
+        },
+        {
+          "label": "B",
+          "text": "Appendix"
+        },
+        {
+          "label": "C",
+          "text": "Endometrium"
+        },
+        {
+          "label": "D",
+          "text": "Fallopian tube"
+        },
+        {
+          "label": "E",
+          "text": "Urinary bladder"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pseudomyxoma peritonei is now understood to arise mostly from an extra-ovarian source, usually the appendix.",
+        "whyCorrect": "Mucinous ascites with cystic epithelial implants on peritoneal surfaces, adhesions, and ovarian involvement defines pseudomyxoma peritonei, which can cause intestinal obstruction and death. Although once attributed to primary ovarian mucinous neoplasms, it is now mostly attributed to an appendiceal primary.",
+        "whyWrongByChoice": {
+          "A": "Ovarian mucinous neoplasms were historically blamed, but the ovaries are usually secondarily involved rather than the source.",
+          "C": "The endometrium is not the described origin of pseudomyxoma peritonei.",
+          "D": "The fallopian tube is the origin of high-grade serous carcinoma precursors, not mucinous peritoneal disease.",
+          "E": "The bladder is not a described source of this mucinous process."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pseudomyxoma peritonei",
+        "mucinous tumor"
+      ],
+      "topicId": "ovarian-tumors-part-1-of-2",
+      "topicName": "Ovarian Tumors (Part 1 of 2)"
+    },
+    {
+      "id": "rp23-006",
+      "stem": "A healthy 48-year-old woman asks whether an annual blood test for CA-125 could screen her for ovarian cancer. She has no family history of malignancy. Which of the following best explains why CA-125 is not recommended for this purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is elevated in many benign and non-ovarian conditions"
+        },
+        {
+          "label": "B",
+          "text": "It is undetectable until cancer becomes metastatic"
+        },
+        {
+          "label": "C",
+          "text": "It is produced only by germ cell tumors"
+        },
+        {
+          "label": "D",
+          "text": "It cannot be measured reliably in serum"
+        },
+        {
+          "label": "E",
+          "text": "It normalizes too quickly after tumor growth begins"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CA-125 has too many false positives to serve as a screening test.",
+        "whyCorrect": "CA-125 is elevated in cancers of the endometrium, pancreas, breast, lung, and colon, and in benign conditions such as endometriosis, cirrhosis, peritonitis, pelvic inflammatory disease, and pancreatitis. This lack of specificity limits its use as a screening tool, although it is useful for follow-up after a firm diagnosis.",
+        "whyWrongByChoice": {
+          "B": "CA-125 is detectable in many epithelial ovarian carcinomas; the issue is specificity, not late detectability.",
+          "C": "CA-125 is associated with epithelial ovarian carcinomas; yolk sac tumors produce alpha-fetoprotein.",
+          "D": "CA-125 is measured in serum and used routinely to follow therapy response.",
+          "E": "The marker is used to follow disease over time, so persistence is not the limitation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CA-125",
+        "screening",
+        "tumor markers"
+      ],
+      "topicId": "ovarian-tumors-part-1-of-2",
+      "topicName": "Ovarian Tumors (Part 1 of 2)"
+    },
+    {
+      "id": "rp23-007",
+      "stem": "A 41-year-old woman with a BRCA2 mutation undergoes risk-reducing bilateral salpingo-oophorectomy. The pathologist pays particular attention to the fimbriated ends of the fallopian tubes. This examination is directed at finding the precursor lesion of which of the following tumors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low-grade serous carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "High-grade serous carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Mucinous carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Endometrioid carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Transitional cell (Brenner) tumor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "High-grade serous carcinoma arises from serous tubal intraepithelial carcinoma (STIC) in the fallopian tube fimbriae.",
+        "whyCorrect": "In the type II pathway, intraepithelial carcinoma first develops in the fallopian tube epithelium (STIC) and progresses to high-grade serous carcinoma. This is the tumor type that dominates in BRCA mutation carriers, so the tubal fimbriae are scrutinized.",
+        "whyWrongByChoice": {
+          "A": "Low-grade serous carcinoma arises through the type I stepwise pathway from benign and borderline serous tumors.",
+          "C": "Mucinous carcinoma develops through the type I pathway from cystadenoma and borderline tumors, not tubal lesions.",
+          "D": "Endometrioid carcinoma is associated with endometriosis, not tubal intraepithelial lesions.",
+          "E": "Brenner tumors are usually benign and are not linked to a tubal precursor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "STIC",
+        "type II pathway",
+        "BRCA"
+      ],
+      "topicId": "ovarian-tumors-part-1-of-2",
+      "topicName": "Ovarian Tumors (Part 1 of 2)"
+    },
+    {
+      "id": "rp23-008",
+      "stem": "A 47-year-old woman with a long history of surgically documented endometriosis develops a solid and cystic left ovarian mass with foci of hemorrhage. Histology shows an abundance of back-to-back malignant glands closely resembling endometrial tissue. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endometrioid carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Serous cystadenoma"
+        },
+        {
+          "label": "C",
+          "text": "Mucinous borderline tumor"
+        },
+        {
+          "label": "D",
+          "text": "Transitional cell (Brenner) tumor"
+        },
+        {
+          "label": "E",
+          "text": "High-grade serous carcinoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Malignant glands resembling endometrium arising in a patient with endometriosis indicate endometrioid carcinoma.",
+        "whyCorrect": "Endometrioid tumors are histologically similar to endometrial tissue with a glandular appearance, and many show a close association with endometriosis, suggesting direct malignant transformation. The majority of endometrioid tumors are malignant.",
+        "whyWrongByChoice": {
+          "B": "Serous cystadenoma is a benign thin-walled cyst lined by ciliated fallopian tube-like epithelium.",
+          "C": "Mucinous borderline tumors show proliferative mucin-producing columnar epithelium, not endometrium-like glands.",
+          "D": "Brenner tumors contain nests of urothelium-like epithelium and are usually benign.",
+          "E": "High-grade serous carcinoma shows high-grade atypia and psammoma bodies and arises from tubal precursors, not endometriosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endometrioid carcinoma",
+        "endometriosis"
+      ],
+      "topicId": "ovarian-tumors-part-1-of-2",
+      "topicName": "Ovarian Tumors (Part 1 of 2)"
+    },
+    {
+      "id": "rp23-009",
+      "stem": "A 52-year-old woman has an ovarian mass excised incidentally during another pelvic operation. Microscopy shows well-circumscribed nests of epithelial cells resembling urothelium embedded in dense ovarian stroma. Which of the following best describes the expected clinical behavior of this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Usually benign"
+        },
+        {
+          "label": "B",
+          "text": "Usually widely metastatic at diagnosis"
+        },
+        {
+          "label": "C",
+          "text": "Usually recurs as gelatinous peritoneal implants"
+        },
+        {
+          "label": "D",
+          "text": "Usually secretes alpha-fetoprotein"
+        },
+        {
+          "label": "E",
+          "text": "Usually transforms from endometriosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Brenner (transitional cell) tumors contain urothelium-like epithelial nests and are usually benign.",
+        "whyCorrect": "Nests of neoplastic epithelium resembling urinary tract epithelium within ovarian stroma define a transitional cell (Brenner) tumor. These tumors are usually benign.",
+        "whyWrongByChoice": {
+          "B": "Widespread peritoneal metastasis at diagnosis characterizes serous carcinoma, not Brenner tumors.",
+          "C": "Gelatinous peritoneal implants describe pseudomyxoma peritonei, associated with mucinous processes of appendiceal origin.",
+          "D": "Alpha-fetoprotein is a marker of yolk sac tumors, which are germ cell tumors.",
+          "E": "Endometrioid and clear cell tumors, not Brenner tumors, can arise from endometriosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Brenner tumor",
+        "transitional cell"
+      ],
+      "topicId": "ovarian-tumors-part-1-of-2",
+      "topicName": "Ovarian Tumors (Part 1 of 2)"
+    },
+    {
+      "id": "rp23-010",
+      "stem": "A 33-year-old woman with a strong family history of ovarian cancer asks what factors might lower her risk of developing the disease. Which of the following is associated with a decreased risk of ovarian cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nulliparity"
+        },
+        {
+          "label": "B",
+          "text": "BRCA2 mutation"
+        },
+        {
+          "label": "C",
+          "text": "Ovarian cancer in a sister"
+        },
+        {
+          "label": "D",
+          "text": "Oral contraceptive use"
+        },
+        {
+          "label": "E",
+          "text": "A high lifetime number of ovulatory cycles"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Oral contraceptive use, breast-feeding, and tubal ligation are protective, likely by reducing ovulatory cycles.",
+        "whyCorrect": "Oral contraceptive use is protective against ovarian tumors, likely because it results in fewer lifetime ovulatory cycles. Breast-feeding and tubal ligation share this protective effect.",
+        "whyWrongByChoice": {
+          "A": "Nulliparity increases risk because it raises the lifetime number of ovulatory cycles.",
+          "B": "BRCA1 and BRCA2 mutations impair homologous recombination DNA repair and raise the risk of breast and ovarian cancer.",
+          "C": "Ovarian cancer in a mother or sister increases the incidence 4- to 5-fold.",
+          "E": "More ovulatory cycles increase, rather than decrease, ovarian cancer risk."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "risk factors",
+        "oral contraceptives"
+      ],
+      "topicId": "ovarian-tumors-part-1-of-2",
+      "topicName": "Ovarian Tumors (Part 1 of 2)"
+    },
+    {
+      "id": "rp23-011",
+      "stem": "A 58-year-old woman has a 7-cm complex ovarian mass on ultrasound, and CT shows no disease outside the pelvis. A trainee proposes a percutaneous needle biopsy to obtain a tissue diagnosis before surgery. Which of the following is the best reason to avoid this approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Needle biopsy cannot obtain diagnostic epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "It may seed the peritoneal cavity with tumor cells"
+        },
+        {
+          "label": "C",
+          "text": "Serum CA-125 alone confirms the diagnosis"
+        },
+        {
+          "label": "D",
+          "text": "Ultrasound findings alone justify chemotherapy"
+        },
+        {
+          "label": "E",
+          "text": "Most masses at this age are functional cysts"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Needle biopsy of an ovarian mass risks seeding the peritoneal cavity with malignant or mucous-secreting cells.",
+        "whyCorrect": "Needle biopsies are not commonly performed for ovarian masses because of the possibility of seeding the peritoneal cavity with malignant or mucous-secreting cells. Tissue diagnosis is instead obtained by surgical removal of part or all of the ovary.",
+        "whyWrongByChoice": {
+          "A": "The concern is spread of tumor cells, not an inability to sample the lesion.",
+          "C": "Tumor markers complement histology but do not replace a tissue diagnosis.",
+          "D": "Radiology may suggest a diagnosis, but tissue confirmation is still generally required before definitive therapy.",
+          "E": "Functional cysts that resolve spontaneously are a consideration in reproductive-age patients, not a 58-year-old."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "needle biopsy",
+        "peritoneal seeding"
+      ],
+      "topicId": "ovarian-tumors-part-1-of-2",
+      "topicName": "Ovarian Tumors (Part 1 of 2)"
+    },
+    {
+      "id": "rp23-012",
+      "stem": "A 61-year-old woman with high-grade serous ovarian carcinoma undergoes staging. Based on the embryologic origin of the ovaries and their blood supply from the aorta, lymphatic spread of this tumor is most likely to involve which of the following lymph node groups?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superficial inguinal nodes"
+        },
+        {
+          "label": "B",
+          "text": "Axillary nodes"
+        },
+        {
+          "label": "C",
+          "text": "Para-aortic nodes"
+        },
+        {
+          "label": "D",
+          "text": "Popliteal nodes"
+        },
+        {
+          "label": "E",
+          "text": "Supraclavicular nodes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ovarian cancer spreads via lymphatics to the para-aortic nodes, reflecting the ovaries' abdominal embryologic origin.",
+        "whyCorrect": "The ovaries descend from the fetal abdomen and their blood supply arises from the aorta, so lymphatic invasion by ovarian cancer characteristically involves the para-aortic lymph nodes.",
+        "whyWrongByChoice": {
+          "A": "Superficial inguinal nodes do not follow the ovarian vessels' aortic origin.",
+          "B": "Axillary nodes drain the upper limb and breast, not the ovaries.",
+          "D": "Popliteal nodes drain the lower leg and are unrelated to ovarian lymphatics.",
+          "E": "Supraclavicular nodes are not the characteristic first site of ovarian lymphatic spread."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lymphatic spread",
+        "para-aortic nodes",
+        "embryology"
+      ],
+      "topicId": "ovarian-tumors-part-1-of-2",
+      "topicName": "Ovarian Tumors (Part 1 of 2)"
+    },
+    {
+      "id": "rp24-001",
+      "stem": "A 58-year-old woman who has been postmenopausal for 6 years presents with new vaginal bleeding. Endometrial biopsy shows endometrial hyperplasia. Pelvic imaging reveals a solitary right adnexal mass, and serum inhibin is elevated. Histology of the resected mass shows sheets of tumor cells punctuated by small rosette-like structures surrounding eosinophilic basement membrane-type material. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibroma"
+        },
+        {
+          "label": "B",
+          "text": "Granulosa cell tumor"
+        },
+        {
+          "label": "C",
+          "text": "Thecoma"
+        },
+        {
+          "label": "D",
+          "text": "Sertoli-Leydig cell tumor"
+        },
+        {
+          "label": "E",
+          "text": "Dysgerminoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Granulosa cell tumors overproduce estrogen, secrete inhibin, and show Call-Exner bodies on histology.",
+        "whyCorrect": "Estrogen excess from a granulosa cell tumor drives endometrial hyperplasia and postmenopausal bleeding. Elevated inhibin, a peptide normally secreted by granulosa cells, supports the diagnosis, and the rosette-shaped structures around eosinophilic material are Call-Exner bodies, the characteristic histologic finding. Adult granulosa cell tumors occur predominantly in postmenopausal women.",
+        "whyWrongByChoice": {
+          "A": "Fibromas are not hormonally active, so they do not cause endometrial hyperplasia; they show spindle cells in a storiform pattern.",
+          "C": "Thecomas produce estrogen and can cause abnormal bleeding, but they are composed of plump vacuolated cells and are not associated with elevated inhibin or Call-Exner bodies.",
+          "D": "Sertoli-Leydig cell tumors secrete testosterone and cause virilization rather than estrogen-driven bleeding.",
+          "E": "Dysgerminomas are germ cell tumors of adolescents with fried-egg cells and elevated LDH, not estrogenic tumors of postmenopausal women."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sex-cord-stromal",
+        "granulosa-cell-tumor",
+        "inhibin"
+      ],
+      "topicId": "ovarian-tumors-part-2-of-2",
+      "topicName": "Ovarian Tumors (Part 2 of 2)"
+    },
+    {
+      "id": "rp24-002",
+      "stem": "A 66-year-old woman presents with pelvic discomfort and increasing abdominal girth. Evaluation reveals a solitary ovarian mass, ascites, and a right pleural effusion. Serum CA-125 is elevated. The resected tumor is well-circumscribed with a smooth, homogeneous white cut surface, and histology shows spindle cells in a storiform arrangement. After removal of the tumor, the ascites and pleural effusion resolve. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ovarian carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Thecoma"
+        },
+        {
+          "label": "C",
+          "text": "Fibroma"
+        },
+        {
+          "label": "D",
+          "text": "Granulosa cell tumor"
+        },
+        {
+          "label": "E",
+          "text": "Krukenberg tumor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fibroma with ascites and pleural effusion that resolve after tumor removal defines Meigs syndrome.",
+        "whyCorrect": "Meigs syndrome consists of a benign ovarian tumor, most commonly a fibroma, with ascites and pleural effusion that resolve when the tumor is removed. The white cut surface and storiform spindle cell histology are classic for fibroma. Fibromas can also elevate CA-125, which can falsely raise suspicion for ovarian carcinoma.",
+        "whyWrongByChoice": {
+          "A": "The effusions resolving after excision of a benign-appearing, well-circumscribed spindle cell tumor indicates Meigs syndrome, not carcinoma, despite the elevated CA-125.",
+          "B": "Thecomas have a solid yellow cut surface with plump vacuolated cells and are estrogenically active; they are not the classic Meigs syndrome tumor.",
+          "D": "Granulosa cell tumors show Call-Exner bodies and secrete estrogen and inhibin rather than producing this benign spindle cell picture.",
+          "E": "Krukenberg tumors are metastases, most commonly from gastric adenocarcinoma, and feature signet-ring cells, not storiform spindle cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fibroma",
+        "meigs-syndrome",
+        "ca-125"
+      ],
+      "topicId": "ovarian-tumors-part-2-of-2",
+      "topicName": "Ovarian Tumors (Part 2 of 2)"
+    },
+    {
+      "id": "rp24-003",
+      "stem": "A 24-year-old woman presents with 4 months of progressive deepening of her voice, new facial hair growth, and clitoral enlargement. Serum testosterone is markedly elevated. Imaging shows a discrete solid, yellow-tan right ovarian mass. Histology demonstrates well-formed tubules intermixed with polygonal cells. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sertoli-Leydig cell tumor"
+        },
+        {
+          "label": "B",
+          "text": "Adult-type granulosa cell tumor"
+        },
+        {
+          "label": "C",
+          "text": "Ovarian stromal hyperthecosis"
+        },
+        {
+          "label": "D",
+          "text": "Thecoma of the ovarian stroma"
+        },
+        {
+          "label": "E",
+          "text": "Fibroma of the ovarian stroma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sertoli-Leydig cell tumors secrete testosterone and cause new, rapid virilization in females.",
+        "whyCorrect": "Although testicular cell types are not normally found in the ovary, Sertoli-Leydig cell tumors rarely occur there, with peak incidence in the second and third decades. They secrete testosterone, producing rapid virilization. Histology of a well-differentiated tumor shows Sertoli tubules intermixed with Leydig cells, matching this specimen.",
+        "whyWrongByChoice": {
+          "B": "Granulosa cell tumors overproduce estrogen, causing bleeding or precocious puberty rather than virilization.",
+          "C": "Hyperthecosis causes virilization through diffuse luteinized stromal proliferation replacing ovarian tissue, not a discrete tubule-forming mass.",
+          "D": "Thecomas are estrogen-producing benign tumors and would not raise testosterone or cause virilization.",
+          "E": "Fibromas are hormonally inactive spindle cell tumors and do not cause virilization."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sertoli-leydig",
+        "virilization",
+        "testosterone"
+      ],
+      "topicId": "ovarian-tumors-part-2-of-2",
+      "topicName": "Ovarian Tumors (Part 2 of 2)"
+    },
+    {
+      "id": "rp24-004",
+      "stem": "A 29-year-old woman undergoes pelvic imaging after a minor motor vehicle collision, which incidentally reveals a 7-cm solid and cystic left ovarian mass containing fat, hair, and calcifications. She is asymptomatic. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conservative excision with examination of the opposite ovary"
+        },
+        {
+          "label": "B",
+          "text": "Total hysterectomy with bilateral salpingo-oophorectomy"
+        },
+        {
+          "label": "C",
+          "text": "Neoadjuvant bleomycin, etoposide, and cisplatin chemotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Radiation therapy directed at the pelvis and para-aortic nodes"
+        },
+        {
+          "label": "E",
+          "text": "Complete surgical staging with adjuvant combination chemotherapy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mature cystic teratomas are benign, and conservative excision is curative.",
+        "whyCorrect": "A cystic and solid mass containing fat, hair, and calcifications in a reproductive-age woman is a mature cystic teratoma, the most common germ cell tumor. These are benign, and conservative excision is curative. Because teratomas can be bilateral, the opposite ovary requires examination and possible biopsy at the time of operation.",
+        "whyWrongByChoice": {
+          "B": "Removing the uterus and both adnexa is far more radical than needed for a benign lesion curable by conservative excision.",
+          "C": "BEP chemotherapy is used for malignant germ cell tumors such as dysgerminoma, not for a benign mature teratoma.",
+          "D": "Radiation has no role in managing a benign mature cystic teratoma.",
+          "E": "Staging with adjuvant chemotherapy is reserved for malignant tumors such as grade II-III immature teratomas, not mature teratomas."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mature-teratoma",
+        "management",
+        "germ-cell"
+      ],
+      "topicId": "ovarian-tumors-part-2-of-2",
+      "topicName": "Ovarian Tumors (Part 2 of 2)"
+    },
+    {
+      "id": "rp24-005",
+      "stem": "A 41-year-old woman presents with palpitations, heat intolerance, tremor, and weight loss. TSH is suppressed and free T4 is elevated. The thyroid gland is normal on examination, but pelvic imaging reveals a right ovarian mass. Pathology of the resected mass shows a cystic teratoma composed predominantly of thyroid follicles. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Struma ovarii"
+        },
+        {
+          "label": "B",
+          "text": "Immature teratoma"
+        },
+        {
+          "label": "C",
+          "text": "Choriocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Granulosa cell tumor"
+        },
+        {
+          "label": "E",
+          "text": "Dysgerminoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Struma ovarii is a specialized teratoma containing thyroid tissue that can cause hyperthyroidism.",
+        "whyCorrect": "Struma ovarii, comprising about 3% of all teratomas, is a specialized teratoma containing thyroid tissue. Functional thyroid tissue within the tumor can present with hyperthyroidism, explaining this patient's thyrotoxic symptoms despite a normal cervical thyroid gland.",
+        "whyWrongByChoice": {
+          "B": "Immature teratomas contain immature elements such as neuroepithelium forming rosettes and occur mostly in children and adolescents; they are not defined by thyroid tissue.",
+          "C": "Choriocarcinomas are trophoblastic tumors that secrete hCG; they do not contain thyroid follicles.",
+          "D": "Granulosa cell tumors are estrogen-secreting stromal tumors and would not produce thyroid hormone.",
+          "E": "Dysgerminomas show sheets of fried-egg cells with lymphocytic septa, not organized thyroid tissue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "struma-ovarii",
+        "teratoma",
+        "hyperthyroidism"
+      ],
+      "topicId": "ovarian-tumors-part-2-of-2",
+      "topicName": "Ovarian Tumors (Part 2 of 2)"
+    },
+    {
+      "id": "rp24-006",
+      "stem": "A 17-year-old girl presents with pelvic fullness and is found to have a solid left ovarian mass. Serum lactate dehydrogenase is elevated. Histology shows sheets of tumor cells with round central nuclei and abundant clear cytoplasm, separated by strands of connective tissue filled with lymphocytes. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yolk sac tumor"
+        },
+        {
+          "label": "B",
+          "text": "Immature teratoma"
+        },
+        {
+          "label": "C",
+          "text": "Dysgerminoma"
+        },
+        {
+          "label": "D",
+          "text": "Choriocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Granulosa cell tumor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dysgerminoma shows fried-egg cells with lymphocyte-rich septa and elevated LDH in adolescents.",
+        "whyCorrect": "Dysgerminomas are malignant germ cell tumors that most commonly present in adolescents and are associated with elevated serum LDH. The described cells with round central nuclei and abundant clear cytoplasm are the classic fried-egg appearance, and the connective tissue strands filled with lymphocytes complete the picture. The same tumor in the testis is called a seminoma.",
+        "whyWrongByChoice": {
+          "A": "Yolk sac tumors are marked by elevated AFP and Schiller-Duval bodies, not fried-egg cells with elevated LDH.",
+          "B": "Immature teratomas contain immature neuroepithelium, cartilage, or gut epithelium rather than uniform clear-cell sheets.",
+          "D": "Choriocarcinoma is composed of trophoblastic tissue and produces markedly elevated hCG.",
+          "E": "Granulosa cell tumors show Call-Exner bodies and secrete estrogen and inhibin; they occur predominantly in postmenopausal women."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dysgerminoma",
+        "ldh",
+        "fried-egg"
+      ],
+      "topicId": "ovarian-tumors-part-2-of-2",
+      "topicName": "Ovarian Tumors (Part 2 of 2)"
+    },
+    {
+      "id": "rp24-007",
+      "stem": "A 9-year-old girl presents with abdominal pain and a rapidly growing pelvic mass involving a single ovary. Serum alpha-fetoprotein is markedly elevated. Histology shows blood vessels surrounded by tumor cells protruding into empty spaces. She undergoes surgery followed by cisplatin-based chemotherapy. Which of the following should be used to monitor for tumor recurrence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum alpha-fetoprotein"
+        },
+        {
+          "label": "B",
+          "text": "Serum beta-hCG"
+        },
+        {
+          "label": "C",
+          "text": "Serum lactate dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "Serum inhibin"
+        },
+        {
+          "label": "E",
+          "text": "Serum CA-125"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Yolk sac tumors secrete alpha-fetoprotein, which serves as the marker for monitoring response and recurrence.",
+        "whyCorrect": "This child has a yolk sac tumor: a rapidly growing single-ovary mass in a young patient with elevated AFP and Schiller-Duval bodies on histology. The yolk sac is the first fetal organ to secrete alpha-fetoprotein, and serum AFP levels are used to monitor treatment response and recurrence after surgery and cisplatin-based chemotherapy.",
+        "whyWrongByChoice": {
+          "B": "Beta-hCG monitors choriocarcinoma, a trophoblastic tumor, not yolk sac tumor.",
+          "C": "LDH is the marker followed in dysgerminoma.",
+          "D": "Inhibin is used to monitor granulosa cell tumor recurrence.",
+          "E": "CA-125 is described with fibromas and immature teratomas in this lecture, not as the surveillance marker for yolk sac tumors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "yolk-sac-tumor",
+        "afp",
+        "schiller-duval"
+      ],
+      "topicId": "ovarian-tumors-part-2-of-2",
+      "topicName": "Ovarian Tumors (Part 2 of 2)"
+    },
+    {
+      "id": "rp24-008",
+      "stem": "A 19-year-old woman who has never been pregnant presents with headache and dyspnea. Serum hCG is markedly elevated, but transvaginal ultrasound shows no intrauterine or ectopic pregnancy and instead reveals a solid right ovarian mass. Imaging identifies lesions in the lung and brain. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gestational choriocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Ovarian choriocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Dysgerminoma"
+        },
+        {
+          "label": "D",
+          "text": "Yolk sac tumor"
+        },
+        {
+          "label": "E",
+          "text": "Immature teratoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ovarian choriocarcinoma arises from unfertilized germ cells, secretes hCG, and metastasizes early to brain and lung.",
+        "whyCorrect": "Choriocarcinoma is a rare, highly malignant tumor of trophoblastic tissue that produces hCG and shows rapid progression with early metastases to distant sites including brain and lung. In a patient who has never been pregnant, the tumor must have arisen from unfertilized germ cells in the ovary, distinguishing it from gestational choriocarcinoma.",
+        "whyWrongByChoice": {
+          "A": "Gestational choriocarcinoma is a malignant sequela of a pregnancy, typically molar; this patient has never been pregnant.",
+          "C": "Dysgerminomas elevate LDH, not hCG, and metastasize mainly to peritoneum, bone, liver, lung, and regional nodes rather than presenting with marked hCG elevation.",
+          "D": "Yolk sac tumors secrete alpha-fetoprotein rather than hCG.",
+          "E": "Immature teratomas present with elevated CA-125 with or without AFP and immature tissue elements, not marked hCG elevation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "choriocarcinoma",
+        "hcg",
+        "germ-cell"
+      ],
+      "topicId": "ovarian-tumors-part-2-of-2",
+      "topicName": "Ovarian Tumors (Part 2 of 2)"
+    },
+    {
+      "id": "rp24-009",
+      "stem": "A 14-year-old girl presents with abdominal distension and pain. Imaging shows a solid and cystic ovarian mass, and serum CA-125 is elevated. Resection reveals a heterogeneous tumor with hemorrhagic foci; histology shows abundant immature neuroepithelial elements forming rosettes, and the tumor is classified as grade III. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conservative excision followed by surveillance alone"
+        },
+        {
+          "label": "B",
+          "text": "Surgery with staging followed by adjuvant chemotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Pelvic radiation therapy without further surgery"
+        },
+        {
+          "label": "D",
+          "text": "Hormonal therapy with serial serum marker monitoring"
+        },
+        {
+          "label": "E",
+          "text": "Observation with repeat imaging in six months"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Grade II and III immature teratomas require surgery, staging, and adjuvant chemotherapy.",
+        "whyCorrect": "This adolescent has an immature teratoma, a tumor of children and adolescents containing immature elements, most commonly neuroepithelium, cartilage, or gut epithelium. Management is based on grade and stage: grade I tumors are treated with conservative excision and surveillance, but grade II and III tumors are treated with surgery, staging, and adjuvant chemotherapy.",
+        "whyWrongByChoice": {
+          "A": "Excision with surveillance alone is appropriate only for grade I immature teratomas.",
+          "C": "Radiation alone is not the described management for immature teratomas of any grade.",
+          "D": "Hormonal therapy is mentioned for recurrent granulosa cell tumors, not for immature teratomas.",
+          "E": "Observation is inadequate for a grade III malignant tumor that requires adjuvant chemotherapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "immature-teratoma",
+        "grading",
+        "management"
+      ],
+      "topicId": "ovarian-tumors-part-2-of-2",
+      "topicName": "Ovarian Tumors (Part 2 of 2)"
+    },
+    {
+      "id": "rp24-010",
+      "stem": "A 54-year-old woman with a history of gastric adenocarcinoma treated 2 years ago presents with pelvic pressure. Imaging reveals bilateral solid ovarian masses, each 7 cm, with nodular surface growth. Histology shows an infiltrative tumor with stromal desmoplasia and abundant signet-ring cells. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Krukenberg tumor"
+        },
+        {
+          "label": "B",
+          "text": "Granulosa cell tumor"
+        },
+        {
+          "label": "C",
+          "text": "Fibroma"
+        },
+        {
+          "label": "D",
+          "text": "Mature cystic teratoma"
+        },
+        {
+          "label": "E",
+          "text": "Endometrioma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Krukenberg tumor is an ovarian metastasis, most commonly from gastric adenocarcinoma, with signet-ring cells.",
+        "whyCorrect": "Bilateral involvement, size under 10 cm, surface involvement with nodular growth, an infiltrative pattern with stromal desmoplasia, a signet-ring cell component, and a known non-ovarian primary are all features favoring metastatic disease. With a gastric primary, this is a Krukenberg tumor, one of the most important metastatic ovarian tumors.",
+        "whyWrongByChoice": {
+          "B": "Granulosa cell tumors are primary estrogen-secreting stromal tumors with Call-Exner bodies, not signet-ring cells.",
+          "C": "Fibromas are unilateral benign spindle cell tumors with a storiform pattern, not bilateral infiltrative masses.",
+          "D": "Mature teratomas are cystic tumors containing hair, teeth, or other recognizable tissues from multiple embryonic layers.",
+          "E": "Endometriomas are cystic structures formed by endometriosis on the ovary, not solid signet-ring cell tumors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "krukenberg",
+        "metastasis",
+        "signet-ring"
+      ],
+      "topicId": "ovarian-tumors-part-2-of-2",
+      "topicName": "Ovarian Tumors (Part 2 of 2)"
+    },
+    {
+      "id": "rp24-011",
+      "stem": "A pathologist is evaluating an 11-cm ovarian tumor and notes that tumors measuring 10-13 cm fall into an overlap zone that cannot be classified by size alone. Which of the following additional features would most strongly favor metastatic disease over a primary ovarian tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral ovarian involvement"
+        },
+        {
+          "label": "B",
+          "text": "Unilateral ovarian involvement"
+        },
+        {
+          "label": "C",
+          "text": "Tumor diameter greater than 13 cm"
+        },
+        {
+          "label": "D",
+          "text": "Absence of nodular growth"
+        },
+        {
+          "label": "E",
+          "text": "Prominent cyst formation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bilateral involvement favors metastatic disease, while unilateral involvement and large size favor a primary ovarian tumor.",
+        "whyCorrect": "Features favoring metastatic disease include bilateral involvement, size under 10 cm, surface or superficial cortical involvement, nodular growth, an infiltrative pattern with stromal desmoplasia, a signet-ring cell component, hilar or lymph-vascular invasion, and a known non-ovarian primary. None of these is pathognomonic, but bilaterality is the metastatic-favoring feature among the options.",
+        "whyWrongByChoice": {
+          "B": "Unilateral involvement favors a primary ovarian tumor.",
+          "C": "Tumors larger than 13 cm are more likely primary ovarian tumors.",
+          "D": "Absence of nodularity favors a primary ovarian tumor; nodular growth is the metastatic-favoring pattern.",
+          "E": "Cyst formation is a feature shared by both primary and metastatic lesions, so it does not discriminate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "metastasis",
+        "primary-vs-metastatic",
+        "pathology"
+      ],
+      "topicId": "ovarian-tumors-part-2-of-2",
+      "topicName": "Ovarian Tumors (Part 2 of 2)"
+    },
+    {
+      "id": "rp24-012",
+      "stem": "A 35-year-old woman presents with gradual coarsening of body hair and clitoral enlargement. Imaging shows mildly enlarged ovaries without a discrete mass. Pathology after oophorectomy demonstrates diffuse replacement of normal ovarian tissue by a proliferation of luteinized stromal cells. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hyperthecosis"
+        },
+        {
+          "label": "B",
+          "text": "Sertoli-Leydig cell tumor"
+        },
+        {
+          "label": "C",
+          "text": "Thecoma"
+        },
+        {
+          "label": "D",
+          "text": "Fibroma"
+        },
+        {
+          "label": "E",
+          "text": "Granulosa cell tumor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hyperthecosis is diffuse luteinized stromal proliferation with excess androgen production causing virilization.",
+        "whyCorrect": "Hyperthecosis occurs when normal ovarian tissue is replaced by a proliferation of luteinized stromal cells, producing excess androgen. As with Sertoli-Leydig cell tumors, virilization such as body hair growth and clitoral enlargement can occur. The diffuse stromal process without a discrete tumor mass distinguishes it here; luteoma of pregnancy is a rare variant of this condition.",
+        "whyWrongByChoice": {
+          "B": "Sertoli-Leydig cell tumors also virilize but form a discrete mass containing Sertoli tubules and Leydig cells.",
+          "C": "Thecomas are discrete estrogen-producing tumors associated with abnormal bleeding, not diffuse androgenic stromal change.",
+          "D": "Fibromas are hormonally inactive spindle cell tumors and would not cause virilization.",
+          "E": "Granulosa cell tumors overproduce estrogen, causing bleeding or precocious puberty rather than virilization."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hyperthecosis",
+        "virilization",
+        "androgen"
+      ],
+      "topicId": "ovarian-tumors-part-2-of-2",
+      "topicName": "Ovarian Tumors (Part 2 of 2)"
+    }
+  ]
+}

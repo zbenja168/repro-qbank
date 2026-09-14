@@ -1,0 +1,2776 @@
+{
+  "categoryId": "repro-health-endocrine",
+  "categoryName": "Reproductive Health & Hormone Disorders",
+  "questions": [
+    {
+      "id": "rp15-001",
+      "stem": "A 24-year-old woman begins taking a combined oral contraceptive pill. Two months later, mid-cycle ultrasonography shows no dominant ovarian follicle, and serum studies show no mid-cycle luteinizing hormone surge. Which of the following actions of the estrogen component best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Negative feedback suppression of follicle-stimulating hormone release"
+        },
+        {
+          "label": "B",
+          "text": "Direct blockade of luteinizing hormone receptors on the ovary"
+        },
+        {
+          "label": "C",
+          "text": "Thickening of cervical mucus to block sperm penetration"
+        },
+        {
+          "label": "D",
+          "text": "Thinning of the endometrium to prevent implantation"
+        },
+        {
+          "label": "E",
+          "text": "Increased pulsatile release of gonadotropin-releasing hormone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Estrogen in combined OCPs prevents ovulation by suppressing FSH, which blocks follicular development and therefore the LH surge.",
+        "whyCorrect": "The most important mechanism of the estrogen component is negative feedback suppression of FSH, preventing the follicle development that normally follows the FSH rise around day 3-4 of the cycle. With no growing follicle, there is no ovulatory LH surge on day 12-13, and even an LH surge would have no effect without a mature follicle.",
+        "whyWrongByChoice": {
+          "B": "Estrogen works by feedback suppression of gonadotropin release, not by blocking ovarian LH receptors; the LH surge is absent because no follicle develops.",
+          "C": "Cervical mucus thickening is an action of the progestin component, and it would not abolish follicle growth or the LH surge.",
+          "D": "Endometrial thinning is a progestin effect that prevents implantation; it does not explain absent follicular development.",
+          "E": "Hormonal contraception suppresses, rather than increases, gonadotropin drive; increased GnRH pulsatility would promote, not prevent, follicle growth."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "combined-OCP",
+        "mechanism",
+        "FSH",
+        "ovulation"
+      ],
+      "topicId": "contraception",
+      "topicName": "Contraception"
+    },
+    {
+      "id": "rp15-002",
+      "stem": "A 37-year-old woman who smokes one pack of cigarettes daily requests contraception. She has no other medical problems, and her blood pressure is normal. She says she often forgets daily medications. Which of the following is the most appropriate contraceptive method for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Combined estrogen-progestin oral contraceptive pills"
+        },
+        {
+          "label": "B",
+          "text": "Combined estrogen-progestin transdermal patch"
+        },
+        {
+          "label": "C",
+          "text": "Combined estrogen-progestin vaginal ring"
+        },
+        {
+          "label": "D",
+          "text": "Progestin-containing subdermal implant"
+        },
+        {
+          "label": "E",
+          "text": "Extended-cycle combined oral contraceptive pills"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Smokers older than 35 should not receive estrogen-containing contraception; a progestin-only long-acting method fits both her risk profile and her adherence needs.",
+        "whyCorrect": "Estrogen increases coagulability, and smokers older than 35 years are at increased risk of clots, so combined methods should not be prescribed for them. The progestin subdermal implant avoids estrogen entirely, requires no daily action for 5 years, and has a pregnancy rate of 0.05%.",
+        "whyWrongByChoice": {
+          "A": "Combined pills contain estrogen, which should not be prescribed to smokers older than 35 because of clotting risk, and daily pills poorly suit a forgetful patient.",
+          "B": "The patch delivers combined estrogen-progestin, carrying the same estrogen clotting concern in a smoker older than 35.",
+          "C": "The vaginal ring is also a combined estrogen-progestin method and is inappropriate for this smoker over 35.",
+          "E": "Extended-cycle pills change the placebo schedule but still contain estrogen and still demand daily adherence."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "smoking",
+        "thrombosis-risk",
+        "progestin-only",
+        "implant"
+      ],
+      "topicId": "contraception",
+      "topicName": "Contraception"
+    },
+    {
+      "id": "rp15-003",
+      "stem": "A 29-year-old woman requests combined oral contraceptive pills. Which of the following findings in her history is an absolute contraindication to prescribing them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Migraine headaches preceded by a visual aura"
+        },
+        {
+          "label": "B",
+          "text": "Gallbladder disease with prior biliary colic"
+        },
+        {
+          "label": "C",
+          "text": "Hypertension that is well controlled on medication"
+        },
+        {
+          "label": "D",
+          "text": "Smoking five cigarettes daily at her current age"
+        },
+        {
+          "label": "E",
+          "text": "Maternal age older than 45 years at her own birth"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Migraine with aura is an absolute contraindication to combined oral contraceptives.",
+        "whyCorrect": "Absolute contraindications to combined OCPs include migraine with aura, along with pregnancy, thromboembolic disorders, coronary artery disease or stroke, uncontrolled hypertension, breast cancer or other hormone-dependent neoplasms, and liver tumors.",
+        "whyWrongByChoice": {
+          "B": "Gallbladder disease is a relative, not absolute, contraindication; estrogen and progesterone increase the risk of gallstones.",
+          "C": "Uncontrolled hypertension is the absolute contraindication; hypertension in general is listed as relative.",
+          "D": "Smoking is a relative contraindication, reflecting increased clotting risk after age 35; she is 29.",
+          "E": "The relative contraindication concerns the patient herself being older than 45 years, not her mother's age."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "migraine-with-aura",
+        "combined-OCP"
+      ],
+      "topicId": "contraception",
+      "topicName": "Contraception"
+    },
+    {
+      "id": "rp15-004",
+      "stem": "A 38-year-old woman is found to have a hepatocellular adenoma on abdominal imaging performed for another reason. Which of the following elements of her history most likely contributed to development of this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Use of estrogen-containing oral contraceptives for 8 years"
+        },
+        {
+          "label": "B",
+          "text": "Use of a copper intrauterine device for 8 years"
+        },
+        {
+          "label": "C",
+          "text": "Depot medroxyprogesterone injections for 2 years"
+        },
+        {
+          "label": "D",
+          "text": "A single dose of levonorgestrel emergency contraception"
+        },
+        {
+          "label": "E",
+          "text": "Use of a progestin-only minipill for 1 year"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Long-term use of estrogen-containing OCPs increases the risk of hepatocellular adenoma.",
+        "whyCorrect": "The risk of hepatocellular adenoma (benign liver tumor) is increased in women using estrogen-containing oral contraceptives, and the risk rises with long-term use of more than 5 years. About 4% of these tumors become malignant.",
+        "whyWrongByChoice": {
+          "B": "The copper IUD is nonhormonal, acting locally through sperm-toxic copper ions, and is not linked to hepatic adenomas.",
+          "C": "The adenoma risk is tied to estrogen-containing contraceptives; medroxyprogesterone is a progestin-only injection.",
+          "D": "A single dose of a progestin emergency contraceptive is not the described long-term estrogen exposure that drives adenoma risk.",
+          "E": "The minipill contains progestin only; the lesion is associated with estrogen-containing pills used long term."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hepatocellular-adenoma",
+        "estrogen",
+        "adverse-effects"
+      ],
+      "topicId": "contraception",
+      "topicName": "Contraception"
+    },
+    {
+      "id": "rp15-005",
+      "stem": "A 27-year-old woman is 3 months postpartum and exclusively breastfeeding; lactation is well established. She requests an oral contraceptive, and a progestin-only pill is recommended rather than a combined pill. Which of the following is the best rationale for this recommendation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estrogen can interfere with milk supply and increase postpartum thrombosis risk"
+        },
+        {
+          "label": "B",
+          "text": "Progestins stimulate prolactin secretion and thereby augment milk production"
+        },
+        {
+          "label": "C",
+          "text": "Combined pills lose contraceptive efficacy in lactating patients"
+        },
+        {
+          "label": "D",
+          "text": "Progestin-only pills additionally protect against sexually transmitted infections"
+        },
+        {
+          "label": "E",
+          "text": "Estrogen in breast milk causes virilization of the nursing infant"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Progestin-only methods are preferred during breastfeeding because estrogen can reduce milk supply and raise postpartum thrombosis risk.",
+        "whyCorrect": "Combined methods are avoided in breastfeeding women because estrogen can interfere with milk supply and increase the risk of postpartum thrombosis. Because progesterone blocks prolactin's stimulation of milk synthesis, even progestin-only hormonal contraception should begin only after lactation is well established, as it is here.",
+        "whyWrongByChoice": {
+          "B": "Progesterone blocks, rather than stimulates, the effect of prolactin on milk synthesis, which is why hormonal methods wait until lactation is established.",
+          "C": "The concern with combined pills in lactation is milk supply and clot risk, not a loss of contraceptive efficacy.",
+          "D": "No hormonal pill protects against sexually transmitted infections; condoms provide STI protection.",
+          "E": "Infant virilization from estrogen in breast milk is not the described concern; the issues are maternal milk supply and thrombosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "breastfeeding",
+        "progestin-only",
+        "postpartum"
+      ],
+      "topicId": "contraception",
+      "topicName": "Contraception"
+    },
+    {
+      "id": "rp15-006",
+      "stem": "A 25-year-old woman uses a traditional progestin-only minipill. During the middle of her cycle, she takes her pill 5 hours later than her usual time and has intercourse that evening. Her increased risk of contraceptive failure is best explained by loss of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thickened cervical mucus, the pill's primary mechanism of action"
+        },
+        {
+          "label": "B",
+          "text": "Suppression of FSH by the pill's estrogen component"
+        },
+        {
+          "label": "C",
+          "text": "Reliable ovulation suppression, the pill's primary mechanism of action"
+        },
+        {
+          "label": "D",
+          "text": "Local copper-mediated toxicity to sperm within the uterus"
+        },
+        {
+          "label": "E",
+          "text": "Prolactin-mediated suppression of gonadotropin-releasing hormone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The traditional minipill works mainly by thickening cervical mucus, so even a 4-6 hour dosing delay mid-cycle can cause contraceptive failure.",
+        "whyCorrect": "Because the traditional minipill's primary mechanism is thickening cervical mucus rather than preventing ovulation, strict adherence to dosing time is critical. Taking the pill even 4-6 hours late in the middle of a cycle can allow the mucus barrier to lapse and result in contraceptive failure.",
+        "whyWrongByChoice": {
+          "B": "The minipill contains no estrogen, so FSH suppression by estrogen is not part of its action.",
+          "C": "The traditional minipill does not reliably stop ovulation; among progestin-only options, the implant, injection, and Slynd do.",
+          "D": "Copper-mediated sperm toxicity is the mechanism of the copper IUD, not of any pill.",
+          "E": "Prolactin-mediated GnRH suppression is the mechanism of lactational amenorrhea, not of the minipill."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "minipill",
+        "cervical-mucus",
+        "adherence"
+      ],
+      "topicId": "contraception",
+      "topicName": "Contraception"
+    },
+    {
+      "id": "rp15-007",
+      "stem": "A 26-year-old woman becomes pregnant while prescribed combined oral contraceptive pills. Her physician notes that although this method is more than 99% effective in theory, its actual efficacy is closer to 91%. Which of the following most likely explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pills that were missed or taken at the wrong time"
+        },
+        {
+          "label": "B",
+          "text": "Variability in hormone content between pill batches"
+        },
+        {
+          "label": "C",
+          "text": "Development of tolerance to the hormones over time"
+        },
+        {
+          "label": "D",
+          "text": "Inherited resistance to progestin at its receptor"
+        },
+        {
+          "label": "E",
+          "text": "Neutralization of the hormones by vaginal secretions"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The gap between theoretical (>99%) and actual (~91%) OCP efficacy comes from user error, chiefly missed or mistimed pills.",
+        "whyCorrect": "Theoretical efficacy describes perfect use, while actual efficacy reflects typical use with user error. For oral contraceptives the gap arises because patients forget one or more pills in a package or take pills at the wrong time; methods requiring no user action, like the IUD and implant, have nearly identical theoretical and actual efficacy.",
+        "whyWrongByChoice": {
+          "B": "Manufacturing variability is not the described cause; the efficacy gap is attributed to how patients use the method.",
+          "C": "Hormone tolerance is not a described phenomenon with OCPs; adherence failures explain typical-use pregnancies.",
+          "D": "Receptor-level progestin resistance is not the explanation given for real-world failures.",
+          "E": "Oral pills act systemically after ingestion; vaginal secretions do not neutralize them."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "theoretical-vs-actual-efficacy",
+        "adherence",
+        "OCP"
+      ],
+      "topicId": "contraception",
+      "topicName": "Contraception"
+    },
+    {
+      "id": "rp15-008",
+      "stem": "A 21-year-old college student with a busy schedule requests contraception. She wants a reversible method, doubts she could remember a daily pill, and asks for the option with the lowest pregnancy rate. Which of the following methods best meets her request?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Progesterone subdermal implant"
+        },
+        {
+          "label": "B",
+          "text": "Combined oral contraceptive pills"
+        },
+        {
+          "label": "C",
+          "text": "Combined estrogen-progestin patch"
+        },
+        {
+          "label": "D",
+          "text": "Diaphragm used with spermicide"
+        },
+        {
+          "label": "E",
+          "text": "Male condom with each act of intercourse"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The subdermal implant is the most effective reversible method, with a 0.05% pregnancy rate and no daily user action.",
+        "whyCorrect": "The progesterone subdermal implant has the lowest pregnancy rate of any method (0.05%), is reversible, and lasts up to 5 years. Because a provider places it and no patient action is required, its theoretical and actual efficacy are nearly identical, unlike user-dependent methods.",
+        "whyWrongByChoice": {
+          "B": "Oral pills have a 9% typical-use pregnancy rate and require exactly the daily adherence she doubts she can maintain.",
+          "C": "The patch also carries a 9% pregnancy rate and requires weekly changes, far less effective than the implant.",
+          "D": "The diaphragm has a 12% pregnancy rate, must be used with spermicide, and depends on correct use each time.",
+          "E": "Condoms have an 18% pregnancy rate; they add STI protection but are not the most effective method."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "LARC",
+        "implant",
+        "efficacy",
+        "counseling"
+      ],
+      "topicId": "contraception",
+      "topicName": "Contraception"
+    },
+    {
+      "id": "rp15-009",
+      "stem": "A 27-year-old woman requests long-acting contraception but wants to avoid all hormonal methods. A copper-containing intrauterine device is placed. Which of the following best describes the mechanism by which this device prevents pregnancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Copper ions create a local inflammatory, sperm-toxic environment that impairs sperm motility"
+        },
+        {
+          "label": "B",
+          "text": "Locally released hormone thickens cervical mucus at the internal os"
+        },
+        {
+          "label": "C",
+          "text": "Systemic absorption of copper suppresses the mid-cycle LH surge"
+        },
+        {
+          "label": "D",
+          "text": "The device mechanically seals the cervix so sperm cannot enter the uterus"
+        },
+        {
+          "label": "E",
+          "text": "Copper ions suppress ovarian follicular development directly"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The copper IUD prevents fertilization through a local inflammatory, sperm-toxic uterine environment without suppressing ovulation.",
+        "whyCorrect": "Copper ions create a local inflammatory, sperm-toxic uterine environment that impairs sperm motility and transport, preventing fertilization. It is the only nonhormonal contraceptive device, works without suppressing ovulation, and lasts 10 years.",
+        "whyWrongByChoice": {
+          "B": "The copper IUD releases no hormone; cervical mucus thickening is the action of progestin-containing methods.",
+          "C": "The device acts locally within the uterus; it does not work by systemic suppression of the LH surge.",
+          "D": "Sealing the cervix describes barrier devices like the cervical cap or diaphragm, not the IUD.",
+          "E": "Ovulation is not suppressed by the copper IUD; follicular development continues normally."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "copper-IUD",
+        "nonhormonal",
+        "mechanism"
+      ],
+      "topicId": "contraception",
+      "topicName": "Contraception"
+    },
+    {
+      "id": "rp15-010",
+      "stem": "A 22-year-old woman had unprotected intercourse 4 days ago and has not yet ovulated this cycle. She requests emergency contraception. Which of the following is the most appropriate option at this time?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ulipristal acetate emergency contraceptive pill"
+        },
+        {
+          "label": "B",
+          "text": "Levonorgestrel emergency contraceptive pill"
+        },
+        {
+          "label": "C",
+          "text": "Starting a daily combined oral contraceptive pack"
+        },
+        {
+          "label": "D",
+          "text": "Depot medroxyprogesterone intramuscular injection"
+        },
+        {
+          "label": "E",
+          "text": "Beginning a fertility awareness-based method"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ulipristal acetate can be used up to 5 days after unprotected intercourse, whereas levonorgestrel is limited to 3 days.",
+        "whyCorrect": "Emergency contraception prevents or delays ovulation when used before ovulation, and it can work for up to 5 days after unprotected intercourse. At 4 days, ulipristal acetate (Ella), which is effective up to 5 days but requires a prescription, is the appropriate choice.",
+        "whyWrongByChoice": {
+          "B": "Levonorgestrel (Plan B) can be used up to 3 days after unprotected sex, and its efficacy falls steeply with time; the window has passed at 4 days.",
+          "C": "Daily combined pills are routine contraception going forward; they are not a method of emergency contraception after intercourse.",
+          "D": "The medroxyprogesterone injection is a routine every-12-weeks contraceptive, not an emergency method for intercourse that already occurred.",
+          "E": "Fertility awareness prevents future exposures by identifying fertile days; it cannot reduce risk from intercourse 4 days ago."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "emergency-contraception",
+        "ulipristal",
+        "levonorgestrel"
+      ],
+      "topicId": "contraception",
+      "topicName": "Contraception"
+    },
+    {
+      "id": "rp15-011",
+      "stem": "A 24-year-old woman is 2 months postpartum, breastfeeds exclusively at least every 4 hours, and has had no return of menses. She has not used any contraceptive method yet has not become pregnant despite regular intercourse. Which of the following best explains her current protection from pregnancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prolactin and the suckling stimulus suppress gonadotropin-releasing hormone release"
+        },
+        {
+          "label": "B",
+          "text": "Prolactin acts directly on the ovary to destroy developing follicles"
+        },
+        {
+          "label": "C",
+          "text": "High postpartum progesterone keeps cervical mucus impenetrable to sperm"
+        },
+        {
+          "label": "D",
+          "text": "Persistent uterine inflammation after delivery prevents implantation"
+        },
+        {
+          "label": "E",
+          "text": "Elevated postpartum estrogen suppresses follicle-stimulating hormone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lactational amenorrhea works because prolactin and the suckling stimulus both suppress GnRH release, preventing ovulation.",
+        "whyCorrect": "Breastfeeding can be an effective contraceptive within the first 6 months after delivery when nursing is exclusive and occurs at least every 4 hours. Both the prolactin stimulated by suckling and the suckling stimulus itself suppress GnRH release, which prevents ovulation; once menses return, another method is needed.",
+        "whyWrongByChoice": {
+          "B": "Prolactin's contraceptive effect is central suppression of GnRH, not direct destruction of ovarian follicles.",
+          "C": "The lactational mechanism is prevention of ovulation via GnRH suppression, not a cervical mucus barrier.",
+          "D": "Postpartum uterine inflammation blocking implantation is not the described mechanism of lactational contraception.",
+          "E": "The effect is driven by prolactin and suckling suppressing GnRH, not by elevated estrogen suppressing FSH."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "lactational-amenorrhea",
+        "prolactin",
+        "GnRH"
+      ],
+      "topicId": "contraception",
+      "topicName": "Contraception"
+    },
+    {
+      "id": "rp15-012",
+      "stem": "A 30-year-old woman has taken combined oral contraceptive pills for 9 years. During counseling, her physician notes that long-term use of these pills is associated with a reduced risk of ovarian cancer. Which of the following mechanisms most likely underlies this protective effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A decreased number of ovulatory cycles over time"
+        },
+        {
+          "label": "B",
+          "text": "Progressive thinning of the endometrial lining"
+        },
+        {
+          "label": "C",
+          "text": "Reduced proliferation of hormone-responsive breast tissue"
+        },
+        {
+          "label": "D",
+          "text": "Chronic thickening of the cervical mucus barrier"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of hepatic adenoma formation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Long-term combined OCP use lowers ovarian cancer risk, probably because of decreased ovulation.",
+        "whyCorrect": "Long-term use of combined oral contraceptives is associated with a reduced risk of ovarian cancer, probably due to decreased ovulation, since the pills suppress follicular development and the ovulatory LH surge cycle after cycle.",
+        "whyWrongByChoice": {
+          "B": "Endometrial thinning is the mechanism proposed for the lower rate of endometrial cancer, a different protective effect.",
+          "C": "OCPs can increase proliferation of hormone-responsive tissue and may accelerate growth of existing breast cancers; this is not an ovarian protective mechanism.",
+          "D": "Cervical mucus thickening is a contraceptive mechanism; it has no bearing on ovarian cancer risk.",
+          "E": "Estrogen-containing pills increase, not suppress, hepatocellular adenoma risk, and that has no protective link to the ovary."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ovarian-cancer",
+        "OCP-benefits",
+        "ovulation"
+      ],
+      "topicId": "contraception",
+      "topicName": "Contraception"
+    },
+    {
+      "id": "rp16-001",
+      "stem": "A 26-year-old woman comes to the office for her postpartum visit 6 weeks after an uncomplicated vaginal delivery of a healthy term infant. She and her husband would like more children and ask how long they should wait before conceiving again. Which of the following intervals from this delivery to conception of the next pregnancy is associated with the lowest risk of preterm birth, low birthweight, and small-for-gestational-age birth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Less than 6 months"
+        },
+        {
+          "label": "B",
+          "text": "6 to 11 months"
+        },
+        {
+          "label": "C",
+          "text": "12 to 17 months"
+        },
+        {
+          "label": "D",
+          "text": "18 to 23 months"
+        },
+        {
+          "label": "E",
+          "text": "36 months or longer"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An interpregnancy interval of 18-23 months appears optimal for minimizing adverse neonatal outcomes.",
+        "whyCorrect": "The interpregnancy interval is a modifiable risk factor that should be addressed in prenatal and postpartum counseling. Intervals of 18-23 months are associated with the lowest risk of preterm birth, low birthweight, and small-for-gestational-age birth.",
+        "whyWrongByChoice": {
+          "A": "Intervals shorter than 6 months should be avoided because they increase the odds of preterm birth, low birthweight, and small-for-gestational-age birth.",
+          "B": "Patients should be counseled about the risks and benefits of repeat pregnancy sooner than 18 months; this interval is not the stated optimum.",
+          "C": "This interval is still shorter than 18 months, the threshold below which counseling about added risk is recommended.",
+          "E": "Very long intervals are not identified as the optimal window; 18-23 months is the interval described as minimizing risk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "family planning",
+        "interpregnancy interval",
+        "counseling"
+      ],
+      "topicId": "family-planning-preconception-care-and-infertility",
+      "topicName": "Family Planning, Preconception Care and Infertility"
+    },
+    {
+      "id": "rp16-002",
+      "stem": "A 24-year-old woman comes to the office for an annual health maintenance visit. As part of routine screening, the physician asks, \"Would you like to become pregnant in the next year?\" The patient pauses and says she honestly is not sure. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Discuss her goals, priorities, resources, and values"
+        },
+        {
+          "label": "B",
+          "text": "Begin preconception screening for modifiable risk factors"
+        },
+        {
+          "label": "C",
+          "text": "Prescribe a combined oral contraceptive today"
+        },
+        {
+          "label": "D",
+          "text": "Defer the topic until she has made a decision"
+        },
+        {
+          "label": "E",
+          "text": "Schedule placement of a subdermal contraceptive implant"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Patients who are unsure about pregnancy intention warrant further discussion of their goals, priorities, resources, and values.",
+        "whyCorrect": "Pregnancy intention screening tailors counseling to the response: \"yes\" leads to preconception counseling, \"no\" leads to an offer of contraceptive options, and an unsure answer calls for further exploration of the patient's goals, priorities, resources, and values.",
+        "whyWrongByChoice": {
+          "B": "Preconception counseling and screening for modifiable risk factors is the pathway for patients who answer \"yes,\" not for those who are undecided.",
+          "C": "Offering evidence-based contraception is the response for patients who answer \"no\"; prescribing before exploring her goals skips the indicated discussion.",
+          "D": "Deferring misses the opportunity this screening is designed to create; the unsure response itself is the trigger for further discussion now.",
+          "E": "Committing her to a long-acting method presumes she does not want pregnancy, which she has not said; her goals should be clarified first."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pregnancy intention screening",
+        "counseling",
+        "family planning"
+      ],
+      "topicId": "family-planning-preconception-care-and-infertility",
+      "topicName": "Family Planning, Preconception Care and Infertility"
+    },
+    {
+      "id": "rp16-003",
+      "stem": "A 19-year-old nulliparous college student comes to the clinic requesting contraception. She wants the most effective reversible method available but says a friend told her that intrauterine and implanted devices are only for women who have already had children. She has no chronic medical conditions. Which of the following is the most appropriate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Long-acting reversible contraceptives are suitable for her and have a failure rate below 1% per year"
+        },
+        {
+          "label": "B",
+          "text": "Combined oral contraceptive pills are the most effective reversible option available to her"
+        },
+        {
+          "label": "C",
+          "text": "Barrier methods offer efficacy equivalent to intrauterine devices when used consistently"
+        },
+        {
+          "label": "D",
+          "text": "Her friend is correct, so depot medroxyprogesterone injections are her best option"
+        },
+        {
+          "label": "E",
+          "text": "Permanent sterilization is the only method with a failure rate below 1% per year"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "LARCs are Tier I methods with a failure rate under 1% per year and are appropriate for nulliparous women and adolescents.",
+        "whyCorrect": "Long-acting reversible contraceptives, including IUDs and subdermal implants, are recommended for their high efficacy and convenience and are suitable for most females, explicitly including nulliparous females and adolescents. They sit in Tier I with a failure rate of less than 1% per year.",
+        "whyWrongByChoice": {
+          "B": "Combined hormonal contraceptives are Tier II methods with a 6-12% failure rate per year, less effective than LARCs.",
+          "C": "Barrier methods are Tier III, with an 18-28% failure rate per year, far below IUD effectiveness.",
+          "D": "The friend's claim is incorrect; LARCs are suitable for nulliparous women, and depot medroxyprogesterone is a Tier II method.",
+          "E": "LARCs share Tier I status with permanent sterilization, and unlike sterilization they are reversible, which matches her request."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "contraception",
+        "LARC",
+        "contraceptive effectiveness tiers"
+      ],
+      "topicId": "family-planning-preconception-care-and-infertility",
+      "topicName": "Family Planning, Preconception Care and Infertility"
+    },
+    {
+      "id": "rp16-004",
+      "stem": "A 31-year-old woman comes to the clinic requesting the combined estrogen-progestin oral contraceptive pill that her sister uses. Her history is notable for occasional wine with dinner, a BMI of 32 kg/m2, chlamydia treated 3 years ago, and recurrent headaches preceded by 20 minutes of shimmering zigzag lines in her vision. She has never been pregnant. Which of the following features of her history contraindicates the requested method?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Headaches preceded by visual aura"
+        },
+        {
+          "label": "B",
+          "text": "Body mass index of 32 kg/m2"
+        },
+        {
+          "label": "C",
+          "text": "Previously treated chlamydia infection"
+        },
+        {
+          "label": "D",
+          "text": "Occasional alcohol consumption"
+        },
+        {
+          "label": "E",
+          "text": "Nulliparity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Migraine with aura contraindicates estrogen-containing combined hormonal contraceptives.",
+        "whyCorrect": "Combined hormonal contraceptives containing estrogen are contraindicated in females with certain conditions, including migraine with aura, uncontrolled hypertension, a history of venous thromboembolism, and active liver disease. Her stereotyped visual aura preceding headaches places her in this group.",
+        "whyWrongByChoice": {
+          "B": "Elevated BMI is a target for preconception weight counseling but is not listed among the contraindications to estrogen-containing contraception.",
+          "C": "A remote, treated sexually transmitted infection is relevant to STI screening, not to eligibility for combined hormonal methods.",
+          "D": "Occasional alcohol use is a lifestyle factor addressed in preconception counseling; it does not contraindicate combined contraceptives.",
+          "E": "Nulliparity does not restrict contraceptive choice; even LARCs are suitable for nulliparous females."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraception",
+        "combined hormonal contraceptives",
+        "contraindications"
+      ],
+      "topicId": "family-planning-preconception-care-and-infertility",
+      "topicName": "Family Planning, Preconception Care and Infertility"
+    },
+    {
+      "id": "rp16-005",
+      "stem": "A 27-year-old woman comes to the office for a preconception visit. She and her partner plan to begin trying to conceive soon. Prenatal laboratory screening shows she is nonimmune to rubella. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer MMR today and advise avoiding pregnancy for at least 1 month"
+        },
+        {
+          "label": "B",
+          "text": "Administer MMR today and advise that she may begin trying to conceive immediately"
+        },
+        {
+          "label": "C",
+          "text": "Defer MMR until the second trimester of the anticipated pregnancy"
+        },
+        {
+          "label": "D",
+          "text": "Defer MMR until the postpartum period after her next delivery"
+        },
+        {
+          "label": "E",
+          "text": "Administer MMR today and advise avoiding pregnancy for at least 12 months"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Live attenuated vaccines such as MMR should be given preconceptionally, with pregnancy avoided for at least 1 month afterward.",
+        "whyCorrect": "Live attenuated vaccines, including MMR and varicella, are contraindicated during pregnancy because of the theoretical risk of fetal infection and should be administered before conception. It is recommended to avoid pregnancy for at least 1 month after vaccination; ACIP specifies 28 days after each dose of a live vaccine.",
+        "whyWrongByChoice": {
+          "B": "Conceiving immediately ignores the recommended waiting period of at least 1 month (28 days) after a live vaccine.",
+          "C": "MMR is a live attenuated vaccine and is contraindicated at any point during pregnancy.",
+          "D": "Waiting until postpartum leaves her nonimmune through the pregnancy; the vaccine should be given preconceptionally at this visit.",
+          "E": "A 12-month delay far exceeds the recommended interval; only about 1 month of pregnancy avoidance is advised after MMR."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunizations",
+        "preconception care",
+        "live attenuated vaccines"
+      ],
+      "topicId": "family-planning-preconception-care-and-infertility",
+      "topicName": "Family Planning, Preconception Care and Infertility"
+    },
+    {
+      "id": "rp16-006",
+      "stem": "A 30-year-old woman comes to the office because she and her husband plan to begin trying to conceive in 3 months. She asks whether she should take any supplements beforehand. Which of the following regimens is most appropriate to reduce the risk of neural tube defects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folic acid 400-800 mcg daily, beginning at least 1 month before conception"
+        },
+        {
+          "label": "B",
+          "text": "Folic acid 400-800 mcg daily, beginning after the first positive pregnancy test"
+        },
+        {
+          "label": "C",
+          "text": "Folic acid 400-800 mcg daily, beginning in the second trimester"
+        },
+        {
+          "label": "D",
+          "text": "Folic acid 40 mcg daily, beginning at least 1 month before conception"
+        },
+        {
+          "label": "E",
+          "text": "Folic acid 400-800 mcg once weekly, beginning at least 1 month before conception"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Folic acid 400-800 mcg daily, started at least 1 month before conception and continued through early pregnancy, reduces neural tube defect risk.",
+        "whyCorrect": "Nutritional optimization is a core component of preconception care, and folic acid supplementation of 400-800 mcg daily started at least one month before conception and continued through early pregnancy significantly reduces the risk of neural tube defects.",
+        "whyWrongByChoice": {
+          "B": "Starting only after a positive test misses the preconception month of supplementation that the recommendation specifies.",
+          "C": "The protective window is preconception through early pregnancy; the second trimester is too late to start.",
+          "D": "40 mcg is one-tenth of the lower end of the recommended 400-800 mcg daily dose.",
+          "E": "The recommended dosing is daily, not weekly."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "folic acid",
+        "preconception care",
+        "nutrition"
+      ],
+      "topicId": "family-planning-preconception-care-and-infertility",
+      "topicName": "Family Planning, Preconception Care and Infertility"
+    },
+    {
+      "id": "rp16-007",
+      "stem": "A 28-year-old woman with epilepsy that has been well controlled on valproate for 4 years comes to the office because she plans to conceive in about 6 months. She takes no other medications. In addition to starting folic acid, which of the following is the most appropriate management of her antiepileptic therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Substitute a safer alternative antiepileptic before conception"
+        },
+        {
+          "label": "B",
+          "text": "Continue valproate unchanged because her seizures are controlled"
+        },
+        {
+          "label": "C",
+          "text": "Discontinue valproate now without a replacement agent"
+        },
+        {
+          "label": "D",
+          "text": "Continue valproate and switch only after pregnancy is confirmed"
+        },
+        {
+          "label": "E",
+          "text": "Reduce the valproate dose by half once she conceives"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Potentially teratogenic medications such as valproate should be identified and substituted with safer alternatives before conception.",
+        "whyCorrect": "Comprehensive medication review is essential in preconception care to identify and modify potentially teratogenic medications. Certain antiepileptic drugs such as valproate may need to be substituted with safer alternatives before conception, making a planned preconception switch the correct strategy.",
+        "whyWrongByChoice": {
+          "B": "Seizure control does not remove the teratogenic risk; the point of the preconception visit is to modify such medications ahead of pregnancy.",
+          "C": "Stopping her antiepileptic without a replacement leaves her epilepsy untreated; the recommendation is substitution, not abrupt discontinuation.",
+          "D": "Waiting until pregnancy is confirmed exposes the early embryo to the teratogen during the window preconception care is designed to protect.",
+          "E": "Halving the dose after conception is not a described strategy; the medication should be replaced before conception."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "teratogens",
+        "medication review",
+        "preconception care"
+      ],
+      "topicId": "family-planning-preconception-care-and-infertility",
+      "topicName": "Family Planning, Preconception Care and Infertility"
+    },
+    {
+      "id": "rp16-008",
+      "stem": "A primary care practice is designing a protocol for intimate partner violence screening at preconception visits. Which of the following elements is most appropriate to include?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Informing patients of mandatory state reporting requirements before screening"
+        },
+        {
+          "label": "B",
+          "text": "Restricting screening to patients with visible signs of injury"
+        },
+        {
+          "label": "C",
+          "text": "Requiring physician interviews because questionnaires are unreliable"
+        },
+        {
+          "label": "D",
+          "text": "Prioritizing screening for patients of lower socioeconomic status"
+        },
+        {
+          "label": "E",
+          "text": "Promising absolute confidentiality regardless of what is disclosed"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Before IPV screening, clinicians must inform patients about mandatory reporting requirements under state law.",
+        "whyCorrect": "IPV screening should be framed as universal for all patients in the practice, using validated tools with adequate sensitivity and specificity. While privacy and confidentiality assurances matter, clinicians must inform patients about mandatory reporting requirements under state law before screening.",
+        "whyWrongByChoice": {
+          "B": "Screening should be universal at preconception counseling, not limited to patients with apparent injuries.",
+          "C": "Self-administered questionnaires are as effective as physician interviews for IPV screening.",
+          "D": "Psychosocial screening should be performed for all females seeking pregnancy evaluation regardless of social status, educational level, race, or ethnicity.",
+          "E": "Absolute confidentiality cannot be promised because state mandatory reporting laws may require disclosure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "intimate partner violence",
+        "psychosocial assessment",
+        "screening"
+      ],
+      "topicId": "family-planning-preconception-care-and-infertility",
+      "topicName": "Family Planning, Preconception Care and Infertility"
+    },
+    {
+      "id": "rp16-009",
+      "stem": "A 36-year-old woman and her 34-year-old husband come to the office because they have not conceived after 6 months of regular, unprotected intercourse. Her menstrual cycles occur every 28 days, and neither partner has a significant medical history. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Initiate infertility evaluation of both partners now"
+        },
+        {
+          "label": "B",
+          "text": "Reassure the couple and reassess after 12 total months of trying"
+        },
+        {
+          "label": "C",
+          "text": "Begin empiric letrozole without further evaluation"
+        },
+        {
+          "label": "D",
+          "text": "Refer the couple directly for in vitro fertilization"
+        },
+        {
+          "label": "E",
+          "text": "Evaluate the female partner only, since her age is the concern"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When the female partner is 35 or older, infertility evaluation should begin after 6 months rather than the standard 12 months.",
+        "whyCorrect": "Infertility is defined as failure to achieve pregnancy after 12 months of regular, unprotected intercourse, but evaluation is initiated earlier when the female partner is 35 years or older, when risk factors for infertility exist, or in nonheterosexual partnerships. At 36, this patient qualifies for evaluation after 6 months, and workup should include both partners.",
+        "whyWrongByChoice": {
+          "B": "Waiting for the 12-month definition applies to women younger than 35; her age moves the threshold to 6 months.",
+          "C": "Ovulation induction is first-line for anovulatory infertility, but she has regular cycles and no evaluation has established a cause.",
+          "D": "IVF is the most effective treatment, but jumping there before any evaluation skips the indicated workup of both partners.",
+          "E": "Male factor is one of the three most common identifiable causes of infertility, so a semen analysis for the husband belongs in the initial workup."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "infertility",
+        "evaluation timing",
+        "advanced maternal age"
+      ],
+      "topicId": "family-planning-preconception-care-and-infertility",
+      "topicName": "Family Planning, Preconception Care and Infertility"
+    },
+    {
+      "id": "rp16-010",
+      "stem": "A 33-year-old man is evaluated for infertility. Two semen analyses obtained one month apart both show a complete absence of sperm in the ejaculate. Physical examination shows normal testes and a palpable vas deferens bilaterally. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Genetic testing for Y chromosome microdeletion"
+        },
+        {
+          "label": "B",
+          "text": "Genetic testing for cystic fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "A third semen analysis in one month"
+        },
+        {
+          "label": "D",
+          "text": "Empiric exogenous testosterone therapy"
+        },
+        {
+          "label": "E",
+          "text": "Intrauterine insemination with his ejaculated sperm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Azoospermia is a critical semen analysis finding that warrants genetic testing for Y chromosome microdeletion.",
+        "whyCorrect": "Azoospermia, the complete absence of sperm in the ejaculate, warrants genetic testing for Y chromosome microdeletion. The finding has already been confirmed on two analyses obtained at least one month apart, satisfying the recommendation for repeat testing.",
+        "whyWrongByChoice": {
+          "B": "Cystic fibrosis testing is prompted by absence of the vas deferens on examination, which this patient does not have.",
+          "C": "Two analyses at least one month apart already confirm the finding; further repetition delays the indicated genetic workup.",
+          "D": "Exogenous testosterone is listed among medication exposures sought in the male infertility history as a contributor, not a treatment.",
+          "E": "IUI places washed, concentrated sperm in the uterus and cannot work when the ejaculate contains no sperm."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "male factor infertility",
+        "azoospermia",
+        "semen analysis"
+      ],
+      "topicId": "family-planning-preconception-care-and-infertility",
+      "topicName": "Family Planning, Preconception Care and Infertility"
+    },
+    {
+      "id": "rp16-011",
+      "stem": "A 25-year-old woman with anovulatory infertility is prescribed letrozole. Which of the following best describes the mechanism by which this medication promotes ovulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibits aromatase, decreasing estrogen synthesis and negative feedback"
+        },
+        {
+          "label": "B",
+          "text": "Antagonizes estrogen receptors in the hypothalamus and pituitary"
+        },
+        {
+          "label": "C",
+          "text": "Acts as a direct FSH analog on ovarian follicles"
+        },
+        {
+          "label": "D",
+          "text": "Enhances estrogen negative feedback on the pituitary"
+        },
+        {
+          "label": "E",
+          "text": "Blocks progesterone receptors within the endometrium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Letrozole is an aromatase inhibitor that lowers estrogen synthesis, releasing the hypothalamic-pituitary axis from negative feedback and increasing FSH.",
+        "whyCorrect": "Letrozole decreases estrogen synthesis by inhibiting the aromatase-mediated conversion of androgens to estrogens. The reduced estrogenic negative feedback on the hypothalamic-pituitary axis increases FSH release, promoting follicular development and ovulation.",
+        "whyWrongByChoice": {
+          "B": "Estrogen receptor antagonism at the hypothalamus and pituitary is the mechanism of clomiphene, a selective estrogen receptor modulator.",
+          "C": "Letrozole raises endogenous FSH secretion indirectly; it is not a gonadotropin analog acting on follicles.",
+          "D": "Letrozole reduces, rather than enhances, estrogen negative feedback; enhancing feedback would suppress FSH and ovulation.",
+          "E": "Letrozole acts on aromatase in the estrogen synthesis pathway, not on progesterone receptors in the endometrium."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ovulation induction",
+        "letrozole",
+        "pharmacology"
+      ],
+      "topicId": "family-planning-preconception-care-and-infertility",
+      "topicName": "Family Planning, Preconception Care and Infertility"
+    },
+    {
+      "id": "rp16-012",
+      "stem": "A 31-year-old woman and her partner have unexplained infertility after a complete evaluation of both partners. They elect to proceed with intrauterine insemination. To improve pregnancy rates in this situation, IUI should be performed in combination with which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ovulation stimulation"
+        },
+        {
+          "label": "B",
+          "text": "A course of empiric antibiotics"
+        },
+        {
+          "label": "C",
+          "text": "Insemination with unwashed fresh semen"
+        },
+        {
+          "label": "D",
+          "text": "Strict bed rest after each insemination"
+        },
+        {
+          "label": "E",
+          "text": "Transfer of a cultured embryo"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "For unexplained infertility, IUI should be combined with ovulation stimulation because IUI alone does not increase pregnancy rates in this population.",
+        "whyCorrect": "IUI involves placing washed, concentrated sperm directly into the uterus around the time of ovulation, with per-cycle pregnancy rates of roughly 10-15%. In unexplained infertility, it should be administered together with ovulation stimulation, since IUI alone does not raise pregnancy rates in this group.",
+        "whyWrongByChoice": {
+          "B": "Antibiotics are not a component of the IUI protocol described and do not address the reason IUI alone underperforms here.",
+          "C": "IUI specifically uses washed, concentrated sperm; unwashed semen is not part of the procedure.",
+          "D": "Bed rest is not part of the described technique and does not substitute for ovulation stimulation.",
+          "E": "Embryo culture and transfer belong to in vitro fertilization, a different treatment from IUI."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "intrauterine insemination",
+        "unexplained infertility",
+        "infertility treatment"
+      ],
+      "topicId": "family-planning-preconception-care-and-infertility",
+      "topicName": "Family Planning, Preconception Care and Infertility"
+    },
+    {
+      "id": "rp17-001",
+      "stem": "A 61-year-old man with hypertension and type 2 diabetes mellitus reports 1 year of erections insufficient for intercourse despite intact desire. He also notes fewer morning erections. Oral first-line therapy is prescribed. Which of the following best describes the mechanism of this medication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Agonism of central melanocortin receptors"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of neuronal sodium channel conduction"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of the enzyme that degrades cGMP"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of serotonin reuptake at spinal synapses"
+        },
+        {
+          "label": "E",
+          "text": "Direct stimulation of nitric oxide synthesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PDE5 inhibitors are first-line for erectile dysfunction and work by blocking cGMP breakdown.",
+        "whyCorrect": "First-line treatment for erectile dysfunction is an oral PDE5 inhibitor (sildenafil, tadalafil, vardenafil). PDE5 normally metabolizes cGMP; inhibiting it prolongs NO-mediated cavernosal smooth muscle relaxation, arterial inflow, and venous trapping, enhancing the erectile response.",
+        "whyWrongByChoice": {
+          "A": "Melanocortin receptor agonism is the mechanism of bremelanotide, used for female sexual interest/arousal disorder, not erectile dysfunction.",
+          "B": "Sodium channel blockade describes local anesthetics such as lidocaine, used topically for premature ejaculation or penetration-related pain.",
+          "D": "Increased serotonergic signaling (SSRIs) inhibits arousal reflexes and delays ejaculation; it treats premature ejaculation and can cause erectile dysfunction.",
+          "E": "PDE5 inhibitors do not generate nitric oxide; they preserve cGMP downstream, which is why benefit requires some retained capacity to produce endothelial and neurogenic NO."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "erectile-dysfunction",
+        "PDE5-inhibitors",
+        "NO-cGMP-pathway"
+      ],
+      "topicId": "sexual-health-and-complications",
+      "topicName": "Sexual Health and Complications"
+    },
+    {
+      "id": "rp17-002",
+      "stem": "A 27-year-old man sustains a complete spinal cord transection at the T4 level in a motorcycle collision. Several months later, he is still able to achieve erections with direct genital stimulation. Which of the following pathways most likely mediates this preserved response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thoracolumbar sympathetic neurons via the hypogastric nerve"
+        },
+        {
+          "label": "B",
+          "text": "Sacral parasympathetic neurons via the pelvic splanchnic nerves"
+        },
+        {
+          "label": "C",
+          "text": "Somatic motor neurons via the pudendal nerve"
+        },
+        {
+          "label": "D",
+          "text": "Cortical arousal centers via descending spinal tracts"
+        },
+        {
+          "label": "E",
+          "text": "Hypothalamic nuclei via brainstem autonomic relays"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Reflexogenic erections are mediated by a sacral (S2-S4) parasympathetic reflex arc that does not require input from the brain.",
+        "whyCorrect": "Sacral parasympathetic neurons (S2-S4) mediate reflexogenic arousal from direct genital stimulation, controlling vasodilation and engorgement of erectile tissue via the pelvic splanchnic nerves. Because this reflex arc is entirely below a T4 lesion, males with severed spinal cords can still achieve erections.",
+        "whyWrongByChoice": {
+          "A": "Thoracolumbar sympathetic neurons (T11-L2) mediate psychogenic arousal and the emission phase of ejaculation, not the reflex erection from genital touch.",
+          "C": "Somatic motor neurons via the pudendal nerve drive rhythmic bulbocavernosus and ischiocavernosus contractions during orgasm and expulsion, not erection.",
+          "D": "Descending cortical input is interrupted by a complete T4 transection, so brain-initiated (psychogenic) pathways cannot explain the preserved response.",
+          "E": "Hypothalamic and brainstem pathways also require intact descending spinal connections, which a complete T4 lesion eliminates."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "spinal-pathways",
+        "reflexogenic-erection",
+        "spinal-cord-injury"
+      ],
+      "topicId": "sexual-health-and-complications",
+      "topicName": "Sexual Health and Complications"
+    },
+    {
+      "id": "rp17-003",
+      "stem": "During the male sexual response, sperm move from the epididymis through the ductus deferens, and the prostate and seminal vesicles contract to push their contents into the bulb of the urethra, after which ejaculation can no longer be voluntarily stopped. Which of the following controls this phase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sacral parasympathetic outflow through pelvic splanchnic nerves"
+        },
+        {
+          "label": "B",
+          "text": "Somatic motor outflow through the pudendal nerve"
+        },
+        {
+          "label": "C",
+          "text": "Sympathetic outflow from thoracolumbar spinal segments"
+        },
+        {
+          "label": "D",
+          "text": "Inhibitory GABAergic outflow from brainstem nuclei"
+        },
+        {
+          "label": "E",
+          "text": "Nonadrenergic-noncholinergic nerve terminal signaling"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Emission is under sympathetic control from thoracolumbar (T11-L2) neurons traveling via the hypogastric nerve.",
+        "whyCorrect": "Sympathetic stimulation causes the ductus deferens, prostate, and seminal vesicles to contract, pushing contents into the urethral bulb. Thoracolumbar sympathetic neurons (T11-L2) control the emission phase of ejaculation, with efferent fibers in the hypogastric nerve.",
+        "whyWrongByChoice": {
+          "A": "Parasympathetic stimulation increases glandular secretions during excitement and plateau and mediates erection; it does not drive emission.",
+          "B": "The pudendal nerve carries somatic fibers for the expulsion phase, the rhythmic ischiocavernosus and bulbocavernosus contractions that expel semen.",
+          "D": "GABA provides inhibition in brain and spinal circuits; it dampens rather than executes the emission reflex.",
+          "E": "NANC terminals release nitric oxide for smooth muscle relaxation and erection, the opposite of the contractile events of emission."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ejaculation",
+        "emission",
+        "sympathetic-nervous-system"
+      ],
+      "topicId": "sexual-health-and-complications",
+      "topicName": "Sexual Health and Complications"
+    },
+    {
+      "id": "rp17-004",
+      "stem": "Researchers studying the human sexual response want a reliable neuroendocrine marker that orgasm has occurred in study participants of either sex. A blood level of which of the following hormones is best suited for this purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxytocin"
+        },
+        {
+          "label": "B",
+          "text": "Prolactin"
+        },
+        {
+          "label": "C",
+          "text": "Testosterone"
+        },
+        {
+          "label": "D",
+          "text": "Estradiol"
+        },
+        {
+          "label": "E",
+          "text": "Progesterone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Prolactin rises substantially after orgasm in both sexes and stays elevated for over an hour, making it a reliable orgasm marker.",
+        "whyCorrect": "Prolactin demonstrates a substantial, long-lasting increase following orgasm in both males and females, rising immediately and remaining elevated for 60 or more minutes. This sustained rise makes it a reliable neuroendocrine marker of orgasm.",
+        "whyWrongByChoice": {
+          "A": "Oxytocin does increase acutely after orgasm, but its changes are less consistent and less sustained than prolactin elevations.",
+          "C": "Testosterone supports desire, arousal, and erectile function but is not described as spiking reliably after orgasm.",
+          "D": "Estradiol positively predicts sexual desire across the cycle in naturally cycling females; it is not a post-orgasm marker.",
+          "E": "Progesterone negatively predicts sexual desire in naturally cycling females and does not mark the occurrence of orgasm."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "prolactin",
+        "orgasm",
+        "hormones"
+      ],
+      "topicId": "sexual-health-and-complications",
+      "topicName": "Sexual Health and Complications"
+    },
+    {
+      "id": "rp17-005",
+      "stem": "A study tracks daily hormone levels and self-reported sexual desire in healthy, naturally cycling women who are not using hormonal contraception. Based on the known hormonal influences on female sexual function, which pattern of results is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Desire rises with higher estradiol and falls with higher progesterone"
+        },
+        {
+          "label": "B",
+          "text": "Desire rises with higher progesterone and falls with higher estradiol"
+        },
+        {
+          "label": "C",
+          "text": "Desire rises with both higher estradiol and higher progesterone"
+        },
+        {
+          "label": "D",
+          "text": "Desire falls with both higher estradiol and higher progesterone"
+        },
+        {
+          "label": "E",
+          "text": "Desire tracks prolactin levels and ignores ovarian steroids"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In naturally cycling females, estradiol positively predicts sexual desire while progesterone negatively predicts it.",
+        "whyCorrect": "In naturally cycling females, estradiol positively predicts sexual desire and progesterone negatively predicts sexual desire, so desire should be highest when estradiol is high and progesterone is low.",
+        "whyWrongByChoice": {
+          "B": "This reverses both relationships: progesterone is the negative predictor and estradiol the positive one.",
+          "C": "Progesterone negatively predicts desire, so desire should not rise with rising progesterone.",
+          "D": "Estradiol positively predicts desire, so desire should not fall as estradiol rises.",
+          "E": "Prolactin is a post-orgasm marker; ovarian steroids, not prolactin, are the predictors of cycling desire described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "estradiol",
+        "progesterone",
+        "sexual-desire"
+      ],
+      "topicId": "sexual-health-and-complications",
+      "topicName": "Sexual Health and Complications"
+    },
+    {
+      "id": "rp17-006",
+      "stem": "During penile erection, intracavernosal pressure rises to approximate systolic blood pressure even before the ischiocavernosus muscles contract. Which of the following mechanisms is most responsible for trapping blood within the corpora cavernosa at this stage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contraction of trabecular smooth muscle within the sinusoids"
+        },
+        {
+          "label": "B",
+          "text": "Compression of the subtunical venous plexus against the tunica albuginea"
+        },
+        {
+          "label": "C",
+          "text": "Closure of the bladder neck by sympathetic stimulation"
+        },
+        {
+          "label": "D",
+          "text": "Constriction of cavernosal arteries reducing arterial inflow"
+        },
+        {
+          "label": "E",
+          "text": "Thickening and tightening of the scrotum around the testes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The veno-occlusive mechanism traps blood when expanding sinusoids compress subtunical veins against the rigid tunica albuginea.",
+        "whyCorrect": "As the erectile bodies engorge, expanded sinusoids compress the subtunical venous plexus against the rigid tunica albuginea, restricting venous outflow and raising intracavernosal pressure to approximately systolic pressure. Ischiocavernosus contraction under pudendal control then pushes pressure above systolic for full rigidity.",
+        "whyWrongByChoice": {
+          "A": "Erection requires relaxation, not contraction, of trabecular smooth muscle so arterial blood can fill the sinusoidal spaces.",
+          "C": "Bladder neck closure occurs during ejaculation to prevent semen from mixing with urine; it does not trap blood in the corpora.",
+          "D": "Erection depends on increased arterial inflow through dilated arteries; arterial constriction would oppose erection.",
+          "E": "Scrotal thickening and testicular elevation are plateau-phase changes and do not restrict penile venous outflow."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "erection-physiology",
+        "veno-occlusive-mechanism",
+        "corpus-cavernosum"
+      ],
+      "topicId": "sexual-health-and-complications",
+      "topicName": "Sexual Health and Complications"
+    },
+    {
+      "id": "rp17-007",
+      "stem": "A 30-year-old woman asks her physician about a small volume of thick, milky fluid she sometimes releases at orgasm, which she distinguishes from her usual lubrication during arousal. This fluid most likely originates from which of the following structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paraurethral (Skene's) glands"
+        },
+        {
+          "label": "B",
+          "text": "Vaginal capillary transudation"
+        },
+        {
+          "label": "C",
+          "text": "Uterine smooth muscle glands"
+        },
+        {
+          "label": "D",
+          "text": "Clitoral corpora cavernosa"
+        },
+        {
+          "label": "E",
+          "text": "Bulbourethral gland homologue secreting mucus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "True female ejaculate is a small volume of thick, milky, PSA-containing fluid from the paraurethral (Skene's) glands.",
+        "whyCorrect": "True female ejaculation originates from the paraurethral (Skene's) glands, the embryologic homologue of the male prostate. The fluid is a few milliliters of thick, milky secretion containing prostate-specific antigen and prostatic acid phosphatase, and may protect the urethra from microbes.",
+        "whyWrongByChoice": {
+          "B": "Vaginal lubrication is a neurogenic plasma transudate driven by capillary pressure during vasocongestion; it is distinctly different from female ejaculation.",
+          "C": "The uterus contracts during orgasm but is not the source of the milky ejaculate described.",
+          "D": "The clitoral corpora cavernosa are erectile vascular tissue that engorges; they are not secretory glands.",
+          "E": "Skene's glands are the homologue of the prostate, not of the bulbourethral glands, and the fluid is milky and PSA-rich rather than lubricating mucus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "female-ejaculation",
+        "Skenes-glands",
+        "vaginal-lubrication"
+      ],
+      "topicId": "sexual-health-and-complications",
+      "topicName": "Sexual Health and Complications"
+    },
+    {
+      "id": "rp17-008",
+      "stem": "A 34-year-old woman reports that for the past 8 months she has had no interest in sexual activity, no erotic thoughts, no excitement or pleasure during encounters, and no arousal in response to cues she previously found stimulating. She is tearful and says the change is straining her marriage. Which of the following is the most appropriate first-line management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Daily oral flibanserin at bedtime"
+        },
+        {
+          "label": "B",
+          "text": "Subcutaneous bremelanotide before anticipated activity"
+        },
+        {
+          "label": "C",
+          "text": "Psychological interventions such as CBT and couples therapy"
+        },
+        {
+          "label": "D",
+          "text": "Off-label transdermal testosterone therapy"
+        },
+        {
+          "label": "E",
+          "text": "A daily trial of a serotonergic antidepressant (SSRI)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Female sexual interest/arousal disorder is treated first with psychological interventions; medications are second options.",
+        "whyCorrect": "This patient meets criteria for FSIAD: at least 3 of the 6 indicators are absent for at least 6 months with clinically significant distress. Psychological interventions, including CBT, mindfulness-based therapy, and couples or sex therapy, are first line for FSIAD.",
+        "whyWrongByChoice": {
+          "A": "Flibanserin, which is thought to alter central serotonergic signaling, is a medication option but not first-line therapy.",
+          "B": "Bremelanotide, a melanocortin receptor agonist, is likewise a medication option rather than the initial treatment.",
+          "D": "Testosterone is off-label in the US, with the strongest evidence limited to carefully selected postmenopausal patients, and is not first line.",
+          "E": "SSRIs increase serotonergic signaling, which inhibits arousal reflexes; they cause rather than treat low desire and arousal."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "FSIAD",
+        "female-sexual-dysfunction",
+        "first-line-treatment"
+      ],
+      "topicId": "sexual-health-and-complications",
+      "topicName": "Sexual Health and Complications"
+    },
+    {
+      "id": "rp17-009",
+      "stem": "A 26-year-old woman reports 9 months of marked vulvar pain with attempted vaginal penetration, intense anxiety in anticipation of intercourse, and involuntary tightening of her pelvic floor muscles. The symptoms cause significant distress. Which of the following is the most appropriate first-line treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pelvic floor physical therapy"
+        },
+        {
+          "label": "B",
+          "text": "Daily oral gabapentin"
+        },
+        {
+          "label": "C",
+          "text": "Topical vaginal estrogen"
+        },
+        {
+          "label": "D",
+          "text": "An SNRI for pain modulation"
+        },
+        {
+          "label": "E",
+          "text": "Topical local anesthetic before intercourse"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Genito-pelvic pain/penetration disorder is treated first with pelvic floor physical therapy.",
+        "whyCorrect": "She meets criteria for GPPPD, the DSM-5 diagnosis combining dyspareunia and vaginismus: over 6 months of penetration difficulty, pelvic pain, fear or anxiety about pain, and pelvic floor tensing with distress. Pelvic floor physical therapy is first line because it directly targets the neuromuscular dysfunction with biofeedback, manual therapy, relaxation training, and graded dilation.",
+        "whyWrongByChoice": {
+          "B": "Gabapentin, which dampens neuronal excitability via voltage-activated calcium channels, is an etiology-dependent medication option, not initial therapy.",
+          "C": "Vaginal estrogen is most useful for hypoestrogenic or atrophy-related dyspareunia, which this young patient's presentation does not suggest.",
+          "D": "SNRIs can reduce centralized or neuropathic pelvic pain but are a medication option rather than first-line management.",
+          "E": "Local anesthetics reduce peripheral pain signaling during penetration but do not address the underlying pelvic floor dysfunction and are not first line."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "GPPPD",
+        "pelvic-floor-physical-therapy",
+        "dyspareunia"
+      ],
+      "topicId": "sexual-health-and-complications",
+      "topicName": "Sexual Health and Complications"
+    },
+    {
+      "id": "rp17-010",
+      "stem": "A 24-year-old man is distressed because he consistently ejaculates within about a minute of penetration and cannot delay it, which is straining his relationship. Along with behavioral techniques, pharmacotherapy is planned. Which of the following best explains why the first-line drug class is effective for this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased serotonergic signaling inhibits the ejaculatory reflex"
+        },
+        {
+          "label": "B",
+          "text": "Enhanced dopaminergic signaling heightens sexual desire"
+        },
+        {
+          "label": "C",
+          "text": "Preserved cGMP prolongs cavernosal smooth muscle relaxation"
+        },
+        {
+          "label": "D",
+          "text": "Melanocortin receptor agonism modulates central arousal pathways"
+        },
+        {
+          "label": "E",
+          "text": "Reduced catecholamine reuptake increases noradrenergic tone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SSRIs are first-line for premature ejaculation because serotonin inhibits the ejaculatory reflex and delays ejaculation.",
+        "whyCorrect": "This is premature ejaculation: ejaculation within about 1 minute of penetration with inability to delay it and significant distress. SSRIs, including on-demand dapoxetine, are first-line medications because increased serotonergic signaling inhibits the ejaculatory reflex; topical anesthetics are also first line, and combination therapy beats monotherapy.",
+        "whyWrongByChoice": {
+          "B": "Dopamine facilitates desire and arousal; enhancing it would not delay ejaculation and is not the treatment mechanism here.",
+          "C": "cGMP preservation is the PDE5 inhibitor mechanism used for erectile dysfunction, not for delaying ejaculation.",
+          "D": "Melanocortin agonism describes bremelanotide, used for female sexual interest/arousal disorder.",
+          "E": "Norepinephrine-dopamine reuptake inhibition describes bupropion, used to improve desire or counter SSRI-related dysfunction, not to delay ejaculation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "premature-ejaculation",
+        "SSRIs",
+        "dapoxetine"
+      ],
+      "topicId": "sexual-health-and-complications",
+      "topicName": "Sexual Health and Complications"
+    },
+    {
+      "id": "rp17-011",
+      "stem": "A 22-year-old man with sickle cell disease presents to the emergency department with a painful erection that has lasted 6 hours. He recently started taking trazodone for insomnia. In addition to corporal aspiration, which of the following is the most appropriate next step in treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intracavernosal phenylephrine injection"
+        },
+        {
+          "label": "B",
+          "text": "Oral sildenafil administration"
+        },
+        {
+          "label": "C",
+          "text": "Collagenase injection into the corpora"
+        },
+        {
+          "label": "D",
+          "text": "Observation until detumescence occurs"
+        },
+        {
+          "label": "E",
+          "text": "Topical lidocaine application"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ischemic priapism is a medical emergency treated with corporal aspiration and intracavernosal phenylephrine.",
+        "whyCorrect": "A sustained, painful erection lasting longer than 4 hours is priapism, which is associated with sickle cell disease and with medications, trazodone being among the most common. Ischemic priapism requires immediate treatment to prevent permanent tissue damage and erectile dysfunction; common treatments are corporal aspiration to drain excess blood and intracavernosal phenylephrine to open veins.",
+        "whyWrongByChoice": {
+          "B": "Sildenafil prolongs smooth muscle relaxation and enhances erection, which would worsen rather than relieve priapism.",
+          "C": "Collagenase is used to break down the fibrous plaques of Peyronie disease, not to treat priapism.",
+          "D": "Ischemic priapism is a medical emergency; observation risks permanent tissue damage and erectile dysfunction.",
+          "E": "Topical lidocaine reduces sensory pain signaling but does nothing to relieve the trapped blood causing ischemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "priapism",
+        "sickle-cell-disease",
+        "phenylephrine"
+      ],
+      "topicId": "sexual-health-and-complications",
+      "topicName": "Sexual Health and Complications"
+    },
+    {
+      "id": "rp17-012",
+      "stem": "A 47-year-old man with long-standing diabetes mellitus is evaluated for infertility. He reports normal orgasms but says little or no semen comes out, and his urine appears cloudy after intercourse. Which of the following is the most likely underlying mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A lax sphincter at the base of the bladder"
+        },
+        {
+          "label": "B",
+          "text": "Fibrous plaques surrounding the corpora cavernosa"
+        },
+        {
+          "label": "C",
+          "text": "Obstruction of the ductus deferens by scarring"
+        },
+        {
+          "label": "D",
+          "text": "Failure of the seminal vesicles to produce fructose"
+        },
+        {
+          "label": "E",
+          "text": "Weakness of the bulbocavernosus and ischiocavernosus muscles"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Retrograde ejaculation, a cause of male infertility, usually results from a lax bladder-neck sphincter, commonly from diabetes, pelvic surgery, or autonomic dysfunction.",
+        "whyCorrect": "During normal ejaculation the bladder neck closes tightly so semen cannot mix with urine. Retrograde ejaculation occurs when this sphincter is lax, letting semen pass backward into the bladder; common causes include diabetes mellitus, prostate or other pelvic surgery, autonomic nerve dysfunction, and certain antidepressants and antipsychotics.",
+        "whyWrongByChoice": {
+          "B": "Fibrous plaques around the corpora cavernosa cause Peyronie disease, with penile curvature and painful erections, not absent antegrade semen.",
+          "C": "Ductal obstruction is not the mechanism described for this diabetes-associated pattern of orgasm with semen appearing in the urine.",
+          "D": "Seminal vesicle fructose supplies sperm energy; its absence would not send semen backward into the bladder.",
+          "E": "Weak striated pelvic muscles would impair expulsion force but would not divert semen into the bladder or cloud the post-coital urine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "retrograde-ejaculation",
+        "male-infertility",
+        "diabetes-mellitus"
+      ],
+      "topicId": "sexual-health-and-complications",
+      "topicName": "Sexual Health and Complications"
+    },
+    {
+      "id": "rp18-001",
+      "stem": "A 48-year-old female reports 8 months of menstrual cycles that have become progressively lighter and farther apart, along with new nighttime episodes of sudden warmth, flushing, and sweating that wake her from sleep. Her last menstrual period was 6 weeks ago. A urine pregnancy test is negative. Which of the following best characterizes her current reproductive state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Menopause, because vasomotor symptoms have begun"
+        },
+        {
+          "label": "B",
+          "text": "Perimenopause, the transition preceding the final menstrual period"
+        },
+        {
+          "label": "C",
+          "text": "Postmenopause, because her cycles are lighter than baseline"
+        },
+        {
+          "label": "D",
+          "text": "Premature ovarian insufficiency, because she is younger than 51"
+        },
+        {
+          "label": "E",
+          "text": "Secondary amenorrhea, because her cycle length has increased"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Irregular, spaced-out cycles with new vasomotor symptoms in the 40s define perimenopause; menopause requires 12 consecutive months of amenorrhea.",
+        "whyCorrect": "Perimenopause is the interval of years before the final menstrual period marked by fluctuating hormone levels, irregular cycles, and the onset of vasomotor symptoms, typically beginning in the 40s or 50s and lasting 2-8 years. Because this patient is still menstruating, she has not met the diagnostic criterion for menopause.",
+        "whyWrongByChoice": {
+          "A": "Menopause is diagnosed retrospectively after 12 consecutive months of amenorrhea, not by the onset of hot flashes; she menstruated 6 weeks ago.",
+          "C": "Postmenopause refers to the years after menopause has occurred; she has not yet reached menopause.",
+          "D": "Onset of the menopausal transition in the late 40s is typical, not premature; the average age of menopause is 51, with 90% between 45 and 56.",
+          "E": "She continues to menstruate, so she does not have amenorrhea; her irregular cycles reflect the normal menopausal transition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "perimenopause",
+        "menopause-definition",
+        "diagnosis"
+      ],
+      "topicId": "menopause-and-andropause",
+      "topicName": "Menopause and Andropause"
+    },
+    {
+      "id": "rp18-002",
+      "stem": "A 52-year-old female with 14 months of amenorrhea undergoes laboratory testing. Her physician notes that one hormonal change is considered the primary indicator of menopause. An increase in which of the following, driven by loss of a specific ovarian follicular product, best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "LH, due to loss of estrogen negative feedback"
+        },
+        {
+          "label": "B",
+          "text": "GnRH, due to loss of progesterone negative feedback"
+        },
+        {
+          "label": "C",
+          "text": "FSH, due to decreased inhibin B production"
+        },
+        {
+          "label": "D",
+          "text": "Estrone, due to peripheral aromatization of androgens"
+        },
+        {
+          "label": "E",
+          "text": "Prolactin, due to loss of dopaminergic inhibition"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The primary hormonal change indicating menopause is a marked rise in FSH, driven by decreased inhibin B production from ovarian follicles.",
+        "whyCorrect": "With loss of ovarian follicular activity, follicles no longer produce inhibin B, releasing FSH from its selective negative feedback. FSH therefore rises markedly and is the primary hormonal indicator of menopause, alongside decreased estrogen and progesterone and increased LH and GnRH.",
+        "whyWrongByChoice": {
+          "A": "LH does rise in menopause, but the lecture identifies the FSH increase, driven by lost inhibin B, as the primary indicator.",
+          "B": "GnRH rises, but it is not singled out as the primary indicator, and inhibin B loss specifically drives FSH.",
+          "D": "Ovarian estrogen production falls in menopause; a rise in estrogen is not the hormonal marker of menopause.",
+          "E": "Prolactin is not part of the hormonal profile of menopause described in this lecture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "menopause-hormones",
+        "FSH",
+        "inhibin-B"
+      ],
+      "topicId": "menopause-and-andropause",
+      "topicName": "Menopause and Andropause"
+    },
+    {
+      "id": "rp18-003",
+      "stem": "A 60-year-old female who reached menopause at age 51 presents with two episodes of light vaginal spotting over the past month. She takes no hormone therapy. Which of the following is the most likely cause of her bleeding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endometrial atrophy"
+        },
+        {
+          "label": "B",
+          "text": "Endometrial cancer"
+        },
+        {
+          "label": "C",
+          "text": "Endometrial polyp"
+        },
+        {
+          "label": "D",
+          "text": "Resumption of ovulation"
+        },
+        {
+          "label": "E",
+          "text": "Cervical infection"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Endometrial atrophy is the most common cause of postmenopausal bleeding.",
+        "whyCorrect": "Postmenopausal bleeding is most commonly caused by endometrial atrophy; other causes include endometrial polyps and hormone replacement therapy. Only approximately 10% of postmenopausal bleeding is caused by endometrial cancer.",
+        "whyWrongByChoice": {
+          "B": "Endometrial cancer accounts for only about 10% of postmenopausal bleeding; it must be considered but is not the most likely cause.",
+          "C": "Endometrial polyps cause postmenopausal bleeding but are less common than atrophy as the etiology.",
+          "D": "Menopause is a permanent cessation of menses from loss of ovarian follicular activity; ovulation does not resume 9 years later.",
+          "E": "Infection is not among the leading causes of postmenopausal bleeding taught here; atrophy remains most likely."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "postmenopausal-bleeding",
+        "endometrial-atrophy"
+      ],
+      "topicId": "menopause-and-andropause",
+      "topicName": "Menopause and Andropause"
+    },
+    {
+      "id": "rp18-004",
+      "stem": "A 53-year-old female with an intact uterus has severe hot flashes and night sweats that have not improved with lifestyle changes. She and her physician decide to start systemic estrogen therapy. Adding a progestogen to her regimen is necessary primarily to reduce the risk of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Venous thromboembolism"
+        },
+        {
+          "label": "B",
+          "text": "Endometrial hyperplasia and cancer"
+        },
+        {
+          "label": "C",
+          "text": "Invasive breast cancer"
+        },
+        {
+          "label": "D",
+          "text": "Ischemic stroke"
+        },
+        {
+          "label": "E",
+          "text": "Recurrent urinary tract infection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In a female with an intact uterus, a progestogen must accompany systemic estrogen to prevent endometrial hyperplasia and cancer from unopposed estrogen.",
+        "whyCorrect": "Unopposed systemic estrogen stimulates the endometrium and can cause endometrial hyperplasia and cancer. Combined estrogen-progestogen therapy is therefore required for females with an intact uterus, whereas females who have had a hysterectomy can use estrogen-only therapy.",
+        "whyWrongByChoice": {
+          "A": "VTE is a risk of hormone therapy itself, mitigated by transdermal rather than oral routes, not by adding a progestogen.",
+          "C": "Breast cancer risk was increased in the WHI combined estrogen-progestogen arm; progestogen does not protect against it.",
+          "D": "Stroke is a risk of hormone therapy (seen even in the estrogen-only WHI arm); progestogen does not prevent it.",
+          "E": "Estrogen therapy decreases UTI risk; UTI prevention is not the purpose of the progestogen."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HRT",
+        "progestogen",
+        "endometrial-protection"
+      ],
+      "topicId": "menopause-and-andropause",
+      "topicName": "Menopause and Andropause"
+    },
+    {
+      "id": "rp18-005",
+      "stem": "A 54-year-old female with moderate vasomotor symptoms is choosing between oral and transdermal estradiol. Her physician explains that the transdermal route carries lower risks of venous thromboembolism and stroke. Which of the following best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transdermal estrogen bypasses first-pass hepatic metabolism"
+        },
+        {
+          "label": "B",
+          "text": "Transdermal estrogen is absorbed only by urogenital tissues"
+        },
+        {
+          "label": "C",
+          "text": "Transdermal estrogen is converted to progesterone in the skin"
+        },
+        {
+          "label": "D",
+          "text": "Transdermal estrogen raises sex hormone-binding globulin levels"
+        },
+        {
+          "label": "E",
+          "text": "Transdermal estrogen acts as a receptor antagonist in the liver"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Transdermal estrogens avoid first-pass hepatic metabolism, so they do not increase hepatic production of clotting factors the way oral estrogens do.",
+        "whyCorrect": "Oral estrogens undergo first-pass hepatic metabolism, which increases production of clotting factors, inflammatory markers, and sex hormone-binding globulin. Transdermal patches, gels, and sprays bypass this first pass, producing more stable hormone levels and lower risks of venous thromboembolism and stroke.",
+        "whyWrongByChoice": {
+          "B": "Delivery limited to urogenital tissue describes low-dose vaginal estrogen, not systemic transdermal therapy, which treats vasomotor symptoms.",
+          "C": "Estrogen is not converted to progesterone in the skin; this is not a described mechanism.",
+          "D": "Raising SHBG is an effect of oral estrogen's first-pass metabolism, the very effect transdermal dosing avoids.",
+          "E": "Transdermal estrogen is not a hepatic receptor antagonist; tissue-selective agonist/antagonist activity describes SERMs like ospemifene."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HRT-routes",
+        "transdermal-estrogen",
+        "VTE"
+      ],
+      "topicId": "menopause-and-andropause",
+      "topicName": "Menopause and Andropause"
+    },
+    {
+      "id": "rp18-006",
+      "stem": "A 58-year-old female with an intact uterus reports vaginal dryness, pain with intercourse, and two urinary tract infections in the past year. She denies hot flashes or night sweats. Which of the following is the most appropriate therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral conjugated equine estrogens with a progestogen"
+        },
+        {
+          "label": "B",
+          "text": "Transdermal estradiol patch with a progestogen"
+        },
+        {
+          "label": "C",
+          "text": "Low-dose vaginal estrogen without a progestogen"
+        },
+        {
+          "label": "D",
+          "text": "Oral paroxetine at bedtime"
+        },
+        {
+          "label": "E",
+          "text": "Oral gabapentin at bedtime"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Isolated genitourinary symptoms are best treated with low-dose vaginal estrogen, which needs no progestogen even with an intact uterus.",
+        "whyCorrect": "For females with primarily genitourinary symptoms and no significant vasomotor symptoms, low-dose vaginal estrogen is preferred. Creams, tablets, and rings deliver estrogen directly to urogenital tissue with minimal systemic absorption, treating dryness, dyspareunia, and recurrent UTIs, and the minimal endometrial exposure means no concurrent progestogen is required.",
+        "whyWrongByChoice": {
+          "A": "Systemic oral estrogen adds thromboembolic and other systemic risks she does not need, since she has no vasomotor symptoms.",
+          "B": "Systemic transdermal therapy is likewise unnecessary for purely genitourinary symptoms that local therapy treats effectively.",
+          "D": "Paroxetine targets vasomotor symptoms, which she does not have, and does not treat atrophic genitourinary changes.",
+          "E": "Gabapentin helps hot flashes and night sweats, not vaginal dryness, dyspareunia, or recurrent UTIs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "genitourinary-syndrome",
+        "vaginal-estrogen",
+        "management"
+      ],
+      "topicId": "menopause-and-andropause",
+      "topicName": "Menopause and Andropause"
+    },
+    {
+      "id": "rp18-007",
+      "stem": "A 51-year-old female with a history of estrogen receptor-positive breast cancer, now in remission, has frequent daytime hot flashes. She asks about medication options. Which of the following is FDA-approved specifically for menopausal hot flashes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Venlafaxine"
+        },
+        {
+          "label": "B",
+          "text": "Paroxetine"
+        },
+        {
+          "label": "C",
+          "text": "Escitalopram"
+        },
+        {
+          "label": "D",
+          "text": "Citalopram"
+        },
+        {
+          "label": "E",
+          "text": "Desvenlafaxine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Paroxetine is the SSRI that is FDA-approved for menopausal hot flashes; hormone therapy is contraindicated with current or hormone-sensitive cancer history.",
+        "whyCorrect": "Hormone-sensitive breast cancer is a contraindication to hormone replacement therapy, so a non-hormonal agent is appropriate. Among SSRIs/SNRIs used for vasomotor symptoms, paroxetine is specifically FDA-approved for menopausal hot flashes; the class reduces hot flash frequency by roughly 40-60%.",
+        "whyWrongByChoice": {
+          "A": "Venlafaxine has shown benefit in clinical trials but is not FDA-approved for this indication.",
+          "C": "Escitalopram has trial evidence of benefit but lacks FDA approval for hot flashes.",
+          "D": "Citalopram has shown benefit in trials but is not FDA-approved for hot flashes.",
+          "E": "Desvenlafaxine has trial evidence of benefit but is not the FDA-approved agent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "non-hormonal-therapy",
+        "paroxetine",
+        "vasomotor-symptoms"
+      ],
+      "topicId": "menopause-and-andropause",
+      "topicName": "Menopause and Andropause"
+    },
+    {
+      "id": "rp18-008",
+      "stem": "A 55-year-old female has drenching night sweats that repeatedly wake her, and she cannot fall back asleep afterward. She declines hormone therapy. Which non-hormonal medication, taken at bedtime, is particularly well suited to her presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxybutynin, via inhibition of sweat gland activity"
+        },
+        {
+          "label": "B",
+          "text": "Paroxetine, via serotonin reuptake inhibition"
+        },
+        {
+          "label": "C",
+          "text": "Gabapentin, via calcium channel modulation and sedation"
+        },
+        {
+          "label": "D",
+          "text": "Ospemifene, via estrogen agonism in vaginal tissue"
+        },
+        {
+          "label": "E",
+          "text": "Venlafaxine, via norepinephrine reuptake inhibition"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Gabapentin's sedating properties make it especially useful for night sweats with sleep disturbance when dosed at bedtime.",
+        "whyCorrect": "Gabapentin is an anticonvulsant that modulates calcium channels and affects thermoregulation, reducing hot flashes by approximately 50%. Its sedating effect, ordinarily a side effect, becomes an advantage for females whose vasomotor symptoms are concentrated at night and disrupt sleep.",
+        "whyWrongByChoice": {
+          "A": "Oxybutynin has efficacy for hot flashes but offers no sleep benefit, and anticholinergic effects limit its use in older females.",
+          "B": "Paroxetine helps vasomotor symptoms but is not highlighted for bedtime dosing to aid sleep the way gabapentin is.",
+          "D": "Ospemifene treats dyspareunia from vulvovaginal atrophy; it has no role in vasomotor symptoms or sleep.",
+          "E": "Venlafaxine reduces hot flashes but is not the sedating bedtime option suited to nighttime symptoms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gabapentin",
+        "night-sweats",
+        "non-hormonal-therapy"
+      ],
+      "topicId": "menopause-and-andropause",
+      "topicName": "Menopause and Andropause"
+    },
+    {
+      "id": "rp18-009",
+      "stem": "A 62-year-old female with painful intercourse due to vulvovaginal atrophy prefers an oral medication over vaginal preparations. Her physician prescribes ospemifene. Which of the following best describes this drug's mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estrogen receptor agonist in vaginal tissue, neutral or antagonist elsewhere"
+        },
+        {
+          "label": "B",
+          "text": "Estrogen receptor antagonist in vaginal tissue, agonist in bone"
+        },
+        {
+          "label": "C",
+          "text": "Progesterone receptor agonist acting on the endometrium"
+        },
+        {
+          "label": "D",
+          "text": "Anticholinergic inhibitor of glandular secretion in the vagina"
+        },
+        {
+          "label": "E",
+          "text": "Aromatase inhibitor that raises local estradiol concentrations"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ospemifene is an oral SERM that acts as an estrogen agonist in vaginal tissue while remaining neutral or antagonist in other tissues.",
+        "whyCorrect": "Ospemifene is an oral selective estrogen receptor modulator approved for dyspareunia associated with vulvovaginal atrophy. Its tissue selectivity, agonist activity in vaginal tissue with neutral or antagonist effects elsewhere, allows it to treat atrophic symptoms without generalized estrogenic stimulation.",
+        "whyWrongByChoice": {
+          "B": "Its agonist activity is in vaginal tissue; it is not a vaginal antagonist.",
+          "C": "It modulates estrogen receptors, not progesterone receptors, and is not endometrium-targeted therapy.",
+          "D": "Anticholinergic inhibition of glands describes oxybutynin's effect on sweat glands, not ospemifene.",
+          "E": "It does not inhibit aromatase; aromatase inhibition would lower, not exploit, estrogenic signaling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ospemifene",
+        "SERM",
+        "dyspareunia"
+      ],
+      "topicId": "menopause-and-andropause",
+      "topicName": "Menopause and Andropause"
+    },
+    {
+      "id": "rp18-010",
+      "stem": "A 63-year-old female, 12 years postmenopausal, is found to have low bone mineral density on screening. Which of the following cellular changes best explains the accelerated bone loss that follows menopause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased osteoclast activity with decreased osteoblast activity"
+        },
+        {
+          "label": "B",
+          "text": "Decreased osteoclast activity with increased osteoblast activity"
+        },
+        {
+          "label": "C",
+          "text": "Increased osteoblast activity with normal osteoclast activity"
+        },
+        {
+          "label": "D",
+          "text": "Decreased osteocyte density with increased mineralization"
+        },
+        {
+          "label": "E",
+          "text": "Increased chondrocyte proliferation at the growth plate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Estrogen loss after menopause increases osteoclast activity and decreases osteoblast activity, producing osteoporosis.",
+        "whyCorrect": "Declining estrogen removes its restraint on bone resorption: osteoclast activity increases while osteoblast activity decreases, tipping remodeling toward net bone loss. This is why postmenopausal females are at elevated risk of osteoporosis, and why HRT produces significant fracture reduction.",
+        "whyWrongByChoice": {
+          "B": "This pattern would build bone rather than lose it, the opposite of postmenopausal physiology.",
+          "C": "Osteoblast activity falls, not rises, after estrogen loss, and osteoclast activity is increased.",
+          "D": "Changes in mineralization density are not the mechanism taught; the imbalance is between osteoclasts and osteoblasts.",
+          "E": "Growth plates are closed in adults; chondrocyte proliferation is irrelevant to postmenopausal bone loss."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "osteoporosis",
+        "estrogen",
+        "bone-remodeling"
+      ],
+      "topicId": "menopause-and-andropause",
+      "topicName": "Menopause and Andropause"
+    },
+    {
+      "id": "rp18-011",
+      "stem": "A 58-year-old male reports several years of slowly worsening fatigue, reduced libido, and fewer morning erections. His physician explains how age-related testosterone decline differs from menopause. Which of the following statements best captures that difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Testosterone declines gradually at about 1% per year without defined stages"
+        },
+        {
+          "label": "B",
+          "text": "Testosterone ceases abruptly once Leydig cell activity is lost at a set age"
+        },
+        {
+          "label": "C",
+          "text": "Testosterone decline is diagnosed after 12 months of absent morning erections"
+        },
+        {
+          "label": "D",
+          "text": "Testosterone decline spares free testosterone because SHBG falls with age"
+        },
+        {
+          "label": "E",
+          "text": "Testosterone decline arises only from failure of hypothalamic GnRH output"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Unlike menopause, andropause is a gradual, stage-less decline in testosterone of roughly 1% per year beginning around age 40.",
+        "whyCorrect": "Beginning around age 40, testosterone falls about 1% per year, with the decline more pronounced in free testosterone because of alterations in sex hormone-binding globulin. In contrast to menopause, andropause has a gradual onset and slow progression without defined stages, and it results from both central (hypothalamic-pituitary) and peripheral (Leydig cell responsiveness) mechanisms.",
+        "whyWrongByChoice": {
+          "B": "There is no abrupt cessation at a set age; abrupt loss of gonadal hormone output is the pattern of menopause, not andropause.",
+          "C": "No 12-month diagnostic criterion exists for andropause; that retrospective rule defines menopause.",
+          "D": "Free testosterone falls more, not less, because of SHBG alterations with age.",
+          "E": "The decline is both central (decreased hypothalamic-pituitary function) and peripheral (reduced Leydig cell responsiveness), not purely central."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "andropause",
+        "testosterone",
+        "menopause-comparison"
+      ],
+      "topicId": "menopause-and-andropause",
+      "topicName": "Menopause and Andropause"
+    },
+    {
+      "id": "rp18-012",
+      "stem": "A 61-year-old male with symptomatic hypogonadism confirmed by low serum testosterone begins intramuscular testosterone replacement therapy. Three months later his testosterone level is 950 ng/dL. Continuing this dose places him at increased risk for which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiovascular complications and suppressed spermatogenesis"
+        },
+        {
+          "label": "B",
+          "text": "Osteoporosis and progressive loss of muscle mass"
+        },
+        {
+          "label": "C",
+          "text": "Worsening erectile dysfunction and reduced libido"
+        },
+        {
+          "label": "D",
+          "text": "Endometrial hyperplasia from unopposed hormone exposure"
+        },
+        {
+          "label": "E",
+          "text": "Hot flashes from hypothalamic thermoregulatory dysfunction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Testosterone replacement should target the physiologic range of 400-700 ng/dL; supratherapeutic levels raise the risk of cardiovascular complications, BPH, and suppressed spermatogenesis.",
+        "whyCorrect": "The goal of testosterone replacement therapy is a level within the physiologic range of 400-700 ng/dL with symptom improvement. At 950 ng/dL this patient is supratherapeutic, which may increase the risk of cardiovascular complications, benign prostatic hyperplasia, and suppression of spermatogenesis.",
+        "whyWrongByChoice": {
+          "B": "Bone and muscle loss are consequences of low testosterone, not of supratherapeutic replacement.",
+          "C": "Erectile dysfunction and low libido are symptoms of hypogonadism that therapy aims to improve, not risks of excess dosing.",
+          "D": "Endometrial hyperplasia is a risk of unopposed estrogen in females with a uterus, not of testosterone therapy in males.",
+          "E": "Hot flashes from estrogen withdrawal are a menopausal phenomenon, not a described risk of excess testosterone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "testosterone-replacement",
+        "andropause",
+        "therapeutic-range"
+      ],
+      "topicId": "menopause-and-andropause",
+      "topicName": "Menopause and Andropause"
+    },
+    {
+      "id": "rp19-001",
+      "stem": "A 26-year-old woman presents with irregular menses since menarche, worsening hirsutism of the chin and upper lip, and acne. Her BMI is 33 kg/m2. Pelvic ultrasound shows multiple peripheral ovarian follicles in a string-of-pearls pattern. Laboratory studies show an elevated free testosterone with a normal DHEA-S. Which of the following best explains her elevated free testosterone level?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased hepatic synthesis of sex hormone-binding globulin"
+        },
+        {
+          "label": "B",
+          "text": "Hyperinsulinemia suppressing sex hormone-binding globulin production"
+        },
+        {
+          "label": "C",
+          "text": "Adrenal 21-hydroxylase deficiency shunting precursors to androgens"
+        },
+        {
+          "label": "D",
+          "text": "Autonomous DHEA-S secretion from an adrenal neoplasm"
+        },
+        {
+          "label": "E",
+          "text": "Decreased GnRH pulse frequency reducing FSH secretion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In PCOS, insulin resistance and hyperinsulinemia suppress SHBG, raising free testosterone.",
+        "whyCorrect": "PCOS involves a self-reinforcing cycle in which increased GnRH pulse frequency drives LH-mediated ovarian androgen overproduction, while insulin resistance and hyperinsulinemia further stimulate androgen synthesis and suppress SHBG. Lower SHBG leaves a larger fraction of testosterone unbound, so free testosterone rises.",
+        "whyWrongByChoice": {
+          "A": "SHBG is suppressed, not increased, in PCOS; increased SHBG would lower, not raise, free testosterone.",
+          "C": "Congenital adrenal hyperplasia is screened for with 17-OHP and is an adrenal cause; her normal DHEA-S and classic PCOS picture point to an ovarian etiology.",
+          "D": "An adrenal androgen source would produce an elevated DHEA-S, which is normal here.",
+          "E": "PCOS features an increased, not decreased, GnRH pulse frequency, which favors LH-driven ovarian androgen production."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PCOS",
+        "hyperandrogenism",
+        "SHBG",
+        "insulin resistance"
+      ],
+      "topicId": "disorders-of-sex-hormones",
+      "topicName": "Disorders of Sex Hormones"
+    },
+    {
+      "id": "rp19-002",
+      "stem": "A 30-year-old woman presents with 4 months of rapidly progressive facial hair growth and deepening of her voice. Laboratory studies show a markedly elevated DHEA-S, a mildly elevated total testosterone, and a normal 17-hydroxyprogesterone. Which of the following is the most likely source of her androgen excess?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An androgen-secreting ovarian tumor"
+        },
+        {
+          "label": "B",
+          "text": "A tumor of the adrenal gland"
+        },
+        {
+          "label": "C",
+          "text": "LH-driven ovarian overproduction in PCOS"
+        },
+        {
+          "label": "D",
+          "text": "Surreptitious use of danazol"
+        },
+        {
+          "label": "E",
+          "text": "Congenital adrenal hyperplasia from 21-hydroxylase deficiency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An elevated DHEA-S localizes androgen excess to an adrenal source.",
+        "whyCorrect": "In the female hyperandrogenism workup, elevated DHEA-S suggests an adrenal source, while elevated testosterone with normal DHEA-S points to an ovarian etiology. Rapid virilization with a markedly elevated DHEA-S and normal 17-OHP therefore indicates an adrenal tumor, and adrenal CT imaging is pursued when DHEA-S is elevated.",
+        "whyWrongByChoice": {
+          "A": "An ovarian tumor such as a Sertoli-Leydig cell tumor produces elevated testosterone with a normal DHEA-S.",
+          "C": "PCOS causes gradual hirsutism with irregular menses, not rapid virilization with a markedly elevated DHEA-S.",
+          "D": "Exogenous agents like danazol would not produce a markedly elevated endogenous DHEA-S.",
+          "E": "21-hydroxylase deficiency is screened for with 17-OHP, which is normal in this patient."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyperandrogenism",
+        "DHEA-S",
+        "adrenal tumor",
+        "virilization"
+      ],
+      "topicId": "disorders-of-sex-hormones",
+      "topicName": "Disorders of Sex Hormones"
+    },
+    {
+      "id": "rp19-003",
+      "stem": "A 21-year-old woman is evaluated for hirsutism and irregular menses. As part of the initial laboratory workup for hyperandrogenism, which of the following tests screens for congenital adrenal hyperplasia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "17-hydroxyprogesterone"
+        },
+        {
+          "label": "B",
+          "text": "Free testosterone"
+        },
+        {
+          "label": "C",
+          "text": "DHEA sulfate"
+        },
+        {
+          "label": "D",
+          "text": "Luteinizing hormone"
+        },
+        {
+          "label": "E",
+          "text": "Sex hormone-binding globulin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "17-OHP is the screening test for congenital adrenal hyperplasia in hyperandrogenic females.",
+        "whyCorrect": "Initial labs for female hyperandrogenism include total and free testosterone, DHEA-S, and 17-hydroxyprogesterone. The 17-OHP is included specifically to screen for congenital adrenal hyperplasia, particularly 21-hydroxylase deficiency, in which this precursor accumulates.",
+        "whyWrongByChoice": {
+          "B": "Free testosterone confirms biochemical hyperandrogenism but does not identify CAH.",
+          "C": "DHEA-S helps localize excess to an adrenal versus ovarian source; it is not the CAH screen.",
+          "D": "LH helps assess the HPG axis but does not screen for an adrenal enzyme defect.",
+          "E": "SHBG affects the free testosterone fraction and is not a screening test for CAH."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CAH",
+        "17-OHP",
+        "hyperandrogenism workup"
+      ],
+      "topicId": "disorders-of-sex-hormones",
+      "topicName": "Disorders of Sex Hormones"
+    },
+    {
+      "id": "rp19-004",
+      "stem": "A 24-year-old competitive bodybuilder presents with 1 year of infertility. Examination shows marked muscularity, truncal acne, and small, soft testes bilaterally. Laboratory studies show an elevated serum testosterone with low LH and low FSH. Which of the following best explains his infertility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary testicular failure from prior orchitis"
+        },
+        {
+          "label": "B",
+          "text": "Prolactin-mediated suppression of GnRH release"
+        },
+        {
+          "label": "C",
+          "text": "Exogenous androgen suppression of the hypothalamic-pituitary-gonadal axis"
+        },
+        {
+          "label": "D",
+          "text": "Androgen receptor insensitivity in target tissues"
+        },
+        {
+          "label": "E",
+          "text": "Deficient aromatization of testosterone to estradiol"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Exogenous androgens suppress the HPG axis, causing testicular atrophy and infertility despite high testosterone.",
+        "whyCorrect": "Exogenous androgen use is the most prevalent cause of androgen excess in young men. It suppresses hypothalamic-pituitary output, lowering LH and FSH, which produces testicular atrophy (loss of FSH support) and infertility even though circulating testosterone is elevated.",
+        "whyWrongByChoice": {
+          "A": "Primary testicular failure would show low testosterone with elevated LH and FSH from loss of negative feedback.",
+          "B": "Hyperprolactinemia causes secondary hypogonadism with low testosterone, not elevated testosterone.",
+          "D": "Androgen insensitivity produces elevated testosterone with an elevated, not suppressed, LH.",
+          "E": "Aromatase deficiency causes skeletal abnormalities from estrogen deficiency; it does not explain suppressed gonadotropins with atrophic testes in a steroid user."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anabolic steroids",
+        "HPG axis",
+        "testicular atrophy",
+        "infertility"
+      ],
+      "topicId": "disorders-of-sex-hormones",
+      "topicName": "Disorders of Sex Hormones"
+    },
+    {
+      "id": "rp19-005",
+      "stem": "Laboratory evaluation of a patient with a disorder of androgen physiology shows an elevated serum testosterone together with an elevated LH. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Androgen insensitivity syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Exogenous androgen use"
+        },
+        {
+          "label": "C",
+          "text": "Testosterone-secreting tumor"
+        },
+        {
+          "label": "D",
+          "text": "Hypergonadotropic (primary) hypogonadism"
+        },
+        {
+          "label": "E",
+          "text": "Hypogonadotropic (secondary) hypogonadism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Elevated testosterone with elevated LH indicates androgen insensitivity syndrome.",
+        "whyCorrect": "When target tissues cannot respond to androgens, negative feedback on the hypothalamus and pituitary fails, so LH stays high and continues to drive testosterone production. The combination of high testosterone and high LH is therefore the signature of androgen insensitivity syndrome.",
+        "whyWrongByChoice": {
+          "B": "Exogenous androgens raise testosterone but suppress LH through intact negative feedback.",
+          "C": "A testosterone-secreting tumor also produces high testosterone with a suppressed LH.",
+          "D": "Primary hypogonadism shows low testosterone with elevated LH from gonadal failure.",
+          "E": "Secondary hypogonadism shows low testosterone with low or inappropriately normal LH."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "androgen insensitivity",
+        "LH",
+        "hormone patterns"
+      ],
+      "topicId": "disorders-of-sex-hormones",
+      "topicName": "Disorders of Sex Hormones"
+    },
+    {
+      "id": "rp19-006",
+      "stem": "A 17-year-old boy is evaluated for absent pubertal development. He has small testes, no facial or axillary hair, and reports that he has never been able to smell. Serum testosterone, LH, and FSH are all low. Which of the following best explains his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failed migration of GnRH-producing neurons during fetal development"
+        },
+        {
+          "label": "B",
+          "text": "A 47,XXY karyotype with primary testicular failure"
+        },
+        {
+          "label": "C",
+          "text": "Prolactin-secreting tumor compressing the pituitary stalk"
+        },
+        {
+          "label": "D",
+          "text": "Ischemic testicular injury from remote testicular torsion"
+        },
+        {
+          "label": "E",
+          "text": "Autosomal recessive deficiency of the aromatase enzyme"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Kallmann syndrome pairs hypogonadotropic hypogonadism with anosmia due to failed GnRH neuron migration.",
+        "whyCorrect": "Kallmann syndrome is a congenital form of hypogonadotropic hypogonadism caused by impaired migration of GnRH-producing neurons during fetal development. Delayed or absent puberty with a reduced or absent sense of smell distinguishes it from other causes of secondary hypogonadism, and the low LH and FSH confirm the central defect.",
+        "whyWrongByChoice": {
+          "B": "Klinefelter syndrome is primary hypogonadism, so LH and FSH would be elevated, and anosmia is not a feature.",
+          "C": "Hyperprolactinemia can cause secondary hypogonadism but does not explain lifelong anosmia.",
+          "D": "Testicular torsion causes primary testicular failure with elevated gonadotropins.",
+          "E": "Aromatase deficiency presents with tall stature, unfused epiphyses, and osteoporosis with elevated testosterone and gonadotropins."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Kallmann syndrome",
+        "hypogonadotropic hypogonadism",
+        "anosmia"
+      ],
+      "topicId": "disorders-of-sex-hormones",
+      "topicName": "Disorders of Sex Hormones"
+    },
+    {
+      "id": "rp19-007",
+      "stem": "A 30-year-old man with confirmed symptomatic hypogonadism (two low morning testosterone levels with low LH and FSH) wishes to conceive a child with his partner within the next year. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intramuscular testosterone replacement therapy"
+        },
+        {
+          "label": "B",
+          "text": "Transdermal testosterone replacement therapy"
+        },
+        {
+          "label": "C",
+          "text": "Gonadotropin therapy with hCG"
+        },
+        {
+          "label": "D",
+          "text": "Spironolactone with dose titration"
+        },
+        {
+          "label": "E",
+          "text": "Metformin for metabolic support"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Men with hypogonadism who desire fertility should receive gonadotropin therapy, not testosterone replacement.",
+        "whyCorrect": "Testosterone replacement therapy is contraindicated in men desiring fertility because it suppresses spermatogenesis. In these patients, gonadotropin therapy with hCG, with FSH added if needed, is preferred because it stimulates endogenous testosterone production and preserves fertility.",
+        "whyWrongByChoice": {
+          "A": "Intramuscular testosterone suppresses spermatogenesis and would undermine his fertility goal.",
+          "B": "The route does not change the problem; transdermal testosterone also suppresses spermatogenesis.",
+          "D": "Spironolactone is an androgen receptor blocker used for hirsutism in females and would worsen androgen deficiency.",
+          "E": "Metformin addresses insulin resistance in PCOS and has no role in treating male hypogonadism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "male hypogonadism",
+        "TRT",
+        "fertility",
+        "hCG"
+      ],
+      "topicId": "disorders-of-sex-hormones",
+      "topicName": "Disorders of Sex Hormones"
+    },
+    {
+      "id": "rp19-008",
+      "stem": "A 24-year-old man presents with a 3-month history of a tender, firm subareolar mass of the left breast consistent with true gynecomastia. He takes no medications and does not use anabolic steroids. Serum estradiol is elevated. In addition to LH, FSH, and testosterone levels, which of the following is the most appropriate next step to exclude a dangerous underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum hCG and AFP with testicular ultrasound"
+        },
+        {
+          "label": "B",
+          "text": "Adrenal CT with serum cortisol measurement"
+        },
+        {
+          "label": "C",
+          "text": "MRI of the pituitary with prolactin level"
+        },
+        {
+          "label": "D",
+          "text": "Core needle biopsy of the breast tissue"
+        },
+        {
+          "label": "E",
+          "text": "Empiric anastrozole with follow-up examination"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "New gynecomastia with elevated estradiol in a young man requires hCG, AFP, and testicular ultrasound to exclude a germ cell tumor.",
+        "whyCorrect": "In males with gynecomastia, hCG, alpha-fetoprotein, and testicular ultrasound are obtained to exclude a germ cell tumor. Recognizing gynecomastia as a potential sign of an underlying tumor, such as a Leydig cell or germ cell tumor of the testis, is a key clinical skill, and this evaluation takes priority in a young man with unexplained estrogen excess.",
+        "whyWrongByChoice": {
+          "B": "Adrenal imaging is pursued when elevated DHEA-S or cortisol suggests adrenal pathology, which has not been shown here.",
+          "C": "A pituitary workup does not address the estrogen-secreting testicular tumors that must be excluded first in this setting.",
+          "D": "Breast biopsy evaluates the local tissue but does not identify the underlying source of estrogen excess.",
+          "E": "Aromatase inhibitors treat persistent hyperestrogenism only after the root cause has been identified and addressed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gynecomastia",
+        "germ cell tumor",
+        "hCG",
+        "AFP",
+        "testicular ultrasound"
+      ],
+      "topicId": "disorders-of-sex-hormones",
+      "topicName": "Disorders of Sex Hormones"
+    },
+    {
+      "id": "rp19-009",
+      "stem": "A 58-year-old man treated with spironolactone develops bilateral painful breast enlargement. Serum estradiol and testosterone are within normal limits. Which of the following best explains his gynecomastia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased peripheral aromatization in adipose tissue"
+        },
+        {
+          "label": "B",
+          "text": "Direct stimulation of estrogen receptors by the drug"
+        },
+        {
+          "label": "C",
+          "text": "Impaired hepatic metabolism of circulating estrogens"
+        },
+        {
+          "label": "D",
+          "text": "hCG secretion from an occult germ cell tumor"
+        },
+        {
+          "label": "E",
+          "text": "Increased estradiol synthesis by the adrenal glands"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Spironolactone causes gynecomastia by stimulating estrogen receptors, not by raising estrogen levels.",
+        "whyCorrect": "Spironolactone does not increase estrogen levels; it causes an estrogen-like effect. It blocks aldosterone and androgen receptors and also stimulates estrogen receptors, producing painful breast enlargement in women and gynecomastia in men, which fits his normal estradiol level.",
+        "whyWrongByChoice": {
+          "A": "Obesity-related aromatization raises estradiol, but his estradiol is normal.",
+          "C": "Liver disease elevates estrogen levels by impairing their metabolism, which is not seen here.",
+          "D": "A germ cell tumor would be suggested by an elevated hCG and abnormal hormone levels, not normal labs on a culprit drug.",
+          "E": "There is no indication of an adrenal source, and his estradiol is not elevated."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "spironolactone",
+        "gynecomastia",
+        "estrogen receptor"
+      ],
+      "topicId": "disorders-of-sex-hormones",
+      "topicName": "Disorders of Sex Hormones"
+    },
+    {
+      "id": "rp19-010",
+      "stem": "A 54-year-old woman with a BMI of 36 kg/m2 presents with vaginal bleeding 3 years after her last menstrual period. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reassurance with routine annual follow-up"
+        },
+        {
+          "label": "B",
+          "text": "Combined oral contraceptive pills for cycle control"
+        },
+        {
+          "label": "C",
+          "text": "Serum estradiol measurement repeated in 3 months"
+        },
+        {
+          "label": "D",
+          "text": "Transvaginal ultrasound deferred for 6 months"
+        },
+        {
+          "label": "E",
+          "text": "Endometrial biopsy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Postmenopausal bleeding warrants urgent evaluation with endometrial biopsy for endometrial pathology.",
+        "whyCorrect": "In postmenopausal women, any uterine bleeding warrants urgent evaluation for endometrial pathology, and endometrial biopsy is indicated for postmenopausal bleeding. Her obesity increases peripheral aromatization of androgens to estrogens, and chronic unopposed estrogen exposure raises the risk of endometrial hyperplasia and carcinoma.",
+        "whyWrongByChoice": {
+          "A": "Postmenopausal bleeding is never reassured away; endometrial pathology must be excluded urgently.",
+          "B": "OCPs manage anovulatory bleeding in premenopausal women and would not evaluate for carcinoma.",
+          "C": "Measuring estradiol delays the tissue diagnosis that postmenopausal bleeding requires.",
+          "D": "Deferring imaging for months delays evaluation of a finding that demands urgent workup."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "postmenopausal bleeding",
+        "endometrial biopsy",
+        "unopposed estrogen"
+      ],
+      "topicId": "disorders-of-sex-hormones",
+      "topicName": "Disorders of Sex Hormones"
+    },
+    {
+      "id": "rp19-011",
+      "stem": "A 32-year-old woman has had irregular menses for 5 months, followed by hot flashes and vaginal dryness. FSH is elevated on two measurements taken 6 weeks apart, and estradiol is low. Which of the following is the most appropriate next step in her evaluation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MRI of the pituitary gland"
+        },
+        {
+          "label": "B",
+          "text": "Karyotype analysis and FMR1 premutation testing"
+        },
+        {
+          "label": "C",
+          "text": "Endometrial biopsy of the uterine lining"
+        },
+        {
+          "label": "D",
+          "text": "Annual FSH monitoring without additional testing"
+        },
+        {
+          "label": "E",
+          "text": "Metformin therapy for insulin resistance"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Confirmed primary ovarian insufficiency prompts testing for its causes, including karyotype and FMR1 premutation analysis.",
+        "whyCorrect": "POI is diagnosed in women under 40 with menstrual irregularity for at least 3 consecutive months and two elevated FSH levels at least 1 month apart, which this patient meets. Once confirmed, testing for causes should include karyotype analysis, FMR1 gene testing for the fragile X premutation, adrenal antibodies, and screening for concurrent autoimmune disorders.",
+        "whyWrongByChoice": {
+          "A": "Her elevated FSH localizes the failure to the ovary; a low FSH would instead suggest a central hypothalamic or pituitary cause worth imaging.",
+          "C": "Endometrial biopsy evaluates suspected endometrial pathology from estrogen excess, not estrogen deficiency.",
+          "D": "Watchful waiting misses the etiologic workup and delays hormone therapy needed to protect bone and cardiovascular health.",
+          "E": "Metformin treats insulin resistance in PCOS and has no role in primary ovarian insufficiency."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "primary ovarian insufficiency",
+        "FMR1",
+        "karyotype",
+        "FSH"
+      ],
+      "topicId": "disorders-of-sex-hormones",
+      "topicName": "Disorders of Sex Hormones"
+    },
+    {
+      "id": "rp19-012",
+      "stem": "A 24-year-old man is evaluated after a low-impact wrist fracture. He is 203 cm tall, and radiographs show open growth plates and markedly reduced bone density. Serum testosterone and androgen precursors are elevated, estradiol is undetectable, and LH and FSH are elevated. Which of the following is the most appropriate treatment for his skeletal disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Testosterone replacement therapy"
+        },
+        {
+          "label": "B",
+          "text": "Exogenous estradiol therapy"
+        },
+        {
+          "label": "C",
+          "text": "Aromatase inhibitor therapy"
+        },
+        {
+          "label": "D",
+          "text": "Gonadotropin therapy with hCG"
+        },
+        {
+          "label": "E",
+          "text": "Calcium and vitamin D supplementation alone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In male aromatase deficiency, exogenous estradiol corrects the skeletal abnormalities and closes the epiphyses.",
+        "whyCorrect": "Elevated testosterone and androgen precursors with undetectable estradiol and elevated gonadotropins confirm aromatase deficiency. This condition demonstrates that estrogens, not androgens alone, are critical for bone health and epiphyseal closure in males, and exogenous estradiol replacement corrects the skeletal abnormalities and closes the epiphyses.",
+        "whyWrongByChoice": {
+          "A": "His testosterone is already elevated; androgens alone cannot close the epiphyses or restore bone density.",
+          "C": "An aromatase inhibitor would deepen the estrogen deficiency; these drugs are used to lower estrogen in hyperestrogenic males.",
+          "D": "hCG stimulates endogenous testosterone production for hypogonadal men desiring fertility and does not supply the missing estrogen.",
+          "E": "Supplementation does not address the estrogen deficiency driving his unfused epiphyses and osteoporosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aromatase deficiency",
+        "osteoporosis",
+        "epiphyseal closure",
+        "estradiol"
+      ],
+      "topicId": "disorders-of-sex-hormones",
+      "topicName": "Disorders of Sex Hormones"
+    }
+  ]
+}
