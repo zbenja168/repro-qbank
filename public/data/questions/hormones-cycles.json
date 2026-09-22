@@ -284,7 +284,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Binding of fertilin to integrin on the oocyte membrane"
+          "text": "Binding of sperm fertilin to integrin on the oocyte membrane"
         },
         {
           "label": "B",
@@ -418,7 +418,7 @@
     },
     {
       "id": "rp09-010",
-      "stem": "During in vitro studies of fertilization, a sperm that has passed through the corona radiata and zona pellucida reaches the oocyte plasma membrane. Interaction between which of the following pairs of molecules most directly mediates binding and fusion of the two cells?",
+      "stem": "During in vitro studies of fertilization, a sperm that has passed through the corona radiata and zona pellucida reaches the outer surface of the egg itself. Interaction between which of the following pairs of molecules most directly mediates binding and fusion of the two cells?",
       "choices": [
         {
           "label": "A",
@@ -1752,7 +1752,7 @@
     },
     {
       "id": "rp10-003",
-      "stem": "A 62-year-old man with estrogen receptor-positive breast cancer is offered an aromatase inhibitor. He asks how his body makes estrogen when he has no ovaries. Which of the following best explains his source of estrogen?",
+      "stem": "A 62-year-old man with estrogen receptor-positive breast cancer is offered endocrine therapy. He asks how his body makes estrogen when he has no ovaries. Which of the following best explains his source of estrogen?",
       "choices": [
         {
           "label": "A",
@@ -3596,33 +3596,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "The receptor activates a membrane-bound G protein that raises cyclic AMP"
+          "text": "The androgen-bound receptor opens a ligand-gated cation channel in the plasma membrane"
         },
         {
           "label": "B",
-          "text": "The receptor complex blocks translation of target mRNAs at the ribosome"
+          "text": "The receptor activates a membrane-bound G protein that raises cyclic AMP"
         },
         {
           "label": "C",
-          "text": "The receptor complex dimerizes, enters the nucleus, and binds androgen-response elements"
+          "text": "The receptor complex blocks translation of target mRNAs at the ribosome"
         },
         {
           "label": "D",
-          "text": "The receptor opens a ligand-gated cation channel in the plasma membrane"
+          "text": "The receptor complex dimerizes, enters the nucleus, and binds androgen-response elements"
         },
         {
           "label": "E",
           "text": "The receptor phosphorylates tyrosine residues on cytosolic substrate proteins"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Activated androgen receptors translocate to the nucleus, dimerize, bind androgen-response elements, and regulate gene transcription.",
         "whyCorrect": "Testosterone or DHT binds an intracellular androgen receptor; the activated receptor translocates to the nucleus, forms dimers, binds androgen-response elements in DNA, and regulates transcription of target genes into mRNA that is then translated into protein. In the prostate, DHT is the predominant androgen-receptor ligand.",
         "whyWrongByChoice": {
-          "A": "Androgen receptors are nuclear transcription regulators, not G protein-coupled receptors that signal through cyclic AMP.",
-          "B": "The activated receptor regulates transcription of target genes; it does not act by blocking translation at the ribosome.",
-          "D": "Androgens act through intracellular receptors that alter transcription, not through ligand-gated ion channels.",
+          "A": "Androgens act through intracellular receptors that alter transcription, not through ligand-gated ion channels.",
+          "B": "Androgen receptors are nuclear transcription regulators, not G protein-coupled receptors that signal through cyclic AMP.",
+          "C": "The activated receptor regulates transcription of target genes; it does not act by blocking translation at the ribosome.",
           "E": "The androgen receptor is not a tyrosine kinase; its action is to regulate gene transcription."
         }
       },
@@ -3650,7 +3650,7 @@
         },
         {
           "label": "C",
-          "text": "Excess aromatization of testosterone to estradiol in peripheral tissues"
+          "text": "Excess aromatization of androgens to estradiol in peripheral tissues"
         },
         {
           "label": "D",
@@ -5265,7 +5265,7 @@
         },
         {
           "label": "D",
-          "text": "It is the most responsive to FSH within the cohort"
+          "text": "It is the most responsive to FSH of all the growing follicles"
         },
         {
           "label": "E",
@@ -8659,7 +8659,7 @@
     },
     {
       "id": "rp14-009",
-      "stem": "A 14-year-old boy is brought in because he is the shortest student in his class and has no signs of puberty. Examination shows prepubertal testes without enlargement. Bone age is delayed relative to chronologic age, and history reveals that his father also 'grew late' in high school. Physical examination and screening laboratory studies show no chronic disease. Which of the following is the most likely explanation for this patient's presentation?",
+      "stem": "A 14-year-old boy is brought in because he is the shortest student in his class and has not begun to develop secondary sexual characteristics. Examination shows prepubertal testes without enlargement. Bone age lags behind chronologic age, and history reveals that his father also 'grew late' in high school. Physical examination and screening laboratory studies show no chronic disease. Which of the following is the most likely explanation for this patient's presentation?",
       "choices": [
         {
           "label": "A",
@@ -9633,7 +9633,7 @@
         },
         {
           "label": "B",
-          "text": "Elevated TSH directly desensitizes the pituitary gonadotropes"
+          "text": "Elevated prolactin directly desensitizes the pituitary gonadotropes"
         },
         {
           "label": "C",
@@ -9654,7 +9654,7 @@
         "whyCorrect": "In primary hypothyroidism, reduced thyroid-hormone feedback increases hypothalamic TRH secretion. Increased TRH can raise prolactin secretion, and hyperprolactinemia may suppress pulsatile GnRH secretion, reducing LH and FSH and contributing to hypogonadotropic hypogonadism, which fits her low estradiol with low gonadotropins.",
         "whyWrongByChoice": {
           "A": "Ovarian destruction would cause primary hypogonadism with elevated LH and FSH, but her gonadotropins are low.",
-          "B": "Gonadotrope desensitization results from continuous GnRH-receptor activation, as with GnRH-agonist therapy, not from elevated TSH.",
+          "B": "Gonadotrope desensitization results from continuous GnRH-receptor activation, as with GnRH-agonist therapy; prolactin instead acts upstream by suppressing hypothalamic GnRH pulses.",
           "D": "Aromatase converts androgen precursors to estrogens in peripheral tissues; its inhibition is not the described consequence of hypothyroidism.",
           "E": "The lecture describes no direct ovarian action of TSH; the pathway to hypogonadism runs through TRH, prolactin, and GnRH."
         }
@@ -9863,7 +9863,7 @@
         },
         {
           "label": "B",
-          "text": "Congenital adrenal hyperplasia"
+          "text": "Congenital adrenal hyperplasia with excess adrenal androgens"
         },
         {
           "label": "C",

@@ -12,7 +12,7 @@
         },
         {
           "label": "B",
-          "text": "Failure of the urethral folds to fuse"
+          "text": "Failure of the urogenital folds to fuse"
         },
         {
           "label": "C",
@@ -516,7 +516,7 @@
         },
         {
           "label": "B",
-          "text": "Immediate manual reduction of the foreskin"
+          "text": "Immediate manual reduction of the prepuce"
         },
         {
           "label": "C",
@@ -892,7 +892,7 @@
         },
         {
           "label": "D",
-          "text": "Preputioplasty with release of the scarred tissue"
+          "text": "Preputioplasty with release of the fibrotic ring"
         },
         {
           "label": "E",
@@ -942,7 +942,7 @@
         },
         {
           "label": "E",
-          "text": "Venous and lymphatic congestion progressing to arterial compromise of the glans"
+          "text": "Venous and lymphatic congestion progressing to arterial compromise"
         }
       ],
       "correctAnswer": "E",
@@ -1586,7 +1586,7 @@
         },
         {
           "label": "E",
-          "text": "Urethral stricture from aberrant healing"
+          "text": "Stricture from aberrant healing"
         }
       ],
       "correctAnswer": "E",
@@ -1662,7 +1662,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Abnormal fixation of the testis within the tunica vaginalis"
+          "text": "Abnormal fixation of the gonad within the tunica vaginalis"
         },
         {
           "label": "B",
@@ -4242,7 +4242,7 @@
         },
         {
           "label": "B",
-          "text": "At this age it is usually malignant and requires systemic chemotherapy"
+          "text": "At this age it is usually malignant and requires chemotherapy after orchiectomy"
         },
         {
           "label": "C",
@@ -4932,7 +4932,7 @@
         },
         {
           "label": "B",
-          "text": "No further therapy beyond the orchiectomy"
+          "text": "Observation with no additional therapy"
         },
         {
           "label": "C",
@@ -5761,7 +5761,7 @@
         },
         {
           "label": "B",
-          "text": "Binding a surface G protein-coupled receptor to raise cyclic AMP"
+          "text": "Binding a surface G protein-coupled androgen receptor to raise cyclic AMP"
         },
         {
           "label": "C",
@@ -6168,7 +6168,7 @@
     },
     {
       "id": "rp28-027",
-      "stem": "A 46-year-old man admitted with acute bacterial prostatitis has a temperature of 39.2 C and an exquisitely tender prostate. Twelve hours after admission he has been unable to pass urine, has suprapubic pain, and has a bladder palpable midway to the umbilicus. Which of the following is the most appropriate next step?",
+      "stem": "A 46-year-old man admitted with acute bacterial prostatitis has a temperature of 39.2 C and an exquisitely tender prostate. Twelve hours after admission he has been unable to pass urine, has lower abdominal pain, and has a bladder palpable midway to the umbilicus. Which of the following is the most appropriate next step?",
       "choices": [
         {
           "label": "A",
@@ -6230,7 +6230,7 @@
         },
         {
           "label": "D",
-          "text": "Ultrasound-guided drainage of the collection"
+          "text": "Ultrasound-guided drainage of the abscess"
         },
         {
           "label": "E",
@@ -7592,7 +7592,7 @@
     },
     {
       "id": "rp29-022",
-      "stem": "A 65-year-old man's biopsy is reported as Gleason 3 + 3 = 6, and the pathologist notes that 6 is effectively the lowest score assigned in contemporary practice even though the system's numeric range begins at 2. Which of the following best explains why lower scores are not reported?",
+      "stem": "A 65-year-old man's biopsy is reported as Gleason 3 + 3 = 6, and the pathologist notes that 6 is effectively the lowest score reported in contemporary practice even though the system's numeric range begins at 2. Which of the following best explains why lower scores are not reported?",
       "choices": [
         {
           "label": "A",
@@ -7608,7 +7608,7 @@
         },
         {
           "label": "D",
-          "text": "Scores below 6 are reclassified as benign hyperplasia"
+          "text": "Scores below 6 on biopsy are reclassified as benign hyperplasia"
         },
         {
           "label": "E",
@@ -7934,7 +7934,7 @@
         },
         {
           "label": "E",
-          "text": "Reducing urinary incontinence after the prostatectomy"
+          "text": "Reducing urinary incontinence after the operation"
         }
       ],
       "correctAnswer": "E",

@@ -8,7 +8,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Direct blockade of luteinizing hormone receptors on the ovary"
+          "text": "Direct blockade of ovarian receptors for follicle-stimulating hormone"
         },
         {
           "label": "B",
@@ -32,7 +32,7 @@
         "summary": "Estrogen in combined OCPs prevents ovulation by suppressing FSH, which blocks follicular development and therefore the LH surge.",
         "whyCorrect": "The most important mechanism of the estrogen component is negative feedback suppression of FSH, preventing the follicle development that normally follows the FSH rise around day 3-4 of the cycle. With no growing follicle, there is no ovulatory LH surge on day 12-13, and even an LH surge would have no effect without a mature follicle.",
         "whyWrongByChoice": {
-          "A": "Estrogen works by feedback suppression of gonadotropin release, not by blocking ovarian LH receptors; the LH surge is absent because no follicle develops.",
+          "A": "Estrogen works by feedback suppression of gonadotropin release, not by blocking ovarian gonadotropin receptors; the LH surge is absent because no follicle develops.",
           "B": "Hormonal contraception suppresses, rather than increases, gonadotropin drive; increased GnRH pulsatility would promote, not prevent, follicle growth.",
           "D": "Cervical mucus thickening is an action of the progestin component, and it would not abolish follicle growth or the LH surge.",
           "E": "Endometrial thinning is a progestin effect that prevents implantation; it does not explain absent follicular development."
@@ -948,7 +948,7 @@
         },
         {
           "label": "E",
-          "text": "Thinning of the endometrium from the hormones in the pills"
+          "text": "Thinning of the endometrium from the combined hormones"
         }
       ],
       "correctAnswer": "E",
@@ -1028,7 +1028,7 @@
         },
         {
           "label": "B",
-          "text": "Estrogen and progesterone increase the risk of gallstone formation"
+          "text": "Estrogen and progesterone increase the risk of cholelithiasis"
         },
         {
           "label": "C",
@@ -2374,7 +2374,7 @@
         },
         {
           "label": "C",
-          "text": "Monitoring fertility signs during the menstrual cycle to identify the fertile window"
+          "text": "Monitoring cyclic signs of ovulation to identify the days when conception is possible"
         },
         {
           "label": "D",
@@ -3202,7 +3202,7 @@
         },
         {
           "label": "C",
-          "text": "Referral to an infertility specialist"
+          "text": "Referral to a reproductive endocrinologist"
         },
         {
           "label": "D",
@@ -3696,7 +3696,7 @@
     },
     {
       "id": "rp17-009",
-      "stem": "A 26-year-old woman reports 9 months of marked vulvar pain with attempted vaginal penetration, intense anxiety in anticipation of intercourse, and involuntary tightening of her pelvic floor muscles. The symptoms cause significant distress. Which of the following is the most appropriate first-line treatment?",
+      "stem": "A 26-year-old woman reports 9 months of marked vulvar pain with attempted vaginal penetration, intense anxiety in anticipation of intercourse, and involuntary tightening of the muscles around the vaginal opening. The symptoms cause significant distress. Which of the following is the most appropriate first-line treatment?",
       "choices": [
         {
           "label": "A",
@@ -4406,7 +4406,7 @@
         },
         {
           "label": "E",
-          "text": "Small surgical incisions of the foreskin"
+          "text": "Preputioplasty without circumcision"
         }
       ],
       "correctAnswer": "E",
@@ -4432,11 +4432,11 @@
     },
     {
       "id": "rp17-025",
-      "stem": "A 31-year-old woman is brought to the clinic by her partner, who is upset that she wants sex less often than he does. She reports regular erotic thoughts, becomes aroused in response to cues, enjoys sexual activity when it occurs, sometimes initiates it, and feels no personal distress about her sexuality. Which of the following statements is most accurate?",
+      "stem": "A 31-year-old woman is brought to the clinic by her partner, who is upset that she wants sex less often than he does. She reports regular erotic thoughts, becomes aroused in response to cues, enjoys sexual activity when it occurs, sometimes initiates it, and feels no personal distress about her sexuality. Which of the following statements about a diagnosis of female sexual interest/arousal disorder (FSIAD) is most accurate?",
       "choices": [
         {
           "label": "A",
-          "text": "She does not meet criteria; a desire discrepancy alone is insufficient"
+          "text": "She does not meet criteria for FSIAD; a desire discrepancy alone is insufficient"
         },
         {
           "label": "B",
@@ -5217,7 +5217,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Low-dose vaginal estrogen without a progestogen"
+          "text": "Low-dose local estrogen therapy without a progestogen"
         },
         {
           "label": "B",
@@ -5592,7 +5592,7 @@
         },
         {
           "label": "C",
-          "text": "Document at least 24 consecutive months of absent menstrual bleeding"
+          "text": "Document at least 24 consecutive months of amenorrhea"
         },
         {
           "label": "D",
@@ -5829,7 +5829,7 @@
         },
         {
           "label": "E",
-          "text": "Unopposed estrogen stimulation of atrophic urogenital and bladder tissue"
+          "text": "Unopposed estrogen stimulation of atrophic vaginal and bladder tissue"
         }
       ],
       "correctAnswer": "A",
@@ -5947,7 +5947,7 @@
     },
     {
       "id": "rp18-022",
-      "stem": "A 50-year-old female in the menopausal transition reports irritability, low mood, and difficulty concentrating over several months. She sleeps poorly because of night sweats and is also the primary caregiver for an ill parent. Which of the following best describes the basis of her mood symptoms?",
+      "stem": "A 50-year-old female in the menopausal transition reports irritability, low mood, and difficulty concentrating over several months. Night sweats wake her repeatedly during the night and is also the primary caregiver for an ill parent. Which of the following best describes the basis of her mood symptoms?",
       "choices": [
         {
           "label": "A",
@@ -6281,7 +6281,7 @@
         },
         {
           "label": "C",
-          "text": "Intrauterine progesterone delivery system"
+          "text": "Levonorgestrel-releasing intrauterine system"
         },
         {
           "label": "D",
@@ -7162,7 +7162,7 @@
         },
         {
           "label": "C",
-          "text": "Exogenous estradiol therapy"
+          "text": "Exogenous estrogen replacement therapy"
         },
         {
           "label": "D",
@@ -7243,15 +7243,15 @@
     },
     {
       "id": "rp19-014",
-      "stem": "A 24-year-old woman reports five menstrual periods over the past year and facial hirsutism. Free testosterone is elevated, DHEA-S and 17-hydroxyprogesterone are normal, and prolactin and TSH are normal. Transvaginal ultrasound shows normal-appearing ovaries without multiple peripheral follicles. Which of the following is the most appropriate interpretation?",
+      "stem": "A 24-year-old woman reports five menstrual periods over the past year and facial hirsutism. Free testosterone is elevated, DHEA-S and 17-hydroxyprogesterone are normal, and prolactin and TSH are normal. Transvaginal ultrasound shows normal-appearing ovaries without multiple peripheral follicles. Applying the Rotterdam criteria, which of the following is the most appropriate interpretation?",
       "choices": [
         {
           "label": "A",
-          "text": "She cannot be given this diagnosis because her ovaries appear normal"
+          "text": "She cannot be given the PMOS diagnosis because her ovaries appear normal"
         },
         {
           "label": "B",
-          "text": "She cannot be given this diagnosis until a third feature appears"
+          "text": "She does not meet PMOS criteria until a third feature appears"
         },
         {
           "label": "C",
@@ -7673,7 +7673,7 @@
         },
         {
           "label": "C",
-          "text": "Functional suppression of the hypothalamic-pituitary axis"
+          "text": "Functional central suppression of gonadotropin secretion"
         },
         {
           "label": "D",
@@ -7867,7 +7867,7 @@
         },
         {
           "label": "E",
-          "text": "Oral contraceptive-induced rise in sex hormone-binding globulin"
+          "text": "Oral estrogen-induced rise in sex hormone-binding globulin"
         }
       ],
       "correctAnswer": "E",

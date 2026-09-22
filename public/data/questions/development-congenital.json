@@ -231,7 +231,7 @@
     },
     {
       "id": "rp05-006",
-      "stem": "A 28-year-old transgender woman with prior distressing healthcare experiences appears anxious before a physical examination. Which of the following approaches best reduces the risk of further trauma during the encounter?",
+      "stem": "A 28-year-old transgender woman with prior distressing healthcare experiences appears anxious before a physical examination. Which of the following approaches best reduces the risk of further harm during the encounter?",
       "choices": [
         {
           "label": "A",
@@ -292,7 +292,7 @@
         },
         {
           "label": "D",
-          "text": "It permanently prevents development of secondary sex characteristics"
+          "text": "It permanently halts puberty and prevents development of secondary sex characteristics"
         },
         {
           "label": "E",
@@ -421,7 +421,7 @@
         },
         {
           "label": "B",
-          "text": "Gender non-conforming expression alone establishes the diagnosis"
+          "text": "Gender non-conforming expression alone establishes the diagnosis even in the absence of distress"
         },
         {
           "label": "C",
@@ -1670,7 +1670,7 @@
         },
         {
           "label": "E",
-          "text": "Isolated deficiency of anti-Müllerian hormone"
+          "text": "Isolated deficiency of gonadal anti-Müllerian hormone"
         }
       ],
       "correctAnswer": "B",
@@ -3410,7 +3410,7 @@
         },
         {
           "label": "C",
-          "text": "Incision of the hymenal membrane"
+          "text": "Incision of the hymen"
         },
         {
           "label": "D",
@@ -5146,7 +5146,7 @@
     },
     {
       "id": "rp08-005",
-      "stem": "A 32-year-old woman with bipolar disorder has been maintained on a mood-stabilizing medication throughout an unplanned pregnancy. Fetal echocardiography is performed because her medication is classically associated with which of the following anomalies?",
+      "stem": "A 32-year-old woman with bipolar disorder has been maintained on a mood-stabilizing medication throughout an unplanned pregnancy. Fetal echocardiography is performed because her medication is classically associated with which of the following malformations?",
       "choices": [
         {
           "label": "A",

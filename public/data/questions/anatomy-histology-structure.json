@@ -1706,7 +1706,7 @@
     },
     {
       "id": "rp02-002",
-      "stem": "A 71-year-old man with biopsy-proven prostate cancer develops progressive low back pain. Imaging shows multiple metastatic lesions in the lumbar vertebral bodies. Which of the following routes best explains this pattern of spread?",
+      "stem": "A 71-year-old man with biopsy-proven prostate cancer develops progressive low back pain. Imaging shows multiple metastatic lesions in the lumbar spine. Which of the following routes best explains this pattern of spread?",
       "choices": [
         {
           "label": "A",
@@ -1936,7 +1936,7 @@
     },
     {
       "id": "rp02-007",
-      "stem": "A 39-year-old man considering a vasectomy worries that he will no longer ejaculate any fluid afterward. His physician reassures him that ejaculate volume changes very little. Which of the following structures contributes the largest share of seminal fluid volume?",
+      "stem": "A 39-year-old man considering a vasectomy worries that he will no longer ejaculate any fluid afterward. His physician reassures him that ejaculate volume changes very little. Which of the following structures contributes the largest share of the ejaculate volume?",
       "choices": [
         {
           "label": "A",
@@ -5495,7 +5495,7 @@
         },
         {
           "label": "D",
-          "text": "Mitotic proliferation of type B spermatogonia"
+          "text": "Mitotic proliferation of type B spermatogonia into primary spermatocytes"
         },
         {
           "label": "E",
