@@ -31,13 +31,30 @@ export function CategoryAccordion({
   const someSelected = selectedCount > 0 && !allSelected;
 
   const stat = (id: string) => topicStats?.get(id);
+  /** Counts follow the tier each topic has switched on, so the header
+   *  never promises questions the quiz would not serve. */
+  const on = (id: string) => extrasTopicIds.has(id);
+  const remainingOf = (t: Category['topics'][number]) => {
+    const s = stat(t.id);
+    if (!s) return on(t.id) ? t.questionCount : (t.coreCount ?? t.questionCount);
+    return on(t.id) ? s.remaining : s.coreRemaining;
+  };
+  const totalOf = (t: Category['topics'][number]) => {
+    const s = stat(t.id);
+    if (!s) return on(t.id) ? t.questionCount : (t.coreCount ?? t.questionCount);
+    return on(t.id) ? s.total : s.coreTotal;
+  };
   const remaining = topicStats
-    ? category.topics.reduce((n, t) => n + (stat(t.id)?.remaining ?? t.questionCount), 0)
+    ? category.topics.reduce((n, t) => n + remainingOf(t), 0)
     : null;
-  const catTotal = category.topics.reduce((n, t) => n + (stat(t.id)?.total ?? t.questionCount), 0);
+  const catTotal = category.topics.reduce((n, t) => n + totalOf(t), 0);
+  const isDone = (t: Category['topics'][number]) => {
+    const s = stat(t.id);
+    return !!s && (on(t.id) ? s.complete : s.coreComplete);
+  };
   const catComplete = topicStats !== null && topicStats !== undefined
     && category.topics.length > 0
-    && category.topics.every(t => stat(t.id)?.complete);
+    && category.topics.every(t => isDone(t));
 
   return (
     <div className={`border rounded-lg overflow-hidden ${
@@ -96,7 +113,9 @@ export function CategoryAccordion({
         <div className="bg-slate-850 px-4 py-2 space-y-1 border-t border-slate-700" style={{ backgroundColor: '#1a2332' }}>
           {category.topics.map(topic => {
             const s = stat(topic.id);
-            const done = !!s?.complete;
+            // Finishing the core 12 marks a topic done only while its
+            // extras are off -- switching them on gives it more to serve.
+            const done = isDone(topic);
             return (
               <label
                 key={topic.id}
@@ -116,7 +135,7 @@ export function CategoryAccordion({
                 </span>
                 {/* The extras opt-in. Core questions cover the topic; this
                     folds in the deeper set for the topics you want it on. */}
-                {(topic.extraCount ?? 0) > 0 && !done && (
+                {(topic.extraCount ?? 0) > 0 && (
                   <span
                     onClick={e => { e.stopPropagation(); e.preventDefault(); onToggleExtras(topic.id); }}
                     role="checkbox"
@@ -142,7 +161,9 @@ export function CategoryAccordion({
                 {done ? (
                   <span className="text-xs font-semibold text-green-500 uppercase tracking-wide">Complete</span>
                 ) : s ? (
-                  <span className="text-xs text-slate-500">{s.remaining}/{s.total} left</span>
+                  <span className="text-xs text-slate-500">
+                    {remainingOf(topic)}/{totalOf(topic)} left
+                  </span>
                 ) : (
                   <span className="text-xs text-slate-500">
                     {extrasTopicIds.has(topic.id)
