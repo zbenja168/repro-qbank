@@ -11,13 +11,23 @@ export function useQuestions() {
     categoryIds: string[],
     selectedTopicIds: Set<string>,
     /** Questions already answered, excluded from the quiz. */
-    excludeIds?: Set<string>
+    excludeIds?: Set<string>,
+    /** Topics that opted into their extension questions. Topics not listed
+     *  serve only their core 12. Undefined serves everything, which is what
+     *  review and the dashboard want. */
+    extrasTopicIds?: Set<string>
   ) => {
     setLoading(true);
     try {
       const categories = await loadMultipleCategories(categoryIds);
       const all = categories.flatMap(c => c.questions);
-      const inTopics = all.filter(q => selectedTopicIds.has(q.topicId));
+      const inTopics = all
+        .filter(q => selectedTopicIds.has(q.topicId))
+        // Questions carry no tier on data assembled before the split, and
+        // are then treated as core so nothing silently disappears.
+        .filter(q => extrasTopicIds === undefined
+          || q.tier !== 'extra'
+          || extrasTopicIds.has(q.topicId));
       // A quiz serves what is LEFT in the chosen topics, so picking a topic you
       // are 6 of 12 through gives you those 6. If everything in the selection is
       // done, serve it all rather than an empty quiz - the picker greys finished

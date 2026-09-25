@@ -46,7 +46,8 @@
         "ampulla"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp01-002",
@@ -92,7 +93,8 @@
         "dysplasia"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp01-003",
@@ -138,7 +140,8 @@
         "stratum basalis"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp01-004",
@@ -184,7 +187,8 @@
         "labor"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp01-005",
@@ -230,7 +234,8 @@
         "pregnancy"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp01-006",
@@ -276,7 +281,8 @@
         "para-aortic nodes"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp01-007",
@@ -322,7 +328,8 @@
         "surgical anatomy"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp01-008",
@@ -368,7 +375,8 @@
         "vulva"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp01-009",
@@ -414,7 +422,8 @@
         "epithelium"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp01-010",
@@ -460,7 +469,8 @@
         "hemorrhage"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp01-011",
@@ -506,7 +516,8 @@
         "prolapse"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp01-012",
@@ -552,7 +563,8 @@
         "theca interna"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp01-013",
@@ -598,7 +610,8 @@
         "sciatic foramina"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-014",
@@ -644,7 +657,8 @@
         "urogenital triangle"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-015",
@@ -690,7 +704,8 @@
         "histology"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-016",
@@ -736,7 +751,8 @@
         "labia minora"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-017",
@@ -782,7 +798,8 @@
         "urethral meatus"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-018",
@@ -828,7 +845,8 @@
         "hormonal status"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-019",
@@ -874,7 +892,8 @@
         "fibromuscular tissue"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-020",
@@ -920,7 +939,8 @@
         "cervical canal"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-021",
@@ -966,7 +986,8 @@
         "placental separation"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-022",
@@ -1012,7 +1033,8 @@
         "implantation"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-023",
@@ -1058,7 +1080,8 @@
         "ovary"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-024",
@@ -1104,7 +1127,8 @@
         "ovum transport"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-025",
@@ -1150,7 +1174,8 @@
         "infertility"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-026",
@@ -1196,7 +1221,8 @@
         "vagus nerve"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-027",
@@ -1242,7 +1268,8 @@
         "ovulation"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-028",
@@ -1288,7 +1315,8 @@
         "LH"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-029",
@@ -1334,7 +1362,8 @@
         "ovarian tumors"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-030",
@@ -1380,7 +1409,8 @@
         "uterine ligaments"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-031",
@@ -1426,7 +1456,8 @@
         "hysterectomy"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-032",
@@ -1472,7 +1503,8 @@
         "water under the bridge"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-033",
@@ -1518,7 +1550,8 @@
         "external urethral sphincter"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-034",
@@ -1564,7 +1597,8 @@
         "physical therapy"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-035",
@@ -1610,7 +1644,8 @@
         "arterial supply"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp01-036",
@@ -1656,7 +1691,8 @@
         "pregnancy"
       ],
       "topicId": "anatomy-histology-female-reproductive-system",
-      "topicName": "Anatomy and Histology of the Female Reproductive System"
+      "topicName": "Anatomy and Histology of the Female Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-001",
@@ -1702,7 +1738,8 @@
         "pampiniform plexus"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp02-002",
@@ -1748,7 +1785,8 @@
         "venous plexus"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp02-003",
@@ -1794,7 +1832,8 @@
         "prostatic urethra"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp02-004",
@@ -1840,7 +1879,8 @@
         "infertility"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp02-005",
@@ -1886,7 +1926,8 @@
         "lymphatic drainage"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp02-006",
@@ -1932,7 +1973,8 @@
         "lymphatic drainage"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp02-007",
@@ -1978,7 +2020,8 @@
         "seminal fluid volume"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp02-008",
@@ -2024,7 +2067,8 @@
         "smooth muscle layers"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp02-009",
@@ -2070,7 +2114,8 @@
         "epididymis"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp02-010",
@@ -2116,7 +2161,8 @@
         "prostate histology"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp02-011",
@@ -2162,7 +2208,8 @@
         "erection"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp02-012",
@@ -2208,7 +2255,8 @@
         "spongy urethra"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "core"
     },
     {
       "id": "rp02-013",
@@ -2254,7 +2302,8 @@
         "penile anatomy"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-014",
@@ -2300,7 +2349,8 @@
         "seminiferous tubules"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-015",
@@ -2346,7 +2396,8 @@
         "vas deferens"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-016",
@@ -2392,7 +2443,8 @@
         "semen"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-017",
@@ -2438,7 +2490,8 @@
         "semen coagulation"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-018",
@@ -2484,7 +2537,8 @@
         "sperm energy"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-019",
@@ -2530,7 +2584,8 @@
         "seminal fluid"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-020",
@@ -2576,7 +2631,8 @@
         "sperm survival"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-021",
@@ -2622,7 +2678,8 @@
         "digital rectal exam"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-022",
@@ -2668,7 +2725,8 @@
         "prostate zones"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-023",
@@ -2714,7 +2772,8 @@
         "ejaculation"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-024",
@@ -2760,7 +2819,8 @@
         "aging"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-025",
@@ -2806,7 +2866,8 @@
         "two-layered epithelium"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-026",
@@ -2852,7 +2913,8 @@
         "contraception"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-027",
@@ -2898,7 +2960,8 @@
         "histology"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-028",
@@ -2944,7 +3007,8 @@
         "fascial layers"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-029",
@@ -2990,7 +3054,8 @@
         "sex differences"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-030",
@@ -3036,7 +3101,8 @@
         "sex differences"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-031",
@@ -3082,7 +3148,8 @@
         "parasympathetic innervation"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-032",
@@ -3128,7 +3195,8 @@
         "ejaculation"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-033",
@@ -3174,7 +3242,8 @@
         "semen formation"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-034",
@@ -3220,7 +3289,8 @@
         "erectile dysfunction"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-035",
@@ -3266,7 +3336,8 @@
         "lymphatic drainage"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp02-036",
@@ -3312,7 +3383,8 @@
         "pelvic vasculature"
       ],
       "topicId": "anatomy-and-histology-of-the-male-reproductive-system",
-      "topicName": "Anatomy and Histology of the Male Reproductive System"
+      "topicName": "Anatomy and Histology of the Male Reproductive System",
+      "tier": "extra"
     },
     {
       "id": "rp03-001",
@@ -3358,7 +3430,8 @@
         "inflammatory carcinoma"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "core"
     },
     {
       "id": "rp03-002",
@@ -3404,7 +3477,8 @@
         "gross anatomy"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "core"
     },
     {
       "id": "rp03-003",
@@ -3450,7 +3524,8 @@
         "puberty"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "core"
     },
     {
       "id": "rp03-004",
@@ -3496,7 +3571,8 @@
         "breast cancer"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "core"
     },
     {
       "id": "rp03-005",
@@ -3542,7 +3618,8 @@
         "staging"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "core"
     },
     {
       "id": "rp03-006",
@@ -3588,7 +3665,8 @@
         "clinical reasoning"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "core"
     },
     {
       "id": "rp03-007",
@@ -3634,7 +3712,8 @@
         "histology"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "core"
     },
     {
       "id": "rp03-008",
@@ -3680,7 +3759,8 @@
         "histology"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "core"
     },
     {
       "id": "rp03-009",
@@ -3726,7 +3806,8 @@
         "lactation"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "core"
     },
     {
       "id": "rp03-010",
@@ -3772,7 +3853,8 @@
         "mammary gland"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "core"
     },
     {
       "id": "rp03-011",
@@ -3818,7 +3900,8 @@
         "plasma cells"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "core"
     },
     {
       "id": "rp03-012",
@@ -3864,7 +3947,8 @@
         "apoptosis"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "core"
     },
     {
       "id": "rp03-013",
@@ -3910,7 +3994,8 @@
         "gland classification"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-014",
@@ -3956,7 +4041,8 @@
         "glandular tissue"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-015",
@@ -4002,7 +4088,8 @@
         "rib landmarks"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-016",
@@ -4048,7 +4135,8 @@
         "surgical planes"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-017",
@@ -4094,7 +4182,8 @@
         "structural support"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-018",
@@ -4140,7 +4229,8 @@
         "axillary veins"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-019",
@@ -4186,7 +4276,8 @@
         "arterial supply"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-020",
@@ -4232,7 +4323,8 @@
         "lymphatic drainage"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-021",
@@ -4278,7 +4370,8 @@
         "pectoralis minor"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-022",
@@ -4324,7 +4417,8 @@
         "medial drainage"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-023",
@@ -4370,7 +4464,8 @@
         "lymphatic spread"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-024",
@@ -4416,7 +4511,8 @@
         "breast exam"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-025",
@@ -4462,7 +4558,8 @@
         "fascial boundaries"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-026",
@@ -4508,7 +4605,8 @@
         "functional unit"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-027",
@@ -4554,7 +4652,8 @@
         "myoepithelial layer"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-028",
@@ -4600,7 +4699,8 @@
         "breast development"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-029",
@@ -4646,7 +4746,8 @@
         "mammary gland"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-030",
@@ -4692,7 +4793,8 @@
         "adipose replacement"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-031",
@@ -4738,7 +4840,8 @@
         "nipple"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-032",
@@ -4784,7 +4887,8 @@
         "development"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-033",
@@ -4830,7 +4934,8 @@
         "thelarche timing"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-034",
@@ -4876,7 +4981,8 @@
         "ductal proliferation"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-035",
@@ -4922,7 +5028,8 @@
         "pregnancy onset"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp03-036",
@@ -4968,7 +5075,8 @@
         "clinical reasoning"
       ],
       "topicId": "structure-and-function-of-the-breast",
-      "topicName": "Structure and Function of the Breast"
+      "topicName": "Structure and Function of the Breast",
+      "tier": "extra"
     },
     {
       "id": "rp04-001",
@@ -5015,7 +5123,8 @@
         "histology"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "core"
     },
     {
       "id": "rp04-002",
@@ -5061,7 +5170,8 @@
         "tight-junctions"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "core"
     },
     {
       "id": "rp04-003",
@@ -5107,7 +5217,8 @@
         "spermatogonia"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "core"
     },
     {
       "id": "rp04-004",
@@ -5153,7 +5264,8 @@
         "primary-spermatocyte"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "core"
     },
     {
       "id": "rp04-005",
@@ -5199,7 +5311,8 @@
         "golgi"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "core"
     },
     {
       "id": "rp04-006",
@@ -5245,7 +5358,8 @@
         "androgen-binding-protein"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "core"
     },
     {
       "id": "rp04-007",
@@ -5291,7 +5405,8 @@
         "azoospermia"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "core"
     },
     {
       "id": "rp04-008",
@@ -5337,7 +5452,8 @@
         "zona-pellucida"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "core"
     },
     {
       "id": "rp04-009",
@@ -5383,7 +5499,8 @@
         "duct-system"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "core"
     },
     {
       "id": "rp04-010",
@@ -5429,7 +5546,8 @@
         "testicular-cancer"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "core"
     },
     {
       "id": "rp04-011",
@@ -5475,7 +5593,8 @@
         "spermatogenesis"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "core"
     },
     {
       "id": "rp04-012",
@@ -5521,7 +5640,8 @@
         "spermatids"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "core"
     },
     {
       "id": "rp04-013",
@@ -5567,7 +5687,8 @@
         "prepuberty"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-014",
@@ -5614,7 +5735,8 @@
         "anatomy"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-015",
@@ -5660,7 +5782,8 @@
         "histology"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-016",
@@ -5706,7 +5829,8 @@
         "numbers"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-017",
@@ -5752,7 +5876,8 @@
         "histology"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-018",
@@ -5798,7 +5923,8 @@
         "seminiferous-epithelium"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-019",
@@ -5844,7 +5970,8 @@
         "sperm-antigens"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-020",
@@ -5890,7 +6017,8 @@
         "histology"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-021",
@@ -5936,7 +6064,8 @@
         "numbers"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-022",
@@ -5982,7 +6111,8 @@
         "continuous-production"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-023",
@@ -6028,7 +6158,8 @@
         "prepubertal-testis"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-024",
@@ -6074,7 +6205,8 @@
         "male-vs-female"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-025",
@@ -6120,7 +6252,8 @@
         "type-B-spermatogonia"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-026",
@@ -6166,7 +6299,8 @@
         "primary-spermatocyte"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-027",
@@ -6212,7 +6346,8 @@
         "secondary-spermatocyte"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-028",
@@ -6258,7 +6393,8 @@
         "no-cell-division"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-029",
@@ -6304,7 +6440,8 @@
         "terminology"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-030",
@@ -6350,7 +6487,8 @@
         "duct-system"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-031",
@@ -6397,7 +6535,8 @@
         "FSH"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-032",
@@ -6443,7 +6582,8 @@
         "autonomic"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-033",
@@ -6489,7 +6629,8 @@
         "sperm-pathway"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-034",
@@ -6535,7 +6676,8 @@
         "male-infertility"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-035",
@@ -6581,7 +6723,8 @@
         "male-fertility"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     },
     {
       "id": "rp04-036",
@@ -6627,7 +6770,8 @@
         "clinical-reasoning"
       ],
       "topicId": "structure-and-function-of-the-testis",
-      "topicName": "Structure and Function of the Testis"
+      "topicName": "Structure and Function of the Testis",
+      "tier": "extra"
     }
   ]
 }

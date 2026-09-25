@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import { TopicsIndex, Category } from '../types/topic';
+import { TopicsIndex, Category, Topic } from '../types/topic';
 
 /** Topic ids to leave out of bulk selection — the completed ones. Set by App
  *  once the per-topic counts are known; empty until then, which just means
@@ -10,6 +10,9 @@ export function setCompletedTopicIds(ids: Set<string>) { completedTopicIds = ids
 export function useTopics() {
   const [topics, setTopics] = useState<TopicsIndex | null>(null);
   const [selectedTopicIds, setSelectedTopicIds] = useState<Set<string>>(new Set());
+  /** Topics whose extension questions are folded in. Everything else serves
+   *  just the core 12, which is the point of the split. */
+  const [extrasTopicIds, setExtrasTopicIds] = useState<Set<string>>(new Set());
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -30,6 +33,39 @@ export function useTopics() {
       return next;
     });
   }, []);
+
+  const toggleExtras = useCallback((topicId: string) => {
+    setExtrasTopicIds(prev => {
+      const next = new Set(prev);
+      if (next.has(topicId)) next.delete(topicId);
+      else next.add(topicId);
+      return next;
+    });
+  }, []);
+
+  /** Category-level: turn extras on unless every topic already has them. */
+  const toggleCategoryExtras = useCallback((category: Category) => {
+    setExtrasTopicIds(prev => {
+      const next = new Set(prev);
+      const withExtras = category.topics.filter(t => (t.extraCount ?? 0) > 0);
+      const allOn = withExtras.length > 0 && withExtras.every(t => next.has(t.id));
+      for (const t of withExtras) {
+        if (allOn) next.delete(t.id);
+        else next.add(t.id);
+      }
+      return next;
+    });
+  }, []);
+
+  const setAllExtras = useCallback((on: boolean) => {
+    if (!topics) return;
+    if (!on) { setExtrasTopicIds(new Set()); return; }
+    const all = new Set<string>();
+    for (const cat of topics.categories) {
+      for (const t of cat.topics) if ((t.extraCount ?? 0) > 0) all.add(t.id);
+    }
+    setExtrasTopicIds(all);
+  }, [topics]);
 
   const toggleCategory = useCallback((category: Category) => {
     setSelectedTopicIds(prev => {
@@ -60,10 +96,25 @@ export function useTopics() {
     setSelectedTopicIds(new Set());
   }, []);
 
+  // A selected topic contributes its core 12, plus its extras only if asked.
+  // Data assembled before the split has no counts, so fall back to the total.
+  const countFor = (t: Topic) => {
+    if (t.coreCount === undefined) return t.questionCount;
+    return t.coreCount + (extrasTopicIds.has(t.id) ? (t.extraCount ?? 0) : 0);
+  };
+
   const selectedCount = topics
     ? topics.categories.reduce((sum, cat) =>
         sum + cat.topics.reduce((s, t) =>
-          s + (selectedTopicIds.has(t.id) ? t.questionCount : 0), 0), 0)
+          s + (selectedTopicIds.has(t.id) ? countFor(t) : 0), 0), 0)
+    : 0;
+
+  /** How many extras the current selection is leaving on the table. */
+  const availableExtras = topics
+    ? topics.categories.reduce((sum, cat) =>
+        sum + cat.topics.reduce((s, t) =>
+          s + (selectedTopicIds.has(t.id) && !extrasTopicIds.has(t.id)
+               ? (t.extraCount ?? 0) : 0), 0), 0)
     : 0;
 
   const categoriesForSelected = topics
@@ -85,5 +136,10 @@ export function useTopics() {
     selectAll,
     clearAll,
     setSelectedTopicIds,
+    extrasTopicIds,
+    availableExtras,
+    toggleExtras,
+    toggleCategoryExtras,
+    setAllExtras,
   };
 }

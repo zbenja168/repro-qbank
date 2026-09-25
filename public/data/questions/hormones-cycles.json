@@ -46,7 +46,8 @@
         "ovulation"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "core"
     },
     {
       "id": "rp09-002",
@@ -92,7 +93,8 @@
         "secondary-oocyte"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "core"
     },
     {
       "id": "rp09-003",
@@ -138,7 +140,8 @@
         "maternal-age"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "core"
     },
     {
       "id": "rp09-004",
@@ -184,7 +187,8 @@
         "spermatogenesis"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "core"
     },
     {
       "id": "rp09-005",
@@ -230,7 +234,8 @@
         "hCG"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "core"
     },
     {
       "id": "rp09-006",
@@ -276,7 +281,8 @@
         "sperm-motility"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "core"
     },
     {
       "id": "rp09-007",
@@ -322,7 +328,8 @@
         "acrosin"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "core"
     },
     {
       "id": "rp09-008",
@@ -368,7 +375,8 @@
         "calcium"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "core"
     },
     {
       "id": "rp09-009",
@@ -414,7 +422,8 @@
         "granulosa-cells"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "core"
     },
     {
       "id": "rp09-010",
@@ -460,7 +469,8 @@
         "membrane-fusion"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "core"
     },
     {
       "id": "rp09-011",
@@ -506,7 +516,8 @@
         "meiosis"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "core"
     },
     {
       "id": "rp09-012",
@@ -552,7 +563,8 @@
         "barriers-to-fertilization"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "core"
     },
     {
       "id": "rp09-013",
@@ -598,7 +610,8 @@
         "genetic-diversity"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-014",
@@ -644,7 +657,8 @@
         "ploidy"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-015",
@@ -690,7 +704,8 @@
         "haploid-gametes"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-016",
@@ -736,7 +751,8 @@
         "mid-gestation"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-017",
@@ -782,7 +798,8 @@
         "oogenesis"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-018",
@@ -828,7 +845,8 @@
         "estradiol-feedback"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-019",
@@ -874,7 +892,8 @@
         "sister-chromatids"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-020",
@@ -920,7 +939,8 @@
         "gametogenesis-asymmetry"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-021",
@@ -966,7 +986,8 @@
         "seminiferous-tubules"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-022",
@@ -1012,7 +1033,8 @@
         "barriers-to-fertilization"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-023",
@@ -1058,7 +1080,8 @@
         "fallopian-tube"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-024",
@@ -1104,7 +1127,8 @@
         "fallopian-tube"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-025",
@@ -1150,7 +1174,8 @@
         "endometrium"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-026",
@@ -1196,7 +1221,8 @@
         "management"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-027",
@@ -1242,7 +1268,8 @@
         "hCG"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-028",
@@ -1288,7 +1315,8 @@
         "capacitation"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-029",
@@ -1334,7 +1362,8 @@
         "cAMP"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-030",
@@ -1380,7 +1409,8 @@
         "acrosin"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-031",
@@ -1426,7 +1456,8 @@
         "zygote"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-032",
@@ -1472,7 +1503,8 @@
         "cortical-reaction"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-033",
@@ -1518,7 +1550,8 @@
         "male-female-contrast"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-034",
@@ -1564,7 +1597,8 @@
         "cervical-mucus"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-035",
@@ -1610,7 +1644,8 @@
         "distance"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp09-036",
@@ -1656,7 +1691,8 @@
         "acrosome-reaction"
       ],
       "topicId": "fertilization",
-      "topicName": "Fertilization"
+      "topicName": "Fertilization",
+      "tier": "extra"
     },
     {
       "id": "rp10-001",
@@ -1702,7 +1738,8 @@
         "desmolase"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "core"
     },
     {
       "id": "rp10-002",
@@ -1748,7 +1785,8 @@
         "aromatase"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "core"
     },
     {
       "id": "rp10-003",
@@ -1794,7 +1832,8 @@
         "male-estrogen"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "core"
     },
     {
       "id": "rp10-004",
@@ -1840,7 +1879,8 @@
         "peripheral-aromatization"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "core"
     },
     {
       "id": "rp10-005",
@@ -1886,7 +1926,8 @@
         "receptor-downregulation"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "core"
     },
     {
       "id": "rp10-006",
@@ -1932,7 +1973,8 @@
         "ovulation"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "core"
     },
     {
       "id": "rp10-007",
@@ -1978,7 +2020,8 @@
         "dominant-follicle"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "core"
     },
     {
       "id": "rp10-008",
@@ -2024,7 +2067,8 @@
         "pregnancy"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "core"
     },
     {
       "id": "rp10-009",
@@ -2070,7 +2114,8 @@
         "transcription"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "core"
     },
     {
       "id": "rp10-010",
@@ -2116,7 +2161,8 @@
         "progesterone"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "core"
     },
     {
       "id": "rp10-011",
@@ -2162,7 +2208,8 @@
         "osteoclast"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "core"
     },
     {
       "id": "rp10-012",
@@ -2208,7 +2255,8 @@
         "luteal-phase"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "core"
     },
     {
       "id": "rp10-013",
@@ -2254,7 +2302,8 @@
         "hormone-classes"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-014",
@@ -2300,7 +2349,8 @@
         "normal-values"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-015",
@@ -2346,7 +2396,8 @@
         "estrogen-synthesis"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-016",
@@ -2392,7 +2443,8 @@
         "estradiol-interconversion"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-017",
@@ -2438,7 +2490,8 @@
         "testosterone"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-018",
@@ -2484,7 +2537,8 @@
         "anterior-pituitary"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-019",
@@ -2530,7 +2584,8 @@
         "gonadotropins"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-020",
@@ -2576,7 +2631,8 @@
         "dominant-follicle"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-021",
@@ -2622,7 +2678,8 @@
         "menstruation"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-022",
@@ -2668,7 +2725,8 @@
         "binding-globulins"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-023",
@@ -2714,7 +2772,8 @@
         "subcellular-localization"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-024",
@@ -2760,7 +2819,8 @@
         "receptor-signaling"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-025",
@@ -2806,7 +2866,8 @@
         "uterus"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-026",
@@ -2852,7 +2913,8 @@
         "ldl"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-027",
@@ -2898,7 +2960,8 @@
         "estrogen-functions"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-028",
@@ -2944,7 +3007,8 @@
         "alveolar-lobular"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-029",
@@ -2990,7 +3054,8 @@
         "luteal-phase"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-030",
@@ -3036,7 +3101,8 @@
         "progesterone-functions"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-031",
@@ -3082,7 +3148,8 @@
         "progesterone"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-032",
@@ -3128,7 +3195,8 @@
         "steroidogenesis"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-033",
@@ -3174,7 +3242,8 @@
         "fsh-receptor"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-034",
@@ -3220,7 +3289,8 @@
         "estrogen-deficiency"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-035",
@@ -3266,7 +3336,8 @@
         "regulation"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp10-036",
@@ -3312,7 +3383,8 @@
         "steroid-vs-neurotransmitter"
       ],
       "topicId": "estrogen-and-progesterone",
-      "topicName": "Estrogen and Progesterone"
+      "topicName": "Estrogen and Progesterone",
+      "tier": "extra"
     },
     {
       "id": "rp11-001",
@@ -3358,7 +3430,8 @@
         "infertility"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "core"
     },
     {
       "id": "rp11-002",
@@ -3404,7 +3477,8 @@
         "external genitalia"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "core"
     },
     {
       "id": "rp11-003",
@@ -3450,7 +3524,8 @@
         "fetal development"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "core"
     },
     {
       "id": "rp11-004",
@@ -3496,7 +3571,8 @@
         "negative feedback"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "core"
     },
     {
       "id": "rp11-005",
@@ -3542,7 +3618,8 @@
         "fetal development"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "core"
     },
     {
       "id": "rp11-006",
@@ -3588,7 +3665,8 @@
         "steroid structure"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "core"
     },
     {
       "id": "rp11-007",
@@ -3634,7 +3712,8 @@
         "DHT"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "core"
     },
     {
       "id": "rp11-008",
@@ -3680,7 +3759,8 @@
         "46,XY"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "core"
     },
     {
       "id": "rp11-009",
@@ -3726,7 +3806,8 @@
         "HPG axis"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "core"
     },
     {
       "id": "rp11-010",
@@ -3772,7 +3853,8 @@
         "adrenal androgens"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "core"
     },
     {
       "id": "rp11-011",
@@ -3818,7 +3900,8 @@
         "epiphyseal closure"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "core"
     },
     {
       "id": "rp11-012",
@@ -3864,7 +3947,8 @@
         "erythropoiesis"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "core"
     },
     {
       "id": "rp11-013",
@@ -3910,7 +3994,8 @@
         "Leydig cells"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-014",
@@ -3956,7 +4041,8 @@
         "androgen synthesis"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-015",
@@ -4002,7 +4088,8 @@
         "infancy"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-016",
@@ -4048,7 +4135,8 @@
         "ovarian androgens"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-017",
@@ -4094,7 +4182,8 @@
         "female androgens"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-018",
@@ -4140,7 +4229,8 @@
         "virilization"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-019",
@@ -4186,7 +4276,8 @@
         "gonadotropes"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-020",
@@ -4232,7 +4323,8 @@
         "LH"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-021",
@@ -4278,7 +4370,8 @@
         "FSH"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-022",
@@ -4324,7 +4417,8 @@
         "tight junctions"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-023",
@@ -4370,7 +4464,8 @@
         "hypogonadotropic hypogonadism"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-024",
@@ -4416,7 +4511,8 @@
         "local conversion"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-025",
@@ -4462,7 +4558,8 @@
         "androgenic alopecia"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-026",
@@ -4508,7 +4605,8 @@
         "virilization"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-027",
@@ -4554,7 +4652,8 @@
         "indications"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-028",
@@ -4600,7 +4699,8 @@
         "adverse effects"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-029",
@@ -4646,7 +4746,8 @@
         "voice deepening"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-030",
@@ -4692,7 +4793,8 @@
         "weak androgens"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-031",
@@ -4738,7 +4840,8 @@
         "testes"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-032",
@@ -4784,7 +4887,8 @@
         "adrenal glands"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-033",
@@ -4830,7 +4934,8 @@
         "lifespan"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-034",
@@ -4876,7 +4981,8 @@
         "prostate"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-035",
@@ -4922,7 +5028,8 @@
         "androgens"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp11-036",
@@ -4968,7 +5075,8 @@
         "LH regulation"
       ],
       "topicId": "androgens",
-      "topicName": "Androgens"
+      "topicName": "Androgens",
+      "tier": "extra"
     },
     {
       "id": "rp12-001",
@@ -5015,7 +5123,8 @@
         "estradiol"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "core"
     },
     {
       "id": "rp12-002",
@@ -5061,7 +5170,8 @@
         "LH surge"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "core"
     },
     {
       "id": "rp12-003",
@@ -5107,7 +5217,8 @@
         "ovulation"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "core"
     },
     {
       "id": "rp12-004",
@@ -5153,7 +5264,8 @@
         "clinical correlation"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "core"
     },
     {
       "id": "rp12-005",
@@ -5199,7 +5311,8 @@
         "early pregnancy"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "core"
     },
     {
       "id": "rp12-006",
@@ -5245,7 +5358,8 @@
         "follicular phase"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "core"
     },
     {
       "id": "rp12-007",
@@ -5291,7 +5405,8 @@
         "follicle selection"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "core"
     },
     {
       "id": "rp12-008",
@@ -5337,7 +5452,8 @@
         "feedback regulation"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "core"
     },
     {
       "id": "rp12-009",
@@ -5383,7 +5499,8 @@
         "endometrium"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "core"
     },
     {
       "id": "rp12-010",
@@ -5429,7 +5546,8 @@
         "corpus luteum"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "core"
     },
     {
       "id": "rp12-011",
@@ -5475,7 +5593,8 @@
         "negative feedback"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "core"
     },
     {
       "id": "rp12-012",
@@ -5521,7 +5640,8 @@
         "primordial follicles"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "core"
     },
     {
       "id": "rp12-013",
@@ -5567,7 +5687,8 @@
         "amenorrhea"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-014",
@@ -5613,7 +5734,8 @@
         "ovulation"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-015",
@@ -5660,7 +5782,8 @@
         "implantation"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-016",
@@ -5706,7 +5829,8 @@
         "prophase I"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-017",
@@ -5752,7 +5876,8 @@
         "folliculogenesis"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-018",
@@ -5798,7 +5923,8 @@
         "vascularization"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-019",
@@ -5844,7 +5970,8 @@
         "secondary follicle"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-020",
@@ -5890,7 +6017,8 @@
         "FSH"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-021",
@@ -5936,7 +6064,8 @@
         "late follicular maturation"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-022",
@@ -5982,7 +6111,8 @@
         "proteolytic remodeling"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-023",
@@ -6029,7 +6159,8 @@
         "theca cells"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-024",
@@ -6075,7 +6206,8 @@
         "ovarian histology"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-025",
@@ -6122,7 +6254,8 @@
         "FSH suppression"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-026",
@@ -6168,7 +6301,8 @@
         "gonadotropes"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-027",
@@ -6214,7 +6348,8 @@
         "luteal phase"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-028",
@@ -6260,7 +6395,8 @@
         "corpus luteum regression"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-029",
@@ -6306,7 +6442,8 @@
         "endometrium"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-030",
@@ -6352,7 +6489,8 @@
         "endometrial priming"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-031",
@@ -6398,7 +6536,8 @@
         "early pregnancy"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-032",
@@ -6445,7 +6584,8 @@
         "implantation"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-033",
@@ -6491,7 +6631,8 @@
         "ovulation timing"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-034",
@@ -6538,7 +6679,8 @@
         "dominant follicle"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-035",
@@ -6585,7 +6727,8 @@
         "endometrial receptivity"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp12-036",
@@ -6631,7 +6774,8 @@
         "dominant follicle"
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
-      "topicName": "Ovulation and the Menstrual Cycle"
+      "topicName": "Ovulation and the Menstrual Cycle",
+      "tier": "extra"
     },
     {
       "id": "rp13-001",
@@ -6677,7 +6821,8 @@
         "imperforate-hymen"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "core"
     },
     {
       "id": "rp13-002",
@@ -6723,7 +6868,8 @@
         "pregnancy-test"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "core"
     },
     {
       "id": "rp13-003",
@@ -6769,7 +6915,8 @@
         "female-athlete"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "core"
     },
     {
       "id": "rp13-004",
@@ -6815,7 +6962,8 @@
         "hypergonadotropic"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "core"
     },
     {
       "id": "rp13-005",
@@ -6861,7 +7009,8 @@
         "primary-amenorrhea"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "core"
     },
     {
       "id": "rp13-006",
@@ -6907,7 +7056,8 @@
         "dopamine-agonist"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "core"
     },
     {
       "id": "rp13-007",
@@ -6953,7 +7103,8 @@
         "uterine"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "core"
     },
     {
       "id": "rp13-008",
@@ -6999,7 +7150,8 @@
         "imaging"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "core"
     },
     {
       "id": "rp13-009",
@@ -7045,7 +7197,8 @@
         "pathophysiology"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "core"
     },
     {
       "id": "rp13-010",
@@ -7091,7 +7244,8 @@
         "treatment"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "core"
     },
     {
       "id": "rp13-011",
@@ -7137,7 +7291,8 @@
         "dyspareunia"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "core"
     },
     {
       "id": "rp13-012",
@@ -7183,7 +7338,8 @@
         "estrogen-deficiency"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "core"
     },
     {
       "id": "rp13-013",
@@ -7229,7 +7385,8 @@
         "thelarche"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-014",
@@ -7275,7 +7432,8 @@
         "irregular-cycles"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-015",
@@ -7321,7 +7479,8 @@
         "physiologic-amenorrhea"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-016",
@@ -7367,7 +7526,8 @@
         "estrogen-deficiency"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-017",
@@ -7413,7 +7573,8 @@
         "dopamine-antagonist"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-018",
@@ -7459,7 +7620,8 @@
         "treatment"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-019",
@@ -7505,7 +7667,8 @@
         "surgical-treatment"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-020",
@@ -7551,7 +7714,8 @@
         "outflow-tract"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-021",
@@ -7597,7 +7761,8 @@
         "mechanism"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-022",
@@ -7643,7 +7808,8 @@
         "idiopathic"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-023",
@@ -7689,7 +7855,8 @@
         "endometrial-protection"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-024",
@@ -7735,7 +7902,8 @@
         "hyperandrogenism"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-025",
@@ -7781,7 +7949,8 @@
         "virilization"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-026",
@@ -7827,7 +7996,8 @@
         "laboratory-localization"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-027",
@@ -7873,7 +8043,8 @@
         "prolactinoma"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-028",
@@ -7919,7 +8090,8 @@
         "hypergonadotropic"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-029",
@@ -7965,7 +8137,8 @@
         "energy-balance"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-030",
@@ -8011,7 +8184,8 @@
         "energy-availability"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-031",
@@ -8057,7 +8231,8 @@
         "GnRH-suppression"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-032",
@@ -8103,7 +8278,8 @@
         "menarche"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-033",
@@ -8149,7 +8325,8 @@
         "prostaglandins"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-034",
@@ -8195,7 +8372,8 @@
         "heavy-bleeding"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-035",
@@ -8241,7 +8419,8 @@
         "secondary-dysmenorrhea"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp13-036",
@@ -8287,7 +8466,8 @@
         "secondary-dysmenorrhea"
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
-      "topicName": "Amenorrhea and Dysmenorrhea"
+      "topicName": "Amenorrhea and Dysmenorrhea",
+      "tier": "extra"
     },
     {
       "id": "rp14-001",
@@ -8333,7 +8513,8 @@
         "HPG axis"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "core"
     },
     {
       "id": "rp14-002",
@@ -8379,7 +8560,8 @@
         "pubarche"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "core"
     },
     {
       "id": "rp14-003",
@@ -8425,7 +8607,8 @@
         "GnRH stimulation"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "core"
     },
     {
       "id": "rp14-004",
@@ -8471,7 +8654,8 @@
         "treatment"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "core"
     },
     {
       "id": "rp14-005",
@@ -8517,7 +8701,8 @@
         "peripheral precocious puberty"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "core"
     },
     {
       "id": "rp14-006",
@@ -8563,7 +8748,8 @@
         "peripheral precocious puberty"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "core"
     },
     {
       "id": "rp14-007",
@@ -8609,7 +8795,8 @@
         "suppressed gonadotropins"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "core"
     },
     {
       "id": "rp14-008",
@@ -8655,7 +8842,8 @@
         "growth spurt"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "core"
     },
     {
       "id": "rp14-009",
@@ -8701,7 +8889,8 @@
         "diagnosis of exclusion"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "core"
     },
     {
       "id": "rp14-010",
@@ -8747,7 +8936,8 @@
         "karyotype"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "core"
     },
     {
       "id": "rp14-011",
@@ -8793,7 +8983,8 @@
         "energy deficit"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "core"
     },
     {
       "id": "rp14-012",
@@ -8839,7 +9030,8 @@
         "delayed puberty"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "core"
     },
     {
       "id": "rp14-013",
@@ -8885,7 +9077,8 @@
         "age thresholds"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-014",
@@ -8931,7 +9124,8 @@
         "breast development"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-015",
@@ -8977,7 +9171,8 @@
         "pre-gonadarche"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-016",
@@ -9023,7 +9218,8 @@
         "pubic hair"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-017",
@@ -9069,7 +9265,8 @@
         "virilization"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-018",
@@ -9115,7 +9312,8 @@
         "corpus luteum"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-019",
@@ -9161,7 +9359,8 @@
         "growth spurt"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-020",
@@ -9207,7 +9406,8 @@
         "pubertal height gain"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-021",
@@ -9253,7 +9453,8 @@
         "skeletal maturation"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-022",
@@ -9299,7 +9500,8 @@
         "neurologic findings"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-023",
@@ -9345,7 +9547,8 @@
         "LH-predominant response"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-024",
@@ -9391,7 +9594,8 @@
         "HPG axis recovery"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-025",
@@ -9437,7 +9641,8 @@
         "peripheral precocious puberty"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-026",
@@ -9483,7 +9688,8 @@
         "peripheral precocious puberty"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-027",
@@ -9529,7 +9735,8 @@
         "treatment selection"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-028",
@@ -9575,7 +9782,8 @@
         "adrenarche vs gonadarche"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-029",
@@ -9621,7 +9829,8 @@
         "primary hypogonadism"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-030",
@@ -9667,7 +9876,8 @@
         "hypogonadotropic hypogonadism"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-031",
@@ -9713,7 +9923,8 @@
         "hypogonadotropic hypogonadism"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-032",
@@ -9759,7 +9970,8 @@
         "management"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-033",
@@ -9805,7 +10017,8 @@
         "diagnostic evaluation"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-034",
@@ -9851,7 +10064,8 @@
         "HPG axis"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-035",
@@ -9897,7 +10111,8 @@
         "prepubertal testes"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     },
     {
       "id": "rp14-036",
@@ -9943,7 +10158,8 @@
         "reassurance"
       ],
       "topicId": "puberty-and-hormonal-regulation",
-      "topicName": "Puberty and Hormonal Regulation"
+      "topicName": "Puberty and Hormonal Regulation",
+      "tier": "extra"
     }
   ]
 }

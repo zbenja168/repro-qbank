@@ -46,7 +46,8 @@
         "gender-identity"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "core"
     },
     {
       "id": "rp05-002",
@@ -91,7 +92,8 @@
         "gender-expression"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "core"
     },
     {
       "id": "rp05-003",
@@ -136,7 +138,8 @@
         "intersex"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "core"
     },
     {
       "id": "rp05-004",
@@ -182,7 +185,8 @@
         "pronouns"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "core"
     },
     {
       "id": "rp05-005",
@@ -227,7 +231,8 @@
         "sexual-history"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "core"
     },
     {
       "id": "rp05-006",
@@ -272,7 +277,8 @@
         "inclusive-communication"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "core"
     },
     {
       "id": "rp05-007",
@@ -317,7 +323,8 @@
         "puberty-blockers"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "core"
     },
     {
       "id": "rp05-008",
@@ -363,7 +370,8 @@
         "evidence"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "core"
     },
     {
       "id": "rp05-009",
@@ -409,7 +417,8 @@
         "pronouns"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "core"
     },
     {
       "id": "rp05-010",
@@ -455,7 +464,8 @@
         "dsm-5"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "core"
     },
     {
       "id": "rp05-011",
@@ -501,7 +511,8 @@
         "anatomy-based-care"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "core"
     },
     {
       "id": "rp05-012",
@@ -547,7 +558,8 @@
         "social-determinants"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "core"
     },
     {
       "id": "rp05-013",
@@ -592,7 +604,8 @@
         "sex-assigned-at-birth"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-014",
@@ -637,7 +650,8 @@
         "gender-non-conformity"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-015",
@@ -682,7 +696,8 @@
         "sexual-orientation"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-016",
@@ -728,7 +743,8 @@
         "non-binary"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-017",
@@ -773,7 +789,8 @@
         "gender-fluid"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-018",
@@ -819,7 +836,8 @@
         "lgbtqia2"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-019",
@@ -865,7 +883,8 @@
         "lgbtqia2"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-020",
@@ -911,7 +930,8 @@
         "lgbtqia2"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-021",
@@ -956,7 +976,8 @@
         "inclusive-terminology"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-022",
@@ -1002,7 +1023,8 @@
         "transgender"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-023",
@@ -1047,7 +1069,8 @@
         "sexual-history"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-024",
@@ -1093,7 +1116,8 @@
         "pronouns"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-025",
@@ -1139,7 +1163,8 @@
         "pediatrics"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-026",
@@ -1185,7 +1210,8 @@
         "adolescents"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-027",
@@ -1231,7 +1257,8 @@
         "statistics"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-028",
@@ -1277,7 +1304,8 @@
         "pediatrics"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-029",
@@ -1323,7 +1351,8 @@
         "feminizing-procedures"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-030",
@@ -1369,7 +1398,8 @@
         "masculinizing-procedures"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-031",
@@ -1416,7 +1446,8 @@
         "law"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-032",
@@ -1462,7 +1493,8 @@
         "minority-stress"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-033",
@@ -1508,7 +1540,8 @@
         "health-equity"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-034",
@@ -1554,7 +1587,8 @@
         "gender-dysphoria"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-035",
@@ -1600,7 +1634,8 @@
         "who-definition"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp05-036",
@@ -1646,7 +1681,8 @@
         "statistics"
       ],
       "topicId": "inclusive-language-and-health-equity",
-      "topicName": "Inclusive Language and Health Equity"
+      "topicName": "Inclusive Language and Health Equity",
+      "tier": "extra"
     },
     {
       "id": "rp06-001",
@@ -1692,7 +1728,8 @@
         "sex determination"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "core"
     },
     {
       "id": "rp06-002",
@@ -1738,7 +1775,8 @@
         "gonadal differentiation"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "core"
     },
     {
       "id": "rp06-003",
@@ -1784,7 +1822,8 @@
         "cryptorchidism"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "core"
     },
     {
       "id": "rp06-004",
@@ -1830,7 +1869,8 @@
         "urogenital sinus"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "core"
     },
     {
       "id": "rp06-005",
@@ -1876,7 +1916,8 @@
         "primary amenorrhea"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "core"
     },
     {
       "id": "rp06-006",
@@ -1922,7 +1963,8 @@
         "paramesonephric ducts"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "core"
     },
     {
       "id": "rp06-007",
@@ -1968,7 +2010,8 @@
         "uterus development"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "core"
     },
     {
       "id": "rp06-008",
@@ -2015,7 +2058,8 @@
         "advanced maternal age"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "core"
     },
     {
       "id": "rp06-009",
@@ -2061,7 +2105,8 @@
         "round ligament"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "core"
     },
     {
       "id": "rp06-010",
@@ -2107,7 +2152,8 @@
         "testicular descent"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "core"
     },
     {
       "id": "rp06-011",
@@ -2153,7 +2199,8 @@
         "external genitalia"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "core"
     },
     {
       "id": "rp06-012",
@@ -2199,7 +2246,8 @@
         "virilization"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "core"
     },
     {
       "id": "rp06-013",
@@ -2245,7 +2293,8 @@
         "gonadal ridge"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-014",
@@ -2291,7 +2340,8 @@
         "embryonic kidney"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-015",
@@ -2337,7 +2387,8 @@
         "gonadal dysgenesis"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-016",
@@ -2383,7 +2434,8 @@
         "testosterone"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-017",
@@ -2429,7 +2481,8 @@
         "duct differentiation"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-018",
@@ -2475,7 +2528,8 @@
         "testis"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-019",
@@ -2521,7 +2575,8 @@
         "scrotum"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-020",
@@ -2567,7 +2622,8 @@
         "fetal growth"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-021",
@@ -2613,7 +2669,8 @@
         "week 26"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-022",
@@ -2659,7 +2716,8 @@
         "peritoneum"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-023",
@@ -2705,7 +2763,8 @@
         "prostate"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-024",
@@ -2751,7 +2810,8 @@
         "fetal ovary"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-025",
@@ -2797,7 +2857,8 @@
         "nondisjunction"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-026",
@@ -2843,7 +2904,8 @@
         "aneuploidy"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-027",
@@ -2889,7 +2951,8 @@
         "advanced maternal age"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-028",
@@ -2935,7 +2998,8 @@
         "female development"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-029",
@@ -2981,7 +3045,8 @@
         "differentiation timeline"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-030",
@@ -3027,7 +3092,8 @@
         "external genitalia"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-031",
@@ -3073,7 +3139,8 @@
         "male external genitalia"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-032",
@@ -3119,7 +3186,8 @@
         "urogenital sinus homologs"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-033",
@@ -3165,7 +3233,8 @@
         "sex differences"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-034",
@@ -3211,7 +3280,8 @@
         "vaginal adenosis"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-035",
@@ -3257,7 +3327,8 @@
         "impaired virilization"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp06-036",
@@ -3303,7 +3374,8 @@
         "teratogens"
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
-      "topicName": "Sex Determination and Reproductive Systems Development"
+      "topicName": "Sex Determination and Reproductive Systems Development",
+      "tier": "extra"
     },
     {
       "id": "rp07-001",
@@ -3349,7 +3421,8 @@
         "embryology"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "core"
     },
     {
       "id": "rp07-002",
@@ -3394,7 +3467,8 @@
         "mullerian anomalies"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "core"
     },
     {
       "id": "rp07-003",
@@ -3440,7 +3514,8 @@
         "primary amenorrhea"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "core"
     },
     {
       "id": "rp07-004",
@@ -3486,7 +3561,8 @@
         "primary amenorrhea"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "core"
     },
     {
       "id": "rp07-005",
@@ -3532,7 +3608,8 @@
         "Sertoli cells"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "core"
     },
     {
       "id": "rp07-006",
@@ -3578,7 +3655,8 @@
         "inguinal hernia"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "core"
     },
     {
       "id": "rp07-007",
@@ -3624,7 +3702,8 @@
         "chordee"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "core"
     },
     {
       "id": "rp07-008",
@@ -3670,7 +3749,8 @@
         "genital tubercle"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "core"
     },
     {
       "id": "rp07-009",
@@ -3716,7 +3796,8 @@
         "azoospermia"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "core"
     },
     {
       "id": "rp07-010",
@@ -3762,7 +3843,8 @@
         "21-hydroxylase"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "core"
     },
     {
       "id": "rp07-011",
@@ -3808,7 +3890,8 @@
         "androgen receptor"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "core"
     },
     {
       "id": "rp07-012",
@@ -3854,7 +3937,8 @@
         "multidisciplinary care"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "core"
     },
     {
       "id": "rp07-013",
@@ -3900,7 +3984,8 @@
         "duct fusion"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-014",
@@ -3946,7 +4031,8 @@
         "malpresentation"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-015",
@@ -3992,7 +4078,8 @@
         "dyspareunia"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-016",
@@ -4038,7 +4125,8 @@
         "primary amenorrhea"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-017",
@@ -4084,7 +4172,8 @@
         "genetics"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-018",
@@ -4130,7 +4219,8 @@
         "urinary retention"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-019",
@@ -4176,7 +4266,8 @@
         "testicular descent"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-020",
@@ -4222,7 +4313,8 @@
         "management"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-021",
@@ -4268,7 +4360,8 @@
         "temperature"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-022",
@@ -4314,7 +4407,8 @@
         "tunica vaginalis"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-023",
@@ -4360,7 +4454,8 @@
         "surgical repair"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-024",
@@ -4406,7 +4501,8 @@
         "tunica vaginalis"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-025",
@@ -4452,7 +4548,8 @@
         "penoscrotal"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-026",
@@ -4498,7 +4595,8 @@
         "penile curvature"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-027",
@@ -4544,7 +4642,8 @@
         "cobra-head"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-028",
@@ -4590,7 +4689,8 @@
         "catheterization"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-029",
@@ -4636,7 +4736,8 @@
         "penile anomalies"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-030",
@@ -4682,7 +4783,8 @@
         "bladder exstrophy"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-031",
@@ -4728,7 +4830,8 @@
         "ICSI"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-032",
@@ -4774,7 +4877,8 @@
         "genetic counseling"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-033",
@@ -4820,7 +4924,8 @@
         "urinary tract anomalies"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-034",
@@ -4866,7 +4971,8 @@
         "46,XX"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-035",
@@ -4912,7 +5018,8 @@
         "partial androgen insensitivity"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp07-036",
@@ -4958,7 +5065,8 @@
         "under-virilization"
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
-      "topicName": "Congenital Disorders of the Reproductive Systems"
+      "topicName": "Congenital Disorders of the Reproductive Systems",
+      "tier": "extra"
     },
     {
       "id": "rp08-001",
@@ -5004,7 +5112,8 @@
         "infectious teratogens"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "core"
     },
     {
       "id": "rp08-002",
@@ -5050,7 +5159,8 @@
         "embryonic period"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "core"
     },
     {
       "id": "rp08-003",
@@ -5096,7 +5206,8 @@
         "weeks 1-2"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "core"
     },
     {
       "id": "rp08-004",
@@ -5142,7 +5253,8 @@
         "folate"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "core"
     },
     {
       "id": "rp08-005",
@@ -5188,7 +5300,8 @@
         "chemical teratogens"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "core"
     },
     {
       "id": "rp08-006",
@@ -5233,7 +5346,8 @@
         "substances of abuse"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "core"
     },
     {
       "id": "rp08-007",
@@ -5279,7 +5393,8 @@
         "maternal factors"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "core"
     },
     {
       "id": "rp08-008",
@@ -5325,7 +5440,8 @@
         "classification"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "core"
     },
     {
       "id": "rp08-009",
@@ -5371,7 +5487,8 @@
         "clubfoot"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "core"
     },
     {
       "id": "rp08-010",
@@ -5417,7 +5534,8 @@
         "FGFR3"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "core"
     },
     {
       "id": "rp08-011",
@@ -5463,7 +5581,8 @@
         "oligohydramnios"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "core"
     },
     {
       "id": "rp08-012",
@@ -5509,7 +5628,8 @@
         "syndrome"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "core"
     },
     {
       "id": "rp08-013",
@@ -5555,7 +5675,8 @@
         "congenital anomalies"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-014",
@@ -5601,7 +5722,8 @@
         "epidemiology"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-015",
@@ -5647,7 +5769,8 @@
         "cleft lip and palate"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-016",
@@ -5693,7 +5816,8 @@
         "smoking"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-017",
@@ -5739,7 +5863,8 @@
         "weeks 9-38"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-018",
@@ -5785,7 +5910,8 @@
         "maternal immune suppression"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-019",
@@ -5831,7 +5957,8 @@
         "infectious teratogens"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-020",
@@ -5877,7 +6004,8 @@
         "TORCHeS"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-021",
@@ -5923,7 +6051,8 @@
         "medications"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-022",
@@ -5969,7 +6098,8 @@
         "chemical teratogens"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-023",
@@ -6015,7 +6145,8 @@
         "substances of abuse"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-024",
@@ -6061,7 +6192,8 @@
         "substances of abuse"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-025",
@@ -6107,7 +6239,8 @@
         "craniofacial anomalies"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-026",
@@ -6153,7 +6286,8 @@
         "DNA damage"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-027",
@@ -6199,7 +6333,8 @@
         "maternal factors"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-028",
@@ -6245,7 +6380,8 @@
         "neural tube defects"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-029",
@@ -6291,7 +6427,8 @@
         "prevention"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-030",
@@ -6337,7 +6474,8 @@
         "prevention"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-031",
@@ -6383,7 +6521,8 @@
         "sequence prevention"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-032",
@@ -6429,7 +6568,8 @@
         "classification"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-033",
@@ -6475,7 +6615,8 @@
         "classification"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-034",
@@ -6521,7 +6662,8 @@
         "classification"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-035",
@@ -6567,7 +6709,8 @@
         "classification"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     },
     {
       "id": "rp08-036",
@@ -6613,7 +6756,8 @@
         "neural crest"
       ],
       "topicId": "errors-in-morphogenesis",
-      "topicName": "Errors in Morphogenesis"
+      "topicName": "Errors in Morphogenesis",
+      "tier": "extra"
     }
   ]
 }

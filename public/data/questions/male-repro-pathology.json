@@ -46,7 +46,8 @@
         "embryology"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "core"
     },
     {
       "id": "rp25-002",
@@ -92,7 +93,8 @@
         "contraindication"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "core"
     },
     {
       "id": "rp25-003",
@@ -138,7 +140,8 @@
         "HPV"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "core"
     },
     {
       "id": "rp25-004",
@@ -183,7 +186,8 @@
         "treatment"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "core"
     },
     {
       "id": "rp25-005",
@@ -229,7 +233,8 @@
         "biopsy"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "core"
     },
     {
       "id": "rp25-006",
@@ -275,7 +280,8 @@
         "carcinoma-in-situ"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "core"
     },
     {
       "id": "rp25-007",
@@ -321,7 +327,8 @@
         "PeIN"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "core"
     },
     {
       "id": "rp25-008",
@@ -366,7 +373,8 @@
         "tunica-albuginea"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "core"
     },
     {
       "id": "rp25-009",
@@ -412,7 +420,8 @@
         "treatment"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "core"
     },
     {
       "id": "rp25-010",
@@ -458,7 +467,8 @@
         "retrograde-urethrogram"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "core"
     },
     {
       "id": "rp25-011",
@@ -504,7 +514,8 @@
         "tunica-albuginea"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "core"
     },
     {
       "id": "rp25-012",
@@ -550,7 +561,8 @@
         "manual-reduction"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "core"
     },
     {
       "id": "rp25-013",
@@ -596,7 +608,8 @@
         "ambiguous-genitalia"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-014",
@@ -642,7 +655,8 @@
         "complication"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-015",
@@ -688,7 +702,8 @@
         "bleeding"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-016",
@@ -734,7 +749,8 @@
         "pelvic-fracture"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-017",
@@ -780,7 +796,8 @@
         "clinical-exam"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-018",
@@ -826,7 +843,8 @@
         "counseling"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-019",
@@ -872,7 +890,8 @@
         "management"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-020",
@@ -918,7 +937,8 @@
         "preputioplasty"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-021",
@@ -964,7 +984,8 @@
         "ischemia"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-022",
@@ -1010,7 +1031,8 @@
         "management"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-023",
@@ -1056,7 +1078,8 @@
         "high-risk-serotypes"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-024",
@@ -1102,7 +1125,8 @@
         "histology"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-025",
@@ -1148,7 +1172,8 @@
         "glans"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-026",
@@ -1194,7 +1219,8 @@
         "carcinoma-in-situ"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-027",
@@ -1240,7 +1266,8 @@
         "progression"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-028",
@@ -1286,7 +1313,8 @@
         "penis-preserving"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-029",
@@ -1332,7 +1360,8 @@
         "treatment"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-030",
@@ -1378,7 +1407,8 @@
         "treatment"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-031",
@@ -1424,7 +1454,8 @@
         "association"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-032",
@@ -1470,7 +1501,8 @@
         "counseling"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-033",
@@ -1516,7 +1548,8 @@
         "erectile-dysfunction"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-034",
@@ -1562,7 +1595,8 @@
         "surgery"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-035",
@@ -1608,7 +1642,8 @@
         "complication"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp25-036",
@@ -1654,7 +1689,8 @@
         "perineum"
       ],
       "topicId": "disorders-of-the-penis",
-      "topicName": "Disorders of the Penis"
+      "topicName": "Disorders of the Penis",
+      "tier": "extra"
     },
     {
       "id": "rp26-001",
@@ -1700,7 +1736,8 @@
         "pathophysiology"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "core"
     },
     {
       "id": "rp26-002",
@@ -1746,7 +1783,8 @@
         "management"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "core"
     },
     {
       "id": "rp26-003",
@@ -1792,7 +1830,8 @@
         "physical exam"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "core"
     },
     {
       "id": "rp26-004",
@@ -1838,7 +1877,8 @@
         "diagnosis"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "core"
     },
     {
       "id": "rp26-005",
@@ -1884,7 +1924,8 @@
         "ischemia"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "core"
     },
     {
       "id": "rp26-006",
@@ -1930,7 +1971,8 @@
         "left-sided predominance"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "core"
     },
     {
       "id": "rp26-007",
@@ -1976,7 +2018,8 @@
         "spermatogenesis"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "core"
     },
     {
       "id": "rp26-008",
@@ -2022,7 +2065,8 @@
         "red flag"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "core"
     },
     {
       "id": "rp26-009",
@@ -2068,7 +2112,8 @@
         "observation"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "core"
     },
     {
       "id": "rp26-010",
@@ -2114,7 +2159,8 @@
         "surgical indication"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "core"
     },
     {
       "id": "rp26-011",
@@ -2160,7 +2206,8 @@
         "diagnosis"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "core"
     },
     {
       "id": "rp26-012",
@@ -2206,7 +2253,8 @@
         "surgical exploration"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "core"
     },
     {
       "id": "rp26-013",
@@ -2252,7 +2300,8 @@
         "venous congestion"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-014",
@@ -2298,7 +2347,8 @@
         "tunica vaginalis"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-015",
@@ -2344,7 +2394,8 @@
         "risk factors"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-016",
@@ -2390,7 +2441,8 @@
         "age distribution"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-017",
@@ -2436,7 +2488,8 @@
         "testicular torsion"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-018",
@@ -2482,7 +2535,8 @@
         "management"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-019",
@@ -2528,7 +2582,8 @@
         "diagnosis"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-020",
@@ -2574,7 +2629,8 @@
         "complications"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-021",
@@ -2620,7 +2676,8 @@
         "anatomy"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-022",
@@ -2666,7 +2723,8 @@
         "epidemiology"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-023",
@@ -2712,7 +2770,8 @@
         "vascular anatomy"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-024",
@@ -2758,7 +2817,8 @@
         "treatment"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-025",
@@ -2804,7 +2864,8 @@
         "Valsalva"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-026",
@@ -2850,7 +2911,8 @@
         "venous anatomy"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-027",
@@ -2896,7 +2958,8 @@
         "epididymitis"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-028",
@@ -2942,7 +3005,8 @@
         "physical exam"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-029",
@@ -2988,7 +3052,8 @@
         "sclerotherapy"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-030",
@@ -3034,7 +3099,8 @@
         "management"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-031",
@@ -3080,7 +3146,8 @@
         "differential diagnosis"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-032",
@@ -3126,7 +3193,8 @@
         "management"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-033",
@@ -3172,7 +3240,8 @@
         "management"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-034",
@@ -3218,7 +3287,8 @@
         "tunica albuginea"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-035",
@@ -3264,7 +3334,8 @@
         "ultrasound"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp26-036",
@@ -3310,7 +3381,8 @@
         "wound closure"
       ],
       "topicId": "benign-testicular-disorders",
-      "topicName": "Benign Testicular Disorders"
+      "topicName": "Benign Testicular Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp27-001",
@@ -3356,7 +3428,8 @@
         "germ-cell-tumor"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "core"
     },
     {
       "id": "rp27-002",
@@ -3402,7 +3475,8 @@
         "pediatric"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "core"
     },
     {
       "id": "rp27-003",
@@ -3448,7 +3522,8 @@
         "metastasis"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "core"
     },
     {
       "id": "rp27-004",
@@ -3494,7 +3569,8 @@
         "precocious-puberty"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "core"
     },
     {
       "id": "rp27-005",
@@ -3540,7 +3616,8 @@
         "DLBCL"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "core"
     },
     {
       "id": "rp27-006",
@@ -3586,7 +3663,8 @@
         "lymphatic-spread"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "core"
     },
     {
       "id": "rp27-007",
@@ -3632,7 +3710,8 @@
         "hydrocele"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "core"
     },
     {
       "id": "rp27-008",
@@ -3678,7 +3757,8 @@
         "tumor-markers"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "core"
     },
     {
       "id": "rp27-009",
@@ -3724,7 +3804,8 @@
         "mediastinal-GCT"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "core"
     },
     {
       "id": "rp27-010",
@@ -3770,7 +3851,8 @@
         "para-aortic-nodes"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "core"
     },
     {
       "id": "rp27-011",
@@ -3816,7 +3898,8 @@
         "tumor-markers"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "core"
     },
     {
       "id": "rp27-012",
@@ -3862,7 +3945,8 @@
         "active-surveillance"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "core"
     },
     {
       "id": "rp27-013",
@@ -3908,7 +3992,8 @@
         "age-distribution"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-014",
@@ -3954,7 +4039,8 @@
         "germ-cell-tumor"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-015",
@@ -4000,7 +4086,8 @@
         "46-XY"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-016",
@@ -4046,7 +4133,8 @@
         "isochromosome-12q"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-017",
@@ -4092,7 +4180,8 @@
         "gross-pathology"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-018",
@@ -4138,7 +4227,8 @@
         "metastasis"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-019",
@@ -4184,7 +4274,8 @@
         "histology"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-020",
@@ -4230,7 +4321,8 @@
         "terminology"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-021",
@@ -4276,7 +4368,8 @@
         "prognosis"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-022",
@@ -4322,7 +4415,8 @@
         "histology"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-023",
@@ -4368,7 +4462,8 @@
         "epidemiology"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-024",
@@ -4414,7 +4509,8 @@
         "survival"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-025",
@@ -4460,7 +4556,8 @@
         "germ-cell-tumor"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-026",
@@ -4506,7 +4603,8 @@
         "germ-cell-tumor"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-027",
@@ -4552,7 +4650,8 @@
         "sex-cord-stromal"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-028",
@@ -4598,7 +4697,8 @@
         "estradiol"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-029",
@@ -4644,7 +4744,8 @@
         "counseling"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-030",
@@ -4690,7 +4791,8 @@
         "hematogenous-spread"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-031",
@@ -4736,7 +4838,8 @@
         "diagnosis"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-032",
@@ -4782,7 +4885,8 @@
         "tumor-markers"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-033",
@@ -4828,7 +4932,8 @@
         "management"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-034",
@@ -4874,7 +4979,8 @@
         "treatment"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-035",
@@ -4920,7 +5026,8 @@
         "scrotal-irradiation"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp27-036",
@@ -4966,7 +5073,8 @@
         "management"
       ],
       "topicId": "testicular-tumors",
-      "topicName": "Testicular Tumors"
+      "topicName": "Testicular Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp28-001",
@@ -5012,7 +5120,8 @@
         "digital rectal exam"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "core"
     },
     {
       "id": "rp28-002",
@@ -5058,7 +5167,8 @@
         "transition zone"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "core"
     },
     {
       "id": "rp28-003",
@@ -5104,7 +5214,8 @@
         "5-alpha-reductase inhibitors"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "core"
     },
     {
       "id": "rp28-004",
@@ -5151,7 +5262,8 @@
         "sildenafil"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "core"
     },
     {
       "id": "rp28-005",
@@ -5197,7 +5309,8 @@
         "AUA guidelines"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "core"
     },
     {
       "id": "rp28-006",
@@ -5243,7 +5356,8 @@
         "detrusor hypertrophy"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "core"
     },
     {
       "id": "rp28-007",
@@ -5289,7 +5403,8 @@
         "E. coli"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "core"
     },
     {
       "id": "rp28-008",
@@ -5335,7 +5450,8 @@
         "fluoroquinolone"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "core"
     },
     {
       "id": "rp28-009",
@@ -5381,7 +5497,8 @@
         "prostatic massage"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "core"
     },
     {
       "id": "rp28-010",
@@ -5427,7 +5544,8 @@
         "prostatitis"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "core"
     },
     {
       "id": "rp28-011",
@@ -5472,7 +5590,8 @@
         "management"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "core"
     },
     {
       "id": "rp28-012",
@@ -5518,7 +5637,8 @@
         "histology"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "core"
     },
     {
       "id": "rp28-013",
@@ -5564,7 +5684,8 @@
         "epidemiology"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-014",
@@ -5610,7 +5731,8 @@
         "obstructive kidney injury"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-015",
@@ -5656,7 +5778,8 @@
         "urinary tract infection"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-016",
@@ -5703,7 +5826,8 @@
         "hematuria"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-017",
@@ -5749,7 +5873,8 @@
         "estrogens"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-018",
@@ -5795,7 +5920,8 @@
         "androgen receptor"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-019",
@@ -5841,7 +5967,8 @@
         "histology"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-020",
@@ -5887,7 +6014,8 @@
         "diagnosis"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-021",
@@ -5933,7 +6061,8 @@
         "interpretation"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-022",
@@ -5980,7 +6109,8 @@
         "elderly"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-023",
@@ -6026,7 +6156,8 @@
         "adverse effects"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-024",
@@ -6072,7 +6203,8 @@
         "surgical indications"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-025",
@@ -6118,7 +6250,8 @@
         "biopsy"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-026",
@@ -6164,7 +6297,8 @@
         "epidemiology"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-027",
@@ -6210,7 +6344,8 @@
         "management"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-028",
@@ -6256,7 +6391,8 @@
         "drainage"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-029",
@@ -6302,7 +6438,8 @@
         "bacteremia"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-030",
@@ -6348,7 +6485,8 @@
         "retrograde spread"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-031",
@@ -6393,7 +6531,8 @@
         "risk factors"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-032",
@@ -6439,7 +6578,8 @@
         "clinicopathologic correlation"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-033",
@@ -6485,7 +6625,8 @@
         "treatment"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-034",
@@ -6531,7 +6672,8 @@
         "treatment"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-035",
@@ -6577,7 +6719,8 @@
         "prostatitis"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp28-036",
@@ -6623,7 +6766,8 @@
         "diagnosis"
       ],
       "topicId": "benign-prostate-disorders",
-      "topicName": "Benign Prostate Disorders"
+      "topicName": "Benign Prostate Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp29-001",
@@ -6669,7 +6813,8 @@
         "digital-rectal-exam"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "core"
     },
     {
       "id": "rp29-002",
@@ -6715,7 +6860,8 @@
         "bph-contrast"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "core"
     },
     {
       "id": "rp29-003",
@@ -6760,7 +6906,8 @@
         "family-history"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "core"
     },
     {
       "id": "rp29-004",
@@ -6806,7 +6953,8 @@
         "biopsy"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "core"
     },
     {
       "id": "rp29-005",
@@ -6852,7 +7000,8 @@
         "screening"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "core"
     },
     {
       "id": "rp29-006",
@@ -6898,7 +7047,8 @@
         "screening"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "core"
     },
     {
       "id": "rp29-007",
@@ -6944,7 +7094,8 @@
         "pathology"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "core"
     },
     {
       "id": "rp29-008",
@@ -6990,7 +7141,8 @@
         "back-pain"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "core"
     },
     {
       "id": "rp29-009",
@@ -7036,7 +7188,8 @@
         "watchful-waiting"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "core"
     },
     {
       "id": "rp29-010",
@@ -7082,7 +7235,8 @@
         "flutamide"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "core"
     },
     {
       "id": "rp29-011",
@@ -7128,7 +7282,8 @@
         "adverse-effects"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "core"
     },
     {
       "id": "rp29-012",
@@ -7174,7 +7329,8 @@
         "mechanism"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "core"
     },
     {
       "id": "rp29-013",
@@ -7220,7 +7376,8 @@
         "mortality"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-014",
@@ -7266,7 +7423,8 @@
         "epidemiology"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-015",
@@ -7312,7 +7470,8 @@
         "brca2"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-016",
@@ -7358,7 +7517,8 @@
         "mechanism"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-017",
@@ -7404,7 +7564,8 @@
         "obstructive-symptoms"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-018",
@@ -7450,7 +7611,8 @@
         "local-extension"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-019",
@@ -7496,7 +7658,8 @@
         "internal-iliac"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-020",
@@ -7542,7 +7705,8 @@
         "renal-failure"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-021",
@@ -7588,7 +7752,8 @@
         "histology"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-022",
@@ -7634,7 +7799,8 @@
         "biopsy"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-023",
@@ -7680,7 +7846,8 @@
         "trus"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-024",
@@ -7726,7 +7893,8 @@
         "free-to-total"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-025",
@@ -7772,7 +7940,8 @@
         "screening"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-026",
@@ -7818,7 +7987,8 @@
         "guidelines"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-027",
@@ -7864,7 +8034,8 @@
         "ets-family"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-028",
@@ -7910,7 +8081,8 @@
         "metastasis"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-029",
@@ -7956,7 +8128,8 @@
         "incontinence"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-030",
@@ -8002,7 +8175,8 @@
         "life-expectancy"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-031",
@@ -8048,7 +8222,8 @@
         "surgery"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-032",
@@ -8094,7 +8269,8 @@
         "adverse-effects"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-033",
@@ -8140,7 +8316,8 @@
         "testosterone-flare"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-034",
@@ -8186,7 +8363,8 @@
         "gynecomastia"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-035",
@@ -8232,7 +8410,8 @@
         "osteoporosis"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     },
     {
       "id": "rp29-036",
@@ -8278,7 +8457,8 @@
         "staging"
       ],
       "topicId": "prostate-cancer",
-      "topicName": "Prostate Cancer"
+      "topicName": "Prostate Cancer",
+      "tier": "extra"
     }
   ]
 }

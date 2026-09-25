@@ -47,7 +47,8 @@
         "ovulation"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "core"
     },
     {
       "id": "rp15-002",
@@ -94,7 +95,8 @@
         "implant"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "core"
     },
     {
       "id": "rp15-003",
@@ -140,7 +142,8 @@
         "combined-OCP"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "core"
     },
     {
       "id": "rp15-004",
@@ -186,7 +189,8 @@
         "adverse-effects"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "core"
     },
     {
       "id": "rp15-005",
@@ -232,7 +236,8 @@
         "postpartum"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "core"
     },
     {
       "id": "rp15-006",
@@ -278,7 +283,8 @@
         "adherence"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "core"
     },
     {
       "id": "rp15-007",
@@ -324,7 +330,8 @@
         "OCP"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "core"
     },
     {
       "id": "rp15-008",
@@ -371,7 +378,8 @@
         "counseling"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "core"
     },
     {
       "id": "rp15-009",
@@ -417,7 +425,8 @@
         "mechanism"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "core"
     },
     {
       "id": "rp15-010",
@@ -463,7 +472,8 @@
         "levonorgestrel"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "core"
     },
     {
       "id": "rp15-011",
@@ -509,7 +519,8 @@
         "GnRH"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "core"
     },
     {
       "id": "rp15-012",
@@ -555,7 +566,8 @@
         "ovulation"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "core"
     },
     {
       "id": "rp15-013",
@@ -601,7 +613,8 @@
         "safety"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-014",
@@ -647,7 +660,8 @@
         "ductus-deferens"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-015",
@@ -693,7 +707,8 @@
         "age-related-fertility"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-016",
@@ -739,7 +754,8 @@
         "access-barriers"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-017",
@@ -786,7 +802,8 @@
         "progesterone"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-018",
@@ -832,7 +849,8 @@
         "withdrawal-bleed"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-019",
@@ -878,7 +896,8 @@
         "formulations"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-020",
@@ -924,7 +943,8 @@
         "formulations"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-021",
@@ -970,7 +990,8 @@
         "endometrial-thinning"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-022",
@@ -1016,7 +1037,8 @@
         "counseling"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-023",
@@ -1062,7 +1084,8 @@
         "adverse-effects"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-024",
@@ -1109,7 +1132,8 @@
         "acne"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-025",
@@ -1156,7 +1180,8 @@
         "implant"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-026",
@@ -1203,7 +1228,8 @@
         "ovulation"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-027",
@@ -1250,7 +1276,8 @@
         "progestin-only"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-028",
@@ -1296,7 +1323,8 @@
         "androgen-agonism"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-029",
@@ -1342,7 +1370,8 @@
         "counseling"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-030",
@@ -1389,7 +1418,8 @@
         "pregnancy-rate"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-031",
@@ -1436,7 +1466,8 @@
         "barrier-methods"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-032",
@@ -1482,7 +1513,8 @@
         "STI-protection"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-033",
@@ -1529,7 +1561,8 @@
         "timing"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-034",
@@ -1575,7 +1608,8 @@
         "mechanism"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-035",
@@ -1621,7 +1655,8 @@
         "irregular-cycles"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp15-036",
@@ -1668,7 +1703,8 @@
         "spermicide"
       ],
       "topicId": "contraception",
-      "topicName": "Contraception"
+      "topicName": "Contraception",
+      "tier": "extra"
     },
     {
       "id": "rp16-001",
@@ -1714,7 +1750,8 @@
         "counseling"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "core"
     },
     {
       "id": "rp16-002",
@@ -1760,7 +1797,8 @@
         "family planning"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "core"
     },
     {
       "id": "rp16-003",
@@ -1806,7 +1844,8 @@
         "contraceptive effectiveness tiers"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "core"
     },
     {
       "id": "rp16-004",
@@ -1852,7 +1891,8 @@
         "contraindications"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "core"
     },
     {
       "id": "rp16-005",
@@ -1898,7 +1938,8 @@
         "live attenuated vaccines"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "core"
     },
     {
       "id": "rp16-006",
@@ -1944,7 +1985,8 @@
         "nutrition"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "core"
     },
     {
       "id": "rp16-007",
@@ -1990,7 +2032,8 @@
         "preconception care"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "core"
     },
     {
       "id": "rp16-008",
@@ -2036,7 +2079,8 @@
         "screening"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "core"
     },
     {
       "id": "rp16-009",
@@ -2082,7 +2126,8 @@
         "advanced maternal age"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "core"
     },
     {
       "id": "rp16-010",
@@ -2128,7 +2173,8 @@
         "semen analysis"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "core"
     },
     {
       "id": "rp16-011",
@@ -2174,7 +2220,8 @@
         "pharmacology"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "core"
     },
     {
       "id": "rp16-012",
@@ -2220,7 +2267,8 @@
         "infertility treatment"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "core"
     },
     {
       "id": "rp16-013",
@@ -2266,7 +2314,8 @@
         "definitions"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-014",
@@ -2312,7 +2361,8 @@
         "epidemiology"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-015",
@@ -2358,7 +2408,8 @@
         "contraceptive effectiveness tiers"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-016",
@@ -2404,7 +2455,8 @@
         "mechanisms"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-017",
@@ -2450,7 +2502,8 @@
         "counseling"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-018",
@@ -2496,7 +2549,8 @@
         "family planning"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-019",
@@ -2542,7 +2596,8 @@
         "multidisciplinary care"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-020",
@@ -2588,7 +2643,8 @@
         "preconception care"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-021",
@@ -2634,7 +2690,8 @@
         "inactivated vaccines"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-022",
@@ -2680,7 +2737,8 @@
         "preconception care"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-023",
@@ -2726,7 +2784,8 @@
         "supplements"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-024",
@@ -2772,7 +2831,8 @@
         "safety"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-025",
@@ -2818,7 +2878,8 @@
         "contraception counseling"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-026",
@@ -2864,7 +2925,8 @@
         "public health"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-027",
@@ -2910,7 +2972,8 @@
         "nonheterosexual partnerships"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-028",
@@ -2956,7 +3019,8 @@
         "history taking"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-029",
@@ -3002,7 +3066,8 @@
         "cystic fibrosis"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-030",
@@ -3048,7 +3113,8 @@
         "biological variability"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-031",
@@ -3094,7 +3160,8 @@
         "terminology"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-032",
@@ -3140,7 +3207,8 @@
         "diagnostic imaging"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-033",
@@ -3186,7 +3254,8 @@
         "adverse effects"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-034",
@@ -3232,7 +3301,8 @@
         "treatment"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-035",
@@ -3278,7 +3348,8 @@
         "age and fertility"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp16-036",
@@ -3324,7 +3395,8 @@
         "infertility treatment"
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
-      "topicName": "Family Planning, Preconception Care and Infertility"
+      "topicName": "Family Planning, Preconception Care and Infertility",
+      "tier": "extra"
     },
     {
       "id": "rp17-001",
@@ -3370,7 +3442,8 @@
         "NO-cGMP-pathway"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "core"
     },
     {
       "id": "rp17-002",
@@ -3416,7 +3489,8 @@
         "spinal-cord-injury"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "core"
     },
     {
       "id": "rp17-003",
@@ -3462,7 +3536,8 @@
         "sympathetic-nervous-system"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "core"
     },
     {
       "id": "rp17-004",
@@ -3508,7 +3583,8 @@
         "hormones"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "core"
     },
     {
       "id": "rp17-005",
@@ -3554,7 +3630,8 @@
         "sexual-desire"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "core"
     },
     {
       "id": "rp17-006",
@@ -3600,7 +3677,8 @@
         "corpus-cavernosum"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "core"
     },
     {
       "id": "rp17-007",
@@ -3646,7 +3724,8 @@
         "vaginal-lubrication"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "core"
     },
     {
       "id": "rp17-008",
@@ -3692,7 +3771,8 @@
         "first-line-treatment"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "core"
     },
     {
       "id": "rp17-009",
@@ -3738,7 +3818,8 @@
         "dyspareunia"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "core"
     },
     {
       "id": "rp17-010",
@@ -3784,7 +3865,8 @@
         "dapoxetine"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "core"
     },
     {
       "id": "rp17-011",
@@ -3830,7 +3912,8 @@
         "phenylephrine"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "core"
     },
     {
       "id": "rp17-012",
@@ -3876,7 +3959,8 @@
         "diabetes-mellitus"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "core"
     },
     {
       "id": "rp17-013",
@@ -3922,7 +4006,8 @@
         "multiple-orgasms"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-014",
@@ -3968,7 +4053,8 @@
         "sexual-desire"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-015",
@@ -4014,7 +4100,8 @@
         "testicular-engorgement"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-016",
@@ -4060,7 +4147,8 @@
         "neurotransmitters"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-017",
@@ -4106,7 +4194,8 @@
         "endothelium"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-018",
@@ -4152,7 +4241,8 @@
         "spinal-pathways"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-019",
@@ -4198,7 +4288,8 @@
         "bulbocavernosus"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-020",
@@ -4244,7 +4335,8 @@
         "emission"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-021",
@@ -4290,7 +4382,8 @@
         "accessory-glands"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-022",
@@ -4336,7 +4429,8 @@
         "sperm-function"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-023",
@@ -4382,7 +4476,8 @@
         "erectile-tissue"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-024",
@@ -4428,7 +4523,8 @@
         "management"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-025",
@@ -4474,7 +4570,8 @@
         "diagnostic-criteria"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-026",
@@ -4520,7 +4617,8 @@
         "medication-review"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-027",
@@ -4566,7 +4664,8 @@
         "six-month-duration"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-028",
@@ -4612,7 +4711,8 @@
         "serotonergic-signaling"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-029",
@@ -4658,7 +4758,8 @@
         "NDRI"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-030",
@@ -4704,7 +4805,8 @@
         "first-line-treatment"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-031",
@@ -4750,7 +4852,8 @@
         "genital-arousal"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-032",
@@ -4796,7 +4899,8 @@
         "endometriosis"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-033",
@@ -4842,7 +4946,8 @@
         "atrophy-related-dyspareunia"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-034",
@@ -4888,7 +4993,8 @@
         "penile-curvature"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-035",
@@ -4934,7 +5040,8 @@
         "intracavernous-injection"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp17-036",
@@ -4980,7 +5087,8 @@
         "shared-decision-making"
       ],
       "topicId": "sexual-health-and-complications",
-      "topicName": "Sexual Health and Complications"
+      "topicName": "Sexual Health and Complications",
+      "tier": "extra"
     },
     {
       "id": "rp18-001",
@@ -5026,7 +5134,8 @@
         "diagnosis"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "core"
     },
     {
       "id": "rp18-002",
@@ -5072,7 +5181,8 @@
         "inhibin-B"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "core"
     },
     {
       "id": "rp18-003",
@@ -5117,7 +5227,8 @@
         "endometrial-atrophy"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "core"
     },
     {
       "id": "rp18-004",
@@ -5163,7 +5274,8 @@
         "endometrial-protection"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "core"
     },
     {
       "id": "rp18-005",
@@ -5209,7 +5321,8 @@
         "VTE"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "core"
     },
     {
       "id": "rp18-006",
@@ -5255,7 +5368,8 @@
         "management"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "core"
     },
     {
       "id": "rp18-007",
@@ -5301,7 +5415,8 @@
         "vasomotor-symptoms"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "core"
     },
     {
       "id": "rp18-008",
@@ -5347,7 +5462,8 @@
         "non-hormonal-therapy"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "core"
     },
     {
       "id": "rp18-009",
@@ -5393,7 +5509,8 @@
         "dyspareunia"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "core"
     },
     {
       "id": "rp18-010",
@@ -5439,7 +5556,8 @@
         "bone-remodeling"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "core"
     },
     {
       "id": "rp18-011",
@@ -5485,7 +5603,8 @@
         "menopause-comparison"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "core"
     },
     {
       "id": "rp18-012",
@@ -5531,7 +5650,8 @@
         "therapeutic-range"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "core"
     },
     {
       "id": "rp18-013",
@@ -5576,7 +5696,8 @@
         "age-of-menopause"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-014",
@@ -5622,7 +5743,8 @@
         "diagnosis"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-015",
@@ -5668,7 +5790,8 @@
         "timeline"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-016",
@@ -5713,7 +5836,8 @@
         "long-term-risk"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-017",
@@ -5759,7 +5883,8 @@
         "mechanism"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-018",
@@ -5805,7 +5930,8 @@
         "mechanism"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-019",
@@ -5851,7 +5977,8 @@
         "recurrent-UTI"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-020",
@@ -5897,7 +6024,8 @@
         "postmenopause"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-021",
@@ -5943,7 +6071,8 @@
         "metabolism"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-022",
@@ -5989,7 +6118,8 @@
         "mechanism"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-023",
@@ -6035,7 +6165,8 @@
         "vasomotor-symptoms"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-024",
@@ -6081,7 +6212,8 @@
         "risk-benefit"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-025",
@@ -6127,7 +6259,8 @@
         "patient-selection"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-026",
@@ -6173,7 +6306,8 @@
         "clinical-trial-evidence"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-027",
@@ -6219,7 +6353,8 @@
         "WHI"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-028",
@@ -6265,7 +6400,8 @@
         "HRT-formulations"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-029",
@@ -6311,7 +6447,8 @@
         "endometrial-protection"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-030",
@@ -6357,7 +6494,8 @@
         "adverse-effects"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-031",
@@ -6403,7 +6541,8 @@
         "genitourinary-syndrome"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-032",
@@ -6449,7 +6588,8 @@
         "evidence"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-033",
@@ -6495,7 +6635,8 @@
         "management"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-034",
@@ -6541,7 +6682,8 @@
         "castration"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-035",
@@ -6587,7 +6729,8 @@
         "andropause"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp18-036",
@@ -6633,7 +6776,8 @@
         "management"
       ],
       "topicId": "menopause-and-andropause",
-      "topicName": "Menopause and Andropause"
+      "topicName": "Menopause and Andropause",
+      "tier": "extra"
     },
     {
       "id": "rp19-001",
@@ -6680,7 +6824,8 @@
         "insulin resistance"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "core"
     },
     {
       "id": "rp19-002",
@@ -6727,7 +6872,8 @@
         "virilization"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "core"
     },
     {
       "id": "rp19-003",
@@ -6773,7 +6919,8 @@
         "hyperandrogenism workup"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "core"
     },
     {
       "id": "rp19-004",
@@ -6820,7 +6967,8 @@
         "infertility"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "core"
     },
     {
       "id": "rp19-005",
@@ -6866,7 +7014,8 @@
         "hormone patterns"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "core"
     },
     {
       "id": "rp19-006",
@@ -6912,7 +7061,8 @@
         "anosmia"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "core"
     },
     {
       "id": "rp19-007",
@@ -6959,7 +7109,8 @@
         "hCG"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "core"
     },
     {
       "id": "rp19-008",
@@ -7007,7 +7158,8 @@
         "testicular ultrasound"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "core"
     },
     {
       "id": "rp19-009",
@@ -7053,7 +7205,8 @@
         "estrogen receptor"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "core"
     },
     {
       "id": "rp19-010",
@@ -7099,7 +7252,8 @@
         "unopposed estrogen"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "core"
     },
     {
       "id": "rp19-011",
@@ -7146,7 +7300,8 @@
         "FSH"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "core"
     },
     {
       "id": "rp19-012",
@@ -7193,7 +7348,8 @@
         "estradiol"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "core"
     },
     {
       "id": "rp19-013",
@@ -7239,7 +7395,8 @@
         "PCOS"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-014",
@@ -7285,7 +7442,8 @@
         "diagnosis"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-015",
@@ -7332,7 +7490,8 @@
         "anovulation"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-016",
@@ -7378,7 +7537,8 @@
         "PMOS"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-017",
@@ -7424,7 +7584,8 @@
         "hirsutism"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-018",
@@ -7470,7 +7631,8 @@
         "surgical resection"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-019",
@@ -7517,7 +7679,8 @@
         "counseling"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-020",
@@ -7564,7 +7727,8 @@
         "cardiovascular"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-021",
@@ -7611,7 +7775,8 @@
         "assisted reproduction"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-022",
@@ -7657,7 +7822,8 @@
         "gonadotropins"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-023",
@@ -7704,7 +7870,8 @@
         "functional suppression"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-024",
@@ -7751,7 +7918,8 @@
         "workup"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-025",
@@ -7797,7 +7965,8 @@
         "morning testosterone"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-026",
@@ -7843,7 +8012,8 @@
         "eunuchoid proportions"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-027",
@@ -7889,7 +8059,8 @@
         "oral contraceptives"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-028",
@@ -7936,7 +8107,8 @@
         "oophorectomy"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-029",
@@ -7982,7 +8154,8 @@
         "postmenopausal bleeding"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-030",
@@ -8029,7 +8202,8 @@
         "VTE"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-031",
@@ -8075,7 +8249,8 @@
         "obesity"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-032",
@@ -8122,7 +8297,8 @@
         "feminization"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-033",
@@ -8168,7 +8344,8 @@
         "pediatric"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-034",
@@ -8214,7 +8391,8 @@
         "FSH interpretation"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-035",
@@ -8261,7 +8439,8 @@
         "GSM"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     },
     {
       "id": "rp19-036",
@@ -8308,7 +8487,8 @@
         "hyperestrogenism"
       ],
       "topicId": "disorders-of-sex-hormones",
-      "topicName": "Disorders of Sex Hormones"
+      "topicName": "Disorders of Sex Hormones",
+      "tier": "extra"
     }
   ]
 }

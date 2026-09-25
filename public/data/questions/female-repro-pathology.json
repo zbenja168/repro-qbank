@@ -45,7 +45,8 @@
         "clinical-presentation"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "core"
     },
     {
       "id": "rp20-002",
@@ -91,7 +92,8 @@
         "histology"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "core"
     },
     {
       "id": "rp20-003",
@@ -136,7 +138,8 @@
         "pathogenesis"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "core"
     },
     {
       "id": "rp20-004",
@@ -182,7 +185,8 @@
         "pathophysiology"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "core"
     },
     {
       "id": "rp20-005",
@@ -228,7 +232,8 @@
         "pharmacology"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "core"
     },
     {
       "id": "rp20-006",
@@ -274,7 +279,8 @@
         "pharmacology"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "core"
     },
     {
       "id": "rp20-007",
@@ -320,7 +326,8 @@
         "pharmacology"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "core"
     },
     {
       "id": "rp20-008",
@@ -366,7 +373,8 @@
         "adverse-effects"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "core"
     },
     {
       "id": "rp20-009",
@@ -412,7 +420,8 @@
         "management"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "core"
     },
     {
       "id": "rp20-010",
@@ -458,7 +467,8 @@
         "anovulation"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "core"
     },
     {
       "id": "rp20-011",
@@ -504,7 +514,8 @@
         "management"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "core"
     },
     {
       "id": "rp20-012",
@@ -550,7 +561,8 @@
         "antibiotics"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "core"
     },
     {
       "id": "rp20-013",
@@ -596,7 +608,8 @@
         "progesterone"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-014",
@@ -642,7 +655,8 @@
         "implant-sites"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-015",
@@ -688,7 +702,8 @@
         "bladder"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-016",
@@ -734,7 +749,8 @@
         "pathophysiology"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-017",
@@ -780,7 +796,8 @@
         "contrast"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-018",
@@ -826,7 +843,8 @@
         "retrograde-menstruation"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-019",
@@ -872,7 +890,8 @@
         "coelomic-metaplasia"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-020",
@@ -918,7 +937,8 @@
         "pharmacology"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-021",
@@ -964,7 +984,8 @@
         "pharmacology"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-022",
@@ -1010,7 +1031,8 @@
         "endocrinology"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-023",
@@ -1056,7 +1078,8 @@
         "fertility-preservation"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-024",
@@ -1102,7 +1125,8 @@
         "laparoscopy"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-025",
@@ -1148,7 +1172,8 @@
         "contrast"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-026",
@@ -1194,7 +1219,8 @@
         "anovulation"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-027",
@@ -1240,7 +1266,8 @@
         "estrogen"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-028",
@@ -1286,7 +1313,8 @@
         "estrogen"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-029",
@@ -1332,7 +1360,8 @@
         "diagnosis"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-030",
@@ -1378,7 +1407,8 @@
         "molecular"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-031",
@@ -1424,7 +1454,8 @@
         "fertility-sparing"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-032",
@@ -1470,7 +1501,8 @@
         "risk-factors"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-033",
@@ -1516,7 +1548,8 @@
         "histology"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-034",
@@ -1562,7 +1595,8 @@
         "pregnancy-related"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-035",
@@ -1608,7 +1642,8 @@
         "cesarean"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp20-036",
@@ -1654,7 +1689,8 @@
         "nonatypical"
       ],
       "topicId": "benign-endometrial-disorders",
-      "topicName": "Benign Endometrial Disorders"
+      "topicName": "Benign Endometrial Disorders",
+      "tier": "extra"
     },
     {
       "id": "rp21-001",
@@ -1700,7 +1736,8 @@
         "postmenopausal-bleeding"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "core"
     },
     {
       "id": "rp21-002",
@@ -1746,7 +1783,8 @@
         "estrogen"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "core"
     },
     {
       "id": "rp21-003",
@@ -1792,7 +1830,8 @@
         "endometrial-cancer"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "core"
     },
     {
       "id": "rp21-004",
@@ -1838,7 +1877,8 @@
         "molecular-pathology"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "core"
     },
     {
       "id": "rp21-005",
@@ -1884,7 +1924,8 @@
         "prognosis"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "core"
     },
     {
       "id": "rp21-006",
@@ -1930,7 +1971,8 @@
         "mismatch-repair"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "core"
     },
     {
       "id": "rp21-007",
@@ -1976,7 +2018,8 @@
         "type-II"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "core"
     },
     {
       "id": "rp21-008",
@@ -2021,7 +2064,8 @@
         "endometrial-cancer"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "core"
     },
     {
       "id": "rp21-009",
@@ -2067,7 +2111,8 @@
         "histology"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "core"
     },
     {
       "id": "rp21-010",
@@ -2113,7 +2158,8 @@
         "levonorgestrel-IUD"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "core"
     },
     {
       "id": "rp21-011",
@@ -2159,7 +2205,8 @@
         "pathology"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "core"
     },
     {
       "id": "rp21-012",
@@ -2204,7 +2251,8 @@
         "leiomyoma-variants"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "core"
     },
     {
       "id": "rp21-013",
@@ -2249,7 +2297,8 @@
         "layers"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-014",
@@ -2294,7 +2343,8 @@
         "epidemiology"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-015",
@@ -2340,7 +2390,8 @@
         "premenopausal"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-016",
@@ -2386,7 +2437,8 @@
         "precursor-lesion"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-017",
@@ -2432,7 +2484,8 @@
         "p53"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-018",
@@ -2478,7 +2531,8 @@
         "atrophy"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-019",
@@ -2524,7 +2578,8 @@
         "type-I"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-020",
@@ -2570,7 +2625,8 @@
         "histology"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-021",
@@ -2616,7 +2672,8 @@
         "germline-mutation"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-022",
@@ -2662,7 +2719,8 @@
         "lymph-nodes"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-023",
@@ -2708,7 +2766,8 @@
         "molecular-subtypes"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-024",
@@ -2754,7 +2813,8 @@
         "stage-IV"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-025",
@@ -2800,7 +2860,8 @@
         "surgery"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-026",
@@ -2846,7 +2907,8 @@
         "treatment"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-027",
@@ -2892,7 +2954,8 @@
         "lymphadenectomy"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-028",
@@ -2938,7 +3001,8 @@
         "fibroids"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-029",
@@ -2984,7 +3048,8 @@
         "endometrial-cancer"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-030",
@@ -3030,7 +3095,8 @@
         "survival"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-031",
@@ -3076,7 +3142,8 @@
         "fibroids"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-032",
@@ -3122,7 +3189,8 @@
         "submucosal"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-033",
@@ -3168,7 +3236,8 @@
         "NSAIDs"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-034",
@@ -3214,7 +3283,8 @@
         "ultrasound"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-035",
@@ -3259,7 +3329,8 @@
         "leiomyoma-variants"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp21-036",
@@ -3305,7 +3376,8 @@
         "postmenopausal"
       ],
       "topicId": "uterine-tumors",
-      "topicName": "Uterine Tumors"
+      "topicName": "Uterine Tumors",
+      "tier": "extra"
     },
     {
       "id": "rp22-001",
@@ -3351,7 +3423,8 @@
         "estrogen"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "core"
     },
     {
       "id": "rp22-002",
@@ -3397,7 +3470,8 @@
         "cyst-rupture"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "core"
     },
     {
       "id": "rp22-003",
@@ -3443,7 +3517,8 @@
         "hydatidiform-mole"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "core"
     },
     {
       "id": "rp22-004",
@@ -3489,7 +3564,8 @@
         "endometriosis"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "core"
     },
     {
       "id": "rp22-005",
@@ -3535,7 +3611,8 @@
         "doppler-ultrasound"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "core"
     },
     {
       "id": "rp22-006",
@@ -3581,7 +3658,8 @@
         "pelvic-mass-workup"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "core"
     },
     {
       "id": "rp22-007",
@@ -3627,7 +3705,8 @@
         "false-positive"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "core"
     },
     {
       "id": "rp22-008",
@@ -3673,7 +3752,8 @@
         "functional-cyst"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "core"
     },
     {
       "id": "rp22-009",
@@ -3720,7 +3800,8 @@
         "hyperandrogenism"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "core"
     },
     {
       "id": "rp22-010",
@@ -3766,7 +3847,8 @@
         "unopposed-estrogen"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "core"
     },
     {
       "id": "rp22-011",
@@ -3813,7 +3895,8 @@
         "PMOS-treatment"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "core"
     },
     {
       "id": "rp22-012",
@@ -3859,7 +3942,8 @@
         "suspected-malignancy"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "core"
     },
     {
       "id": "rp22-013",
@@ -3905,7 +3989,8 @@
         "ovarian-cancer-risk"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-014",
@@ -3951,7 +4036,8 @@
         "antiestrogen"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-015",
@@ -3997,7 +4083,8 @@
         "pathogenesis"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-016",
@@ -4043,7 +4130,8 @@
         "histology"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-017",
@@ -4089,7 +4177,8 @@
         "cyst-origin"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-018",
@@ -4135,7 +4224,8 @@
         "ischemia"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-019",
@@ -4181,7 +4271,8 @@
         "ovulation-induction"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-020",
@@ -4227,7 +4318,8 @@
         "endometriosis"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-021",
@@ -4273,7 +4365,8 @@
         "pregnancy-test"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-022",
@@ -4319,7 +4412,8 @@
         "postmenopausal"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-023",
@@ -4365,7 +4459,8 @@
         "workup"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-024",
@@ -4411,7 +4506,8 @@
         "functional-cyst"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-025",
@@ -4457,7 +4553,8 @@
         "serial-ultrasound"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-026",
@@ -4503,7 +4600,8 @@
         "infertility"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-027",
@@ -4549,7 +4647,8 @@
         "subcortical-follicles"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-028",
@@ -4595,7 +4694,8 @@
         "follicle-arrest"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-029",
@@ -4642,7 +4742,8 @@
         "obesity"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-030",
@@ -4689,7 +4790,8 @@
         "hormone-profile"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-031",
@@ -4735,7 +4837,8 @@
         "PMOS"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-032",
@@ -4781,7 +4884,8 @@
         "hyperandrogenism"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-033",
@@ -4828,7 +4932,8 @@
         "acromegaly"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-034",
@@ -4875,7 +4980,8 @@
         "antiandrogen"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-035",
@@ -4921,7 +5027,8 @@
         "irregular-menses"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp22-036",
@@ -4968,7 +5075,8 @@
         "diabetes"
       ],
       "topicId": "ovarian-cysts",
-      "topicName": "Ovarian Cysts"
+      "topicName": "Ovarian Cysts",
+      "tier": "extra"
     },
     {
       "id": "rp23-001",
@@ -5014,7 +5122,8 @@
         "CA-125"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp23-002",
@@ -5060,7 +5169,8 @@
         "high-grade serous carcinoma"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp23-003",
@@ -5105,7 +5215,8 @@
         "management"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp23-004",
@@ -5151,7 +5262,8 @@
         "tumor markers"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp23-005",
@@ -5196,7 +5308,8 @@
         "mucinous tumor"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp23-006",
@@ -5242,7 +5355,8 @@
         "tumor markers"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp23-007",
@@ -5288,7 +5402,8 @@
         "BRCA"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp23-008",
@@ -5333,7 +5448,8 @@
         "endometriosis"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp23-009",
@@ -5378,7 +5494,8 @@
         "transitional cell"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp23-010",
@@ -5423,7 +5540,8 @@
         "oral contraceptives"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp23-011",
@@ -5469,7 +5587,8 @@
         "peritoneal seeding"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp23-012",
@@ -5515,7 +5634,8 @@
         "embryology"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp23-013",
@@ -5560,7 +5680,8 @@
         "benign tumors"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-014",
@@ -5605,7 +5726,8 @@
         "benign epithelial tumors"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-015",
@@ -5651,7 +5773,8 @@
         "risk factors"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-016",
@@ -5696,7 +5819,8 @@
         "GI symptoms"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-017",
@@ -5741,7 +5865,8 @@
         "ultrasound"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-018",
@@ -5787,7 +5912,8 @@
         "spread"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-019",
@@ -5833,7 +5959,8 @@
         "reproductive age"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-020",
@@ -5879,7 +6006,8 @@
         "granulosa cell tumor"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-021",
@@ -5925,7 +6053,8 @@
         "hormone-secreting tumors"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-022",
@@ -5971,7 +6100,8 @@
         "germ cell tumors"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-023",
@@ -6016,7 +6146,8 @@
         "surface epithelium"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-024",
@@ -6062,7 +6193,8 @@
         "pathogenesis"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-025",
@@ -6108,7 +6240,8 @@
         "histology"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-026",
@@ -6154,7 +6287,8 @@
         "fallopian tube epithelium"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-027",
@@ -6200,7 +6334,8 @@
         "serous tumors"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-028",
@@ -6246,7 +6381,8 @@
         "low-grade serous carcinoma"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-029",
@@ -6292,7 +6428,8 @@
         "staging"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-030",
@@ -6338,7 +6475,8 @@
         "prognosis"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-031",
@@ -6384,7 +6522,8 @@
         "histology"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-032",
@@ -6430,7 +6569,8 @@
         "serous carcinoma"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-033",
@@ -6476,7 +6616,8 @@
         "GI primary"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-034",
@@ -6521,7 +6662,8 @@
         "behavior"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-035",
@@ -6567,7 +6709,8 @@
         "histology"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp23-036",
@@ -6613,7 +6756,8 @@
         "advanced stage"
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
-      "topicName": "Ovarian Tumors (Part 1 of 2)"
+      "topicName": "Ovarian Tumors (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-001",
@@ -6659,7 +6803,8 @@
         "inhibin"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp24-002",
@@ -6705,7 +6850,8 @@
         "ca-125"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp24-003",
@@ -6751,7 +6897,8 @@
         "testosterone"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp24-004",
@@ -6797,7 +6944,8 @@
         "germ-cell"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp24-005",
@@ -6843,7 +6991,8 @@
         "hyperthyroidism"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp24-006",
@@ -6889,7 +7038,8 @@
         "fried-egg"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp24-007",
@@ -6935,7 +7085,8 @@
         "schiller-duval"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp24-008",
@@ -6981,7 +7132,8 @@
         "germ-cell"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp24-009",
@@ -7027,7 +7179,8 @@
         "management"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp24-010",
@@ -7073,7 +7226,8 @@
         "signet-ring"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp24-011",
@@ -7119,7 +7273,8 @@
         "pathology"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp24-012",
@@ -7165,7 +7320,8 @@
         "androgen"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "rp24-013",
@@ -7211,7 +7367,8 @@
         "steroidogenesis"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-014",
@@ -7257,7 +7414,8 @@
         "postmenopausal-bleeding"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-015",
@@ -7303,7 +7461,8 @@
         "sex-cord-stromal"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-016",
@@ -7349,7 +7508,8 @@
         "endometrial-carcinoma"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-017",
@@ -7395,7 +7555,8 @@
         "fsh"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-018",
@@ -7441,7 +7602,8 @@
         "prognosis"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-019",
@@ -7487,7 +7649,8 @@
         "staging"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-020",
@@ -7533,7 +7696,8 @@
         "inhibin"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-021",
@@ -7579,7 +7743,8 @@
         "fertility-preservation"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-022",
@@ -7625,7 +7790,8 @@
         "management"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-023",
@@ -7671,7 +7837,8 @@
         "virilization"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-024",
@@ -7717,7 +7884,8 @@
         "benign-ovarian-tumors"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-025",
@@ -7763,7 +7931,8 @@
         "embryonic-layers"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-026",
@@ -7809,7 +7978,8 @@
         "hemolytic-anemia"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-027",
@@ -7855,7 +8025,8 @@
         "management"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-028",
@@ -7901,7 +8072,8 @@
         "germ-cell"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-029",
@@ -7947,7 +8119,8 @@
         "germ-cell"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-030",
@@ -7993,7 +8166,8 @@
         "staging"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-031",
@@ -8039,7 +8213,8 @@
         "bep"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-032",
@@ -8085,7 +8260,8 @@
         "histology"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-033",
@@ -8131,7 +8307,8 @@
         "tumor-markers"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-034",
@@ -8177,7 +8354,8 @@
         "hcg"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-035",
@@ -8223,7 +8401,8 @@
         "ovary"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "rp24-036",
@@ -8269,7 +8448,8 @@
         "metastasis"
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
-      "topicName": "Ovarian Tumors (Part 2 of 2)"
+      "topicName": "Ovarian Tumors (Part 2 of 2)",
+      "tier": "extra"
     }
   ]
 }
