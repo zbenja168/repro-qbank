@@ -1,0 +1,3367 @@
+{
+  "categoryId": "cervical-vulvar-pathology",
+  "categoryName": "Cervical & Vulvar Pathology",
+  "questions": [
+    {
+      "id": "rp37-001",
+      "stem": "A 35-year-old woman comes for routine cervical cancer screening. The clinician aims the sampling brush at the part of the cervix where most cervical carcinomas originate. Which of the following best describes this region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep endocervical canal lined by mucinous glandular cells"
+        },
+        {
+          "label": "B",
+          "text": "Junction of ectocervical squamous and endocervical columnar epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Lower uterine segment just above the internal cervical os"
+        },
+        {
+          "label": "D",
+          "text": "Outer ectocervical surface distant from the external os"
+        },
+        {
+          "label": "E",
+          "text": "Posterior vaginal fornix lined by vaginal squamous epithelium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Most cervical cancers arise at the transformation zone (squamocolumnar junction).",
+        "whyCorrect": "The transformation zone is where the nonkeratinized stratified squamous epithelium of the ectocervix meets the glandular columnar epithelium of the endocervix. Active squamous metaplasia here makes it vulnerable to persistent high-risk HPV, so it is both the usual site of origin and the key target of Pap and HPV sampling.",
+        "whyWrongByChoice": {
+          "A": "The deep endocervical canal is purely glandular; it is not where the squamous and columnar epithelia meet.",
+          "C": "The lower uterine segment is part of the uterine corpus, not the cervix, and is not the screening target.",
+          "D": "The outer ectocervix is mature squamous epithelium away from the junction and is not the usual site of origin.",
+          "E": "The vaginal fornix is outside the cervix; cervical cancers arise from cervical epithelium at the transformation zone."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "transformation zone",
+        "anatomy",
+        "pathogenesis"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "core"
+    },
+    {
+      "id": "rp37-002",
+      "stem": "A 39-year-old woman has a cervical biopsy showing high-grade dysplasia, and the lesion tests positive for HPV 16. A researcher studying the lesion explains how the virus promotes carcinogenesis. Which of the following pairings of a viral oncoprotein with the host protein it inhibits is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "E6 inhibiting APC"
+        },
+        {
+          "label": "B",
+          "text": "E6 inhibiting p53"
+        },
+        {
+          "label": "C",
+          "text": "E6 inhibiting Rb"
+        },
+        {
+          "label": "D",
+          "text": "E7 inhibiting BRCA1"
+        },
+        {
+          "label": "E",
+          "text": "E7 inhibiting p53"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "High-risk HPV oncoprotein E6 inhibits p53 (and E7 inhibits Rb).",
+        "whyCorrect": "High-risk HPV types promote carcinogenesis through two oncoproteins: E6 inhibits p53 and E7 inhibits Rb. Loss of these tumor suppressors disrupts normal growth control in infected cervical epithelium.",
+        "whyWrongByChoice": {
+          "A": "E6 inhibits p53; APC is not a target of HPV oncoproteins.",
+          "C": "Rb is the target of E7, not E6.",
+          "D": "E7 inhibits Rb; BRCA1 is not the HPV target described.",
+          "E": "p53 is the target of E6, not E7."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HPV",
+        "E6",
+        "p53",
+        "oncoproteins"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "core"
+    },
+    {
+      "id": "rp37-003",
+      "stem": "A 47-year-old woman is diagnosed with invasive squamous cell carcinoma of the cervix. Molecular testing of the tumor is performed to identify the infectious agent that caused it. Which of the following is most likely to be detected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus (HHV-4)"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus type 2"
+        },
+        {
+          "label": "C",
+          "text": "Human herpesvirus type 8"
+        },
+        {
+          "label": "D",
+          "text": "Human papillomavirus type 16"
+        },
+        {
+          "label": "E",
+          "text": "Human T-lymphotropic virus type 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "HPV 16 (with HPV 18) causes most cervical cancers worldwide.",
+        "whyCorrect": "HPV infection is the primary cause of cervical cancer, and the most important high-risk types are HPV 16 and HPV 18, which cause most cervical cancers worldwide. Other high-risk types include 31, 33, 45, 52 and 58.",
+        "whyWrongByChoice": {
+          "A": "EBV is associated with other malignancies, not cervical squamous cell carcinoma.",
+          "B": "HSV-2 causes genital herpes; it is not the causal agent of cervical carcinoma.",
+          "C": "HHV-8 is associated with Kaposi sarcoma, not cervical carcinoma.",
+          "E": "HTLV-1 is associated with adult T-cell leukemia/lymphoma, not cervical cancer."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HPV 16",
+        "etiology"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "core"
+    },
+    {
+      "id": "rp37-004",
+      "stem": "A 44-year-old woman reports 3 months of bleeding after intercourse and spotting between menstrual periods. She has not had cervical screening in 15 years. Speculum examination shows a friable, exophytic lesion on the cervix. Which of the following is required to establish the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A trial of combined oral contraceptives"
+        },
+        {
+          "label": "B",
+          "text": "Contrast CT of the abdomen and pelvis"
+        },
+        {
+          "label": "C",
+          "text": "High-risk HPV DNA testing alone"
+        },
+        {
+          "label": "D",
+          "text": "Histologic evaluation of a cervical biopsy"
+        },
+        {
+          "label": "E",
+          "text": "Repeat cervical cytology in 3 years"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Abnormal bleeding is the most common symptom, and a definitive diagnosis requires histology of a biopsy.",
+        "whyCorrect": "Postcoital and intermenstrual bleeding are classic symptoms of cervical cancer. Screening tests only identify patients who may have dysplasia or cancer; a definitive diagnosis requires histologic evaluation of tissue, which tells the pathologist whether the lesion is CIN, invasive squamous cell carcinoma, adenocarcinoma, or another lesion.",
+        "whyWrongByChoice": {
+          "A": "Hormonal treatment of bleeding would delay diagnosis of a visible cervical lesion.",
+          "B": "Imaging assesses extent after invasive cancer is confirmed; it does not establish the diagnosis.",
+          "C": "HPV testing detects infection with high-risk types but cannot diagnose dysplasia or cancer.",
+          "E": "Deferring evaluation is inappropriate with a visible lesion and symptoms, and cytology is not a definitive diagnosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "presentation",
+        "abnormal bleeding",
+        "biopsy"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "core"
+    },
+    {
+      "id": "rp37-005",
+      "stem": "A 26-year-old woman's cervical cytology shows squamous cells with wrinkled, raisin-like nuclei, each surrounded by a clear perinuclear halo. These cells are most characteristic of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrophic change after menopause"
+        },
+        {
+          "label": "B",
+          "text": "Cytopathic effect of HPV infection"
+        },
+        {
+          "label": "C",
+          "text": "Endocervical adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Invasive squamous cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Reactive change from Candida infection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Koilocytes (raisin-like nuclei with perinuclear halos) are highly characteristic of HPV infection.",
+        "whyCorrect": "Koilocytes are cells with wrinkly, raisin-like nuclei and a perinuclear clearing (halo). They reflect HPV cytopathic effect and are often seen in LSIL, the Pap category in which HPV infection is most productive.",
+        "whyWrongByChoice": {
+          "A": "Atrophy is not the explanation for raisin-like nuclei with perinuclear halos in a 26-year-old.",
+          "C": "Adenocarcinoma consists of malignant glands, not squamous cells with perinuclear halos.",
+          "D": "Malignant cells show enlarged hyperchromatic irregular nuclei, high N:C ratio and mitoses, not koilocytic halos.",
+          "E": "Koilocytes are a viral cytopathic effect specific to HPV, not a fungal reactive change."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "koilocytes",
+        "cytology",
+        "LSIL"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "core"
+    },
+    {
+      "id": "rp37-006",
+      "stem": "A 30-year-old woman with an abnormal Pap test undergoes colposcopic biopsy. Dysplastic cells occupy the lower two-thirds of the squamous epithelium, the upper third shows maturing cells, and the basement membrane is intact. Which of the following is the correct classification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atypical squamous cells of undetermined significance"
+        },
+        {
+          "label": "B",
+          "text": "CIN 1"
+        },
+        {
+          "label": "C",
+          "text": "CIN 2"
+        },
+        {
+          "label": "D",
+          "text": "CIN 3"
+        },
+        {
+          "label": "E",
+          "text": "Invasive squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CIN grade is set by the thickness of epithelium involved: lower two-thirds = CIN 2.",
+        "whyCorrect": "CIN is dysplasia confined to the epithelium, graded by how much of the epithelial thickness is involved, not by depth of invasion. CIN 1 involves the lower third, CIN 2 the lower two-thirds, and CIN 3 more than two-thirds up to full thickness.",
+        "whyWrongByChoice": {
+          "A": "ASC-US is a cytology (Pap) category, not a histologic grade on biopsy.",
+          "B": "CIN 1 is limited to the lower third of the epithelium.",
+          "D": "CIN 3 involves more than two-thirds or the full thickness.",
+          "E": "Invasive carcinoma requires breach of the basement membrane, which is intact here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CIN",
+        "grading",
+        "histology"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "core"
+    },
+    {
+      "id": "rp37-007",
+      "stem": "A 49-year-old woman's cervical biopsy shows full-thickness squamous dysplasia with enlarged, hyperchromatic nuclei. In one area, irregular nests of atypical squamous cells have broken through the basement membrane into the underlying stroma. Which of the following is the most accurate diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cervical intraepithelial neoplasia 2"
+        },
+        {
+          "label": "B",
+          "text": "Cervical intraepithelial neoplasia 3"
+        },
+        {
+          "label": "C",
+          "text": "High-grade squamous intraepithelial lesion"
+        },
+        {
+          "label": "D",
+          "text": "Invasive endocervical adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Invasive squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Invasive carcinoma is diagnosed only when malignant cells breach the basement membrane into stroma.",
+        "whyCorrect": "Full-thickness dysplasia alone would be CIN 3, but CIN is by definition confined to the epithelium. Once malignant cells breach the basement membrane and invade the underlying stroma, the lesion is invasive carcinoma; squamous nests make this squamous cell carcinoma, the most common type.",
+        "whyWrongByChoice": {
+          "A": "CIN 2 involves only the lower two-thirds and is not invasive.",
+          "B": "CIN 3 is full-thickness dysplasia with an intact basement membrane; stromal invasion excludes it.",
+          "C": "HSIL is a cytology category, and stromal invasion on histology indicates carcinoma.",
+          "D": "Adenocarcinoma consists of malignant glands, not nests of squamous cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "invasion",
+        "basement membrane",
+        "squamous cell carcinoma"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "core"
+    },
+    {
+      "id": "rp37-008",
+      "stem": "A 33-year-old woman's routine Pap test is reported as a high-grade squamous intraepithelial lesion. She is asymptomatic and the cervix appears grossly normal. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colposcopy with directed biopsy"
+        },
+        {
+          "label": "B",
+          "text": "Concurrent cisplatin-based chemoradiation"
+        },
+        {
+          "label": "C",
+          "text": "HPV vaccination and reassurance"
+        },
+        {
+          "label": "D",
+          "text": "Radical hysterectomy with node assessment"
+        },
+        {
+          "label": "E",
+          "text": "Repeat cytology in 3 years"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Concerning screening results are followed by colposcopy, where acetowhite areas guide biopsy.",
+        "whyCorrect": "Screening only identifies patients who may have dysplasia or cancer. Concerning results are followed by colposcopy, a magnified examination of the cervix in which dilute acetic acid makes dysplastic areas appear white (acetowhite change); these areas are biopsied for a histologic diagnosis.",
+        "whyWrongByChoice": {
+          "B": "Chemoradiation treats locally advanced invasive cancer, not an abnormal screening result.",
+          "C": "The vaccine prevents new infections but does not treat existing dysplasia.",
+          "D": "Radical surgery is for invasive cancer, which has not been diagnosed.",
+          "E": "An HSIL result is concerning for high-grade dysplasia and needs evaluation now, not routine rescreening."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "colposcopy",
+        "HSIL",
+        "acetowhite"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "core"
+    },
+    {
+      "id": "rp37-009",
+      "stem": "A 51-year-old woman has biopsy-proven invasive squamous cell carcinoma of the cervix. MRI shows tumor extending into the parametrial tissue but not reaching the pelvic wall or the lower third of the vagina. CT shows left hydronephrosis due to ureteral obstruction by tumor. There are no distant metastases. Which of the following is the stage of her cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carcinoma in situ"
+        },
+        {
+          "label": "B",
+          "text": "Stage I"
+        },
+        {
+          "label": "C",
+          "text": "Stage II"
+        },
+        {
+          "label": "D",
+          "text": "Stage III"
+        },
+        {
+          "label": "E",
+          "text": "Stage IV"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hydronephrosis or a nonfunctioning kidney places cervical cancer in stage III.",
+        "whyCorrect": "Parametrial extension short of the pelvic wall would otherwise be stage II, but stage III includes involvement of the lower third of the vagina, pelvic wall extension, regional lymph-node metastases, and/or hydronephrosis or a nonfunctioning kidney. The ureteral obstruction therefore upstages her to stage III.",
+        "whyWrongByChoice": {
+          "A": "This is biopsy-proven invasive carcinoma, not an intraepithelial lesion.",
+          "B": "Stage I is confined to the cervix; this tumor extends into the parametrium.",
+          "C": "Stage II would fit the parametrial spread alone, but hydronephrosis upstages the tumor.",
+          "E": "Stage IV requires invasion of nearby pelvic organs or distant spread, which are absent."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "staging",
+        "hydronephrosis",
+        "stage III"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "core"
+    },
+    {
+      "id": "rp37-010",
+      "stem": "A 29-year-old woman who is not pregnant has a colposcopic biopsy showing CIN 3. Invasive cancer is not seen. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Concurrent cisplatin-based chemoradiation"
+        },
+        {
+          "label": "B",
+          "text": "HPV vaccination as definitive therapy"
+        },
+        {
+          "label": "C",
+          "text": "Loop electrosurgical excision procedure"
+        },
+        {
+          "label": "D",
+          "text": "Observation with repeat cytology in 1 year"
+        },
+        {
+          "label": "E",
+          "text": "Radical hysterectomy with node assessment"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CIN 2 and CIN 3 are high-grade precancers usually treated by excision, most commonly LEEP.",
+        "whyCorrect": "Management of dysplasia is guided by CIN grade, age, pregnancy status, fertility goals and progression risk. CIN 2 and 3 are high-grade precancerous lesions that are usually excised, most commonly by LEEP or cold-knife conization, to prevent progression to invasive carcinoma.",
+        "whyWrongByChoice": {
+          "A": "Chemoradiation is for locally advanced invasive cancer.",
+          "B": "Vaccination prevents new infections but does not treat existing dysplasia.",
+          "D": "Observation is the approach for CIN 1, which often regresses; CIN 3 is more likely to progress.",
+          "E": "Radical hysterectomy is a treatment for invasive cancer, not a precancerous lesion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CIN 3",
+        "LEEP",
+        "management"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "core"
+    },
+    {
+      "id": "rp37-011",
+      "stem": "A 56-year-old woman is found to have invasive squamous cell carcinoma of the cervix. Cystoscopy with biopsy shows tumor invading the bladder mucosa. Imaging shows no distant metastases. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cold-knife conization of the cervix"
+        },
+        {
+          "label": "B",
+          "text": "Concurrent cisplatin-based chemoradiation"
+        },
+        {
+          "label": "C",
+          "text": "Loop electrosurgical excision"
+        },
+        {
+          "label": "D",
+          "text": "Radical hysterectomy with node assessment"
+        },
+        {
+          "label": "E",
+          "text": "Radical trachelectomy with node assessment"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Locally advanced cervical cancer (stage IIB-IVA) is treated with concurrent cisplatin-based chemoradiation.",
+        "whyCorrect": "Invasion of a nearby pelvic organ such as the bladder without distant spread is stage IVA disease. Stage guides treatment, and locally advanced disease (stage IIB-IVA) is treated with concurrent cisplatin-based chemoradiation rather than surgery.",
+        "whyWrongByChoice": {
+          "A": "Conization treats high-grade dysplasia or selected very early disease, not bladder invasion.",
+          "C": "LEEP treats CIN 2 and CIN 3, not invasive cancer involving the bladder.",
+          "D": "Hysterectomy with node assessment is an option for early-stage disease, not locally advanced disease.",
+          "E": "Radical trachelectomy is a fertility-sparing option for selected early-stage disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "chemoradiation",
+        "stage IV"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "core"
+    },
+    {
+      "id": "rp37-012",
+      "stem": "An 11-year-old girl is seen for a well-child visit, and the HPV vaccine is due. Her father asks why it should be given now, because she is not sexually active. Which of the following is the most appropriate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is mainly needed for children who are immunosuppressed"
+        },
+        {
+          "label": "B",
+          "text": "It is only effective after sexual activity begins"
+        },
+        {
+          "label": "C",
+          "text": "It replaces the need for future cervical screening"
+        },
+        {
+          "label": "D",
+          "text": "It treats any HPV infection she may already have"
+        },
+        {
+          "label": "E",
+          "text": "It works best when given before any exposure to HPV"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "HPV vaccine is given in adolescence because it is most effective before HPV exposure.",
+        "whyCorrect": "HPV vaccines prevent new infections with the types most strongly associated with cervical cancer but do not treat existing infection, so they work best before exposure. Framing it as cancer prevention, not a judgment about sexual activity, normalizes the recommendation.",
+        "whyWrongByChoice": {
+          "A": "The vaccine is recommended routinely in adolescence, not only for immunosuppressed patients.",
+          "B": "The vaccine is most effective before exposure, which is why it is given in adolescence.",
+          "C": "Vaccination does not replace screening because it protects against most, but not all, high-risk types.",
+          "D": "The vaccine prevents new infections; it does not treat existing HPV, dysplasia or cancer."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HPV vaccine",
+        "prevention",
+        "counseling"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "core"
+    },
+    {
+      "id": "rp37-013",
+      "stem": "A 23-year-old woman learns that her new partner has been diagnosed with HPV infection. She asks what usually happens after a person becomes infected with HPV. Which of the following is the most accurate description of the usual course?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clearance by the immune system within 1-2 years"
+        },
+        {
+          "label": "B",
+          "text": "Clearance only after a course of antiviral therapy"
+        },
+        {
+          "label": "C",
+          "text": "Lifelong persistence of productive infection"
+        },
+        {
+          "label": "D",
+          "text": "Progression to high-grade dysplasia within months"
+        },
+        {
+          "label": "E",
+          "text": "Progression to invasive carcinoma within 5 years"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Most HPV infections are cleared by the immune system within 1-2 years and do not cause cancer.",
+        "whyCorrect": "HPV is a common sexually transmitted infection that most sexually active people encounter. Most infections clear spontaneously within 1-2 years; cancer risk rises only when a high-risk type becomes persistent.",
+        "whyWrongByChoice": {
+          "B": "Clearance is by the immune system; no antiviral therapy is described for HPV.",
+          "C": "Most infections clear; persistence is the exception that raises cancer risk.",
+          "D": "Most infections clear; high-grade dysplasia develops only with persistent high-risk infection.",
+          "E": "Progression to cancer is uncommon and, when it occurs, takes years through precursor lesions."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HPV",
+        "natural history"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-014",
+      "stem": "A public health study measures detectable HPV in cervical smears from women whose Pap test results are normal. In which of the following age ranges is the prevalence of detectable HPV expected to peak?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "15-19 years"
+        },
+        {
+          "label": "B",
+          "text": "20-24 years"
+        },
+        {
+          "label": "C",
+          "text": "30-34 years"
+        },
+        {
+          "label": "D",
+          "text": "40-44 years"
+        },
+        {
+          "label": "E",
+          "text": "55-59 years"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Detectable HPV in women with normal Pap tests peaks at ages 20-24.",
+        "whyCorrect": "HPV prevalence in women with normal Pap results peaks between 20 and 24 years, around the onset of sexual activity, and then declines as protective immunity develops and women enter established relationships.",
+        "whyWrongByChoice": {
+          "A": "The peak comes slightly later, at 20-24 years, around the onset of sexual activity.",
+          "C": "By the early 30s prevalence has declined as protective immunity is established.",
+          "D": "Prevalence declines after the early-20s peak.",
+          "E": "Prevalence is far below its early-20s peak in this age range."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HPV",
+        "epidemiology"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-015",
+      "stem": "A 22-year-old woman who is not pregnant has an abnormal Pap test, and colposcopic biopsy shows CIN 1. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cold-knife conization of the cervix"
+        },
+        {
+          "label": "B",
+          "text": "Concurrent cisplatin-based chemoradiation"
+        },
+        {
+          "label": "C",
+          "text": "Loop electrosurgical excision procedure"
+        },
+        {
+          "label": "D",
+          "text": "Observation with follow-up testing"
+        },
+        {
+          "label": "E",
+          "text": "Total hysterectomy with node assessment"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CIN 1 often regresses and is generally observed with follow-up testing.",
+        "whyCorrect": "Low-grade lesions often regress, especially in younger patients. CIN 1 is therefore generally observed with follow-up testing, whereas excision is reserved for high-grade lesions (CIN 2 and 3).",
+        "whyWrongByChoice": {
+          "A": "Cold-knife conization is used for high-grade lesions, not CIN 1.",
+          "B": "Chemoradiation is for locally advanced invasive cancer.",
+          "C": "LEEP is used for high-grade lesions (CIN 2 and 3).",
+          "E": "Hysterectomy is a treatment for invasive cancer, not low-grade dysplasia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CIN 1",
+        "management",
+        "regression"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-016",
+      "stem": "In a laboratory study of HPV 18-positive cervical carcinoma cells, the viral E7 oncoprotein is shown to bind and inactivate a host tumor suppressor protein. Which of the following host proteins is the target of E7?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "APC"
+        },
+        {
+          "label": "B",
+          "text": "BRCA1"
+        },
+        {
+          "label": "C",
+          "text": "p53"
+        },
+        {
+          "label": "D",
+          "text": "PTEN"
+        },
+        {
+          "label": "E",
+          "text": "Rb"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "High-risk HPV E7 inhibits the Rb tumor suppressor.",
+        "whyCorrect": "High-risk HPV promotes carcinogenesis through E6, which inhibits p53, and E7, which inhibits Rb. The virus acts both by integrating into host DNA and through nonintegrated episomes that replicate independently of the host genome.",
+        "whyWrongByChoice": {
+          "A": "APC is not a target of HPV oncoproteins.",
+          "B": "BRCA1 is not the target of HPV E7.",
+          "C": "p53 is inhibited by E6, not E7.",
+          "D": "PTEN is not the target of HPV E7."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HPV",
+        "E7",
+        "Rb"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-017",
+      "stem": "During a speculum examination of a 27-year-old woman, the clinician inspects the outer vaginal surface of the cervix surrounding the external os. Which of the following types of epithelium normally lines this surface?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Keratinized stratified squamous epithelium"
+        },
+        {
+          "label": "B",
+          "text": "Nonkeratinized stratified squamous epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Pseudostratified ciliated columnar epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Simple columnar mucus-secreting epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Transitional (urothelial) epithelium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The ectocervix is lined by nonkeratinized stratified squamous epithelium.",
+        "whyCorrect": "The outer vaginal surface of the cervix, the ectocervix, is lined by nonkeratinized stratified squamous epithelium, whereas the endocervical canal is lined by glandular columnar epithelium. The two meet at the transformation zone.",
+        "whyWrongByChoice": {
+          "A": "The ectocervix is squamous but nonkeratinized.",
+          "C": "Pseudostratified ciliated epithelium is not found on the ectocervix.",
+          "D": "Glandular columnar epithelium lines the endocervical canal, not the ectocervix.",
+          "E": "Transitional epithelium lines the urinary tract, not the cervix."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "anatomy",
+        "ectocervix",
+        "epithelium"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-018",
+      "stem": "A pathologist teaching students explains why HPV-driven neoplasia arises most often at the transformation zone of the cervix. Which of the following ongoing epithelial processes in this zone underlies its vulnerability?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estrogen-withdrawal atrophy of the glands"
+        },
+        {
+          "label": "B",
+          "text": "Keratinization of the surface squamous layer"
+        },
+        {
+          "label": "C",
+          "text": "Replacement of columnar cells by squamous cells"
+        },
+        {
+          "label": "D",
+          "text": "Replacement of squamous cells by columnar cells"
+        },
+        {
+          "label": "E",
+          "text": "Replacement of squamous cells by urothelium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The transformation zone undergoes active squamous metaplasia, making it vulnerable to persistent HPV.",
+        "whyCorrect": "At the squamocolumnar junction, columnar epithelial cells are actively replaced by squamous cells (squamous metaplasia). This active epithelial turnover creates a setting in which persistent high-risk HPV infection is more likely to disrupt normal growth control.",
+        "whyWrongByChoice": {
+          "A": "Vulnerability comes from active metaplastic turnover, not glandular atrophy.",
+          "B": "The cervical squamous epithelium is nonkeratinized; keratinization is not the vulnerability described.",
+          "D": "The metaplasia at the transformation zone runs the other way: columnar cells are replaced by squamous cells.",
+          "E": "Urothelial metaplasia is not the process at the cervical transformation zone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transformation zone",
+        "squamous metaplasia"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-019",
+      "stem": "A 24-year-old woman tells her physician that her mother took diethylstilbestrol while pregnant with her. For which of the following malignancies is she at increased risk because of this exposure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clear cell adenocarcinoma of the vagina"
+        },
+        {
+          "label": "B",
+          "text": "Endometrioid carcinoma of the uterus"
+        },
+        {
+          "label": "C",
+          "text": "Leiomyosarcoma of the myometrium"
+        },
+        {
+          "label": "D",
+          "text": "Serous carcinoma of the ovary"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma of the vulva"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In utero DES exposure is a rare risk factor for clear cell adenocarcinoma of the vagina and cervix.",
+        "whyCorrect": "Diethylstilbestrol exposure in utero is a rare risk factor for clear cell adenocarcinoma of the vagina and cervix, distinct from the HPV-driven squamous cell carcinoma that accounts for most cervical cancers.",
+        "whyWrongByChoice": {
+          "B": "Endometrioid uterine carcinoma is not the malignancy linked to DES exposure.",
+          "C": "Myometrial leiomyosarcoma is not the malignancy linked to DES exposure.",
+          "D": "Ovarian serous carcinoma is not the malignancy linked to DES exposure.",
+          "E": "Vulvar squamous cell carcinoma is not the malignancy linked to in utero DES exposure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DES",
+        "clear cell adenocarcinoma",
+        "risk factors"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-020",
+      "stem": "A 38-year-old woman received a kidney transplant 6 years ago and takes tacrolimus and mycophenolate. Repeat testing shows that a high-risk HPV infection has persisted over 2 years. Which of the following factors most increases her risk that this infection will progress to cervical cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A long-standing vegetarian diet"
+        },
+        {
+          "label": "B",
+          "text": "Blood group A, Rh positive"
+        },
+        {
+          "label": "C",
+          "text": "Immunosuppressive drug therapy"
+        },
+        {
+          "label": "D",
+          "text": "Menarche at age 12 years"
+        },
+        {
+          "label": "E",
+          "text": "Nulliparity with no prior deliveries"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Immunosuppression (HIV or transplant drugs) increases HPV persistence and progression.",
+        "whyCorrect": "Most HPV infections clear because of immune responses. Immunosuppression, including HIV infection or drug therapy to prevent transplant rejection, increases the risk that high-risk HPV infection persists and progresses to cervical cancer.",
+        "whyWrongByChoice": {
+          "A": "Diet is not a described risk factor for HPV persistence.",
+          "B": "Blood group is not a risk factor for cervical cancer.",
+          "D": "Age at menarche is not a described risk factor; earlier onset of sexual activity is.",
+          "E": "High parity, not nulliparity, has been associated with increased cervical cancer risk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunosuppression",
+        "risk factors",
+        "HPV persistence"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-021",
+      "stem": "A 45-year-old woman with six prior deliveries and 15 years of oral contraceptive use is diagnosed with cervical squamous cell carcinoma. She asks what caused her cancer. Which of the following is the central causal factor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cumulative hormone exposure from pregnancy"
+        },
+        {
+          "label": "B",
+          "text": "Her 15 years of oral contraceptive use"
+        },
+        {
+          "label": "C",
+          "text": "Her age of 45 years at diagnosis"
+        },
+        {
+          "label": "D",
+          "text": "Her six prior vaginal deliveries"
+        },
+        {
+          "label": "E",
+          "text": "Persistent high-risk HPV infection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Parity and oral contraceptive use are associated factors, but persistent high-risk HPV is the central causal driver.",
+        "whyCorrect": "Reproductive factors such as long-term oral contraceptive use and high parity have been associated with increased cervical cancer risk, but persistent infection with high-risk HPV remains the central cause; carcinogenesis is driven by the E6 and E7 oncoproteins.",
+        "whyWrongByChoice": {
+          "A": "Hormonal factors are associations; the causal driver is persistent high-risk HPV.",
+          "B": "Long-term oral contraceptive use is an associated factor, not the central cause.",
+          "C": "Age is not the causal driver of cervical carcinogenesis.",
+          "D": "High parity is an associated factor, not the central cause."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "causation",
+        "HPV",
+        "risk factors"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-022",
+      "stem": "A 58-year-old woman with locally advanced cervical cancer develops progressive swelling of her left leg over several weeks. Which of the following is the most likely mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cisplatin-induced renal salt retention"
+        },
+        {
+          "label": "B",
+          "text": "Fluid overload from unilateral hydronephrosis"
+        },
+        {
+          "label": "C",
+          "text": "Hypoalbuminemia from hepatic metastases"
+        },
+        {
+          "label": "D",
+          "text": "Right heart failure from lung metastases"
+        },
+        {
+          "label": "E",
+          "text": "Tumor obstruction of pelvic lymphatics or veins"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Local pelvic extension can cause leg swelling through lymphatic or venous obstruction.",
+        "whyCorrect": "Advanced cervical cancer can invade nearby pelvic structures, causing urinary or bowel symptoms, back or pelvic pain, hydronephrosis from ureteral obstruction, and leg swelling from lymphatic or venous obstruction. Unilateral leg swelling points to a local obstructive cause.",
+        "whyWrongByChoice": {
+          "A": "Systemic salt retention would not produce swelling limited to one leg.",
+          "B": "Hydronephrosis reflects ureteral obstruction; it does not explain swelling of one leg.",
+          "C": "Hypoalbuminemia would cause generalized, bilateral edema, not one swollen leg.",
+          "D": "Heart failure would cause bilateral edema, not unilateral leg swelling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "advanced disease",
+        "presentation",
+        "lymphatic obstruction"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-023",
+      "stem": "A 34-year-old woman has high-risk HPV 16 infection that has persisted on repeat testing, with a low-grade Pap result. She smokes one pack of cigarettes daily. Which of the following interventions would most appropriately lower her risk of progression to cervical cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Discontinuing cervical screening"
+        },
+        {
+          "label": "B",
+          "text": "HPV vaccination to clear the infection"
+        },
+        {
+          "label": "C",
+          "text": "Oral antiviral therapy against HPV"
+        },
+        {
+          "label": "D",
+          "text": "Prophylactic radical hysterectomy"
+        },
+        {
+          "label": "E",
+          "text": "Smoking cessation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Smoking (including secondhand smoke) increases the risk of HPV persistence and progression.",
+        "whyCorrect": "Factors that increase the risk of persistent HPV infection or progression to cervical cancer include high-risk types, immunosuppression, smoking or secondhand smoke, lack of screening, and increased HPV exposure. Smoking is the modifiable factor here, and she should also continue screening.",
+        "whyWrongByChoice": {
+          "A": "Lack of regular screening increases risk; she needs continued follow-up.",
+          "B": "The vaccine prevents new infections but does not treat an existing infection.",
+          "C": "No antiviral treatment for HPV is described; most infections clear through immune responses.",
+          "D": "Radical surgery is for invasive cancer, not for a persistent infection with low-grade changes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "smoking",
+        "risk factors",
+        "prevention"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-024",
+      "stem": "A cytotechnologist compares two cervical smears, one reported as LSIL and the other as HSIL. Which of the following features is expected in the HSIL cells compared with the LSIL cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Higher nuclear-to-cytoplasmic ratio"
+        },
+        {
+          "label": "B",
+          "text": "Lower nuclear-to-cytoplasmic ratio"
+        },
+        {
+          "label": "C",
+          "text": "More abundant koilocytes with halos"
+        },
+        {
+          "label": "D",
+          "text": "More mature, evenly dispersed chromatin"
+        },
+        {
+          "label": "E",
+          "text": "Smaller, round, regular nuclear contours"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "HSIL shows a higher N:C ratio, irregular nuclei and less mature chromatin than LSIL.",
+        "whyCorrect": "Compared with LSIL, HSIL is characterized by a higher nuclear-to-cytoplasmic ratio, irregularly shaped nuclei and less mature chromatin. High-grade dysplastic or malignant cells also show enlarged hyperchromatic nuclei and increased mitotic activity.",
+        "whyWrongByChoice": {
+          "B": "HSIL has a higher, not lower, N:C ratio.",
+          "C": "Koilocytes are characteristic of LSIL, where HPV infection is most productive.",
+          "D": "HSIL chromatin is less mature than that of LSIL.",
+          "E": "HSIL nuclei are irregularly shaped, not regular."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HSIL",
+        "cytology",
+        "N:C ratio"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-025",
+      "stem": "A 35-year-old woman's Pap test result is reported as ASC-US. Which of the following best describes what this category means?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abnormal squamous cells of unclear significance"
+        },
+        {
+          "label": "B",
+          "text": "Koilocytes indicating productive HPV infection"
+        },
+        {
+          "label": "C",
+          "text": "Malignant squamous cells invading the stroma"
+        },
+        {
+          "label": "D",
+          "text": "Normal squamous cells without any abnormality"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cells with definite high-grade dysplasia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ASC-US means squamous cells are abnormal but their significance is unclear.",
+        "whyCorrect": "Abnormal squamous cytology is reported as ASC-US (atypical squamous cells of undetermined significance: abnormal cells of unclear significance), LSIL (productive HPV infection and low-grade dysplasia) or HSIL (concerning for high-grade dysplasia).",
+        "whyWrongByChoice": {
+          "B": "Koilocytes of productive HPV infection are typical of LSIL.",
+          "C": "Stromal invasion is a histologic finding on biopsy, not a cytology category.",
+          "D": "ASC-US means the squamous cells are abnormal, not normal.",
+          "E": "Definite high-grade dysplasia is reported as HSIL."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ASC-US",
+        "Pap categories"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-026",
+      "stem": "A 31-year-old woman's Pap test is reported as a high-grade squamous intraepithelial lesion. Colposcopy is performed and an acetowhite area is biopsied. Which of the following histologic findings would this cytology result most typically correspond to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Benign reactive squamous metaplasia"
+        },
+        {
+          "label": "B",
+          "text": "CIN 1 confined to the lower third"
+        },
+        {
+          "label": "C",
+          "text": "CIN 2 or CIN 3 dysplasia"
+        },
+        {
+          "label": "D",
+          "text": "Clear cell adenocarcinoma of the cervix"
+        },
+        {
+          "label": "E",
+          "text": "Normal epithelium with koilocytes only"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "HSIL on cytology indicates CIN 2 or CIN 3 on biopsy; LSIL usually corresponds to CIN 1.",
+        "whyCorrect": "The Pap category LSIL often corresponds to CIN 1 on biopsy, whereas HSIL indicates CIN 2 or CIN 3. These are high-grade precancerous lesions with higher risk of progression.",
+        "whyWrongByChoice": {
+          "A": "HSIL is concerning for high-grade dysplasia, not a benign reactive process.",
+          "B": "CIN 1 usually corresponds to an LSIL Pap result.",
+          "D": "Clear cell adenocarcinoma is linked to in utero DES exposure, not a typical HSIL correlate.",
+          "E": "Koilocytes without high-grade dysplasia would fit LSIL, not HSIL."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HSIL",
+        "CIN",
+        "cytology-histology correlation"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-027",
+      "stem": "A 42-year-old woman's cervical biopsy shows dysplastic cells with hyperchromatic nuclei replacing the entire thickness of the squamous epithelium, with no surface maturation. The basement membrane is intact throughout, and no cells are present in the stroma. Which of the following is the correct diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CIN 1"
+        },
+        {
+          "label": "B",
+          "text": "CIN 2"
+        },
+        {
+          "label": "C",
+          "text": "CIN 3"
+        },
+        {
+          "label": "D",
+          "text": "Invasive squamous cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Low-grade squamous intraepithelial lesion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Full-thickness dysplasia with an intact basement membrane is CIN 3, not invasive carcinoma.",
+        "whyCorrect": "CIN 3 is dysplasia involving more than two-thirds or the full thickness of the epithelium. Even full-thickness involvement remains intraepithelial; invasive carcinoma is diagnosed only when malignant cells breach the basement membrane into the stroma.",
+        "whyWrongByChoice": {
+          "A": "CIN 1 is limited to the lower third of the epithelium.",
+          "B": "CIN 2 involves the lower two-thirds, with maturation above.",
+          "D": "Invasion requires breach of the basement membrane, which is intact here.",
+          "E": "LSIL is a low-grade cytology category, not a diagnosis for full-thickness dysplasia on biopsy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CIN 3",
+        "basement membrane",
+        "histology"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-028",
+      "stem": "A 22-year-old woman asks why her clinician does not use high-risk HPV testing as her main screening test, as is done for her 45-year-old aunt. Which of the following best explains why HPV testing is more useful later in adulthood?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cells at the junction cannot be sampled in young women"
+        },
+        {
+          "label": "B",
+          "text": "High-risk HPV types rarely infect women under 30"
+        },
+        {
+          "label": "C",
+          "text": "HPV DNA is undetectable in cervical cells before 30"
+        },
+        {
+          "label": "D",
+          "text": "Infections in younger patients are often transient"
+        },
+        {
+          "label": "E",
+          "text": "Vaccination causes false-positive HPV DNA results"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "HPV testing is more useful later in adulthood because many infections in young patients are transient.",
+        "whyCorrect": "High-risk HPV testing detects viral DNA of types linked to dysplasia and cancer and can increase sensitivity and allow longer screening intervals. It is more useful later in adulthood because many HPV infections in younger patients are transient and clear spontaneously, so a positive result is less meaningful.",
+        "whyWrongByChoice": {
+          "A": "The transformation zone is sampled at any screening age.",
+          "B": "HPV prevalence is highest in the early 20s, not rare in young women.",
+          "C": "HPV DNA is detectable at any age; prevalence actually peaks at 20-24 years.",
+          "E": "Vaccination does not produce false-positive HPV DNA results."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HPV testing",
+        "screening"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-029",
+      "stem": "A healthy 19-year-old woman asks when she should begin cervical cancer screening with Pap testing. According to CDC guidance, at which of the following ages should Pap testing begin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "15 years"
+        },
+        {
+          "label": "B",
+          "text": "21 years"
+        },
+        {
+          "label": "C",
+          "text": "30 years"
+        },
+        {
+          "label": "D",
+          "text": "35 years"
+        },
+        {
+          "label": "E",
+          "text": "45 years"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CDC guidance describes Pap testing beginning at age 21.",
+        "whyCorrect": "Screening begins in early adulthood. CDC guidance describes Pap testing starting at age 21 and, for ages 30-65, options that include Pap testing, HPV testing, or co-testing.",
+        "whyWrongByChoice": {
+          "A": "Pap testing is not started in mid-adolescence.",
+          "C": "Age 30 is when HPV testing and co-testing become options, not when Pap testing begins.",
+          "D": "Waiting until 35 would miss years of screening for precursor lesions.",
+          "E": "Waiting until 45 would miss many years of screening."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "screening",
+        "Pap test",
+        "age"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-030",
+      "stem": "A 47-year-old woman has a new diagnosis of invasive squamous cell carcinoma of the cervix on biopsy. Pelvic MRI and CT are ordered. Which of the following is the main purpose of this imaging?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assessing tumor extent, nodes and ureteral obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Checking whether the cytology was a false positive"
+        },
+        {
+          "label": "C",
+          "text": "Confirming that prior vaccination was effective"
+        },
+        {
+          "label": "D",
+          "text": "Deciding whether the lesion is dysplasia or cancer"
+        },
+        {
+          "label": "E",
+          "text": "Identifying which HPV genotype drove the tumor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "After biopsy-proven invasive cancer, CT or MRI assesses extent of disease for staging.",
+        "whyCorrect": "Once biopsy shows invasive cervical cancer, imaging (CT or MRI) assesses local tumor extent, lymph-node involvement, urinary tract obstruction such as hydronephrosis, and distant metastases. This determines stage, which guides treatment.",
+        "whyWrongByChoice": {
+          "B": "Invasive cancer is already confirmed histologically; imaging is for extent.",
+          "C": "Imaging does not assess vaccine response.",
+          "D": "Biopsy histology, not imaging, distinguishes dysplasia from invasive cancer.",
+          "E": "Imaging cannot determine HPV genotype."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "imaging",
+        "staging",
+        "workup"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-031",
+      "stem": "A 44-year-old woman has a speculum examination during a routine visit. A smooth, benign-appearing endocervical polyp measuring 3.5 cm protrudes from the external os. She has no bleeding or discharge. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Concurrent cisplatin-based chemoradiation"
+        },
+        {
+          "label": "B",
+          "text": "Radical hysterectomy with node assessment"
+        },
+        {
+          "label": "C",
+          "text": "Reassurance without removal"
+        },
+        {
+          "label": "D",
+          "text": "Removal because of its size"
+        },
+        {
+          "label": "E",
+          "text": "Repeat speculum examination in 5 years"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cervical polyps are removed if symptomatic, large (3 cm or more), or atypical in appearance.",
+        "whyCorrect": "Cervical polyps are common in the reproductive years, especially after 40, and consist of vascular connective tissue stroma covered by columnar, squamous or squamocolumnar epithelium. They coexist with endometrial hyperplasia more often than expected by chance. They should be removed if symptomatic, 3 cm or larger, or atypical; malignancy is rare.",
+        "whyWrongByChoice": {
+          "A": "Chemoradiation is for locally advanced cervical cancer, not a benign polyp.",
+          "B": "Malignancy is rarely found in cervical polyps; radical surgery is not indicated.",
+          "C": "Although asymptomatic and benign-appearing, a polyp of 3 cm or larger should be removed.",
+          "E": "Its size is itself an indication for removal now."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cervical polyp",
+        "management"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-032",
+      "stem": "A 26-year-old woman completed the HPV vaccine series at age 12. She asks whether she can skip cervical cancer screening because she is vaccinated. Which of the following is the most appropriate advice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue screening; vaccine misses some high-risk types"
+        },
+        {
+          "label": "B",
+          "text": "Replace screening with periodic HPV vaccine boosters"
+        },
+        {
+          "label": "C",
+          "text": "Screen only if she develops postcoital bleeding"
+        },
+        {
+          "label": "D",
+          "text": "Screen only if she later becomes immunosuppressed"
+        },
+        {
+          "label": "E",
+          "text": "Stop screening; the vaccine covers all high-risk types"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "HPV vaccination does not replace screening because it protects against most, but not all, high-risk types.",
+        "whyCorrect": "Vaccination programs have substantially reduced vaccine-type HPV infections and precancerous lesions, but individuals with a cervix should continue routine screening because the vaccine does not cover every high-risk HPV type. The best prevention combines vaccination before exposure with regular screening.",
+        "whyWrongByChoice": {
+          "B": "Boosters are not a substitute; screening detects precancer the vaccine cannot prevent.",
+          "C": "Screening aims to detect precursors before symptoms; waiting for bleeding defeats its purpose.",
+          "D": "Routine screening is recommended for all individuals with a cervix, not only the immunosuppressed.",
+          "E": "The vaccine protects against most, but not all, high-risk HPV types."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HPV vaccine",
+        "screening",
+        "prevention"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-033",
+      "stem": "A 50-year-old woman undergoes cervical biopsy for a visible cervical mass, and invasive carcinoma is confirmed. Which of the following histologic types is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cervical leiomyosarcoma"
+        },
+        {
+          "label": "B",
+          "text": "Clear cell adenocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Endocervical adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Small cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Squamous cell carcinoma is the most common type of invasive cervical cancer.",
+        "whyCorrect": "Invasive cervical cancer on biopsy is either squamous cell carcinoma, the most common type, or adenocarcinoma, which consists of malignant glands.",
+        "whyWrongByChoice": {
+          "A": "Leiomyosarcoma is a mesenchymal tumor, not the usual epithelial cervical cancer.",
+          "B": "Clear cell adenocarcinoma is rare and linked to in utero DES exposure.",
+          "C": "Adenocarcinoma occurs but is less common than squamous cell carcinoma.",
+          "D": "Small cell carcinoma is not the most common cervical cancer type."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "histology",
+        "squamous cell carcinoma"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-034",
+      "stem": "A 32-year-old woman has biopsy-confirmed CIN 2. Her clinician considers cryotherapy ablation instead of excision. Which of the following conditions must be met for ablative therapy to be appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Her high-risk HPV test has become negative"
+        },
+        {
+          "label": "B",
+          "text": "Her most recent Pap result was only LSIL"
+        },
+        {
+          "label": "C",
+          "text": "Invasion excluded and entire lesion visible"
+        },
+        {
+          "label": "D",
+          "text": "She has completed childbearing and is over 40"
+        },
+        {
+          "label": "E",
+          "text": "The lesion extends out of view into the canal"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ablation (cryotherapy or laser) is used only when invasive cancer is excluded and the entire lesion is visible.",
+        "whyCorrect": "CIN 2 and 3 are usually excised by LEEP or cold-knife conization, which provides tissue. Ablative therapy such as cryotherapy or laser destroys tissue without a specimen, so it may be used only in selected cases when invasive cancer has been excluded and the whole lesion can be seen.",
+        "whyWrongByChoice": {
+          "A": "A negative HPV test is not the stated criterion for ablation.",
+          "B": "Treatment is based on biopsy CIN grade, not the Pap category.",
+          "D": "Childbearing status and age are not the criteria for choosing ablation.",
+          "E": "A lesion extending out of view cannot be fully assessed or treated by ablation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ablation",
+        "CIN 2",
+        "management"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-035",
+      "stem": "A 30-year-old nulligravid woman has a small invasive squamous cell carcinoma confined to the cervix. She strongly wishes to preserve fertility. In addition to conization in selected cases, which of the following is a fertility-sparing surgical option?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral salpingo-oophorectomy"
+        },
+        {
+          "label": "B",
+          "text": "Concurrent cisplatin-based chemoradiation"
+        },
+        {
+          "label": "C",
+          "text": "Observation with repeat cytology"
+        },
+        {
+          "label": "D",
+          "text": "Radical hysterectomy with node assessment"
+        },
+        {
+          "label": "E",
+          "text": "Radical trachelectomy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Early-stage cervical cancer may be treated with fertility-sparing conization or radical trachelectomy in selected patients.",
+        "whyCorrect": "Early-stage disease may be treated with surgery or definitive radiation depending on tumor characteristics and fertility goals. Selected patients can have fertility-sparing conization or radical trachelectomy, whereas others require hysterectomy with lymph-node assessment.",
+        "whyWrongByChoice": {
+          "A": "Removing the ovaries and tubes does not treat cervical cancer and harms fertility.",
+          "B": "Chemoradiation is for locally advanced disease and does not preserve fertility.",
+          "C": "Invasive cancer requires treatment, not observation.",
+          "D": "Hysterectomy removes the uterus and does not preserve fertility."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "fertility-sparing",
+        "trachelectomy"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp37-036",
+      "stem": "A 46-year-old woman has invasive squamous cell carcinoma of the cervix. Examination and MRI show tumor extending beyond the cervix into the upper vagina, sparing the lower third of the vagina and not reaching the pelvic wall. There are no enlarged lymph nodes, no hydronephrosis and no distant metastases. Which of the following is the stage of her cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CIN 3"
+        },
+        {
+          "label": "B",
+          "text": "Stage I"
+        },
+        {
+          "label": "C",
+          "text": "Stage II"
+        },
+        {
+          "label": "D",
+          "text": "Stage III"
+        },
+        {
+          "label": "E",
+          "text": "Stage IV"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Stage II extends beyond the cervix but not to the pelvic wall or lower third of the vagina.",
+        "whyCorrect": "Cervical cancer staging is by extent: stage I is confined to the cervix; stage II extends beyond it but not to the pelvic wall or lower third of the vagina; stage III involves the lower third of the vagina, pelvic wall, regional nodes, or hydronephrosis; stage IV invades nearby pelvic organs or spreads distantly.",
+        "whyWrongByChoice": {
+          "A": "CIN 3 is intraepithelial; this is invasive carcinoma extending beyond the cervix.",
+          "B": "Stage I is confined to the cervix; this tumor extends into the vagina.",
+          "D": "Stage III requires lower-third vaginal, pelvic wall or nodal involvement or hydronephrosis, all absent.",
+          "E": "Stage IV requires invasion of pelvic organs or distant spread."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "staging",
+        "stage II"
+      ],
+      "topicId": "cervical-cancer",
+      "topicName": "Cervical Cancer",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-001",
+      "stem": "A 62-year-old postmenopausal woman reports a year of intense vulvar itching, pain with intercourse, and pain with defecation. Examination shows smooth, white plaques with scattered fissures and ecchymoses; the labia are atrophic and fused, the introitus is narrowed, and the white change continues without interruption around the anus. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bartholin gland abscess"
+        },
+        {
+          "label": "B",
+          "text": "Extramammary Paget disease"
+        },
+        {
+          "label": "C",
+          "text": "Lichen sclerosus"
+        },
+        {
+          "label": "D",
+          "text": "Lichen simplex chronicus"
+        },
+        {
+          "label": "E",
+          "text": "Vulvar squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "White atrophic plaques with labial fusion and figure-eight perianal extension indicate lichen sclerosus.",
+        "whyCorrect": "Lichen sclerosus presents with smooth white plaques; when the whole vulva is involved the labia become atrophic and fused and the introitus constricts. Continuous extension to the perianal skin gives the classic figure-eight pattern, and pruritus, dyspareunia, dysuria and dyschezia are typical symptoms.",
+        "whyWrongByChoice": {
+          "A": "A Bartholin abscess is a painful fluctuant mass at the 4 or 8 o'clock position of the introitus, not a diffuse white dermatosis.",
+          "B": "EMPD presents as an erythematous, eczematous plaque, not white atrophic skin in a figure-eight distribution.",
+          "D": "LSC produces thickened, leathery, hyperpigmented skin with excoriations, not white atrophic plaques with labial fusion.",
+          "E": "Vulvar SCC usually presents as a unifocal plaque, ulcer or mass; it does not cause diffuse atrophy and figure-eight involvement."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lichen sclerosus",
+        "diagnosis"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "core"
+    },
+    {
+      "id": "rp38-002",
+      "stem": "A 55-year-old woman has smooth white vulvar plaques that extend to the perianal skin. Because one area looks slightly irregular, a punch biopsy is taken, and no dysplasia or malignancy is found. Which of the following histologic findings is the hallmark of her underlying dermatosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Full-thickness replacement by immature basaloid cells"
+        },
+        {
+          "label": "B",
+          "text": "Homogenization of the superficial papillary dermis"
+        },
+        {
+          "label": "C",
+          "text": "Invasive squamous nests with central keratin pearls"
+        },
+        {
+          "label": "D",
+          "text": "Large pale intraepidermal cells staining for CK7"
+        },
+        {
+          "label": "E",
+          "text": "Prominent hypergranulosis with elongated rete ridges"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The histologic hallmark of lichen sclerosus is homogenization of the superficial papillary dermis above a band-like lymphocytic infiltrate.",
+        "whyCorrect": "Lichen sclerosus shows epidermal atrophy, homogenization (sclerosis) of the superficial papillary dermis, and a band-like lymphocytic infiltrate beneath that zone. The dermal homogenization is the hallmark histologic finding.",
+        "whyWrongByChoice": {
+          "A": "Full-thickness basaloid cells describe classic HPV-associated VIN, and the biopsy showed no dysplasia.",
+          "C": "Keratin pearls in invasive nests describe HPV-independent keratinizing SCC, and no malignancy was found.",
+          "D": "CK7-positive pale intraepidermal cells are Paget cells of extramammary Paget disease.",
+          "E": "Hypergranulosis, acanthosis and elongated rete ridges without dermal homogenization describe lichen simplex chronicus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lichen sclerosus",
+        "histology"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "core"
+    },
+    {
+      "id": "rp38-003",
+      "stem": "A 48-year-old perimenopausal woman is diagnosed clinically with vulvar lichen sclerosus after presenting with white plaques, fissuring, and severe pruritus. There is no scarring causing functional impairment. Which of the following is the most appropriate initial treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superpotent topical corticosteroid (clobetasol)"
+        },
+        {
+          "label": "B",
+          "text": "Topical calcineurin inhibitor (tacrolimus)"
+        },
+        {
+          "label": "C",
+          "text": "Topical immune response modifier (imiquimod)"
+        },
+        {
+          "label": "D",
+          "text": "Wide local excision of the affected plaques"
+        },
+        {
+          "label": "E",
+          "text": "Word catheter placement at the introitus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "First-line treatment of lichen sclerosus is a superpotent topical corticosteroid such as clobetasol 0.05%, then maintenance.",
+        "whyCorrect": "Lichen sclerosus is treated first with a superpotent topical corticosteroid, most commonly clobetasol 0.05%, followed by reduced-frequency maintenance therapy. Calcineurin inhibitors are reserved for steroid failure or intolerance, and surgery for functionally impairing scarring.",
+        "whyWrongByChoice": {
+          "B": "Tacrolimus is used when corticosteroids are ineffective or not tolerated, not as initial therapy.",
+          "C": "Imiquimod is a treatment option for HPV-associated VIN, not lichen sclerosus.",
+          "D": "Surgery is reserved for scarring that causes functional impairment, which this patient does not have.",
+          "E": "A Word catheter drains a symptomatic Bartholin cyst or abscess; it has no role in a dermatosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lichen sclerosus",
+        "treatment"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "core"
+    },
+    {
+      "id": "rp38-004",
+      "stem": "A 44-year-old woman has had vulvar pruritus for over a year and says she often wakes at night scratching. The left labium majus is thickened, leathery, and hyperpigmented with excoriations. If a biopsy of this skin were performed, which of the following patterns would be expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acanthosis and hyperkeratosis without dermal homogenization"
+        },
+        {
+          "label": "B",
+          "text": "Basal-cell atypia with superficial maturation, no invasion"
+        },
+        {
+          "label": "C",
+          "text": "Epidermal atrophy over a homogenized papillary dermis"
+        },
+        {
+          "label": "D",
+          "text": "Invasive basaloid cells with foci of central necrosis"
+        },
+        {
+          "label": "E",
+          "text": "Mucin-secreting pale cells along the basal epidermis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lichen simplex chronicus shows a thickened epidermis (acanthosis, hypergranulosis, hyperkeratosis) without dermal homogenization.",
+        "whyCorrect": "Lichen simplex chronicus results from chronic rubbing and scratching and shows acanthosis, prominent hypergranulosis, hyperkeratosis and elongated rete ridges. It lacks the dermal homogenization that defines lichen sclerosus.",
+        "whyWrongByChoice": {
+          "B": "Basal atypia with superficial maturation describes differentiated VIN, a precursor lesion rather than a reactive thickening.",
+          "C": "Atrophy with dermal homogenization is lichen sclerosus, which appears white and atrophic rather than thick and hyperpigmented.",
+          "D": "Invasive basaloid cells with necrosis describe HPV-associated squamous cell carcinoma.",
+          "E": "Mucin-secreting pale cells within the epithelium are Paget cells of extramammary Paget disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lichen simplex chronicus",
+        "histology"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "core"
+    },
+    {
+      "id": "rp38-005",
+      "stem": "A 27-year-old woman has 3 days of worsening vulvar pain that makes sitting difficult. Examination shows a tender, fluctuant, 4-cm mass with overlying erythema at the 8 o'clock position of the vaginal introitus. She has never had a similar lesion. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drainage with Word catheter placement"
+        },
+        {
+          "label": "B",
+          "text": "Excisional biopsy to exclude carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Reassurance and observation only"
+        },
+        {
+          "label": "D",
+          "text": "Superpotent topical corticosteroid ointment"
+        },
+        {
+          "label": "E",
+          "text": "Topical imiquimod applied to the mass"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A symptomatic Bartholin abscess is drained with Word catheter placement.",
+        "whyCorrect": "Infection of an obstructed Bartholin duct produces a painful, fluctuant abscess that requires drainage. Symptomatic cysts and abscesses are drained with Word catheter placement; marsupialization is an alternative used particularly for recurrent lesions.",
+        "whyWrongByChoice": {
+          "B": "Biopsy to exclude Bartholin gland carcinoma is advised for a new mass in women older than 40; this patient is 27 with an abscess.",
+          "C": "Only asymptomatic Bartholin cysts require no treatment; a painful abscess needs drainage.",
+          "D": "Topical steroids treat lichen sclerosus and lichen simplex chronicus, not an abscess.",
+          "E": "Imiquimod is used for HPV-associated VIN, not for a Bartholin abscess."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Bartholin gland",
+        "abscess",
+        "management"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "core"
+    },
+    {
+      "id": "rp38-006",
+      "stem": "A 74-year-old woman with a 15-year history of poorly controlled lichen sclerosus develops a firm, non-healing plaque on the right labium majus. Biopsy shows invasive squamous cell carcinoma, and testing for high-risk HPV is negative. Which of the following best describes the pathogenesis of this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic obstruction of the Bartholin duct"
+        },
+        {
+          "label": "B",
+          "text": "High-risk HPV progression through classic VIN"
+        },
+        {
+          "label": "C",
+          "text": "Intraepidermal spread of mucin-secreting cells"
+        },
+        {
+          "label": "D",
+          "text": "Malignant change in lichen simplex chronicus"
+        },
+        {
+          "label": "E",
+          "text": "p53 mutation arising in differentiated VIN"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "HPV-independent vulvar SCC arises from dVIN through p53 mutations driven by chronic inflammation such as lichen sclerosus.",
+        "whyCorrect": "HPV-independent vulvar SCC occurs in older women, is associated with chronic inflammatory conditions such as lichen sclerosus, and arises from differentiated VIN (dVIN). Chronic oxidative stress and inflammation lead to p53 mutations that drive the malignancy.",
+        "whyWrongByChoice": {
+          "A": "Bartholin duct obstruction produces a cyst or abscess, not squamous cell carcinoma of the labial skin.",
+          "B": "Classic VIN with high-risk HPV is the pathway of HPV-associated SCC in younger women; this tumor is HPV-negative.",
+          "C": "Intraepithelial mucin-secreting adenocarcinoma cells describe extramammary Paget disease, not squamous carcinoma.",
+          "D": "Lichen simplex chronicus is a reactive thickening from scratching; the precursor linked to lichen sclerosus is dVIN."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "vulvar SCC",
+        "HPV-independent",
+        "pathogenesis"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "core"
+    },
+    {
+      "id": "rp38-007",
+      "stem": "A 41-year-old woman with a history of treated HPV-16-positive high-grade cervical dysplasia presents with a vulvar ulcer. Biopsy confirms invasive squamous cell carcinoma. Which of the following microscopic features is most expected in this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypergranulosis, hyperkeratosis and long rete ridges"
+        },
+        {
+          "label": "B",
+          "text": "Large pale CK7-positive cells within the epidermis"
+        },
+        {
+          "label": "C",
+          "text": "Sclerotic papillary dermis over band-like lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Small immature cells with foci of central necrosis"
+        },
+        {
+          "label": "E",
+          "text": "Well-differentiated nests with central keratin pearls"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Invasive HPV-associated vulvar SCC is basaloid, made of small immature cells, often with central necrosis.",
+        "whyCorrect": "HPV-associated vulvar SCC occurs in younger women, arises from VIN, and shares risk factors with cervical squamous lesions. Once invasive it has a basaloid appearance, composed of small immature cells, with possible foci of central necrosis.",
+        "whyWrongByChoice": {
+          "A": "These are features of lichen simplex chronicus, not invasive carcinoma.",
+          "B": "CK7-positive pale intraepidermal cells are Paget cells of extramammary Paget disease.",
+          "C": "Dermal homogenization with a band-like infiltrate is lichen sclerosus, a benign dermatosis.",
+          "E": "Keratinizing nests with keratin pearls are typical of HPV-independent SCC in older women."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vulvar SCC",
+        "HPV-associated",
+        "histology"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "core"
+    },
+    {
+      "id": "rp38-008",
+      "stem": "A 69-year-old woman has a 2-cm raised, irregular, red-and-white plaque on the left labium minus that has not healed over 4 months. On colposcopic inspection the lesion appears highly suspicious for carcinoma. Which of the following is required to establish the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Characteristic appearance on colposcopy"
+        },
+        {
+          "label": "B",
+          "text": "Clobetasol trial with reassessment later"
+        },
+        {
+          "label": "C",
+          "text": "Cytology from a surface scraping"
+        },
+        {
+          "label": "D",
+          "text": "Pelvic CT to assess the inguinal nodes"
+        },
+        {
+          "label": "E",
+          "text": "Tissue biopsy for histologic examination"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Vulvar cancer must be diagnosed by biopsy, never by gross or colposcopic appearance alone.",
+        "whyCorrect": "Vulvar cancer is diagnosed on vulvar biopsy. The diagnosis should not be made from gross or colposcopic appearance alone, however suspicious the lesion looks.",
+        "whyWrongByChoice": {
+          "A": "Colposcopic or gross appearance alone is insufficient to diagnose vulvar cancer.",
+          "B": "A steroid trial would delay diagnosis of a lesion suspicious for malignancy; biopsy is needed.",
+          "C": "Surface cytology does not replace biopsy, which is the diagnostic standard for vulvar cancer.",
+          "D": "Imaging may help staging but cannot establish the tissue diagnosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vulvar SCC",
+        "diagnosis",
+        "biopsy"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "core"
+    },
+    {
+      "id": "rp38-009",
+      "stem": "A 71-year-old woman has a well-demarcated, red, weeping, eczema-like plaque on the vulva that extends onto the inner thigh. Biopsy shows large cells with abundant pale cytoplasm spreading along the basal portion of the squamous epithelium. Which of the following immunostains most likely highlights these cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD45"
+        },
+        {
+          "label": "B",
+          "text": "Cytokeratin 20"
+        },
+        {
+          "label": "C",
+          "text": "Cytokeratin 7"
+        },
+        {
+          "label": "D",
+          "text": "Desmin"
+        },
+        {
+          "label": "E",
+          "text": "S-100 protein"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Paget cells of primary vulvar extramammary Paget disease are typically CK7-positive.",
+        "whyCorrect": "This is extramammary Paget disease, an intraepithelial adenocarcinoma in which large, pale, mucin-secreting Paget cells infiltrate the squamous epithelium. In primary vulvar Paget disease these cells are typically positive for cytokeratin 7 (CK7).",
+        "whyWrongByChoice": {
+          "A": "CD45 marks leukocytes; the intraepithelial cells here are adenocarcinoma cells.",
+          "B": "The lecture identifies CK7 as the typical marker of primary vulvar Paget cells.",
+          "D": "Desmin marks muscle; it does not highlight epithelial Paget cells.",
+          "E": "S-100 is not the marker described for Paget cells; primary vulvar Paget cells are highlighted by CK7."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "extramammary Paget disease",
+        "immunohistochemistry"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "core"
+    },
+    {
+      "id": "rp38-010",
+      "stem": "A 68-year-old woman is diagnosed on biopsy with primary extramammary Paget disease of the vulva; no invasive component is seen in the specimen. Wide local excision is planned. Which of the following additional evaluations is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-risk HPV testing of the vulvar lesion"
+        },
+        {
+          "label": "B",
+          "text": "No additional workup beyond the excision"
+        },
+        {
+          "label": "C",
+          "text": "Superpotent steroid trial before excision"
+        },
+        {
+          "label": "D",
+          "text": "Thyroid function and autoimmune antibody panel"
+        },
+        {
+          "label": "E",
+          "text": "Workup for breast, rectal, or bladder cancer"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Vulvar Paget disease requires evaluation for synchronous noncontiguous carcinomas, present in roughly 20-30% of patients.",
+        "whyCorrect": "About 20-30% of patients with vulvar Paget disease have a noncontiguous carcinoma, for example of the breast, rectum, bladder, urethra, cervix or ovary. Patients should therefore be evaluated for synchronous neoplasms in addition to having the vulvar lesion treated.",
+        "whyWrongByChoice": {
+          "A": "EMPD is an intraepithelial adenocarcinoma, not an HPV-driven squamous lesion; HPV testing does not address its main associated risk.",
+          "B": "Because 20-30% of patients have a noncontiguous carcinoma, omitting evaluation for synchronous neoplasms is inappropriate.",
+          "C": "The diagnosis is already established on biopsy; a steroid trial adds nothing and delays treatment.",
+          "D": "Autoimmune associations such as thyroid disease relate to lichen sclerosus, not Paget disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "extramammary Paget disease",
+        "synchronous neoplasm",
+        "workup"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "core"
+    },
+    {
+      "id": "rp38-011",
+      "stem": "A 66-year-old woman has biopsy-proven invasive squamous cell carcinoma forming a 3-cm unifocal lesion on the right labium majus, with no evidence of distant spread. The tumor is judged resectable. In addition to surgical excision of the primary tumor, which of the following is an essential component of management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Evaluation of the inguinal lymph nodes"
+        },
+        {
+          "label": "B",
+          "text": "Laser ablation of the surrounding skin"
+        },
+        {
+          "label": "C",
+          "text": "Screening for a synchronous breast primary"
+        },
+        {
+          "label": "D",
+          "text": "Superpotent steroid to the surrounding skin"
+        },
+        {
+          "label": "E",
+          "text": "Topical imiquimod to the tumor bed"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Surgical management of vulvar cancer always pairs excision with inguinal lymph node evaluation.",
+        "whyCorrect": "Treatment of vulvar cancer depends on stage and includes both surgical excision and evaluation of the inguinal lymph nodes, because the disease spreads via lymphatics. Surgical options range from radical/wide local excision to modified radical or radical vulvectomy.",
+        "whyWrongByChoice": {
+          "B": "Laser ablation is an option for HPV-associated VIN, not a component of invasive cancer management.",
+          "C": "Screening for noncontiguous carcinomas is a feature of the Paget disease workup, not vulvar SCC.",
+          "D": "Topical steroids treat inflammatory dermatoses and do not address nodal spread of carcinoma.",
+          "E": "Imiquimod is an option for HPV-associated VIN without suspected invasion, not for invasive carcinoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vulvar SCC",
+        "treatment",
+        "lymph nodes"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "core"
+    },
+    {
+      "id": "rp38-012",
+      "stem": "A 70-year-old woman with lichen sclerosus undergoes biopsy of a focal thickened plaque. Pathology reports differentiated vulvar intraepithelial neoplasia with no invasion. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Laser ablation of the plaque"
+        },
+        {
+          "label": "B",
+          "text": "More frequent clobetasol and observation"
+        },
+        {
+          "label": "C",
+          "text": "Radical vulvectomy with node dissection"
+        },
+        {
+          "label": "D",
+          "text": "Surgical excision of the lesion"
+        },
+        {
+          "label": "E",
+          "text": "Topical imiquimod to the plaque"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Differentiated VIN is treated with surgical excision, unlike HPV-associated VIN, which may also be ablated or treated with imiquimod.",
+        "whyCorrect": "Differentiated VIN is the precursor of HPV-independent SCC and is treated with surgical excision. Laser ablation and topical imiquimod are options only for HPV-associated VIN (vulvar HSIL) when invasion is not suspected.",
+        "whyWrongByChoice": {
+          "A": "Laser ablation is listed for HPV-associated VIN; differentiated VIN is treated by excision.",
+          "B": "Steroids control lichen sclerosus but do not treat a precursor lesion that must be removed.",
+          "C": "Radical vulvectomy with nodal surgery is for extensive invasive cancer, not a noninvasive precursor.",
+          "E": "Imiquimod is an option for HPV-associated VIN, not differentiated VIN."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "differentiated VIN",
+        "treatment"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "core"
+    },
+    {
+      "id": "rp38-013",
+      "stem": "During a pelvic examination, a student is asked to name the external female genital structures located in the perineum. Which of the following is a component of the vulva?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cervix"
+        },
+        {
+          "label": "B",
+          "text": "Posterior vaginal fornix"
+        },
+        {
+          "label": "C",
+          "text": "Urogenital diaphragm"
+        },
+        {
+          "label": "D",
+          "text": "Uterine isthmus"
+        },
+        {
+          "label": "E",
+          "text": "Vestibule"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The vulva comprises the mons pubis, labia majora, labia minora, clitoris and vestibule.",
+        "whyCorrect": "The vulva is the collective name for the female external genital organs in the perineum: the mons pubis, labia majora, labia minora, clitoris and vestibule.",
+        "whyWrongByChoice": {
+          "A": "The cervix is part of the uterus, an internal organ, not the vulva.",
+          "B": "The vaginal fornices are internal vaginal recesses, not external genitalia.",
+          "C": "The urogenital diaphragm is a deep perineal structure, not one of the vulvar organs.",
+          "D": "The isthmus is part of the uterus, not the vulva."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vulva",
+        "anatomy"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-014",
+      "stem": "A 30-year-old woman has a painless, round, 2-cm swelling at the posterolateral vaginal introitus caused by an obstructed gland duct. At which positions of the introitus do these glands normally lie?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 and 10 o'clock"
+        },
+        {
+          "label": "B",
+          "text": "3 and 9 o'clock"
+        },
+        {
+          "label": "C",
+          "text": "4 and 8 o'clock"
+        },
+        {
+          "label": "D",
+          "text": "6 o'clock only"
+        },
+        {
+          "label": "E",
+          "text": "12 o'clock only"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bartholin glands sit at the 4 and 8 o'clock positions of the introitus.",
+        "whyCorrect": "The Bartholin glands, the most notable vestibular glands, lie at the 4 and 8 o'clock positions of the vaginal introitus and secrete mucus that lubricates the vestibule during arousal. Duct obstruction produces a Bartholin cyst.",
+        "whyWrongByChoice": {
+          "A": "These are anterolateral positions; Bartholin glands lie at 4 and 8 o'clock.",
+          "B": "These are directly lateral; Bartholin glands are posterolateral at 4 and 8 o'clock.",
+          "D": "Bartholin glands are paired, not a single midline posterior gland.",
+          "E": "The 12 o'clock position is anterior, near the clitoris; Bartholin glands are posterolateral."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Bartholin gland",
+        "anatomy"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-015",
+      "stem": "A 34-year-old woman is found on routine examination to have a soft, nontender, 1.5-cm cystic swelling at the 4 o'clock position of the introitus. She has no pain, dyspareunia, or fever and was unaware of it. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clobetasol ointment"
+        },
+        {
+          "label": "B",
+          "text": "Excisional biopsy"
+        },
+        {
+          "label": "C",
+          "text": "Marsupialization"
+        },
+        {
+          "label": "D",
+          "text": "No treatment"
+        },
+        {
+          "label": "E",
+          "text": "Word catheter placement"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An asymptomatic Bartholin cyst requires no treatment.",
+        "whyCorrect": "Bartholin gland cysts form when the duct is obstructed and mucus accumulates. Asymptomatic cysts require no treatment; drainage with a Word catheter or marsupialization is reserved for symptomatic cysts and abscesses.",
+        "whyWrongByChoice": {
+          "A": "Topical steroids treat inflammatory dermatoses, not a gland cyst.",
+          "B": "Biopsy of a new Bartholin mass is advised in women over 40; this patient is 34 with a simple cyst.",
+          "C": "Marsupialization is an alternative for symptomatic, particularly recurrent, lesions.",
+          "E": "Word catheter drainage is for symptomatic cysts and abscesses; this cyst is asymptomatic."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Bartholin gland",
+        "cyst",
+        "management"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-016",
+      "stem": "A 25-year-old woman notices a painless swelling at the 8 o'clock position of her introitus several weeks after a vulvar laceration from a straddle injury. Which of the following best explains the lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune T-cell infiltration of the dermis"
+        },
+        {
+          "label": "B",
+          "text": "Duct obstruction with mucus accumulation"
+        },
+        {
+          "label": "C",
+          "text": "Epidermal thickening from chronic scratching"
+        },
+        {
+          "label": "D",
+          "text": "HPV-driven proliferation of basaloid cells"
+        },
+        {
+          "label": "E",
+          "text": "Intraepithelial spread of mucin-secreting cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bartholin cysts result from duct obstruction (inflammation, trauma or inspissated secretions) with mucus accumulation.",
+        "whyCorrect": "Bartholin cysts arise from obstruction of the Bartholin gland duct, from inflammation, trauma or inspissated secretions, so that the gland's mucus accumulates. Infection of the obstructed gland can progress to an abscess.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune T-cell–mediated inflammation underlies lichen sclerosus, which produces white plaques, not a cystic swelling.",
+          "C": "Chronic scratching causes lichenification in lichen simplex chronicus, not a cyst.",
+          "D": "HPV-driven basaloid proliferation describes VIN or HPV-associated carcinoma.",
+          "E": "Intraepithelial mucin-secreting cells describe extramammary Paget disease, a plaque rather than a cyst."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Bartholin gland",
+        "cyst",
+        "pathogenesis"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-017",
+      "stem": "A 31-year-old woman presents with her third painful, fluctuant swelling at the 4 o'clock position of the introitus in 2 years. Each earlier episode was treated with Word catheter drainage. Which of the following is the most appropriate alternative procedure for this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Laser ablation"
+        },
+        {
+          "label": "B",
+          "text": "Marsupialization"
+        },
+        {
+          "label": "C",
+          "text": "Observation"
+        },
+        {
+          "label": "D",
+          "text": "Radical vulvectomy"
+        },
+        {
+          "label": "E",
+          "text": "Topical tacrolimus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Marsupialization is the preferred alternative for recurrent Bartholin cysts or abscesses.",
+        "whyCorrect": "Symptomatic Bartholin cysts and abscesses are drained with a Word catheter; marsupialization is the alternative, particularly for recurrent lesions. The cyst is incised and its edges are sutured to the surrounding skin, creating a small pouch that lets gland fluid drain freely.",
+        "whyWrongByChoice": {
+          "A": "Laser ablation is a treatment option for HPV-associated VIN, not Bartholin lesions.",
+          "C": "A painful, recurrent abscess needs drainage; only asymptomatic cysts are observed.",
+          "D": "Radical vulvectomy is a cancer operation, not a treatment for a recurrent Bartholin lesion.",
+          "E": "Tacrolimus is second-line therapy for lichen sclerosus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Bartholin gland",
+        "marsupialization"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-018",
+      "stem": "A 52-year-old postmenopausal woman notices a new, firm, nontender mass at the 4 o'clock position of the introitus. She has never had a vulvar cyst before. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biopsy to exclude a gland malignancy"
+        },
+        {
+          "label": "B",
+          "text": "Reassurance, as painless cysts need no care"
+        },
+        {
+          "label": "C",
+          "text": "Topical imiquimod applied to the mass"
+        },
+        {
+          "label": "D",
+          "text": "Trial of a superpotent topical steroid"
+        },
+        {
+          "label": "E",
+          "text": "Word catheter drainage in the office"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A new Bartholin-area mass in a woman over 40 should be biopsied to exclude carcinoma.",
+        "whyCorrect": "A new Bartholin gland mass in a woman older than 40 warrants evaluation with biopsy to exclude Bartholin gland carcinoma, rather than being assumed to be a benign cyst.",
+        "whyWrongByChoice": {
+          "B": "Reassurance is appropriate for an asymptomatic cyst in a younger woman, but a new mass after 40 needs biopsy.",
+          "C": "Imiquimod is used for HPV-associated VIN, not for an undiagnosed gland mass.",
+          "D": "Topical steroids treat inflammatory dermatoses and would not evaluate a new mass.",
+          "E": "Drainage treats symptomatic cysts or abscesses but does not exclude carcinoma in a new mass after 40."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Bartholin gland",
+        "carcinoma",
+        "age"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-019",
+      "stem": "A 7-year-old girl is brought to the clinic because of genital itching, burning with urination, and painful bowel movements. Examination shows smooth white patches over the vulva that continue around the anus, with small areas of bruising and fissuring. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bartholin gland cyst"
+        },
+        {
+          "label": "B",
+          "text": "Extramammary Paget disease"
+        },
+        {
+          "label": "C",
+          "text": "HPV-associated VIN"
+        },
+        {
+          "label": "D",
+          "text": "Lichen sclerosus"
+        },
+        {
+          "label": "E",
+          "text": "Lichen simplex chronicus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lichen sclerosus has a bimodal pattern, affecting prepubertal girls as well as peri-/postmenopausal women.",
+        "whyCorrect": "Lichen sclerosus has an increased incidence in prepubertal and in peri-/postmenopausal females. It presents with white plaques that may extend continuously to the perianal skin, with ecchymoses and fissures, and causes pruritus, dysuria and dyschezia.",
+        "whyWrongByChoice": {
+          "A": "A Bartholin cyst is a localized swelling at the introitus, not white patches extending perianally.",
+          "B": "EMPD is a rare adenocarcinoma of postmenopausal women with red eczematous plaques.",
+          "C": "VIN is a precursor lesion of adult women and does not produce white perianal patches in a child.",
+          "E": "LSC causes thickened, hyperpigmented, leathery skin rather than smooth white patches."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lichen sclerosus",
+        "epidemiology",
+        "pediatric"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-020",
+      "stem": "A 58-year-old woman recently diagnosed with vulvar lichen sclerosus asks what caused her condition. Which of the following findings in her history most supports the proposed mechanism of this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coexisting vitiligo and thyroid disease"
+        },
+        {
+          "label": "B",
+          "text": "Habitual scratching that preceded the plaques"
+        },
+        {
+          "label": "C",
+          "text": "Long-term use of potent topical steroids"
+        },
+        {
+          "label": "D",
+          "text": "Prior high-risk HPV infection of the cervix"
+        },
+        {
+          "label": "E",
+          "text": "Recurrent obstruction of a Bartholin duct"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lichen sclerosus is thought to be autoimmune, supported by associations with thyroid disease and vitiligo.",
+        "whyCorrect": "Lichen sclerosus is believed to be autoimmune, supported by its association with other autoimmune conditions such as thyroid disease and vitiligo and by activated T lymphocytes in lesional skin.",
+        "whyWrongByChoice": {
+          "B": "Scratching-induced thickening is the mechanism of lichen simplex chronicus.",
+          "C": "Topical corticosteroids treat lichen sclerosus rather than cause it.",
+          "D": "High-risk HPV drives classic VIN and HPV-associated SCC, not lichen sclerosus.",
+          "E": "Bartholin duct obstruction causes cysts and abscesses, unrelated to lichen sclerosus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lichen sclerosus",
+        "pathogenesis",
+        "autoimmunity"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-021",
+      "stem": "A 91-year-old woman with severe heart failure and poor performance status is diagnosed with extramammary Paget disease of the vulva; biopsies show no invasive component. Which of the following is the most reasonable management approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Definitive chemoradiation to the vulva"
+        },
+        {
+          "label": "B",
+          "text": "Limited, more conservative surgical excision"
+        },
+        {
+          "label": "C",
+          "text": "Radical vulvectomy with bilateral lymphadenectomy"
+        },
+        {
+          "label": "D",
+          "text": "Superpotent topical corticosteroid ointment"
+        },
+        {
+          "label": "E",
+          "text": "Topical calcineurin inhibitor therapy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "EMPD is excised (wide local excision or vulvectomy), with more conservative surgery acceptable in elderly or frail patients.",
+        "whyCorrect": "Extramammary Paget disease is usually treated with wide local excision or vulvectomy, depending on the extent of disease. More conservative surgery has been described for selected patients, such as older patients or those with poor performance status.",
+        "whyWrongByChoice": {
+          "A": "Chemoradiation is used for locally advanced vulvar cancer that cannot be managed surgically.",
+          "C": "Radical surgery with node dissection is excessive for noninvasive disease in a frail patient.",
+          "D": "EMPD is an adenocarcinoma, not an inflammatory dermatosis; steroids do not treat it.",
+          "E": "Calcineurin inhibitors are second-line therapy for lichen sclerosus, not a treatment of EMPD."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "extramammary Paget disease",
+        "treatment"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-022",
+      "stem": "A 50-year-old woman with lichen sclerosus has applied clobetasol 0.05% as directed for 4 months, but her pruritus persists and she cannot tolerate further corticosteroid use because of local irritation. There is no scarring affecting function. Which of the following is the most appropriate next agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Laser ablation"
+        },
+        {
+          "label": "B",
+          "text": "Topical fluorouracil"
+        },
+        {
+          "label": "C",
+          "text": "Topical imiquimod"
+        },
+        {
+          "label": "D",
+          "text": "Topical tacrolimus"
+        },
+        {
+          "label": "E",
+          "text": "Wide local excision"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tacrolimus is the alternative for lichen sclerosus when superpotent steroids fail or are not tolerated.",
+        "whyCorrect": "Topical calcineurin inhibitors such as tacrolimus may be used for lichen sclerosus when corticosteroids are ineffective or not tolerated. Surgery is reserved for scarring that causes functional impairment.",
+        "whyWrongByChoice": {
+          "A": "Laser ablation is used for HPV-associated VIN, not an inflammatory dermatosis.",
+          "B": "Fluorouracil is not a treatment for lichen sclerosus; calcineurin inhibitors are the steroid alternative.",
+          "C": "Imiquimod is an option for HPV-associated VIN, not lichen sclerosus.",
+          "E": "Surgery in lichen sclerosus is reserved for functionally impairing scarring, which she does not have."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lichen sclerosus",
+        "treatment",
+        "second-line"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-023",
+      "stem": "A 64-year-old woman with long-standing lichen sclerosus has good symptom control on maintenance clobetasol. However, labial fusion and introital narrowing now make intercourse and urination mechanically difficult. A biopsy of a representative area shows no dysplasia. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Radical vulvectomy with node dissection"
+        },
+        {
+          "label": "B",
+          "text": "Stop all topical therapy and observe"
+        },
+        {
+          "label": "C",
+          "text": "Surgery to release the scarring"
+        },
+        {
+          "label": "D",
+          "text": "Switch to topical tacrolimus"
+        },
+        {
+          "label": "E",
+          "text": "Word catheter placement at introitus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Surgery in lichen sclerosus is reserved for scarring that causes functional impairment.",
+        "whyCorrect": "Lichen sclerosus is managed with superpotent steroids, with calcineurin inhibitors for steroid failure; surgery is reserved for scarring that causes functional impairment. Here the inflammation is controlled but fusion and stenosis impair function, so surgical correction is indicated.",
+        "whyWrongByChoice": {
+          "A": "Radical vulvectomy is a cancer operation; the biopsy shows no dysplasia.",
+          "B": "Stopping maintenance therapy risks flares and does nothing for the functional scarring.",
+          "D": "Tacrolimus is for steroid failure or intolerance; her symptoms are controlled and the problem is structural scarring.",
+          "E": "A Word catheter drains Bartholin cysts and abscesses and does not correct labial fusion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "lichen sclerosus",
+        "surgery",
+        "scarring"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-024",
+      "stem": "A 60-year-old woman has white atrophic vulvar plaques with fissures, ecchymoses, and fused labia. The appearance is classic, and there is no focal thickening, ulceration, or mass. Which of the following is the most appropriate approach to diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CK7 immunostaining of skin scrapings"
+        },
+        {
+          "label": "B",
+          "text": "Clinical diagnosis without routine biopsy"
+        },
+        {
+          "label": "C",
+          "text": "High-risk HPV testing of the vulvar skin"
+        },
+        {
+          "label": "D",
+          "text": "Mandatory punch biopsy before any therapy"
+        },
+        {
+          "label": "E",
+          "text": "Pelvic MRI to assess dermal involvement"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Classic lichen sclerosus is a clinical diagnosis; biopsy is reserved for uncertain cases.",
+        "whyCorrect": "Lichen sclerosus can typically be diagnosed from its characteristic clinical manifestations: white atrophic plaques with fissures, ecchymoses and anatomical changes. Biopsy is not routinely needed and is performed when the diagnosis is uncertain.",
+        "whyWrongByChoice": {
+          "A": "CK7 staining identifies Paget cells in extramammary Paget disease.",
+          "C": "Lichen sclerosus is autoimmune, not HPV-driven, so HPV testing does not diagnose it.",
+          "D": "Biopsy is not routinely needed for classic lichen sclerosus; it is reserved for uncertain diagnoses or suspicious lesions.",
+          "E": "Imaging plays no role in diagnosing an inflammatory dermatosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lichen sclerosus",
+        "diagnosis",
+        "biopsy"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-025",
+      "stem": "A 38-year-old woman reports months of vulvar itching that wakes her at night to scratch. The labia majora are thickened, leathery, and hyperpigmented with excoriations; there is no pallor or atrophy. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bartholin gland abscess"
+        },
+        {
+          "label": "B",
+          "text": "Extramammary Paget disease"
+        },
+        {
+          "label": "C",
+          "text": "Lichen sclerosus"
+        },
+        {
+          "label": "D",
+          "text": "Lichen simplex chronicus"
+        },
+        {
+          "label": "E",
+          "text": "Vulvar squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Thickened, leathery, hyperpigmented vulvar skin with nocturnal scratching indicates lichen simplex chronicus.",
+        "whyCorrect": "Lichen simplex chronicus results from rubbing or scratching to relieve pruritus, creating a self-perpetuating itch-scratch cycle that thickens the epidermis (lichenification). It is diagnosed clinically from chronic scratching, including waking at night to scratch, and thickened leathery skin.",
+        "whyWrongByChoice": {
+          "A": "A Bartholin abscess is a painful fluctuant mass at the introitus.",
+          "B": "EMPD is an erythematous eczematous plaque in postmenopausal women.",
+          "C": "Lichen sclerosus causes white atrophic plaques, not thickened hyperpigmented skin.",
+          "E": "Vulvar SCC presents as a plaque, ulcer or mass, typically in women over 60."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lichen simplex chronicus",
+        "diagnosis"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-026",
+      "stem": "A 45-year-old woman is diagnosed clinically with lichen simplex chronicus of the vulva. She reports using scented cleansing wipes several times daily. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diagnostic biopsy of the skin before any therapy"
+        },
+        {
+          "label": "B",
+          "text": "Lifelong superpotent steroid with cancer surveillance"
+        },
+        {
+          "label": "C",
+          "text": "Stop irritants and give a short topical steroid course"
+        },
+        {
+          "label": "D",
+          "text": "Surgical excision of all the thickened, lichenified skin"
+        },
+        {
+          "label": "E",
+          "text": "Topical imiquimod applied directly to the plaques"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "LSC is treated by removing irritants and triggers plus a short topical steroid course to break the itch-scratch cycle.",
+        "whyCorrect": "Treatment of lichen simplex chronicus focuses on avoiding irritants, treating the underlying cause of pruritus, and using a short course of topical corticosteroids to break the itch-scratch cycle.",
+        "whyWrongByChoice": {
+          "A": "LSC is a clinical diagnosis; biopsy is not generally necessary.",
+          "B": "Long-term maintenance and cancer surveillance apply to lichen sclerosus, not LSC.",
+          "D": "LSC is a reactive thickening; surgery does not address the itch-scratch cycle.",
+          "E": "Imiquimod is used for HPV-associated VIN, not LSC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lichen simplex chronicus",
+        "treatment"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-027",
+      "stem": "A 64-year-old woman asks about her risk of vulvar cancer after a friend was diagnosed. Which of the following statements about vulvar carcinoma is accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenocarcinoma is the most common subtype"
+        },
+        {
+          "label": "B",
+          "text": "It makes up about half of genital cancers"
+        },
+        {
+          "label": "C",
+          "text": "Most cases occur in females older than 60"
+        },
+        {
+          "label": "D",
+          "text": "Most lesions are multifocal when detected"
+        },
+        {
+          "label": "E",
+          "text": "Most tumors are driven by high-risk HPV"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Vulvar carcinoma is uncommon (~3% of female genital cancers) and occurs mostly after age 60.",
+        "whyCorrect": "Carcinoma of the vulva is uncommon, accounting for about 3% of female genital cancers, and most cases occur in females older than 60. Squamous cell carcinoma is the most common subtype, most lesions are unifocal, and HPV-independent tumors (70%) outnumber HPV-associated ones.",
+        "whyWrongByChoice": {
+          "A": "Squamous cell carcinoma is the most common histologic subtype.",
+          "B": "Vulvar carcinoma represents only about 3% of genital cancers in females.",
+          "D": "Most patients present with a unifocal lesion; only about 5% are multifocal.",
+          "E": "HPV-associated tumors are about 30% of cases; HPV-independent tumors are about 70%."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vulvar SCC",
+        "epidemiology"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-028",
+      "stem": "A 36-year-old woman with a history of HPV-16-positive cervical dysplasia asks about her risk of vulvar cancer. If she were to develop vulvar squamous cell carcinoma, from which precursor lesion would it most likely arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bartholin gland cyst"
+        },
+        {
+          "label": "B",
+          "text": "Differentiated VIN (dVIN)"
+        },
+        {
+          "label": "C",
+          "text": "Extramammary Paget disease"
+        },
+        {
+          "label": "D",
+          "text": "HSIL (classic VIN)"
+        },
+        {
+          "label": "E",
+          "text": "Lichen simplex chronicus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "HPV-associated vulvar SCC arises from classic VIN (vulvar HSIL), paralleling cervical squamous lesions.",
+        "whyCorrect": "HPV-associated vulvar SCC, related to high-risk HPV such as HPV-16, occurs in younger women and develops from in situ precursors called vulvar intraepithelial neoplasia (vulvar HSIL), analogous to cervical squamous intraepithelial lesions and sharing their risk factors.",
+        "whyWrongByChoice": {
+          "A": "A Bartholin cyst is a benign obstructed duct, not a squamous precursor.",
+          "B": "dVIN is the HPV-independent precursor of older women with lichen sclerosus.",
+          "C": "EMPD is an intraepithelial adenocarcinoma, not a precursor of squamous carcinoma.",
+          "E": "LSC is a reactive thickening from scratching, not an HPV-related precursor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "VIN",
+        "HPV-associated",
+        "precursor"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-029",
+      "stem": "A 39-year-old woman has a slightly raised vulvar plaque. Biopsy shows small, immature basaloid cells occupying the full thickness of the epithelium, with no invasion of the underlying stroma. Which of the following is most strongly associated with this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A chronic itch-scratch cycle"
+        },
+        {
+          "label": "B",
+          "text": "An obstructed Bartholin duct"
+        },
+        {
+          "label": "C",
+          "text": "High-risk HPV, such as HPV-16"
+        },
+        {
+          "label": "D",
+          "text": "Long-standing lichen sclerosus"
+        },
+        {
+          "label": "E",
+          "text": "p53 mutation from chronic inflammation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Classic VIN (full-thickness basaloid cells) is caused by high-risk HPV, commonly HPV-16.",
+        "whyCorrect": "Full-thickness small immature basaloid cells without invasion describe classic vulvar intraepithelial neoplasia, the HPV-positive precursor. It is related to high-risk HPV infection, commonly HPV-16.",
+        "whyWrongByChoice": {
+          "A": "The itch-scratch cycle produces lichen simplex chronicus, a reactive thickening.",
+          "B": "Bartholin duct obstruction produces a cyst or abscess.",
+          "D": "Lichen sclerosus is linked to the HPV-independent pathway through dVIN.",
+          "E": "p53 mutation underlies differentiated VIN, which shows basal atypia with superficial maturation instead."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "VIN",
+        "HPV-associated",
+        "histology"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-030",
+      "stem": "A 77-year-old woman with lichen sclerosus has a focal, thickened, white area on the vulva. Biopsy shows hyperkeratosis, maturation of the superficial epithelial layers, and atypia confined to the basal epithelial cells; no invasion is present. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Classic HPV-associated intraepithelial neoplasia"
+        },
+        {
+          "label": "B",
+          "text": "Differentiated vulvar intraepithelial neoplasia"
+        },
+        {
+          "label": "C",
+          "text": "Extramammary Paget disease of the vulva"
+        },
+        {
+          "label": "D",
+          "text": "Invasive keratinizing squamous cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Lichen simplex chronicus with lichenification"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Basal atypia with superficial maturation and hyperkeratosis, without invasion, is differentiated VIN.",
+        "whyCorrect": "Differentiated VIN is the HPV-negative precursor of keratinizing SCC. It shows maturation of the superficial layers, hyperkeratosis and basal-cell atypia without invasion, and arises in older women with chronic inflammatory disease such as lichen sclerosus.",
+        "whyWrongByChoice": {
+          "A": "Classic VIN shows full-thickness immature basaloid cells rather than basal-only atypia with maturation.",
+          "C": "EMPD shows large pale CK7-positive cells within the epithelium, not basal squamous atypia.",
+          "D": "Carcinoma requires invasion, and no invasion is present.",
+          "E": "LSC shows acanthosis and hyperkeratosis but no cytologic atypia of basal cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "differentiated VIN",
+        "histology",
+        "diagnosis"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-031",
+      "stem": "A 79-year-old woman undergoes wide local excision of a vulvar squamous cell carcinoma. The tumor is composed of invasive nests with central keratin pearls, and HPV testing is negative. Which of the following is most likely to be found in the adjacent non-neoplastic vulvar skin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A dilated, mucus-filled Bartholin duct"
+        },
+        {
+          "label": "B",
+          "text": "Basaloid carcinoma with central necrosis"
+        },
+        {
+          "label": "C",
+          "text": "CK7-positive pale intraepidermal cells"
+        },
+        {
+          "label": "D",
+          "text": "Epidermal atrophy with dermal homogenization"
+        },
+        {
+          "label": "E",
+          "text": "Full-thickness basaloid intraepithelial cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "HPV-independent keratinizing vulvar SCC typically arises in a background of lichen sclerosus.",
+        "whyCorrect": "A keratinizing, HPV-negative carcinoma in an older woman belongs to the HPV-independent pathway, which is associated with lichen sclerosus. Background skin would therefore be expected to show lichen sclerosus: epidermal atrophy, homogenization of the superficial dermis and a band-like lymphocytic infiltrate.",
+        "whyWrongByChoice": {
+          "A": "An obstructed Bartholin duct is unrelated to the pathogenesis of vulvar SCC.",
+          "B": "Basaloid carcinoma with necrosis is the HPV-associated subtype, not the precursor background of this HPV-negative tumor.",
+          "C": "CK7-positive Paget cells indicate extramammary Paget disease.",
+          "E": "Full-thickness basaloid cells are classic VIN, the precursor of HPV-associated basaloid carcinoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "vulvar SCC",
+        "HPV-independent",
+        "lichen sclerosus"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-032",
+      "stem": "A 72-year-old woman presents with a 5-cm ulcerated mass on the right labium majus. Examination also shows firm, enlarged right inguinal nodes. Which of the following best explains the nodal findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune lymphocytic infiltration of nodes"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous seeding from a breast primary"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic spread of vulvar carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Lymphoma arising from chronic scratching"
+        },
+        {
+          "label": "E",
+          "text": "Reactive change from a Bartholin abscess"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Inguinal lymphadenopathy in vulvar cancer reflects lymphatic spread in advanced disease.",
+        "whyCorrect": "Vulvar carcinoma usually presents as a unifocal plaque, ulcer or mass, and inguinal lymphadenopathy may be present in advanced disease, reflecting lymphatic spread. This is why inguinal node evaluation is part of management.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune T-cell infiltrates are in the skin of lichen sclerosus, not a cause of firm nodes.",
+          "B": "Synchronous breast cancer is a concern in Paget disease; regional nodes here reflect the vulvar tumor.",
+          "D": "Chronic scratching causes lichen simplex chronicus, not lymphoma.",
+          "E": "There is no fluctuant introital abscess; the ulcerated labial mass is the likely source."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vulvar SCC",
+        "lymph nodes",
+        "presentation"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-033",
+      "stem": "A 67-year-old woman undergoes radical local excision of a vulvar squamous cell carcinoma with inguinal lymph node evaluation. Pathology shows tumor at the surgical margin and metastatic carcinoma in two inguinal nodes. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adjuvant radiation therapy"
+        },
+        {
+          "label": "B",
+          "text": "Clobetasol to the excision site"
+        },
+        {
+          "label": "C",
+          "text": "Observation with routine follow-up"
+        },
+        {
+          "label": "D",
+          "text": "Screening for synchronous Paget disease"
+        },
+        {
+          "label": "E",
+          "text": "Topical imiquimod to the scar"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Positive nodes or inadequate margins after vulvar cancer surgery call for adjuvant radiation.",
+        "whyCorrect": "Adjuvant radiation may be used after surgery for vulvar cancer with high-risk findings such as involved lymph nodes or inadequate surgical margins. Chemoradiation as primary therapy is reserved for locally advanced disease that cannot be managed surgically.",
+        "whyWrongByChoice": {
+          "B": "Topical steroids treat dermatoses and do not address residual or nodal carcinoma.",
+          "C": "Involved nodes and positive margins are high-risk findings that warrant adjuvant treatment, not observation.",
+          "D": "Evaluation for synchronous carcinomas belongs to the Paget disease workup, not SCC margins.",
+          "E": "Imiquimod is for noninvasive HPV-associated VIN, not residual invasive cancer."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "vulvar SCC",
+        "adjuvant radiation"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-034",
+      "stem": "A 70-year-old woman has a large, biopsy-proven vulvar squamous cell carcinoma invading adjacent structures. The surgical team determines that the disease cannot be managed surgically. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chemoradiation"
+        },
+        {
+          "label": "B",
+          "text": "Clobetasol with surveillance"
+        },
+        {
+          "label": "C",
+          "text": "Laser ablation"
+        },
+        {
+          "label": "D",
+          "text": "Marsupialization"
+        },
+        {
+          "label": "E",
+          "text": "Topical imiquimod"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Locally advanced vulvar cancer that cannot be managed surgically is treated with chemoradiation.",
+        "whyCorrect": "Treatment of vulvar cancer depends on stage. Resectable disease is excised with inguinal node evaluation, whereas locally advanced disease that cannot be managed surgically is treated with chemoradiation.",
+        "whyWrongByChoice": {
+          "B": "Steroids and surveillance are lichen sclerosus management, not cancer treatment.",
+          "C": "Laser ablation treats noninvasive HPV-associated VIN, not invasive carcinoma.",
+          "D": "Marsupialization treats recurrent Bartholin cysts or abscesses.",
+          "E": "Imiquimod is for HPV-associated VIN when invasion is not suspected."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vulvar SCC",
+        "chemoradiation",
+        "locally advanced"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-035",
+      "stem": "A 33-year-old woman has several raised vulvar lesions. Biopsy shows HPV-associated vulvar high-grade squamous intraepithelial lesion, and nothing suggests invasive cancer. She strongly prefers to avoid an operation. Which of the following is an appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adjuvant radiation"
+        },
+        {
+          "label": "B",
+          "text": "Marsupialization"
+        },
+        {
+          "label": "C",
+          "text": "Topical clobetasol"
+        },
+        {
+          "label": "D",
+          "text": "Topical imiquimod"
+        },
+        {
+          "label": "E",
+          "text": "Topical tacrolimus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Topical imiquimod is a nonsurgical option for HPV-associated VIN when invasion is not suspected.",
+        "whyCorrect": "HPV-associated VIN (vulvar HSIL) may be treated with surgical excision, laser ablation, or topical imiquimod when invasive cancer is not suspected. Differentiated VIN, by contrast, is treated with surgical excision.",
+        "whyWrongByChoice": {
+          "A": "Adjuvant radiation follows cancer surgery with positive nodes or margins; this is a noninvasive lesion.",
+          "B": "Marsupialization treats recurrent Bartholin cysts or abscesses.",
+          "C": "Clobetasol treats lichen sclerosus and LSC, not an HPV-related precursor.",
+          "E": "Tacrolimus is a second-line treatment for lichen sclerosus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "VIN",
+        "HPV-associated",
+        "treatment"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    },
+    {
+      "id": "rp38-036",
+      "stem": "A 69-year-old woman has a pruritic, erythematous, eczema-like vulvar plaque that has not improved with emollients. Biopsy shows large pale cells within the squamous epithelium; special stains show that these cells contain mucin. Which of the following best classifies this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune inflammatory dermatosis"
+        },
+        {
+          "label": "B",
+          "text": "HPV-driven squamous precursor"
+        },
+        {
+          "label": "C",
+          "text": "Intraepithelial adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Keratinizing squamous carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Reactive lichenified dermatitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Extramammary Paget disease is an intraepithelial adenocarcinoma of mucin-secreting Paget cells.",
+        "whyCorrect": "This is extramammary Paget disease, a rare intraepithelial adenocarcinoma of postmenopausal women. Its Paget cells are mucin-secreting adenocarcinoma cells within the squamous epithelium; invasive adenocarcinoma may be present within or beneath the surface lesion in up to 25% of patients.",
+        "whyWrongByChoice": {
+          "A": "Lichen sclerosus is the autoimmune dermatosis; it shows dermal homogenization, not intraepithelial glandular cells.",
+          "B": "Classic VIN is an HPV-driven squamous precursor made of basaloid, not mucin-secreting, cells.",
+          "D": "Keratinizing SCC forms invasive nests with keratin pearls, not mucin-containing intraepithelial cells.",
+          "E": "Lichen simplex chronicus is reactive thickening from scratching, without neoplastic cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "extramammary Paget disease",
+        "pathology"
+      ],
+      "topicId": "vulvar-pathologies",
+      "topicName": "Vulvar Pathologies",
+      "tier": "extra"
+    }
+  ]
+}

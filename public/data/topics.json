@@ -7,7 +7,7 @@
         {
           "id": "anatomy-histology-female-reproductive-system",
           "name": "Anatomy and Histology of the Female Reproductive System",
-          "sourceFile": "Endocrine Brick 1",
+          "sourceFile": "Repro Brick 1",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -15,7 +15,7 @@
         {
           "id": "anatomy-and-histology-of-the-male-reproductive-system",
           "name": "Anatomy and Histology of the Male Reproductive System",
-          "sourceFile": "Endocrine Brick 2",
+          "sourceFile": "Repro Brick 2",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -23,7 +23,7 @@
         {
           "id": "structure-and-function-of-the-breast",
           "name": "Structure and Function of the Breast",
-          "sourceFile": "Endocrine Brick 3",
+          "sourceFile": "Repro Brick 3",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -31,7 +31,7 @@
         {
           "id": "structure-and-function-of-the-testis",
           "name": "Structure and Function of the Testis",
-          "sourceFile": "Endocrine Brick 4",
+          "sourceFile": "Repro Brick 4",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -48,7 +48,7 @@
         {
           "id": "inclusive-language-and-health-equity",
           "name": "Inclusive Language and Health Equity",
-          "sourceFile": "Endocrine Brick 5",
+          "sourceFile": "Repro Brick 5",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -56,7 +56,7 @@
         {
           "id": "sex-determination-and-reproductive-systems-development",
           "name": "Sex Determination and Reproductive Systems Development",
-          "sourceFile": "Endocrine Brick 6",
+          "sourceFile": "Repro Brick 6",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -64,7 +64,7 @@
         {
           "id": "congenital-disorders-of-the-reproductive-systems",
           "name": "Congenital Disorders of the Reproductive Systems",
-          "sourceFile": "Endocrine Brick 7",
+          "sourceFile": "Repro Brick 7",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -72,7 +72,7 @@
         {
           "id": "errors-in-morphogenesis",
           "name": "Errors in Morphogenesis",
-          "sourceFile": "Endocrine Brick 8",
+          "sourceFile": "Repro Brick 8",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -89,7 +89,7 @@
         {
           "id": "fertilization",
           "name": "Fertilization",
-          "sourceFile": "Endocrine Brick 9",
+          "sourceFile": "Repro Brick 9",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -97,7 +97,7 @@
         {
           "id": "estrogen-and-progesterone",
           "name": "Estrogen and Progesterone",
-          "sourceFile": "Endocrine Brick 10",
+          "sourceFile": "Repro Brick 10",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -105,7 +105,7 @@
         {
           "id": "androgens",
           "name": "Androgens",
-          "sourceFile": "Endocrine Brick 11",
+          "sourceFile": "Repro Brick 11",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -113,7 +113,7 @@
         {
           "id": "ovulation-and-the-menstrual-cycle",
           "name": "Ovulation and the Menstrual Cycle",
-          "sourceFile": "Endocrine Brick 12",
+          "sourceFile": "Repro Brick 12",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -121,7 +121,7 @@
         {
           "id": "amenorrhea-and-dysmenorrhea",
           "name": "Amenorrhea and Dysmenorrhea",
-          "sourceFile": "Endocrine Brick 13",
+          "sourceFile": "Repro Brick 13",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -129,7 +129,7 @@
         {
           "id": "puberty-and-hormonal-regulation",
           "name": "Puberty and Hormonal Regulation",
-          "sourceFile": "Endocrine Brick 14",
+          "sourceFile": "Repro Brick 14",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -146,7 +146,7 @@
         {
           "id": "contraception",
           "name": "Contraception",
-          "sourceFile": "Endocrine Brick 15",
+          "sourceFile": "Repro Brick 15",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -154,7 +154,7 @@
         {
           "id": "family-planning-preconception-care-and-infertility",
           "name": "Family Planning, Preconception Care and Infertility",
-          "sourceFile": "Endocrine Brick 16",
+          "sourceFile": "Repro Brick 16",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -162,7 +162,7 @@
         {
           "id": "sexual-health-and-complications",
           "name": "Sexual Health and Complications",
-          "sourceFile": "Endocrine Brick 17",
+          "sourceFile": "Repro Brick 17",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -170,7 +170,7 @@
         {
           "id": "menopause-and-andropause",
           "name": "Menopause and Andropause",
-          "sourceFile": "Endocrine Brick 18",
+          "sourceFile": "Repro Brick 18",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -178,7 +178,7 @@
         {
           "id": "disorders-of-sex-hormones",
           "name": "Disorders of Sex Hormones",
-          "sourceFile": "Endocrine Brick 19",
+          "sourceFile": "Repro Brick 19",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -195,7 +195,7 @@
         {
           "id": "benign-endometrial-disorders",
           "name": "Benign Endometrial Disorders",
-          "sourceFile": "Endocrine Brick 20",
+          "sourceFile": "Repro Brick 20",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -203,7 +203,7 @@
         {
           "id": "uterine-tumors",
           "name": "Uterine Tumors",
-          "sourceFile": "Endocrine Brick 21",
+          "sourceFile": "Repro Brick 21",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -211,7 +211,7 @@
         {
           "id": "ovarian-cysts",
           "name": "Ovarian Cysts",
-          "sourceFile": "Endocrine Brick 22",
+          "sourceFile": "Repro Brick 22",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -219,7 +219,7 @@
         {
           "id": "ovarian-tumors-part-1-of-2",
           "name": "Ovarian Tumors (Part 1 of 2)",
-          "sourceFile": "Endocrine Brick 23",
+          "sourceFile": "Repro Brick 23",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -227,7 +227,7 @@
         {
           "id": "ovarian-tumors-part-2-of-2",
           "name": "Ovarian Tumors (Part 2 of 2)",
-          "sourceFile": "Endocrine Brick 24",
+          "sourceFile": "Repro Brick 24",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -244,7 +244,7 @@
         {
           "id": "disorders-of-the-penis",
           "name": "Disorders of the Penis",
-          "sourceFile": "Endocrine Brick 25",
+          "sourceFile": "Repro Brick 25",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -252,7 +252,7 @@
         {
           "id": "benign-testicular-disorders",
           "name": "Benign Testicular Disorders",
-          "sourceFile": "Endocrine Brick 26",
+          "sourceFile": "Repro Brick 26",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -260,7 +260,7 @@
         {
           "id": "testicular-tumors",
           "name": "Testicular Tumors",
-          "sourceFile": "Endocrine Brick 27",
+          "sourceFile": "Repro Brick 27",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -268,7 +268,7 @@
         {
           "id": "benign-prostate-disorders",
           "name": "Benign Prostate Disorders",
-          "sourceFile": "Endocrine Brick 28",
+          "sourceFile": "Repro Brick 28",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -276,7 +276,7 @@
         {
           "id": "prostate-cancer",
           "name": "Prostate Cancer",
-          "sourceFile": "Endocrine Brick 29",
+          "sourceFile": "Repro Brick 29",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -285,7 +285,212 @@
       "week": 2,
       "weekName": "Week 2",
       "weekSubtitle": "Repro Health, Female & Male Pathology"
+    },
+    {
+      "id": "genital-infections-stis",
+      "name": "Genital Tract Infections & STIs",
+      "topics": [
+        {
+          "id": "vulvovaginitis",
+          "name": "Vulvovaginitis",
+          "sourceFile": "Repro Brick 30",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "urethritis-cervicitis-and-pelvic-inflammatory-disease",
+          "name": "Urethritis, Cervicitis, and Pelvic Inflammatory Disease",
+          "sourceFile": "Repro Brick 31",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "orchitis-and-epididymitis",
+          "name": "Orchitis and Epididymitis",
+          "sourceFile": "Repro Brick 32",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "neisseria-gonorrhoeae-and-chlamydia-trachomatis",
+          "name": "Neisseria gonorrhoeae and Chlamydia trachomatis",
+          "sourceFile": "Repro Brick 33",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "reproductive-hiv",
+          "name": "Reproductive: HIV",
+          "sourceFile": "Repro Brick 34",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "herpes-simplex-and-genital-warts",
+          "name": "Herpes Simplex and Genital Warts",
+          "sourceFile": "Repro Brick 35",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "syphilis-and-other-ulcerative-stis",
+          "name": "Syphilis and Other Ulcerative STIs",
+          "sourceFile": "Repro Brick 36",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": "Infections, STIs & Cervical/Vulvar Pathology"
+    },
+    {
+      "id": "cervical-vulvar-pathology",
+      "name": "Cervical & Vulvar Pathology",
+      "topics": [
+        {
+          "id": "cervical-cancer",
+          "name": "Cervical Cancer",
+          "sourceFile": "Repro Brick 37",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "vulvar-pathologies",
+          "name": "Vulvar Pathologies",
+          "sourceFile": "Repro Brick 38",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": "Infections, STIs & Cervical/Vulvar Pathology"
+    },
+    {
+      "id": "placenta-pregnancy",
+      "name": "Placenta, Pregnancy & Abortion Care",
+      "topics": [
+        {
+          "id": "placenta",
+          "name": "Placenta",
+          "sourceFile": "Repro Brick 39",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "uncomplicated-pregnancy",
+          "name": "Uncomplicated Pregnancy",
+          "sourceFile": "Repro Brick 40",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "pregnancy-complications",
+          "name": "Pregnancy Complications",
+          "sourceFile": "Repro Brick 41",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "abortion-care-safety-management-and-outcomes",
+          "name": "Abortion Care: Safety, Management, and Outcomes",
+          "sourceFile": "Repro Brick 42",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": "Pregnancy, Complications & Reproductive Rights"
+    },
+    {
+      "id": "medical-disorders-pregnancy",
+      "name": "Medical Disorders of Pregnancy",
+      "topics": [
+        {
+          "id": "pregnancy-effects-on-other-organ-systems",
+          "name": "Pregnancy Effects on Other Organ Systems",
+          "sourceFile": "Repro Brick 43",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "gestational-diabetes",
+          "name": "Gestational Diabetes",
+          "sourceFile": "Repro Brick 44",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "hypertension-in-pregnancy",
+          "name": "Hypertension in Pregnancy",
+          "sourceFile": "Repro Brick 45",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "gestational-trophoblastic-diseases",
+          "name": "Gestational Trophoblastic Diseases",
+          "sourceFile": "Repro Brick 46",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": "Pregnancy, Complications & Reproductive Rights"
+    },
+    {
+      "id": "srh-equity-rights",
+      "name": "Sexual & Reproductive Health, Equity & Rights",
+      "topics": [
+        {
+          "id": "social-determinants-of-sexual-and-reproductive-health",
+          "name": "Social Determinants of Sexual and Reproductive Health",
+          "sourceFile": "Repro Brick 47",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "gender-based-violence-trauma-informed-care-ethical-principles",
+          "name": "Gender-Based Violence, Trauma Informed Care, & Ethical Principles of Medical Care",
+          "sourceFile": "Repro Brick 48",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "sexual-and-reproductive-health-and-rights",
+          "name": "Sexual and Reproductive Health and Rights",
+          "sourceFile": "Repro Brick 49",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": "Pregnancy, Complications & Reproductive Rights"
     }
   ],
-  "totalQuestions": 1044
+  "totalQuestions": 1764
 }
