@@ -7043,7 +7043,7 @@
     },
     {
       "id": "rp24-007",
-      "stem": "A 9-year-old girl presents with abdominal pain and a rapidly growing pelvic mass involving a single ovary. Serum alpha-fetoprotein is markedly elevated. Histology shows blood vessels surrounded by tumor cells protruding into empty spaces. She undergoes surgery followed by cisplatin-based chemotherapy. Which of the following should be used to monitor for tumor recurrence?",
+      "stem": "A 9-year-old girl presents with abdominal pain and a rapidly growing pelvic mass involving a single ovary. Histology shows blood vessels surrounded by tumor cells protruding into empty spaces. She undergoes surgery followed by cisplatin-based chemotherapy. Which of the following should be used to monitor for tumor recurrence?",
       "choices": [
         {
           "label": "A",
@@ -7069,7 +7069,7 @@
       "correctAnswer": "A",
       "explanation": {
         "summary": "Yolk sac tumors secrete alpha-fetoprotein, which serves as the marker for monitoring response and recurrence.",
-        "whyCorrect": "This child has a yolk sac tumor: a rapidly growing single-ovary mass in a young patient with elevated AFP and Schiller-Duval bodies on histology. The yolk sac is the first fetal organ to secrete alpha-fetoprotein, and serum AFP levels are used to monitor treatment response and recurrence after surgery and cisplatin-based chemotherapy.",
+        "whyCorrect": "This child has a yolk sac tumor: a rapidly growing single-ovary mass in a young patient with Schiller-Duval bodies on histology. The yolk sac is the first fetal organ to secrete alpha-fetoprotein, and serum AFP levels are used to monitor treatment response and recurrence after surgery and cisplatin-based chemotherapy.",
         "whyWrongByChoice": {
           "B": "Beta-hCG monitors choriocarcinoma, a trophoblastic tumor, not yolk sac tumor.",
           "C": "CA-125 is described with fibromas and immature teratomas in this lecture, not as the surveillance marker for yolk sac tumors.",
