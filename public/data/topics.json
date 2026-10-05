@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "id": "anatomy-histology-structure",
-      "name": "Anatomy, Histology & Structure",
+      "id": "w1s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "anatomy-histology-female-reproductive-system",
@@ -42,8 +42,8 @@
       "weekSubtitle": "Anatomy, Development, Hormones & Cycles"
     },
     {
-      "id": "development-congenital",
-      "name": "Development, Identity & Congenital Disorders",
+      "id": "w1s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "inclusive-language-and-health-equity",
@@ -83,8 +83,8 @@
       "weekSubtitle": "Anatomy, Development, Hormones & Cycles"
     },
     {
-      "id": "hormones-cycles",
-      "name": "Hormones, Cycles & Fertility Physiology",
+      "id": "w1s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "fertilization",
@@ -140,8 +140,8 @@
       "weekSubtitle": "Anatomy, Development, Hormones & Cycles"
     },
     {
-      "id": "repro-health-endocrine",
-      "name": "Reproductive Health & Hormone Disorders",
+      "id": "w2s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "contraception",
@@ -189,8 +189,8 @@
       "weekSubtitle": "Repro Health, Female & Male Pathology"
     },
     {
-      "id": "female-repro-pathology",
-      "name": "Female Reproductive Pathology",
+      "id": "w2s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "benign-endometrial-disorders",
@@ -238,8 +238,8 @@
       "weekSubtitle": "Repro Health, Female & Male Pathology"
     },
     {
-      "id": "male-repro-pathology",
-      "name": "Male Reproductive Pathology",
+      "id": "w2s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "disorders-of-the-penis",
@@ -287,8 +287,8 @@
       "weekSubtitle": "Repro Health, Female & Male Pathology"
     },
     {
-      "id": "genital-infections-stis",
-      "name": "Genital Tract Infections & STIs",
+      "id": "w3s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "vulvovaginitis",
@@ -321,7 +321,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": "Infections, STIs & Cervical/Vulvar Pathology"
+    },
+    {
+      "id": "w3s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "reproductive-hiv",
           "name": "Reproductive: HIV",
@@ -345,16 +354,7 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        }
-      ],
-      "week": 3,
-      "weekName": "Week 3",
-      "weekSubtitle": "Infections, STIs & Cervical/Vulvar Pathology"
-    },
-    {
-      "id": "cervical-vulvar-pathology",
-      "name": "Cervical & Vulvar Pathology",
-      "topics": [
+        },
         {
           "id": "cervical-cancer",
           "name": "Cervical Cancer",
@@ -377,8 +377,8 @@
       "weekSubtitle": "Infections, STIs & Cervical/Vulvar Pathology"
     },
     {
-      "id": "placenta-pregnancy",
-      "name": "Placenta, Pregnancy & Abortion Care",
+      "id": "w4s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "placenta",
@@ -418,8 +418,8 @@
       "weekSubtitle": "Pregnancy, Complications & Reproductive Rights"
     },
     {
-      "id": "medical-disorders-pregnancy",
-      "name": "Medical Disorders of Pregnancy",
+      "id": "w4s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "pregnancy-effects-on-other-organ-systems",
@@ -459,8 +459,8 @@
       "weekSubtitle": "Pregnancy, Complications & Reproductive Rights"
     },
     {
-      "id": "srh-equity-rights",
-      "name": "Sexual & Reproductive Health, Equity & Rights",
+      "id": "w4s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "social-determinants-of-sexual-and-reproductive-health",
