@@ -1,0 +1,1698 @@
+{
+  "categoryId": "w5s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "rp55-001",
+      "stem": "A 31-year-old woman who had an uncomplicated vaginal delivery 10 days ago asks how much longer she and her son are considered to be in the postnatal period (puerperium). According to the World Health Organization, this period ends approximately how long after birth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 months"
+        },
+        {
+          "label": "B",
+          "text": "6 months"
+        },
+        {
+          "label": "C",
+          "text": "7 days"
+        },
+        {
+          "label": "D",
+          "text": "24 hours"
+        },
+        {
+          "label": "E",
+          "text": "42 days"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The WHO postnatal period (puerperium) runs from birth to about 6 weeks (42 days).",
+        "whyCorrect": "WHO defines the postnatal period as extending from the birth of the baby until approximately six weeks (42 days) afterward. This matches the time needed for the reproductive organs to return to the non-pregnant state and for birth parent and newborn to reach physiologic stability. Planned contacts are spread over this six-week window, with the most intensive monitoring in the first days.",
+        "whyWrongByChoice": {
+          "A": "Three months exceeds the WHO definition; the final WHO contact is at 6 weeks, the end of the puerperium.",
+          "B": "Six months is the recommended duration of exclusive breastfeeding, not the length of the postnatal period.",
+          "C": "Day 7 falls within the third-contact window (day 7-14); the postnatal period continues well beyond it.",
+          "D": "The first 24 hours is the highest-risk window and the time of the first contact, not the whole postnatal period."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "postnatal period",
+        "puerperium",
+        "WHO"
+      ],
+      "topicId": "postnatal-care-part-1-of-2",
+      "topicName": "Postnatal Care: Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp55-002",
+      "stem": "A 24-year-old woman delivers a healthy term newborn at a district hospital and asks to take the baby home 6 hours after birth. The clinician advises that WHO recommends that both remain in the facility for at least 24 hours. Which of the following facts best supports this recommendation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breast engorgement usually develops within the first day"
+        },
+        {
+          "label": "B",
+          "text": "Neonatal bilirubin levels usually peak within the first day"
+        },
+        {
+          "label": "C",
+          "text": "Neonatal deaths are concentrated in the first day of life"
+        },
+        {
+          "label": "D",
+          "text": "Newborn weight loss is usually greatest within the first day"
+        },
+        {
+          "label": "E",
+          "text": "Postpartum depression usually begins within the first day"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Most neonatal deaths occur in the first week, especially the first 24 hours, so the first contact is within 24 hours in a facility.",
+        "whyCorrect": "The postnatal period is critical for newborn survival: most neonatal deaths occur in the first week of life, especially within the first 24 hours. For this reason the first WHO contact is within 24 hours of birth in a healthcare facility, and WHO recommends facility monitoring of birth parent and newborn for at least 24 hours so complications can be detected and managed early.",
+        "whyWrongByChoice": {
+          "A": "Breast engorgement is a common day 2-3 issue addressed at the second contact.",
+          "B": "Bilirubin typically peaks between days 3-5, which is why jaundice screening is emphasized at the second contact.",
+          "D": "Physiologic weight loss of 7-10% occurs over the first several days while milk transitions; it is assessed at the second contact.",
+          "E": "Depression screening continues across contacts, and postpartum depression monitoring is a focus of the third contact, not the first day."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal mortality",
+        "first contact",
+        "facility stay"
+      ],
+      "topicId": "postnatal-care-part-1-of-2",
+      "topicName": "Postnatal Care: Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp55-003",
+      "stem": "A 3-day-old girl is seen during a home visit at the second WHO postnatal contact. She was born at term after an uncomplicated pregnancy. In addition to a feeding assessment, which of the following screenings is particularly emphasized at this contact?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BCG vaccine administration"
+        },
+        {
+          "label": "B",
+          "text": "Developmental milestone screening"
+        },
+        {
+          "label": "C",
+          "text": "Family planning counseling"
+        },
+        {
+          "label": "D",
+          "text": "First pertussis-containing vaccine dose"
+        },
+        {
+          "label": "E",
+          "text": "Jaundice screening"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Jaundice screening is a priority at the day 2-3 (WHO) or day 3-5 (AAP) contact because bilirubin typically peaks on days 3-5.",
+        "whyCorrect": "The second contact is critical for breastfeeding establishment and jaundice assessment. Jaundice screening is emphasized particularly between days 3-5, when bilirubin levels typically peak. Other second-contact tasks include feeding and weight checks, cord care, danger-sign education, and emotional support during the baby blues.",
+        "whyWrongByChoice": {
+          "A": "BCG is given at birth per WHO, as part of immediate newborn care, not at the day 2-3 contact.",
+          "B": "Growth and development assessment is a focus of the fourth contact and later well child visits.",
+          "C": "Family planning is part of the rationale for the fourth contact at 6 weeks postpartum.",
+          "D": "DTP #1 is part of the immunization series completed at the fourth contact (6 weeks per WHO, 2 months per AAP)."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "second contact",
+        "jaundice",
+        "bilirubin"
+      ],
+      "topicId": "postnatal-care-part-1-of-2",
+      "topicName": "Postnatal Care: Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp55-004",
+      "stem": "A 3-day-old exclusively breastfed boy is evaluated at a postnatal visit. His birth weight was 3,400 g and he now weighs 3,130 g (a 7.9% loss). He feeds every 1-2 hours with an effective latch, and his examination is normal. His parent's colostrum is transitioning to a fuller milk supply. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Add formula supplements after every breastfeed"
+        },
+        {
+          "label": "B",
+          "text": "Admit for intravenous fluid hydration"
+        },
+        {
+          "label": "C",
+          "text": "Reassure and continue exclusive breastfeeding"
+        },
+        {
+          "label": "D",
+          "text": "Send serum electrolytes and glucose levels"
+        },
+        {
+          "label": "E",
+          "text": "Switch fully to formula feeding for now"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Loss of 7-10% of birth weight in the first days is normal in breastfed newborns while milk transitions from colostrum.",
+        "whyCorrect": "Weight loss of 7% to 10% in breastfed newborns during the first several days is normal while the milk supply transitions from colostrum to mature milk. With frequent feeds, a good latch, and a normal exam, the parent should be reassured and breastfeeding continued, with weight followed at later contacts (most newborns are back to birth weight by 2 weeks).",
+        "whyWrongByChoice": {
+          "A": "Unnecessary formula supplementation should be avoided unless medically indicated; this weight loss is within the normal range.",
+          "B": "A 7.9% loss in a well, feeding infant is physiologic and does not call for intravenous fluids.",
+          "D": "Laboratory testing is not indicated for expected physiologic weight loss in a well-appearing newborn.",
+          "E": "WHO and AAP recommend exclusive breastfeeding for six months; there is no indication to stop it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "newborn weight loss",
+        "breastfeeding",
+        "second contact"
+      ],
+      "topicId": "postnatal-care-part-1-of-2",
+      "topicName": "Postnatal Care: Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp55-005",
+      "stem": "A 5-day-old boy is brought to the clinic because of oozing blood from the umbilical stump and dark blood in his stool. He was born at home, and his parents declined all medications and injections after birth. He is breastfed and was otherwise well. Which of the following interventions in the first 24 hours of life would most likely have prevented this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BCG vaccination at birth"
+        },
+        {
+          "label": "B",
+          "text": "Chlorhexidine applied to the cord stump"
+        },
+        {
+          "label": "C",
+          "text": "Hepatitis B vaccination at birth"
+        },
+        {
+          "label": "D",
+          "text": "Prophylactic intramuscular vitamin K"
+        },
+        {
+          "label": "E",
+          "text": "Skin-to-skin contact in the first hour"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Prophylactic vitamin K at birth prevents vitamin K deficiency hemorrhagic disease of the newborn.",
+        "whyCorrect": "Immediate newborn care includes administration of prophylactic medications, including a vitamin K injection to prevent vitamin K deficiency hemorrhagic disease. A newborn whose parents declined this injection who then bleeds from the cord stump and gut fits that disease.",
+        "whyWrongByChoice": {
+          "A": "BCG is given at birth (per WHO) to prevent tuberculosis, not bleeding.",
+          "B": "Chlorhexidine is considered only to replace a harmful traditional cord substance; it addresses infection, not bleeding.",
+          "C": "The hepatitis B birth dose prevents hepatitis B infection; it has no effect on clotting.",
+          "E": "Skin-to-skin contact supports thermoregulation and breastfeeding; it does not prevent hemorrhagic disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "vitamin K",
+        "hemorrhagic disease",
+        "immediate newborn care"
+      ],
+      "topicId": "postnatal-care-part-1-of-2",
+      "topicName": "Postnatal Care: Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp55-006",
+      "stem": "A first-time parent, 1 day after delivery, notices a small amount of thick yellowish secretion from the breasts and asks whether it is worth feeding to the baby, since 'the real milk hasn't come in.' Which of the following components of this secretion gives the newborn important immunologic and antimicrobial protection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrinogen and vitamin K"
+        },
+        {
+          "label": "B",
+          "text": "Immunoglobulin E and histamine"
+        },
+        {
+          "label": "C",
+          "text": "Secretory IgA and lactoferrin"
+        },
+        {
+          "label": "D",
+          "text": "Unconjugated bilirubin and albumin"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin D and calcium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Colostrum is rich in protein, vitamins, immunoglobulins (particularly secretory IgA), and antimicrobial factors such as lactoferrin.",
+        "whyCorrect": "Colostrum, the initial breast secretion after childbirth, is rich in protein, vitamins, immunoglobulins (particularly secretory IgA), and antimicrobial factors such as lactoferrin, providing important immunologic protection. It is the primary nutrition for breastfed babies for the first 3-5 days, which is why breastfeeding is initiated within the first hour of life.",
+        "whyWrongByChoice": {
+          "A": "Bleeding prophylaxis comes from the vitamin K injection at birth, not from colostrum.",
+          "B": "IgE and histamine are mediators of allergy; breast milk is described as protecting against allergic disease, not supplying these mediators.",
+          "D": "Bilirubin and albumin are not the protective components of colostrum; bilirubin is screened for as a cause of jaundice.",
+          "E": "Breast milk usually does not contain enough vitamin D, which is why breastfed infants receive vitamin D supplements."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "colostrum",
+        "secretory IgA",
+        "lactoferrin"
+      ],
+      "topicId": "postnatal-care-part-1-of-2",
+      "topicName": "Postnatal Care: Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp55-007",
+      "stem": "A 2,900-g boy is born at term to a 28-year-old woman who used opioids throughout pregnancy. At 20 hours of life he is feeding and sleeping well, with a normal examination. The parent asks to be discharged at 24 hours, the usual minimum stay at this hospital. Which of the following is the most appropriate plan?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Discharge at 24 hours with a home visit on day 2-3"
+        },
+        {
+          "label": "B",
+          "text": "Discharge at 24 hours with community health worker visits"
+        },
+        {
+          "label": "C",
+          "text": "Discharge at 24 hours with follow-up at 6 weeks"
+        },
+        {
+          "label": "D",
+          "text": "Discharge at 24 hours with weekly weight checks"
+        },
+        {
+          "label": "E",
+          "text": "Extend the newborn's inpatient stay beyond 24 hours"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Newborns exposed to opioids in utero need a longer hospital stay because withdrawal signs typically appear 24-72 hours after birth.",
+        "whyCorrect": "WHO recommends at least 24 hours of facility monitoring, with longer stays depending on newborn and birth parent risks. Newborns born to a birth parent with substance use such as opioids require a longer hospital stay, because neonatal abstinence syndrome typically appears within 24 to 72 hours after birth. A well appearance at 20 hours does not exclude withdrawal that has not yet begun.",
+        "whyWrongByChoice": {
+          "A": "A day 2-3 home visit fits a low-risk newborn; this infant could develop withdrawal at home before or after that visit.",
+          "B": "Community health workers do basic assessments under supervision; a newborn at risk of seizures from withdrawal needs inpatient observation.",
+          "C": "Waiting until 6 weeks would miss the 24-72 hour window in which withdrawal typically appears.",
+          "D": "Weekly follow-up is used for preterm or low birth weight infants until growth is stable; it does not address withdrawal risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "neonatal abstinence syndrome",
+        "opioids",
+        "length of stay"
+      ],
+      "topicId": "postnatal-care-part-1-of-2",
+      "topicName": "Postnatal Care: Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp55-008",
+      "stem": "Before discharge, the parents of a healthy 2-day-old girl say they have set up a bassinet next to their bed. Which of the following additional instructions is consistent with the AAP Newborn Safe Sleep Checklist?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lay a soft quilt beneath the fitted sheet"
+        },
+        {
+          "label": "B",
+          "text": "Line the bassinet with padded bumper pads"
+        },
+        {
+          "label": "C",
+          "text": "Place her flat on her back for naps and at night"
+        },
+        {
+          "label": "D",
+          "text": "Prop her on her side with a rolled blanket"
+        },
+        {
+          "label": "E",
+          "text": "Use an inclined sleeper to reduce spit-up"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Infants should be placed flat on their back to sleep ('Back is Best') on a firm, flat, bare surface.",
+        "whyCorrect": "The AAP checklist states: place the infant flat on the back to sleep, on a firm, flat, non-inclined mattress covered only by a fitted sheet, in a crib or bassinet in the parents' room, with no loose blankets, pillows, bumper pads, quilts, or soft toys, no bed-sharing, and a smoke-free environment. These measures protect against SIDS and accidental suffocation.",
+        "whyWrongByChoice": {
+          "A": "The mattress should be covered only by a fitted sheet; a quilt adds soft bedding.",
+          "B": "Bumper pads must be removed from the sleep area.",
+          "D": "Side positioning with a blanket violates both 'Back is Best' and the rule against loose bedding.",
+          "E": "The sleep surface must be firm, flat, and non-inclined."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "safe sleep",
+        "SIDS",
+        "back to sleep"
+      ],
+      "topicId": "postnatal-care-part-1-of-2",
+      "topicName": "Postnatal Care: Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp55-009",
+      "stem": "A 6-day-old boy born in a hospital in a high-income country is seen for a routine visit. The umbilical stump is dry, without redness or discharge. The parent asks how to care for it until it falls off. Which of the following is the most appropriate advice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apply antibiotic ointment once each day"
+        },
+        {
+          "label": "B",
+          "text": "Apply chlorhexidine gel until it separates"
+        },
+        {
+          "label": "C",
+          "text": "Keep it under an occlusive dressing"
+        },
+        {
+          "label": "D",
+          "text": "Leave it exposed to air and keep it dry"
+        },
+        {
+          "label": "E",
+          "text": "Swab it with alcohol at each diaper change"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Clean, dry cord care: keep the stump exposed to air, clean with plain water only if soiled, and avoid ointments, antiseptics, and alcohol.",
+        "whyCorrect": "Clean, dry cord care is recommended for newborns born in facilities and at home in low neonatal mortality settings. The cord is kept exposed to air, cleaned only with plain water if soiled, and allowed to fall off naturally, usually 1-3 weeks after birth. Ointments, antiseptics, and alcohol are avoided.",
+        "whyWrongByChoice": {
+          "A": "Ointments are to be avoided; the stump should simply be kept clean and dry.",
+          "B": "Chlorhexidine is considered only to replace a harmful traditional substance such as cow dung, not for routine care.",
+          "C": "The cord should be kept exposed to air, not covered.",
+          "E": "Alcohol is specifically listed among the applications to avoid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "umbilical cord care",
+        "dry cord care"
+      ],
+      "topicId": "postnatal-care-part-1-of-2",
+      "topicName": "Postnatal Care: Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp55-010",
+      "stem": "A 7-month-old girl is seen for a well child visit. She is breastfed several times daily and also drinks about 16 oz (roughly 0.5 L) of vitamin D-fortified formula per day. She has received vitamin D drops since early infancy. Her parent asks when the drops can be stopped. Which of the following is the most appropriate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue only until she completes her first winter"
+        },
+        {
+          "label": "B",
+          "text": "Continue until she drinks 1 L/day or more of formula"
+        },
+        {
+          "label": "C",
+          "text": "Stop now, because her formula provides some vitamin D"
+        },
+        {
+          "label": "D",
+          "text": "Stop now, because she has begun eating solid foods"
+        },
+        {
+          "label": "E",
+          "text": "Stop once breastfeeds make up under half of her feeds"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "AAP: 400 IU/day vitamin D for exclusively and partially breastfed infants until weaned and drinking at least 1 L (about 32 oz) of fortified formula or whole cow's milk daily.",
+        "whyCorrect": "Breast milk usually does not contain enough vitamin D. The AAP recommends vitamin D supplementation (400 IU) for exclusively and partially breastfed infants until they are weaned and consuming at least 1 liter (about 32 ounces) per day of vitamin D-fortified formula or whole cow's milk (after 12 months). At about 0.5 L/day of formula and still breastfeeding, she does not meet that threshold.",
+        "whyWrongByChoice": {
+          "A": "Season is not part of the recommendation; stopping depends on weaning and fortified milk intake.",
+          "C": "Some fortified formula is not enough; the threshold is at least 1 L per day, and she takes about half of that.",
+          "D": "Starting complementary foods is not the stopping criterion for vitamin D supplementation.",
+          "E": "Partially breastfed infants also need supplementation; the proportion of breastfeeds does not end the recommendation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "vitamin D",
+        "breastfeeding",
+        "supplementation"
+      ],
+      "topicId": "postnatal-care-part-1-of-2",
+      "topicName": "Postnatal Care: Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp55-011",
+      "stem": "A 27-year-old woman brings her 10-day-old son to the third WHO postnatal contact. The infant is feeding every 2-3 hours and is back to birth weight. When asked, the parent says she is 'doing fine' and has no concerns about her mood. Which of the following is the most appropriate action regarding her mental health?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer a validated depression screening tool"
+        },
+        {
+          "label": "B",
+          "text": "Begin an antidepressant as a preventive measure"
+        },
+        {
+          "label": "C",
+          "text": "Defer mood screening to the 6-week visit"
+        },
+        {
+          "label": "D",
+          "text": "Refer her to a psychiatrist for evaluation"
+        },
+        {
+          "label": "E",
+          "text": "Skip screening because she reports no concerns"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Screen for postpartum depression and anxiety with validated tools at each postnatal contact.",
+        "whyCorrect": "Providers should screen for postpartum depression and anxiety using validated tools at each contact, and monitoring for postpartum depression is a stated focus of the third contact. Depression in the birth parent can negatively affect the newborn, so screening is routine rather than triggered by a complaint.",
+        "whyWrongByChoice": {
+          "B": "There is no indication for medication in a parent without a positive screen or a diagnosis.",
+          "C": "Screening is done at each contact, and the third contact specifically includes monitoring for postpartum depression.",
+          "D": "Referral for specialized mental health care is for when screening or assessment indicates it, not as the first step.",
+          "E": "Self-report of feeling fine does not replace routine screening with a validated tool."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "postpartum depression",
+        "screening",
+        "third contact"
+      ],
+      "topicId": "postnatal-care-part-1-of-2",
+      "topicName": "Postnatal Care: Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp55-012",
+      "stem": "A clinician performing a postnatal home visit learns that the fluent English-speaking grandparents of a 4-day-old girl plan a family newborn ritual that the clinician has never heard of. The family is warm and engaged in the baby's care. Which of the following is the most appropriate initial approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Approve the ritual because all cultural practices are safe"
+        },
+        {
+          "label": "B",
+          "text": "Ask the family to describe the ritual and what it involves"
+        },
+        {
+          "label": "C",
+          "text": "Document the plan and continue the visit without comment"
+        },
+        {
+          "label": "D",
+          "text": "Notify child protective services about the planned ritual"
+        },
+        {
+          "label": "E",
+          "text": "Tell the family that traditional rituals should be avoided"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Culturally respectful care starts with learning about the practice through respectful dialogue, then supporting beneficial practices or negotiating modifications of harmful ones.",
+        "whyCorrect": "Culturally respectful care involves learning about local cultural practices, acknowledging beneficial ones, identifying potentially harmful ones through respectful dialogue, and negotiating respectful modifications when a practice may pose risks. The clinician cannot judge an unfamiliar ritual until the family describes it.",
+        "whyWrongByChoice": {
+          "A": "Not all practices are safe; some are harmful and require sensitive modification, so the practice must be understood first.",
+          "C": "Ignoring the plan misses the chance to identify a potentially harmful practice through dialogue.",
+          "D": "Nothing suggests harm or neglect; reporting an unfamiliar practice without understanding it is inappropriate.",
+          "E": "Some traditional practices are beneficial and should be supported; blanket discouragement is not culturally competent care."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cultural competence",
+        "traditional practices",
+        "respectful dialogue"
+      ],
+      "topicId": "postnatal-care-part-1-of-2",
+      "topicName": "Postnatal Care: Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp56-001",
+      "stem": "A 29-year-old woman who delivered vaginally 3 days ago is breastfeeding her first child. She reports that overnight her breasts became full, firm, and warm, and milk now leaks between feeds. Which of the following most directly initiated this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conditioned let-down triggered by infant crying"
+        },
+        {
+          "label": "B",
+          "text": "Loss of placental progesterone after delivery"
+        },
+        {
+          "label": "C",
+          "text": "Pulsatile oxytocin release in response to feeds"
+        },
+        {
+          "label": "D",
+          "text": "Repeated nipple stimulation during early feeds"
+        },
+        {
+          "label": "E",
+          "text": "Rising cortisol and insulin after delivery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lactogenesis (milk 'coming in' at 48-96 hours) is triggered by the postpartum drop in placental progesterone.",
+        "whyCorrect": "During late pregnancy, high placental progesterone interferes with prolactin action at the alveolar cell prolactin receptor. After delivery, progesterone falls abruptly, removing this inhibition so prolactin can drive high-volume milk synthesis. This endocrine-driven engorgement typically occurs 48-96 hours postpartum.",
+        "whyWrongByChoice": {
+          "A": "Conditioned let-down is an oxytocin ejection response, not the trigger for the onset of milk secretion.",
+          "C": "Oxytocin ejects milk already made by contracting myoepithelial cells; it does not initiate high-volume synthesis.",
+          "D": "Lactogenesis is independent of suckling; it occurs even in a birth parent who is not breastfeeding.",
+          "E": "Cortisol and insulin are supporting hormones of mammogenesis during pregnancy, not the trigger for lactogenesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lactation",
+        "lactogenesis",
+        "progesterone",
+        "core"
+      ],
+      "topicId": "postnatal-care-part-2-of-2",
+      "topicName": "Postnatal Care: Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp56-002",
+      "stem": "A 31-year-old woman, 9 days postpartum, has severe perineal pain and is very anxious about feeding her son. Her breasts feel full, but when the infant suckles little milk flows and he becomes frustrated. Which of the following processes is most likely impaired?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Milk synthesis by alveolar epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Oxytocin-driven contraction of myoepithelial cells"
+        },
+        {
+          "label": "C",
+          "text": "Prolactin release from anterior pituitary lactotrophs"
+        },
+        {
+          "label": "D",
+          "text": "Removal of progesterone block at prolactin receptors"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of hypothalamic dopamine by suckling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Stress, pain, and anxiety inhibit oxytocin release and the let-down (milk ejection) reflex; the prolactin reflex is not affected.",
+        "whyCorrect": "Oxytocin from the posterior pituitary contracts the myoepithelial cells around the alveoli, squeezing milk into the lactiferous ducts and out of the nipple. Unlike the prolactin reflex, the oxytocin reflex can be inhibited by stress, pain, or anxiety. Her full breasts show milk is being made but not ejected.",
+        "whyWrongByChoice": {
+          "A": "Full breasts indicate that alveolar milk synthesis is intact; the problem is ejection.",
+          "C": "The prolactin reflex is not conditioned and is not blocked by stress; her full breasts show synthesis is ongoing.",
+          "D": "The progesterone block was removed after delivery; lactogenesis has already occurred by day 9.",
+          "E": "Dopamine suppression drives the prolactin (synthesis) reflex, which stress does not inhibit."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lactation",
+        "oxytocin reflex",
+        "let-down",
+        "core"
+      ],
+      "topicId": "postnatal-care-part-2-of-2",
+      "topicName": "Postnatal Care: Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp56-003",
+      "stem": "A 26-year-old woman who is exclusively breastfeeding has a serum prolactin measured shortly after a feed, and it is markedly higher than before the feed. Which of the following best explains how suckling produced this rise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contraction of myoepithelial cells around alveoli"
+        },
+        {
+          "label": "B",
+          "text": "Decreased progesterone secretion by the ovary"
+        },
+        {
+          "label": "C",
+          "text": "Direct stimulation of lactotrophs by spinal afferents"
+        },
+        {
+          "label": "D",
+          "text": "Increased oxytocin release from the posterior pituitary"
+        },
+        {
+          "label": "E",
+          "text": "Reduced dopamine release from the hypothalamus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Suckling inhibits hypothalamic dopamine (prolactin-inhibiting factor), disinhibiting anterior pituitary lactotrophs.",
+        "whyCorrect": "In the prolactin reflex, nipple mechanoreceptors send afferent signals up the spinal cord that inhibit dopamine release from the hypothalamus. Removing this tonic inhibition lets anterior pituitary lactotrophs release prolactin in pulses, which drives milk synthesis for the next feeding.",
+        "whyWrongByChoice": {
+          "A": "Myoepithelial contraction is the effect of oxytocin and causes milk ejection, not prolactin secretion.",
+          "B": "The progesterone drop relevant to lactation is the placental one at delivery; it triggers lactogenesis, not post-feed prolactin pulses.",
+          "C": "The afferent signal acts by inhibiting hypothalamic dopamine, not by directly stimulating lactotrophs.",
+          "D": "Oxytocin release is the separate ejection reflex; it does not raise prolactin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lactation",
+        "prolactin reflex",
+        "dopamine",
+        "core"
+      ],
+      "topicId": "postnatal-care-part-2-of-2",
+      "topicName": "Postnatal Care: Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp56-004",
+      "stem": "A 24-year-old primigravida at 20 weeks' gestation notices her breasts enlarging. The definitive functional maturation of breast tissue that prepares it for milk production during pregnancy is driven chiefly by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dopamine and oxytocin"
+        },
+        {
+          "label": "B",
+          "text": "Estrogen and progesterone"
+        },
+        {
+          "label": "C",
+          "text": "Human placental lactogen and insulin"
+        },
+        {
+          "label": "D",
+          "text": "Insulin and cortisol"
+        },
+        {
+          "label": "E",
+          "text": "Oxytocin and prolactin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mammogenesis in pregnancy is driven by estrogen and progesterone, with prolactin, hPL, cortisol, and insulin in supporting roles.",
+        "whyCorrect": "Mammogenesis is the structural maturation of the breast needed for later milk production. Rudimentary ductal branching occurs at puberty, but the definitive functional maturation occurs in pregnancy and is driven by estrogen and progesterone.",
+        "whyWrongByChoice": {
+          "A": "Dopamine inhibits prolactin release and oxytocin ejects milk; neither drives breast maturation.",
+          "C": "Human placental lactogen and insulin play supporting roles rather than driving maturation.",
+          "D": "Insulin and cortisol are supporting hormones, not the primary drivers of mammogenesis.",
+          "E": "Oxytocin acts in milk ejection; prolactin only supports mammogenesis and mainly drives milk synthesis later."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lactation",
+        "mammogenesis",
+        "core"
+      ],
+      "topicId": "postnatal-care-part-2-of-2",
+      "topicName": "Postnatal Care: Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp56-005",
+      "stem": "A 30-year-old woman who exclusively breastfed her son for 5 weeks returns to work and now skips most daytime feeds, pumping only twice a day. Over the next 2 weeks her milk supply drops noticeably. Which of the following best explains this decline?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endocrine control that no longer responds to prolactin"
+        },
+        {
+          "label": "B",
+          "text": "Lactogenesis failing because suckling began too late"
+        },
+        {
+          "label": "C",
+          "text": "Local autocrine control dependent on milk removal"
+        },
+        {
+          "label": "D",
+          "text": "Loss of oxytocin release because pumping cannot trigger it"
+        },
+        {
+          "label": "E",
+          "text": "Residual placental progesterone again blocking prolactin receptors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In galactopoiesis, milk supply is maintained by an autocrine (local supply-and-demand) system that requires physical milk removal.",
+        "whyCorrect": "Once lactogenesis is established, regulation shifts from an endocrine system to an autocrine system. Maintaining supply requires physical removal of milk and repeated activation of the prolactin and oxytocin reflexes by suckling or pumping. Removing less milk lowers supply.",
+        "whyWrongByChoice": {
+          "A": "Control shifts to an autocrine system, but prolactin still drives ongoing milk production.",
+          "B": "Lactogenesis is endocrine-driven and independent of suckling; it had already occurred.",
+          "D": "Both the prolactin and oxytocin reflexes are triggered by suckling or breast pumping.",
+          "E": "Placental progesterone falls after delivery and does not return; it is not a factor 5 weeks postpartum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lactation",
+        "galactopoiesis",
+        "autocrine",
+        "core"
+      ],
+      "topicId": "postnatal-care-part-2-of-2",
+      "topicName": "Postnatal Care: Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp56-006",
+      "stem": "A 6-day-old boy born at term is brought in because he has fed poorly for a day and is unusually sleepy. His axillary temperature was 35.9 C in the morning and 38.4 C in the evening. Respiratory rate is 66/min with intermittent grunting. Which of the following is the most likely complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Feeding difficulty from poor latch"
+        },
+        {
+          "label": "B",
+          "text": "Hypothermia"
+        },
+        {
+          "label": "C",
+          "text": "Neonatal sepsis"
+        },
+        {
+          "label": "D",
+          "text": "Pathological jaundice"
+        },
+        {
+          "label": "E",
+          "text": "Transient neonatal myasthenia gravis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Neonatal sepsis presents with lethargy, poor feeding, temperature instability, and respiratory distress; risk is highest in the first week.",
+        "whyCorrect": "Swinging between low and high temperatures is temperature instability, which together with lethargy, poor feeding, and respiratory distress forms the early warning picture of neonatal sepsis. Sepsis can occur at any time but risk is highest in the first week.",
+        "whyWrongByChoice": {
+          "A": "Feeding difficulty would show poor latch and weight loss, not fever, hypothermia, and grunting.",
+          "B": "Hypothermia alone would not explain a temperature of 38.4 C; the pattern is instability, not persistent low temperature.",
+          "D": "Pathological jaundice presents with yellow discoloration spreading from head to extremities, which is not described.",
+          "E": "Transient neonatal myasthenia requires maternal myasthenia gravis and presents with hypotonia, not temperature instability."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "newborn complications",
+        "neonatal sepsis",
+        "core"
+      ],
+      "topicId": "postnatal-care-part-2-of-2",
+      "topicName": "Postnatal Care: Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp56-007",
+      "stem": "A 4-day-old girl had yellowing of the face noted on day 2. Today the yellow color extends over the trunk, legs, and soles of the feet, and she is harder to wake for feeds. Her parents ask why the spread matters. Which of the following is the best explanation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is expected spread that needs no evaluation"
+        },
+        {
+          "label": "B",
+          "text": "It reflects maternal antibodies attacking the skin"
+        },
+        {
+          "label": "C",
+          "text": "It reflects peripheral vasoconstriction from cold stress"
+        },
+        {
+          "label": "D",
+          "text": "It shows the jaundice is clearing from head downward"
+        },
+        {
+          "label": "E",
+          "text": "It signals high bilirubin with risk of kernicterus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Jaundice spreads cephalocaudally as bilirubin rises; extension to the extremities signals markedly elevated bilirubin and risk of bilirubin encephalopathy and kernicterus.",
+        "whyCorrect": "Neonatal jaundice starts at the head and spreads down to the extremities as total serum bilirubin rises. Extensive spread indicates significantly elevated bilirubin, raising the risk of acute bilirubin encephalopathy and permanent neurologic damage (kernicterus). Jaundice extending to the extremities is a danger sign requiring immediate attention.",
+        "whyWrongByChoice": {
+          "A": "Jaundice extending to the extremities is listed as a danger sign needing immediate care.",
+          "B": "Transplacental autoantibodies cause transient autoimmune disease, not cephalocaudal yellowing of the skin.",
+          "C": "Yellow discoloration reflects bilirubin, not vasoconstriction from cold stress.",
+          "D": "Spread from head toward the feet indicates rising, not falling, bilirubin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "newborn complications",
+        "jaundice",
+        "kernicterus",
+        "core"
+      ],
+      "topicId": "postnatal-care-part-2-of-2",
+      "topicName": "Postnatal Care: Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp56-008",
+      "stem": "A boy is born at 29 weeks' gestation. Within the first hours of life he develops tachypnea, nasal flaring, expiratory grunting, and subcostal retractions. Which of the following is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspiration of meconium-stained amniotic fluid"
+        },
+        {
+          "label": "B",
+          "text": "Bleeding from fragile cerebral blood vessels"
+        },
+        {
+          "label": "C",
+          "text": "Deficiency of pulmonary surfactant"
+        },
+        {
+          "label": "D",
+          "text": "Polycythemia from prolonged gestation"
+        },
+        {
+          "label": "E",
+          "text": "Transplacental antibodies to acetylcholine receptors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Premature newborns are highly vulnerable to respiratory distress syndrome due to surfactant deficiency.",
+        "whyCorrect": "Infants born before 37 weeks have structurally and functionally underdeveloped organ systems. Their lungs are deficient in surfactant, causing respiratory distress syndrome, which presents in the first hours with tachypnea, nasal flaring, grunting, and retractions.",
+        "whyWrongByChoice": {
+          "A": "Meconium aspiration is a complication highlighted for postterm infants, not a 29-week preterm.",
+          "B": "Fragile cerebral vessels cause intraventricular hemorrhage, not primary respiratory distress.",
+          "D": "Polycythemia is a postterm complication and does not fit a 29-week birth.",
+          "E": "Anti-AChR antibodies cause transient neonatal myasthenia only when the mother has myasthenia gravis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "newborn complications",
+        "prematurity",
+        "respiratory distress syndrome",
+        "core"
+      ],
+      "topicId": "postnatal-care-part-2-of-2",
+      "topicName": "Postnatal Care: Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp56-009",
+      "stem": "A boy is born vaginally at 42 4/7 weeks' gestation weighing 4,750 g after a difficult delivery of the shoulders. Shortly after birth his right arm hangs limp at his side and he does not move it. A radiograph of the right clavicle is normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brachial plexus injury"
+        },
+        {
+          "label": "B",
+          "text": "Clavicular fracture"
+        },
+        {
+          "label": "C",
+          "text": "Intraventricular hemorrhage"
+        },
+        {
+          "label": "D",
+          "text": "Neonatal hypocalcemia"
+        },
+        {
+          "label": "E",
+          "text": "Transient neonatal myasthenia gravis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Macrosomic postterm infants are at risk of birth injuries from shoulder dystocia, including brachial plexus injury and clavicle fracture.",
+        "whyCorrect": "Postterm infants (born after 42 weeks) are often macrosomic (over 4500 g). Their birth injuries are primarily due to shoulder dystocia and include brachial plexus injury and clavicular fracture. A limp, unmoving single arm with a normal clavicle radiograph points to brachial plexus injury.",
+        "whyWrongByChoice": {
+          "B": "A clavicular fracture is the other shoulder-dystocia injury, but the clavicle radiograph is normal.",
+          "C": "Intraventricular hemorrhage is a complication of prematurity from fragile cerebral vessels, not a cause of single-limb paralysis after shoulder dystocia.",
+          "D": "Hypocalcemia is listed as a preterm metabolic imbalance and would not cause isolated arm paralysis.",
+          "E": "Transient neonatal myasthenia causes generalized hypotonia and requires maternal myasthenia gravis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "newborn complications",
+        "postterm",
+        "birth injury",
+        "core"
+      ],
+      "topicId": "postnatal-care-part-2-of-2",
+      "topicName": "Postnatal Care: Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp56-010",
+      "stem": "A 24-year-old woman with myasthenia gravis delivers a girl at term. At 10 hours of age the infant is floppy, with a weak cry, poor suck, and facial weakness. Which of the following best describes the cause and expected course of the infant's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fragile cerebral vessels bleeding; deficits often persist"
+        },
+        {
+          "label": "B",
+          "text": "Infant's own autoantibody production; disease is lifelong"
+        },
+        {
+          "label": "C",
+          "text": "Inherited receptor gene defect; weakness is permanent"
+        },
+        {
+          "label": "D",
+          "text": "Surfactant deficiency causing hypoxia; resolves in hours"
+        },
+        {
+          "label": "E",
+          "text": "Transferred maternal anti-AChR IgG; resolves as it clears"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Transient neonatal myasthenia gravis results from placentally transferred anti-AChR antibodies and resolves as those antibodies clear.",
+        "whyCorrect": "Infants born to a parent with an autoimmune disease may show transient manifestations due to transplacental passage of autoantibodies. In transient neonatal myasthenia gravis, antibodies to the nicotinic acetylcholine receptor at the neuromuscular junction cause generalized weakness and hypotonia within hours up to 3 days after birth. Because the antibodies are maternal, the condition is temporary.",
+        "whyWrongByChoice": {
+          "A": "Intraventricular hemorrhage is a complication of prematurity, not of maternal myasthenia gravis.",
+          "B": "The infant does not produce the antibodies; maternal antibodies clear and the disease resolves.",
+          "C": "The condition is caused by transferred maternal antibodies, not an inherited gene defect, and is temporary.",
+          "D": "Surfactant deficiency causes respiratory distress in preterm infants, not hypotonia and facial weakness in a term infant."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "newborn complications",
+        "transient neonatal myasthenia gravis",
+        "autoimmune",
+        "core"
+      ],
+      "topicId": "postnatal-care-part-2-of-2",
+      "topicName": "Postnatal Care: Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp56-011",
+      "stem": "Before discharge, a nurse teaches new parents which newborn findings at home require immediate medical attention. Which of the following findings in their infant should prompt them to seek care right away?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary temperature of 37.0 C after a feed"
+        },
+        {
+          "label": "B",
+          "text": "Axillary temperature of 37.6 C when swaddled"
+        },
+        {
+          "label": "C",
+          "text": "Breathing 44 times per minute while asleep"
+        },
+        {
+          "label": "D",
+          "text": "Breathing 52 times per minute while feeding"
+        },
+        {
+          "label": "E",
+          "text": "Breathing 70 times per minute while resting"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Rapid breathing above 60 breaths per minute is a newborn danger sign requiring immediate medical attention.",
+        "whyCorrect": "Newborn danger signs include difficulty breathing or rapid breathing over 60 breaths per minute, poor feeding, lethargy, fever over 38 C or temperature below 36.5 C, early or extensive jaundice, umbilical redness or foul discharge, convulsions, and persistent vomiting or abdominal distension. A rate of 70/min exceeds the threshold.",
+        "whyWrongByChoice": {
+          "A": "37.0 C is between the hypothermia (below 36.5 C) and fever (over 38 C) thresholds.",
+          "B": "37.6 C does not reach the fever threshold of over 38 C.",
+          "C": "44 breaths per minute is below the danger threshold of 60.",
+          "D": "52 breaths per minute is below the danger threshold of 60."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "danger signs",
+        "respiratory rate",
+        "parent education",
+        "core"
+      ],
+      "topicId": "postnatal-care-part-2-of-2",
+      "topicName": "Postnatal Care: Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp56-012",
+      "stem": "A 24-year-old woman brings her 4-week-old daughter to a postnatal visit. For a week she has had burning nipple pain during and after feeds, and the skin of her nipples is dry and cracked. The infant fusses and pulls off the breast. The inside of the infant's cheeks and tongue show white plaques that remain after being wiped with gauze. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nystatin cream for the nipples only, observing the infant"
+        },
+        {
+          "label": "B",
+          "text": "Nystatin drops for the infant and cream for the nipples"
+        },
+        {
+          "label": "C",
+          "text": "Nystatin drops for the infant only until plaques clear"
+        },
+        {
+          "label": "D",
+          "text": "Reassurance that the plaques are milk residue"
+        },
+        {
+          "label": "E",
+          "text": "Stopping breastfeeding until the nipples have healed"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oral thrush (Candida albicans) in the infant with painful cracked nipples in the parent is treated in both: nystatin drops for the infant and nystatin cream on the nipples.",
+        "whyCorrect": "Adherent white plaques on the lips, cheeks, and tongue indicate candidal thrush rather than breast milk, and the parent's burning nipple pain is likely a candidal skin infection. The infant receives nystatin drops applied with a swab four times a day until at least 48 hours after lesions resolve, and nystatin cream is applied to the nipples after each feed until the infant has cleared the thrush.",
+        "whyWrongByChoice": {
+          "A": "The infant has oral thrush that itself needs nystatin drops; treating only the nipples allows reinfection.",
+          "C": "Treating only the infant leaves the parent's nipple infection, and drops should continue at least 48 hours after lesions resolve.",
+          "D": "Plaques that stay adherent when wiped are thrush, not milk residue.",
+          "E": "Thrush is treated with nystatin while breastfeeding continues; stopping is not the recommended management."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "thrush",
+        "Candida",
+        "breastfeeding problems",
+        "core"
+      ],
+      "topicId": "postnatal-care-part-2-of-2",
+      "topicName": "Postnatal Care: Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "rp57-001",
+      "stem": "A newborn girl is evaluated at 5 minutes of life. Her heart rate is 90/min. She has slow, irregular breathing. When the soles of her feet are flicked, she grimaces but does not cry. Her arms and legs are flexed with minimal movement. Her face and trunk are pink, but her hands and feet are blue. What is her 5-minute Apgar score?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "7"
+        },
+        {
+          "label": "E",
+          "text": "8"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Each Apgar parameter scores 0-2; this infant scores 1 in all five parameters.",
+        "whyCorrect": "Heart rate below 100/min scores 1, slow irregular breathing scores 1, a grimace to stimulation scores 1, flexed limbs with minimal movement score 1, and a centrally pink infant with blue extremities scores 1, for a total of 5. A score below 7 signals a need for further intervention or supportive resuscitation.",
+        "whyWrongByChoice": {
+          "A": "A score of 4 would require one parameter to score 0, such as absent pulse, apnea, no response, limp tone, or generalized pallor/cyanosis.",
+          "C": "A score of 6 would require one parameter to score 2, such as a heart rate above 100/min or a strong cry.",
+          "D": "A score of 7 would require two parameters scoring 2; none of her findings reaches the 2-point level.",
+          "E": "A score of 8 would require three parameters scoring 2, such as active movement, a strong cry and a heart rate above 100/min."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Apgar score",
+        "neonatal assessment"
+      ],
+      "topicId": "neonatal-assessment-and-pediatric-milestones",
+      "topicName": "Neonatal Assessment and Pediatric Milestones",
+      "tier": "core"
+    },
+    {
+      "id": "rp57-002",
+      "stem": "A term newborn is delivered limp, with no respiratory effort and no detectable heart rate. The delivery nurse starts a timer so the 1-minute Apgar score can be recorded. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assign the 1-minute Apgar score before intervening"
+        },
+        {
+          "label": "B",
+          "text": "Begin resuscitation immediately without waiting"
+        },
+        {
+          "label": "C",
+          "text": "Flick the soles and record the grimace response first"
+        },
+        {
+          "label": "D",
+          "text": "Obtain an echocardiogram to look for heart disease"
+        },
+        {
+          "label": "E",
+          "text": "Place the infant skin-to-skin and reassess at 5 minutes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An apneic newborn or one without a heart rate needs resuscitation immediately; do not wait for the 1-minute Apgar score.",
+        "whyCorrect": "The Apgar score assesses clinical status and the response to resuscitation, but if the newborn has no heart rate or is apneic immediately after birth, resuscitation begins at once rather than after the 1-minute score is assigned.",
+        "whyWrongByChoice": {
+          "A": "Waiting to assign the 1-minute score delays resuscitation in an infant with no heart rate and no breathing.",
+          "C": "Testing reflex irritability is part of scoring, which should not delay resuscitation.",
+          "D": "Imaging does not take priority over immediate resuscitation of an infant with no heart rate.",
+          "E": "Routine skin-to-skin care with reassessment at 5 minutes is inappropriate for an apneic infant without a pulse."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Apgar score",
+        "neonatal resuscitation"
+      ],
+      "topicId": "neonatal-assessment-and-pediatric-milestones",
+      "topicName": "Neonatal Assessment and Pediatric Milestones",
+      "tier": "core"
+    },
+    {
+      "id": "rp57-003",
+      "stem": "A term boy is examined at 10 minutes of life. His heart rate is 145/min, he has a strong cry, moves all extremities actively, and coughs when the nares are suctioned. His face, lips and trunk are pink, but his hands and feet are bluish. His mother is worried about the color of his hands. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Begin resuscitation because his Apgar score is below 7"
+        },
+        {
+          "label": "B",
+          "text": "Obtain an echocardiogram to rule out cyanotic heart disease"
+        },
+        {
+          "label": "C",
+          "text": "Reassure her that this finding is normal and resolves on its own"
+        },
+        {
+          "label": "D",
+          "text": "Start supplemental oxygen and transfer to higher-level care"
+        },
+        {
+          "label": "E",
+          "text": "Suction the airway again and repeat the Apgar score hourly"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acrocyanosis (blue hands and feet with a centrally pink infant) is common in newborns and resolves on its own.",
+        "whyCorrect": "Acrocyanosis results from sluggish blood flow due to limited development of the capillary circulation of the hands and feet. In an otherwise vigorous newborn it is expected and does not warrant an echocardiogram unless accompanied by other signs of congenital heart disease.",
+        "whyWrongByChoice": {
+          "A": "His Apgar score is 9 (1 point lost for color), which is reassuring, not below 7.",
+          "B": "An echocardiogram is not indicated for isolated acrocyanosis without other signs of congenital heart disease.",
+          "D": "Supplemental oxygen and higher-level care are for newborns with low Apgar scores, not a vigorous infant with acrocyanosis.",
+          "E": "This infant needs no further airway support; his respiratory effort and reflexes are normal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acrocyanosis",
+        "Apgar score",
+        "neonatal assessment"
+      ],
+      "topicId": "neonatal-assessment-and-pediatric-milestones",
+      "topicName": "Neonatal Assessment and Pediatric Milestones",
+      "tier": "core"
+    },
+    {
+      "id": "rp57-004",
+      "stem": "A boy had Apgar scores of 4 at 1 minute and 9 at 5 minutes after airway suctioning and supplemental oxygen. At discharge, his parents ask whether the low first score means he will have long-term neurological problems. Which of the following statements is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 1-minute score below 7 predicts later neurological disability"
+        },
+        {
+          "label": "B",
+          "text": "A low 1-minute score indicates brain injury occurred before delivery"
+        },
+        {
+          "label": "C",
+          "text": "His 5-minute score accurately predicts his developmental outcome"
+        },
+        {
+          "label": "D",
+          "text": "The change between his two scores predicts his long-term outcome"
+        },
+        {
+          "label": "E",
+          "text": "The score reflects adaptation at birth, not long-term neurological outcome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The Apgar score measures the immediate response to delivery and extrauterine adaptation; it does not predict long-term neurological outcomes.",
+        "whyCorrect": "The Apgar score assesses the newborn's clinical status and response to resuscitation at 1 and 5 minutes. It measures the immediate physiological response to the stress of delivery and adjustment to extrauterine life, but it does not predict long-term adverse neurological outcomes.",
+        "whyWrongByChoice": {
+          "A": "A score below 7 signals a need for intervention at that moment, not a predicted neurological disability.",
+          "B": "The score reflects immediate adaptation after delivery and does not diagnose prenatal brain injury.",
+          "C": "Neither the 1-minute nor the 5-minute score predicts long-term neurological outcome.",
+          "D": "The improvement shows a response to resuscitation, but the trajectory is not a predictor of long-term neurological outcome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Apgar score",
+        "prognosis"
+      ],
+      "topicId": "neonatal-assessment-and-pediatric-milestones",
+      "topicName": "Neonatal Assessment and Pediatric Milestones",
+      "tier": "core"
+    },
+    {
+      "id": "rp57-005",
+      "stem": "An 8-month-old girl is brought for a well-child visit. When the examiner places a finger in her palm, her fingers automatically flex tightly around it. Stroking her cheek causes her to turn her head toward the side stroked and open her mouth. The rest of the examination is normal. Which of the following best describes these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abnormal persistence indicating failure of CNS maturation"
+        },
+        {
+          "label": "B",
+          "text": "Advanced cortical integration of higher brain centers for age"
+        },
+        {
+          "label": "C",
+          "text": "Expected findings that become abnormal only after 2 years of age"
+        },
+        {
+          "label": "D",
+          "text": "Expected findings that normally persist until 12 months of age"
+        },
+        {
+          "label": "E",
+          "text": "Normal findings showing intact lower brain stem function at this age"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Palmar grasp and rooting reflexes should disappear by 4-6 months; persistence beyond that window indicates failure of CNS maturation.",
+        "whyCorrect": "The Moro, rooting and palmar grasp reflexes are expected to disappear by 4 to 6 months of age. Their timely suppression reflects cortical maturation and integration of higher brain centers; abnormal persistence indicates a failure of CNS maturation and can disrupt motor development.",
+        "whyWrongByChoice": {
+          "B": "Cortical maturation suppresses primitive reflexes; their persistence signals the opposite.",
+          "C": "These reflexes are expected to be gone by 4-6 months, not 2 years.",
+          "D": "Persistence until 12 months is the window for the Babinski reflex, not the palmar grasp or rooting reflexes.",
+          "E": "These reflexes confirm brain stem function in early infancy, but at 8 months they should already have disappeared."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primitive reflexes",
+        "CNS maturation"
+      ],
+      "topicId": "neonatal-assessment-and-pediatric-milestones",
+      "topicName": "Neonatal Assessment and Pediatric Milestones",
+      "tier": "core"
+    },
+    {
+      "id": "rp57-006",
+      "stem": "A 6-month-old boy has a normal examination at a well-child visit. Firm stroking along the plantar surface of his foot causes dorsiflexion of the great toe and fanning of the other toes. His parents ask when this response should go away. By what age is it expected to have disappeared completely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 months"
+        },
+        {
+          "label": "B",
+          "text": "4 months"
+        },
+        {
+          "label": "C",
+          "text": "6 months"
+        },
+        {
+          "label": "D",
+          "text": "12 months"
+        },
+        {
+          "label": "E",
+          "text": "24 months"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Babinski reflex is expected to fade completely by 12 months of age.",
+        "whyCorrect": "The Babinski reflex (great toe dorsiflexion with fanning of the other toes after firm plantar stimulation) is a primitive reflex that is expected to fade completely by 12 months. Its presence in a 6-month-old is normal.",
+        "whyWrongByChoice": {
+          "A": "The Babinski reflex is normally still present well beyond 2 months.",
+          "B": "Four to 6 months is the window for the Moro, rooting and palmar grasp reflexes, not the Babinski reflex.",
+          "C": "Four to 6 months is the window for the Moro, rooting and palmar grasp reflexes; the Babinski reflex lasts longer.",
+          "E": "Persistence beyond 12 months would be abnormal; it should not last until 24 months."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "primitive reflexes",
+        "Babinski reflex"
+      ],
+      "topicId": "neonatal-assessment-and-pediatric-milestones",
+      "topicName": "Neonatal Assessment and Pediatric Milestones",
+      "tier": "core"
+    },
+    {
+      "id": "rp57-007",
+      "stem": "A girl is brought for a well-child visit. She becomes clingy and cries when the physician approaches and cries when her mother steps out of the room. She babbles \"bababa,\" looks over the edge of her high chair for a spoon she dropped, sits without support, crawls, and picks up a block using her thumb and fingers. She does not yet pull to stand. Which of the following is the most likely age of this child?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "6 months"
+        },
+        {
+          "label": "B",
+          "text": "9 months"
+        },
+        {
+          "label": "C",
+          "text": "12 months"
+        },
+        {
+          "label": "D",
+          "text": "15 months"
+        },
+        {
+          "label": "E",
+          "text": "18 months"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Stranger and separation anxiety, babbling, object permanence, independent sitting, crawling and a radial-digital grasp are 9-month milestones.",
+        "whyCorrect": "At 9 months, children show stranger anxiety and separation anxiety, babble consonant-vowel combinations, look for objects dropped out of sight (object permanence), sit without support, crawl, and grasp with the thumb and fingers (radial-digital grasp). Pulling to stand and a pincer grasp come at 12 months.",
+        "whyWrongByChoice": {
+          "A": "At 6 months, infants roll and sit propped on their hands with a raking grasp; independent sitting, crawling and stranger anxiety come later.",
+          "C": "A 12-month-old would be expected to pull to stand and cruise furniture, which this child cannot yet do.",
+          "D": "A 15-month-old would be expected to take independent steps and say 1-2 words besides mama or dada.",
+          "E": "An 18-month-old would be expected to walk well and scribble."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "developmental milestones",
+        "9 months"
+      ],
+      "topicId": "neonatal-assessment-and-pediatric-milestones",
+      "topicName": "Neonatal Assessment and Pediatric Milestones",
+      "tier": "core"
+    },
+    {
+      "id": "rp57-008",
+      "stem": "A boy is brought for a well-child visit. He kicks a ball, runs, walks upstairs with help, and uses a spoon. He says \"more milk,\" points to his nose and belly when asked, and looks sad when his sister cries. He does not yet jump off the ground with both feet or follow 2-step instructions. Which of the following is the most likely age of this child?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "12 months"
+        },
+        {
+          "label": "B",
+          "text": "15 months"
+        },
+        {
+          "label": "C",
+          "text": "18 months"
+        },
+        {
+          "label": "D",
+          "text": "24 months"
+        },
+        {
+          "label": "E",
+          "text": "30 months"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Kicking a ball, running, 2-word phrases and pointing to 2 body parts are 24-month milestones.",
+        "whyCorrect": "At 24 months, children kick a ball, run, walk upstairs with help, use a spoon, say at least 2 words together, point to at least 2 body parts, and notice when others are hurt or upset. Jumping with both feet and 2-step instructions are 30-month milestones.",
+        "whyWrongByChoice": {
+          "A": "A 12-month-old pulls to stand and cruises; running, kicking a ball and 2-word phrases are not yet expected.",
+          "B": "A 15-month-old takes a few independent steps and says 1-2 words; running and 2-word phrases come later.",
+          "C": "An 18-month-old walks well and tries to say 3 or more words; kicking a ball and 2-word phrases are 24-month milestones.",
+          "E": "A 30-month-old would be expected to jump with both feet and follow 2-step instructions, which he cannot yet do."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "developmental milestones",
+        "24 months"
+      ],
+      "topicId": "neonatal-assessment-and-pediatric-milestones",
+      "topicName": "Neonatal Assessment and Pediatric Milestones",
+      "tier": "core"
+    },
+    {
+      "id": "rp57-009",
+      "stem": "A 3-year-old boy is brought for a well-child visit. He joins other children in cooperative play and calms down within a few minutes after drop-off at child care. He draws a circle when shown how, avoids the stove when warned, strings large beads, uses a fork, and puts on a loose jacket by himself. His parents report that people outside the family rarely understand him, he does not ask who, what or where questions, and he cannot say his first name when asked. A deficit in which of the following domains is most evident?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cognitive/problem-solving"
+        },
+        {
+          "label": "B",
+          "text": "Fine motor/physical"
+        },
+        {
+          "label": "C",
+          "text": "Gross motor/physical"
+        },
+        {
+          "label": "D",
+          "text": "Language/communication"
+        },
+        {
+          "label": "E",
+          "text": "Social/emotional"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Milestone deficits can be isolated to one domain; this child's isolated deficit is in language/communication.",
+        "whyCorrect": "Expected 3-year language milestones include conversation with back-and-forth exchanges, asking who/what/where/why questions, saying his first name, and speech that others understand most of the time. His social/emotional (cooperative play, calming after separation), cognitive (drawing a circle, heeding warnings) and motor (stringing beads, using a fork, dressing) milestones are on track. The domain of the deficit determines the next intervention.",
+        "whyWrongByChoice": {
+          "A": "Drawing a circle when shown and avoiding hot objects when warned are 3-year cognitive milestones he has met.",
+          "B": "Stringing beads, using a fork and putting on a jacket are 3-year fine motor/physical milestones he has met.",
+          "C": "No gross motor deficit is described; his concerns are limited to speech and verbal expression.",
+          "E": "He plays cooperatively and calms after separation, meeting 3-year social/emotional milestones."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "developmental milestones",
+        "developmental domains",
+        "3 years"
+      ],
+      "topicId": "neonatal-assessment-and-pediatric-milestones",
+      "topicName": "Neonatal Assessment and Pediatric Milestones",
+      "tier": "core"
+    },
+    {
+      "id": "rp57-010",
+      "stem": "The parents of a healthy, term 6-month-old girl ask when the pediatrician will have them complete a standardized, validated questionnaire about her development, as is recommended for all children. At which well-child visits does the AAP universally recommend this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "12, 24 and 36 months"
+        },
+        {
+          "label": "B",
+          "text": "18 and 24 months only"
+        },
+        {
+          "label": "C",
+          "text": "6, 12 and 24 months"
+        },
+        {
+          "label": "D",
+          "text": "9, 18 and 30 months"
+        },
+        {
+          "label": "E",
+          "text": "Every visit from 2 months to 5 years"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Formal developmental screening with a standardized, validated, parent-reported instrument is universally recommended at 9, 18 and 30 months.",
+        "whyCorrect": "Developmental surveillance is continuous and occurs at most well-child visits, whereas formal developmental screening using validated parent-reported instruments (such as the ASQ-3 or PEDS) is universally recommended at the 9-, 18- and 30-month visits.",
+        "whyWrongByChoice": {
+          "A": "Standardized screening is recommended at 9, 18 and 30 months, not 12, 24 and 36 months.",
+          "B": "The 18- and 24-month visits are the schedule for autism-specific screening with the M-CHAT-R/F.",
+          "C": "These are not the universal screening intervals; 6, 12 and 24 months are surveillance visits.",
+          "E": "Ongoing assessment at nearly every visit describes developmental surveillance, not standardized screening."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "developmental screening",
+        "screening schedule"
+      ],
+      "topicId": "neonatal-assessment-and-pediatric-milestones",
+      "topicName": "Neonatal Assessment and Pediatric Milestones",
+      "tier": "core"
+    },
+    {
+      "id": "rp57-011",
+      "stem": "The mother of a healthy 12-month-old boy has read about autism spectrum disorder and asks when her son will be screened for it. At which visits is autism-specific screening recommended for all children?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "9 and 18 months"
+        },
+        {
+          "label": "B",
+          "text": "12 and 18 months"
+        },
+        {
+          "label": "C",
+          "text": "18 and 24 months"
+        },
+        {
+          "label": "D",
+          "text": "24 and 30 months"
+        },
+        {
+          "label": "E",
+          "text": "30 months and 3 years"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "All children receive targeted ASD screening with the M-CHAT-R/F at the 18- and 24-month visits.",
+        "whyCorrect": "Targeted screening for autism spectrum disorder is required for all pediatric patients at both the 18- and 24-month visits, using the Modified Checklist for Autism in Toddlers, Revised, with Follow-up (M-CHAT-R/F).",
+        "whyWrongByChoice": {
+          "A": "The 9-month visit includes general developmental screening, not autism-specific screening.",
+          "B": "Autism screening is not routinely recommended at the 12-month visit.",
+          "D": "The 30-month visit includes general developmental screening; autism screening is at 18 and 24 months.",
+          "E": "Autism screening for all children is done at 18 and 24 months, not at 30 months and 3 years."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "autism screening",
+        "M-CHAT-R/F"
+      ],
+      "topicId": "neonatal-assessment-and-pediatric-milestones",
+      "topicName": "Neonatal Assessment and Pediatric Milestones",
+      "tier": "core"
+    },
+    {
+      "id": "rp57-012",
+      "stem": "A 6-month-old girl born at 28 weeks' gestation after a complicated neonatal intensive care course is brought for a well-child visit. She has met her expected milestones so far, and her parents have no concerns about her development. Which of the following is the most appropriate approach to developmental screening at this visit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer a standardized screening instrument at this visit"
+        },
+        {
+          "label": "B",
+          "text": "Administer the M-CHAT-R/F autism checklist at this visit"
+        },
+        {
+          "label": "C",
+          "text": "Defer standardized screening until the routine 9-month visit"
+        },
+        {
+          "label": "D",
+          "text": "Omit screening because her current milestones are on track"
+        },
+        {
+          "label": "E",
+          "text": "Rely on developmental surveillance alone until 18 months"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Biological risk factors such as preterm birth or perinatal complications should trigger standardized screening outside the routine intervals.",
+        "whyCorrect": "Although universal standardized screening occurs at 9, 18 and 30 months, screening should be triggered outside these intervals when a child has biological risk factors for delay, including preterm birth, perinatal complications or chronic medical conditions.",
+        "whyWrongByChoice": {
+          "B": "The M-CHAT-R/F is an autism-specific tool used at 18 and 24 months, not general developmental screening at 6 months.",
+          "C": "Waiting for the routine 9-month interval ignores her biological risk factors, which justify screening now.",
+          "D": "Meeting milestones so far does not remove the indication for screening created by her risk factors.",
+          "E": "Surveillance alone is insufficient for a child with preterm birth and perinatal complications."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "developmental screening",
+        "risk factors",
+        "preterm birth"
+      ],
+      "topicId": "neonatal-assessment-and-pediatric-milestones",
+      "topicName": "Neonatal Assessment and Pediatric Milestones",
+      "tier": "core"
+    }
+  ]
+}

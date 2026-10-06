@@ -1,0 +1,1696 @@
+{
+  "categoryId": "w5s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "rp50-001",
+      "stem": "A 29-year-old primigravida at 39 weeks' gestation is in the active phase of labor. Electronic fetal monitoring shows repeated decreases in fetal heart rate that begin at the peak of each contraction and return to baseline only after the contraction has ended. Which of the following is the most likely underlying cause of this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compression of the fetal head during descent"
+        },
+        {
+          "label": "B",
+          "text": "Compression of the umbilical vein"
+        },
+        {
+          "label": "C",
+          "text": "Fetal anemia from red cell destruction"
+        },
+        {
+          "label": "D",
+          "text": "Normal fetal oxygenation with intact reserve"
+        },
+        {
+          "label": "E",
+          "text": "Uteroplacental insufficiency"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Late decelerations reflect uteroplacental insufficiency and are the most ominous deceleration pattern.",
+        "whyCorrect": "Late decelerations begin at the peak of a contraction and recover after it ends. They are caused by uteroplacental insufficiency: the placenta cannot supply enough oxygen and nutrients, risking fetal hypoxemia. In VEAL CHOP, Late = Placental insufficiency.",
+        "whyWrongByChoice": {
+          "A": "Head compression produces early decelerations, which begin and end with the contraction and mirror it.",
+          "B": "Umbilical cord (vein) compression produces variable decelerations that occur at any time, unrelated to contractions.",
+          "C": "Fetal anemia is associated with a sinusoidal-type tracing, not decelerations timed to contractions.",
+          "D": "Late decelerations are the most ominous pattern; reassurance is signaled by accelerations, not late decelerations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fetal heart rate",
+        "late decelerations",
+        "VEAL CHOP"
+      ],
+      "topicId": "uncomplicated-labor-delivery-and-postpartum-care",
+      "topicName": "Uncomplicated Labor, Delivery, and Postpartum Care",
+      "tier": "core"
+    },
+    {
+      "id": "rp50-002",
+      "stem": "A 24-year-old woman at 40 weeks' gestation is in labor; her membranes ruptured 3 hours ago. The fetal heart rate tracing shows abrupt drops of varying shape that occur at random times, several of them between contractions, with no consistent relationship to contraction timing. Which of the following is the most likely mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compression of the umbilical cord"
+        },
+        {
+          "label": "B",
+          "text": "Fetal anemia after bleeding from fetal vessels"
+        },
+        {
+          "label": "C",
+          "text": "Head compression raising fetal intracranial pressure"
+        },
+        {
+          "label": "D",
+          "text": "Maternal fever from intra-amniotic infection"
+        },
+        {
+          "label": "E",
+          "text": "Reduced oxygen delivery across the placenta"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Variable decelerations occur unrelated to contractions and are caused by umbilical cord compression.",
+        "whyCorrect": "Variable decelerations are decreases in fetal heart rate at any time, unrelated to contractions. They are caused by cord compression (compression of the umbilical vein), which raises fetal arterial pressure and triggers a baroreceptor-mediated vagal reflex. In VEAL CHOP, Variable = Cord compression.",
+        "whyWrongByChoice": {
+          "B": "Fetal anemia from fetal vessel bleeding is associated with a sinusoidal-type tracing.",
+          "C": "Head compression causes early decelerations that begin and end with each contraction.",
+          "D": "Chorioamnionitis causes maternal and fetal tachycardia; it is not the cause of decelerations unrelated to contractions.",
+          "E": "Reduced placental oxygen delivery (uteroplacental insufficiency) causes late decelerations tied to the contraction peak."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fetal heart rate",
+        "variable decelerations",
+        "VEAL CHOP"
+      ],
+      "topicId": "uncomplicated-labor-delivery-and-postpartum-care",
+      "topicName": "Uncomplicated Labor, Delivery, and Postpartum Care",
+      "tier": "core"
+    },
+    {
+      "id": "rp50-003",
+      "stem": "A 31-year-old multigravida is in labor with her cervix dilated to 8 cm. The fetal heart rate tracing shows decelerations that start as each contraction begins, reach their lowest point at the contraction peak, and recover as the contraction ends, mirroring the contraction curve. Which of the following is the best interpretation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Baroreceptor response to umbilical cord compression"
+        },
+        {
+          "label": "B",
+          "text": "Chemoreceptor response to uteroplacental insufficiency"
+        },
+        {
+          "label": "C",
+          "text": "Fetal anemia from Rh isoimmunization"
+        },
+        {
+          "label": "D",
+          "text": "Fetal hypoxemia requiring immediate delivery"
+        },
+        {
+          "label": "E",
+          "text": "Physiologic vagal response to fetal head compression"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Early decelerations mirror contractions and reflect benign fetal head compression.",
+        "whyCorrect": "Early decelerations begin and end with contractions. Contractions compress the fetal head, raising intracranial pressure and triggering a baroreceptor-mediated vagal response that transiently slows the heart rate. This is a normal physiologic sign of head engagement in labor (VEAL CHOP: Early = Head compression).",
+        "whyWrongByChoice": {
+          "A": "Cord compression produces variable decelerations unrelated to contraction timing.",
+          "B": "Uteroplacental insufficiency produces late decelerations that start at the contraction peak and recover after it ends.",
+          "C": "Fetal anemia from Rh isoimmunization is associated with a sinusoidal-type tracing.",
+          "D": "Early decelerations are a normal physiologic finding, not a sign of fetal hypoxemia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fetal heart rate",
+        "early decelerations",
+        "VEAL CHOP"
+      ],
+      "topicId": "uncomplicated-labor-delivery-and-postpartum-care",
+      "topicName": "Uncomplicated Labor, Delivery, and Postpartum Care",
+      "tier": "core"
+    },
+    {
+      "id": "rp50-004",
+      "stem": "Near the due date, one maternal hormone reaches its highest blood levels of the pregnancy. It promotes synthesis of oxytocin receptors on myometrial cells, induces gap junctions between uterine smooth muscle cells, opposes progesterone's quieting effect on the uterus, and thins the cervical mucous plug. Which hormone is described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estrogen"
+        },
+        {
+          "label": "B",
+          "text": "Oxytocin"
+        },
+        {
+          "label": "C",
+          "text": "Progesterone"
+        },
+        {
+          "label": "D",
+          "text": "Prolactin"
+        },
+        {
+          "label": "E",
+          "text": "Relaxin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Rising estrogen near term increases oxytocin receptors and gap junctions and antagonizes progesterone, raising uterine contractility.",
+        "whyCorrect": "Closer to delivery, estrogens peak in maternal blood. Their effects include synthesis of abundant oxytocin receptors on myometrial cells, formation of gap junctions between uterine smooth muscle cells, and antagonism of progesterone's effect, which increases uterine contractility. Estrogen also thins the mucous plug shortly before birth.",
+        "whyWrongByChoice": {
+          "B": "Oxytocin acts on the receptors whose synthesis this hormone promotes; it does not induce its own receptors.",
+          "C": "Progesterone prevents myometrial contraction early in pregnancy and keeps cervical mucus thick; its effects are antagonized near term.",
+          "D": "Prolactin is not described as driving oxytocin receptor or gap junction formation in the myometrium.",
+          "E": "Relaxin, from the placenta, softens and lengthens the cervix and pubic symphysis; early in pregnancy it helps keep the myometrium from contracting."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "parturition",
+        "estrogen",
+        "myometrium"
+      ],
+      "topicId": "uncomplicated-labor-delivery-and-postpartum-care",
+      "topicName": "Uncomplicated Labor, Delivery, and Postpartum Care",
+      "tier": "core"
+    },
+    {
+      "id": "rp50-005",
+      "stem": "A 28-year-old woman at 33 weeks' gestation reports two days of intermittent abdominal tightening. The episodes come at irregular intervals, are mild, do not increase in strength or frequency, and ease when she rests and drinks water. Pelvic examination shows a closed, uneffaced cervix that is unchanged on repeat examination 2 hours later. Which of the following is the most likely explanation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active phase of first-stage labor"
+        },
+        {
+          "label": "B",
+          "text": "Braxton Hicks contractions"
+        },
+        {
+          "label": "C",
+          "text": "Chorioamnionitis"
+        },
+        {
+          "label": "D",
+          "text": "Latent phase of first-stage labor"
+        },
+        {
+          "label": "E",
+          "text": "Threatened preterm labor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Braxton Hicks contractions are irregular, do not intensify, improve with rest or hydration, and do not change the cervix.",
+        "whyCorrect": "Braxton Hicks (false or practice) contractions are irregular, usually mild, do not increase in intensity or frequency, and do not cause cervical dilation. They often improve with rest, hydration, or position change and are most common in the third trimester.",
+        "whyWrongByChoice": {
+          "A": "The active phase is marked by rapid cervical change starting at 6 cm; this cervix is closed.",
+          "C": "Chorioamnionitis presents with fever, pain, foul-smelling discharge or fluid, and maternal or fetal tachycardia.",
+          "D": "Labor, including the latent phase, requires regular contractions accompanied by cervical change.",
+          "E": "Threatened preterm labor involves regular contractions before 37 weeks that may become more frequent or painful, particularly with cervical dilation or effacement."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Braxton Hicks",
+        "false labor",
+        "parturition"
+      ],
+      "topicId": "uncomplicated-labor-delivery-and-postpartum-care",
+      "topicName": "Uncomplicated Labor, Delivery, and Postpartum Care",
+      "tier": "core"
+    },
+    {
+      "id": "rp50-006",
+      "stem": "A 25-year-old primigravida has been in labor for several hours with regular, strong contractions every 3-4 minutes. Her cervix is now 7 cm dilated and 100% effaced, and fetal membranes are intact. Which of the following best describes her labor at this point?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active phase, with dilation of about 1-3 cm per hour expected"
+        },
+        {
+          "label": "B",
+          "text": "Latent phase, with dilation stalled until membranes rupture"
+        },
+        {
+          "label": "C",
+          "text": "Latent phase, with gradual change expected through 5 cm"
+        },
+        {
+          "label": "D",
+          "text": "Second stage, with an urge to push as the head descends"
+        },
+        {
+          "label": "E",
+          "text": "Third stage, with placental separation from the uterine wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The active phase of stage 1 begins at 6 cm, after which dilation usually progresses 1-3 cm per hour to 10 cm.",
+        "whyCorrect": "Stage 1 has a latent phase of gradual cervical change from 0 to 5 cm and an active phase of rapid change starting at 6 cm. From that point dilation usually progresses 1-3 cm per hour until complete dilation at 10 cm. At 7 cm she is in the active phase of the first stage.",
+        "whyWrongByChoice": {
+          "B": "At 7 cm she is past the latent phase, and the lecture does not make dilation dependent on membrane rupture.",
+          "C": "The latent phase covers gradual change from 0 to 5 cm; she is already past 6 cm.",
+          "D": "The second stage begins only at full dilation (10 cm) and effacement.",
+          "E": "The third stage begins after the infant is delivered."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "stages of labor",
+        "active phase",
+        "cervical dilation"
+      ],
+      "topicId": "uncomplicated-labor-delivery-and-postpartum-care",
+      "topicName": "Uncomplicated Labor, Delivery, and Postpartum Care",
+      "tier": "core"
+    },
+    {
+      "id": "rp50-007",
+      "stem": "A 30-year-old woman has just delivered a healthy infant vaginally. Ten minutes later the placenta has not yet been expelled. While gentle tension is held on the umbilical cord, which of the following findings best indicates that the placenta has detached from the uterine wall?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete cessation of vaginal bleeding"
+        },
+        {
+          "label": "B",
+          "text": "Lengthening of the umbilical cord"
+        },
+        {
+          "label": "C",
+          "text": "Onset of the maternal let-down reflex"
+        },
+        {
+          "label": "D",
+          "text": "Retraction of the umbilical cord into the vagina"
+        },
+        {
+          "label": "E",
+          "text": "Softening and descent of the uterine fundus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Placental detachment is signaled by a gush of blood, cord lengthening under tension, and a rising, firming fundus.",
+        "whyCorrect": "Stage 3 runs from delivery of the infant to expulsion of the placenta and membranes and takes 5-30 minutes. Detachment of the placenta is marked by the presence of blood, lengthening of the umbilical cord under tension, and rise and firming of the uterine fundus. Strong contractions detach the placenta and compress vessels, limiting bleeding.",
+        "whyWrongByChoice": {
+          "A": "Separation is marked by the presence of blood, not the cessation of bleeding.",
+          "C": "The let-down reflex is triggered by infant suckling and is not a sign of placental separation.",
+          "D": "The cord lengthens, not retracts, when the placenta separates.",
+          "E": "The fundus rises and firms with placental separation; it does not soften and descend."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "stages of labor",
+        "third stage",
+        "placenta"
+      ],
+      "topicId": "uncomplicated-labor-delivery-and-postpartum-care",
+      "topicName": "Uncomplicated Labor, Delivery, and Postpartum Care",
+      "tier": "core"
+    },
+    {
+      "id": "rp50-008",
+      "stem": "A 27-year-old woman at 39 weeks' gestation reports a sudden gush of clear fluid from the vagina an hour ago. Speculum examination shows a pool of fluid in the posterior vaginal vault. A sample is collected for bedside testing. Which of the following results most strongly confirms that this fluid is amniotic fluid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acidic pH with no change in litmus color"
+        },
+        {
+          "label": "B",
+          "text": "Clue cells seen on saline microscopy"
+        },
+        {
+          "label": "C",
+          "text": "Fern pattern when a sample dries on a microscope slide"
+        },
+        {
+          "label": "D",
+          "text": "Litmus paper turning red on contact"
+        },
+        {
+          "label": "E",
+          "text": "Thick, blood-tinged mucus on the swab"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ferning of dried fluid on a slide confirms amniotic fluid; amniotic fluid is alkaline and turns litmus blue.",
+        "whyCorrect": "Membrane rupture is first assessed visually by pooling of fluid, then supported with litmus paper and microscopy. Amniotic fluid is alkaline and turns litmus paper blue, whereas vaginal secretions are acidic. A ferning pattern in dried fluid on a microscope slide is distinctive of amniotic fluid and confirms the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "An acidic pH with no color change is typical of vaginal secretions, not amniotic fluid.",
+          "B": "Clue cells are not part of the assessment for amniotic fluid described in labor evaluation.",
+          "D": "Alkaline amniotic fluid turns litmus paper blue, not red.",
+          "E": "Blood-tinged mucus is a sign of impending labor, not evidence of membrane rupture."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "membrane rupture",
+        "ferning",
+        "vaginal exam"
+      ],
+      "topicId": "uncomplicated-labor-delivery-and-postpartum-care",
+      "topicName": "Uncomplicated Labor, Delivery, and Postpartum Care",
+      "tier": "core"
+    },
+    {
+      "id": "rp50-009",
+      "stem": "During the second stage of labor, the fetal head has descended with the neck flexed and has just completed internal rotation at the level of the ischial spines, bringing the occiput beneath the maternal pubic bone. Which cardinal movement must occur next for the head to pass through the vaginal opening?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Engagement of the head"
+        },
+        {
+          "label": "B",
+          "text": "Expulsion of the anterior shoulder"
+        },
+        {
+          "label": "C",
+          "text": "Extension of the neck"
+        },
+        {
+          "label": "D",
+          "text": "External rotation (restitution)"
+        },
+        {
+          "label": "E",
+          "text": "Flexion of the neck"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "After internal rotation, extension of the neck allows the head to pass through the vaginal opening.",
+        "whyCorrect": "The seven cardinal movements are engagement, descent, flexion, internal rotation, extension, external rotation (restitution), and expulsion. Internal rotation moves the head under the pubic symphysis; extension of the neck then allows passage of the head through the vaginal opening, the point at which crowning is seen.",
+        "whyWrongByChoice": {
+          "A": "Engagement is the first movement, when the widest part of the head reaches the ischial spines.",
+          "B": "Expulsion of the shoulders is the final movement, after extension and external rotation.",
+          "D": "External rotation follows delivery of the head and moves the anterior shoulder under the pubic symphysis.",
+          "E": "Flexion precedes internal rotation and has already occurred."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardinal movements",
+        "extension",
+        "second stage"
+      ],
+      "topicId": "uncomplicated-labor-delivery-and-postpartum-care",
+      "topicName": "Uncomplicated Labor, Delivery, and Postpartum Care",
+      "tier": "core"
+    },
+    {
+      "id": "rp50-010",
+      "stem": "A 35-year-old woman at 41 weeks' gestation undergoes induction of labor. After cervical ripening, a synthetic analog of a posterior pituitary hormone is infused and binds a G protein-coupled receptor on myometrial cells. Which intracellular sequence most directly produces the resulting uterine contractions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gs activation, rising cAMP, then protein kinase A activation"
+        },
+        {
+          "label": "B",
+          "text": "Guanylyl cyclase activation, rising cGMP, then myosin dephosphorylation"
+        },
+        {
+          "label": "C",
+          "text": "IP3 generation, sarcoplasmic reticulum calcium release, then MLCK activation"
+        },
+        {
+          "label": "D",
+          "text": "Nuclear receptor binding, then new contractile protein synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Receptor tyrosine kinase activation, then direct myosin phosphorylation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Oxytocin acts through G protein receptors to raise IP3, release intracellular calcium, and activate myosin light chain kinase.",
+        "whyCorrect": "Pitocin is an oxytocin analog used for induction after prostaglandin cervical ripening. Oxytocin acts on G protein oxytocin receptors, increasing IP3, which releases intracellular calcium; calcium then activates myosin light chain kinase, producing smooth muscle contraction.",
+        "whyWrongByChoice": {
+          "A": "The lecture describes oxytocin signaling through IP3 and calcium, not a cAMP-protein kinase A pathway.",
+          "B": "A cGMP pathway leading to myosin dephosphorylation would relax, not contract, smooth muscle.",
+          "D": "Oxytocin acts on a membrane G protein receptor, not a nuclear receptor driving protein synthesis.",
+          "E": "The oxytocin receptor is a G protein receptor, not a receptor tyrosine kinase."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "oxytocin",
+        "induction of labor",
+        "IP3"
+      ],
+      "topicId": "uncomplicated-labor-delivery-and-postpartum-care",
+      "topicName": "Uncomplicated Labor, Delivery, and Postpartum Care",
+      "tier": "core"
+    },
+    {
+      "id": "rp50-011",
+      "stem": "A 29-year-old woman comes for her postpartum visit 5 weeks after an uncomplicated vaginal delivery. She reports persistent low mood, frequent crying, and loss of interest in activities she used to enjoy, beyond the expected fatigue of caring for a newborn. Her Edinburgh Postnatal Depression Scale score is elevated. Hemoglobin is normal. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deferral of care until the 6-month infant visit"
+        },
+        {
+          "label": "B",
+          "text": "Estrogen and progesterone hormone replacement"
+        },
+        {
+          "label": "C",
+          "text": "Iron supplementation for presumed blood loss"
+        },
+        {
+          "label": "D",
+          "text": "Psychotherapy and antidepressant medication"
+        },
+        {
+          "label": "E",
+          "text": "Reassurance that mood will normalize without care"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Postpartum depression affects up to 15% of patients and is treated with psychotherapy and antidepressant medication.",
+        "whyCorrect": "Sleep deprivation and the dramatic postpartum drop in hormones can cause profound emotional distress. Postpartum depression affects up to 15% of patients who give birth and is screened for with validated tools such as the Edinburgh Postnatal Depression Scale before discharge and again at postpartum visits. It can be treated successfully with psychotherapy and antidepressant medication.",
+        "whyWrongByChoice": {
+          "A": "Screening is crucial precisely so that treatment is not delayed.",
+          "B": "Hormone replacement is not the treatment described for postpartum depression.",
+          "C": "Her hemoglobin is normal, so anemia does not explain her symptoms.",
+          "E": "Postpartum depression is a treatable condition; reassurance alone fails to treat it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "puerperium",
+        "postpartum depression",
+        "Edinburgh scale"
+      ],
+      "topicId": "uncomplicated-labor-delivery-and-postpartum-care",
+      "topicName": "Uncomplicated Labor, Delivery, and Postpartum Care",
+      "tier": "core"
+    },
+    {
+      "id": "rp50-012",
+      "stem": "A 26-year-old woman at 35 weeks' gestation comes to labor and delivery because of decreased fetal movement. Three weeks ago her 5-year-old son had a febrile illness with a bright red rash on both cheeks. The fetal heart rate tracing shows a smooth, regular wave-like oscillation of the baseline. Which of the following fetal conditions best explains this tracing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fetal anemia"
+        },
+        {
+          "label": "B",
+          "text": "Fetal head compression"
+        },
+        {
+          "label": "C",
+          "text": "Fetal well-being with normal reactivity"
+        },
+        {
+          "label": "D",
+          "text": "Umbilical cord compression"
+        },
+        {
+          "label": "E",
+          "text": "Uteroplacental insufficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A sinusoidal fetal heart rate tracing arises from fetal anemia, including red cell destruction from parvovirus infection.",
+        "whyCorrect": "A sinusoidal-type tracing can occur with fetal anemia, whether from bleeding from fetal vessels or the cord (vasa previa rupture, placenta previa bleed) or from red cell destruction caused by Rh isoimmunization or parvovirus infection. Her son's illness suggests parvovirus exposure, leading to fetal red cell destruction.",
+        "whyWrongByChoice": {
+          "B": "Head compression causes early decelerations that mirror contractions.",
+          "C": "Fetal well-being is shown by accelerations, not a sinusoidal pattern.",
+          "D": "Cord compression causes variable decelerations, not a sinusoidal baseline.",
+          "E": "Uteroplacental insufficiency causes late decelerations."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fetal heart rate",
+        "sinusoidal pattern",
+        "fetal anemia"
+      ],
+      "topicId": "uncomplicated-labor-delivery-and-postpartum-care",
+      "topicName": "Uncomplicated Labor, Delivery, and Postpartum Care",
+      "tier": "core"
+    },
+    {
+      "id": "rp51-001",
+      "stem": "A 38-year-old woman with a twin gestation is in active labor at 37 weeks. Shortly after an amniotomy she abruptly becomes short of breath and confused. Blood pressure is 70/40 mm Hg and oxygen saturation is 82% on room air. Within minutes she has oozing from her intravenous sites and brisk vaginal bleeding, and laboratory studies show prolonged clotting times with low fibrinogen. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniotic fluid embolism"
+        },
+        {
+          "label": "B",
+          "text": "Placental abruption"
+        },
+        {
+          "label": "C",
+          "text": "Umbilical cord prolapse"
+        },
+        {
+          "label": "D",
+          "text": "Uterine atony"
+        },
+        {
+          "label": "E",
+          "text": "Uterine rupture"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sudden hypotension, hypoxia, dyspnea, and altered mental status during labor followed by DIC is the classic presentation of amniotic fluid embolism.",
+        "whyCorrect": "Amniotic fluid embolism presents suddenly during labor, delivery, or immediately postpartum with acute hypotension, hypoxia, dyspnea, and altered mental status, rapidly progressing to cardiac arrest, hemorrhage, and DIC. Multiple gestation and advanced maternal age are listed risk factors. The combination of cardiopulmonary collapse and coagulopathy is the hallmark.",
+        "whyWrongByChoice": {
+          "B": "Placental abruption can disrupt coagulation, but it does not explain abrupt hypoxemia and altered mental status with cardiopulmonary collapse.",
+          "C": "Umbilical cord prolapse causes fetal bradycardia from cord compression; the mother does not collapse.",
+          "D": "Uterine atony causes postpartum bleeding after delivery, not sudden hypoxia and confusion during labor.",
+          "E": "Uterine rupture threatens the fetus and causes bleeding, but primary maternal hypoxia with DIC is not its picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amniotic fluid embolism",
+        "obstetric emergency",
+        "DIC"
+      ],
+      "topicId": "complications-of-labor-delivery-and-postpartum",
+      "topicName": "Complications of Labor, Delivery, and Postpartum",
+      "tier": "core"
+    },
+    {
+      "id": "rp51-002",
+      "stem": "A 31-year-old woman at 39 weeks' gestation in active labor suddenly develops hypotension and hypoxia and then loses her pulse. Amniotic fluid embolism is suspected. Advanced cardiac life support is started immediately, and the fetus remains undelivered. Which of the following is the most appropriate plan for delivery?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cesarean delivery after 30 minutes of resuscitation"
+        },
+        {
+          "label": "B",
+          "text": "Cesarean delivery begun within 4 minutes of arrest"
+        },
+        {
+          "label": "C",
+          "text": "Delay delivery until the mother regains a pulse"
+        },
+        {
+          "label": "D",
+          "text": "Expectant labor with continuous fetal monitoring"
+        },
+        {
+          "label": "E",
+          "text": "Forceps delivery once the cervix is fully dilated"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When AFE causes maternal arrest before delivery, perimortem cesarean delivery should begin within four minutes.",
+        "whyCorrect": "Management of AFE is supportive (ACLS, intubation, vasopressors, rapid blood component transfusion). If AFE occurs before delivery, a perimortem cesarean should be initiated within four minutes to optimize maternal and fetal outcomes. AFE carries a maternal mortality of 20-60%, and rapid delivery after collapse significantly improves fetal survival.",
+        "whyWrongByChoice": {
+          "A": "A 30-minute delay far exceeds the four-minute target and sacrifices fetal and maternal benefit.",
+          "C": "Delaying delivery until return of circulation worsens outcomes; delivery is part of resuscitation here.",
+          "D": "Expectant management is inappropriate during maternal cardiac arrest.",
+          "E": "Waiting for full dilation to allow an instrument delivery delays the rapid delivery that improves outcomes after collapse."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amniotic fluid embolism",
+        "perimortem cesarean"
+      ],
+      "topicId": "complications-of-labor-delivery-and-postpartum",
+      "topicName": "Complications of Labor, Delivery, and Postpartum",
+      "tier": "core"
+    },
+    {
+      "id": "rp51-003",
+      "stem": "A 29-year-old nulliparous woman with an epidural has been pushing for a prolonged second stage of labor, and the fetus is in occiput posterior position. The obstetrician chooses the assisted-delivery instrument that provides more traction and rotational control than the alternative instrument. Compared with the alternative, this choice carries a higher risk of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniotic fluid embolism"
+        },
+        {
+          "label": "B",
+          "text": "Maternal perineal tears"
+        },
+        {
+          "label": "C",
+          "text": "Neonatal scalp laceration"
+        },
+        {
+          "label": "D",
+          "text": "Umbilical cord prolapse"
+        },
+        {
+          "label": "E",
+          "text": "Uterine rupture"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Forceps give more traction and rotational control but increase the risk of maternal perineal tears compared with vacuum extraction.",
+        "whyCorrect": "Forceps provide more traction and rotational control and are associated with an increased risk of perineal tears for the mother. The vacuum extractor is less invasive but carries a higher risk of neonatal scalp injuries.",
+        "whyWrongByChoice": {
+          "A": "Operative delivery is a risk factor for AFE in general, but this is not what distinguishes forceps from vacuum.",
+          "C": "Neonatal scalp injury is the complication more strongly associated with the vacuum extractor, the alternative instrument.",
+          "D": "Cord prolapse follows membrane rupture with an unengaged presenting part; it is not a consequence of forceps use.",
+          "E": "Uterine rupture is linked to a prior uterine scar, not to the choice of forceps over vacuum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "operative vaginal delivery",
+        "forceps",
+        "vacuum"
+      ],
+      "topicId": "complications-of-labor-delivery-and-postpartum",
+      "topicName": "Complications of Labor, Delivery, and Postpartum",
+      "tier": "core"
+    },
+    {
+      "id": "rp51-004",
+      "stem": "A 24-year-old woman at 33 weeks' gestation in preterm labor has spontaneous rupture of membranes while the fetal presenting part is still high and unengaged. Moments later the fetal heart rate drops abruptly to 70/min and does not recover. Speculum examination shows a pulsating loop of tissue in the vagina ahead of the presenting part. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxytocin infusion to speed cervical dilation"
+        },
+        {
+          "label": "B",
+          "text": "Relief of cord compression and emergency cesarean"
+        },
+        {
+          "label": "C",
+          "text": "Tocolysis and expectant observation on the ward"
+        },
+        {
+          "label": "D",
+          "text": "Tranexamic acid with bimanual fundal massage"
+        },
+        {
+          "label": "E",
+          "text": "Vacuum-assisted vaginal delivery before full dilation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Umbilical cord prolapse requires immediate relief of cord compression while preparing for expedited delivery, most commonly emergency cesarean.",
+        "whyCorrect": "Cord prolapse occurs when the cord slips ahead of the presenting part, usually after membrane rupture, compressing the cord and reducing fetal oxygen delivery. Prematurity and an unengaged presenting part at membrane rupture are risk factors, and it typically presents with sudden fetal bradycardia or recurrent variable decelerations. Management is immediate relief of compression and expedited delivery, most commonly by emergency cesarean.",
+        "whyWrongByChoice": {
+          "A": "Augmenting labor leaves the cord compressed and prolongs fetal hypoxia.",
+          "C": "Delaying delivery during prolonged fetal bradycardia from cord compression risks fetal hypoxic injury or death.",
+          "D": "TXA and fundal massage address postpartum hemorrhage, not fetal cord compression.",
+          "E": "Operative vaginal delivery requires a safely deliverable fetus; with a high, unengaged presenting part and fetal distress, cesarean is needed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "umbilical cord prolapse",
+        "obstetric emergency"
+      ],
+      "topicId": "complications-of-labor-delivery-and-postpartum",
+      "topicName": "Complications of Labor, Delivery, and Postpartum",
+      "tier": "core"
+    },
+    {
+      "id": "rp51-005",
+      "stem": "A 36-year-old woman, gravida 4 para 3, with three prior cesarean deliveries has an anterior placenta previa. At repeat cesarean delivery the placenta will not separate from the uterus, and chorionic villi are seen extending through the entire uterine wall into the serosa of the bladder. Bleeding is heavy and persistent. Which of the following best describes this condition and its most likely definitive management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Placenta accreta; manual removal and oxytocin"
+        },
+        {
+          "label": "B",
+          "text": "Placenta increta; dilation and curettage"
+        },
+        {
+          "label": "C",
+          "text": "Placenta increta; uterine artery ligation alone"
+        },
+        {
+          "label": "D",
+          "text": "Placenta percreta; hysterectomy"
+        },
+        {
+          "label": "E",
+          "text": "Placenta previa alone; fundal massage"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Villi penetrating the full thickness of the myometrium into adjacent organs define placenta percreta, which often requires hysterectomy.",
+        "whyCorrect": "In the placenta accreta spectrum, accreta villi attach to the myometrial surface, increta villi invade into the myometrium, and percreta villi penetrate the full myometrial thickness and may extend into organs such as the bladder. Placenta previa and prior cesarean delivery are risk factors. Failure of placental separation can cause severe PPH requiring hysterectomy, the last-resort procedure that commonly occurs in PAS.",
+        "whyWrongByChoice": {
+          "A": "Accreta is attachment to the myometrial surface only; this placenta has invaded through the wall into the bladder.",
+          "B": "Increta stops within the myometrium, and curettage cannot remove placenta invading the bladder.",
+          "C": "Increta does not reach the bladder, and ligation alone is unlikely to control bleeding from a percreta.",
+          "E": "Previa describes location over the cervix; it does not explain villi invading the bladder."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "placenta accreta spectrum",
+        "percreta",
+        "hysterectomy"
+      ],
+      "topicId": "complications-of-labor-delivery-and-postpartum",
+      "topicName": "Complications of Labor, Delivery, and Postpartum",
+      "tier": "core"
+    },
+    {
+      "id": "rp51-006",
+      "stem": "A 28-year-old woman has an uncomplicated spontaneous vaginal delivery. Over the next 8 hours her cumulative quantitative blood loss reaches 1,100 mL. Her pulse is 92/min and blood pressure is 118/74 mm Hg. Which of the following best classifies her bleeding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Expected blood loss for a vaginal birth"
+        },
+        {
+          "label": "B",
+          "text": "Not hemorrhage, since the cutoff is 1500 mL"
+        },
+        {
+          "label": "C",
+          "text": "Not hemorrhage, since vital signs are normal"
+        },
+        {
+          "label": "D",
+          "text": "Primary postpartum hemorrhage"
+        },
+        {
+          "label": "E",
+          "text": "Secondary (late) postpartum hemorrhage"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "ACOG defines PPH as cumulative blood loss of at least 1000 mL, or signs of hypovolemia, within 24 hours of delivery regardless of route; within 24 hours it is primary.",
+        "whyCorrect": "The ACOG definition is a cumulative blood loss of 1000 mL or more, or signs and symptoms of hypovolemia, within 24 hours after delivery, regardless of route. Primary PPH occurs within the first 24 hours, so this 1,100 mL loss at 8 hours is primary PPH even though vital signs are still normal.",
+        "whyWrongByChoice": {
+          "A": "A cumulative loss of 1,100 mL meets the 1000 mL threshold, whatever the delivery route.",
+          "B": "The ACOG threshold is 1000 mL, not 1500 mL.",
+          "C": "Hypovolemic signs are an alternative criterion, not a requirement; blood pressure may not fall until large volumes are lost.",
+          "E": "Secondary PPH occurs after the first 24 hours and up to 12 weeks; this bleeding is within 8 hours."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "postpartum hemorrhage",
+        "definition"
+      ],
+      "topicId": "complications-of-labor-delivery-and-postpartum",
+      "topicName": "Complications of Labor, Delivery, and Postpartum",
+      "tier": "core"
+    },
+    {
+      "id": "rp51-007",
+      "stem": "A 33-year-old woman, gravida 5 para 5, delivers a 4.3-kg infant vaginally after a prolonged labor. The placenta is delivered intact, inspection shows no cervical, vaginal, or perineal lacerations, she has no history of uterine surgery, and her coagulation studies are normal. Twenty minutes later she has heavy vaginal bleeding, and the uterus is soft and enlarged on palpation. Which of the following is the most likely cause of her bleeding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Genital tract laceration"
+        },
+        {
+          "label": "B",
+          "text": "Inherited coagulopathy"
+        },
+        {
+          "label": "C",
+          "text": "Retained placental tissue"
+        },
+        {
+          "label": "D",
+          "text": "Uterine atony"
+        },
+        {
+          "label": "E",
+          "text": "Uterine rupture"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Uterine atony (Tone) is the most common cause of PPH, accounting for about 70% of cases.",
+        "whyCorrect": "Among the four T's (Tone, Trauma, Tissue, Thrombin), uterine atony is the most common cause, about 70% of PPH. Atony is failure of the uterine muscle to contract after childbirth, so open vessels cannot close. Prolonged labor and fetal macrosomia are PPH risk factors, and the other three T's have been excluded here.",
+        "whyWrongByChoice": {
+          "A": "Trauma is unlikely because inspection found no lacerations.",
+          "B": "Thrombin is unlikely because coagulation studies are normal.",
+          "C": "Tissue is unlikely because the placenta was delivered intact.",
+          "E": "Uterine rupture typically occurs along a prior uterine scar; she has no uterine surgery history."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "postpartum hemorrhage",
+        "four Ts",
+        "uterine atony"
+      ],
+      "topicId": "complications-of-labor-delivery-and-postpartum",
+      "topicName": "Complications of Labor, Delivery, and Postpartum",
+      "tier": "core"
+    },
+    {
+      "id": "rp51-008",
+      "stem": "A 35-year-old woman with preeclampsia (blood pressure 162/104 mm Hg) has a vaginal delivery complicated by heavy bleeding from a boggy uterus. Bleeding continues despite oxytocin and bimanual uterine massage. The placenta is complete and there are no lacerations. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dilation and curettage"
+        },
+        {
+          "label": "B",
+          "text": "Hemabate"
+        },
+        {
+          "label": "C",
+          "text": "Hysterectomy"
+        },
+        {
+          "label": "D",
+          "text": "Methergine"
+        },
+        {
+          "label": "E",
+          "text": "Tranexamic acid in place of uterotonics"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When atony persists after oxytocin, second-line prostaglandin analogs are used; Methergine is avoided in hypertensive patients.",
+        "whyCorrect": "Oxytocin is the first-line uterotonic for atony; second-line agents include prostaglandin analogs such as Hemabate and misoprostol. Methergine can also be used, but not in a hypertensive patient. Procedural treatments are pursued only after conservative measures have failed.",
+        "whyWrongByChoice": {
+          "A": "Procedures are pursued only after conservative management fails, and no retained tissue is present.",
+          "C": "Hysterectomy is the last resort, reserved for failure of medical and other measures.",
+          "D": "Methergine should not be given to a hypertensive patient such as this woman with preeclampsia.",
+          "E": "TXA does not cause uterine contraction and does not replace uterotonics for atony."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "uterine atony",
+        "uterotonics",
+        "methergine",
+        "hypertension"
+      ],
+      "topicId": "complications-of-labor-delivery-and-postpartum",
+      "topicName": "Complications of Labor, Delivery, and Postpartum",
+      "tier": "core"
+    },
+    {
+      "id": "rp51-009",
+      "stem": "A 30-year-old woman is diagnosed with postpartum hemorrhage 1 hour after a vaginal delivery. She is receiving oxytocin and fundal massage, and the team adds tranexamic acid according to the hospital protocol. Which of the following best describes this added drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It contracts the myometrium and can replace oxytocin"
+        },
+        {
+          "label": "B",
+          "text": "It inhibits fibrinolysis, stabilizing developing clots"
+        },
+        {
+          "label": "C",
+          "text": "It is avoided once hemorrhage has been diagnosed"
+        },
+        {
+          "label": "D",
+          "text": "It promotes platelet aggregation at bleeding vessels"
+        },
+        {
+          "label": "E",
+          "text": "It works best when started 6 to 12 hours after birth"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tranexamic acid is an antifibrinolytic that stabilizes clots, should be given within 3 hours of birth, and does not replace uterotonics.",
+        "whyCorrect": "TXA is an antifibrinolytic included in many PPH protocols. By inhibiting fibrinolysis it stabilizes developing blood clots. It should be given as soon as possible after PPH is diagnosed and within 3 hours of birth. It does not cause uterine contraction and therefore does not replace uterotonics or mechanical control of bleeding.",
+        "whyWrongByChoice": {
+          "A": "TXA does not cause uterine contraction and cannot substitute for uterotonics.",
+          "C": "Diagnosis of PPH is the trigger to give TXA, not a reason to withhold it.",
+          "D": "Its action is inhibition of fibrinolysis, not platelet aggregation.",
+          "E": "TXA should be given as soon as possible after diagnosis and within 3 hours of birth."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tranexamic acid",
+        "postpartum hemorrhage"
+      ],
+      "topicId": "complications-of-labor-delivery-and-postpartum",
+      "topicName": "Complications of Labor, Delivery, and Postpartum",
+      "tier": "core"
+    },
+    {
+      "id": "rp51-010",
+      "stem": "A 30-year-old woman, gravida 2 para 1, is admitted to the labor and delivery unit at 39 weeks. She has a singleton pregnancy, one prior spontaneous vaginal birth, no prior cesarean or uterine surgery, no history of postpartum hemorrhage, and no known bleeding disorder. Her third-trimester ultrasound showed a low-lying placenta. Which of the following is her postpartum hemorrhage risk category on admission?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High, because a single high-risk factor suffices"
+        },
+        {
+          "label": "B",
+          "text": "Low, because most of her factors are low risk"
+        },
+        {
+          "label": "C",
+          "text": "Low, until active bleeding is observed"
+        },
+        {
+          "label": "D",
+          "text": "Medium, because only one risk factor is present"
+        },
+        {
+          "label": "E",
+          "text": "Medium, pending her admission hematocrit"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In admission PPH risk stratification, any single factor in a higher-risk category assigns the patient to that category; placenta previa or low-lying placenta is high risk.",
+        "whyCorrect": "Institutional PPH risk assessment sorts patients into low, medium, or high risk, and meeting any single factor in a higher category assigns that overall level. Placenta previa or low-lying placenta is a high-risk factor, so she is high risk regardless of her otherwise low-risk features.",
+        "whyWrongByChoice": {
+          "B": "Low-risk features do not offset a high-risk factor; the highest category met determines the level.",
+          "C": "Active bleeding is one high-risk factor, but it is not required when another high-risk factor is present.",
+          "D": "A low-lying placenta is a high-risk factor, not a medium-risk one, and one factor is enough.",
+          "E": "Her category is already high from the placental position; a hematocrit result cannot lower it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "postpartum hemorrhage",
+        "risk stratification",
+        "placenta previa"
+      ],
+      "topicId": "complications-of-labor-delivery-and-postpartum",
+      "topicName": "Complications of Labor, Delivery, and Postpartum",
+      "tier": "core"
+    },
+    {
+      "id": "rp51-011",
+      "stem": "A 29-year-old woman is evaluated 40 minutes after a vaginal delivery for continued bleeding. She is restless and confused, pale, and her skin is cool and clammy. Pulse is 132/min, blood pressure is 76/48 mm Hg, and she has made little urine since delivery. Which of the following is the most likely cumulative blood loss?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "500-1000 mL"
+        },
+        {
+          "label": "B",
+          "text": "Less than 500 mL"
+        },
+        {
+          "label": "C",
+          "text": "1000-1500 mL"
+        },
+        {
+          "label": "D",
+          "text": "1500-2000 mL"
+        },
+        {
+          "label": "E",
+          "text": "2000-3000 mL"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Restlessness, confusion, pallor, oliguria, cool clammy skin, HR 120-140, and systolic BP 70-80 correspond to about 1500-2000 mL of blood loss.",
+        "whyCorrect": "Symptom severity in PPH is proportional to blood loss. At 1500-2000 mL, systolic pressure is 70-80 mm Hg with tachycardia of 120-140 bpm, restlessness, confusion, pallor, oliguria, and cool clammy skin. Blood pressure may not fall until substantial loss has occurred.",
+        "whyWrongByChoice": {
+          "A": "500-1000 mL produces palpitations or lightheadedness with normal systolic pressure (90 or higher) and little heart-rate change.",
+          "B": "Loss below 500 mL would not produce shock with confusion and oliguria.",
+          "C": "1000-1500 mL gives systolic 80-90, HR 100-120, weakness, sweating, and tachypnea without confusion or oliguria.",
+          "E": "2000-3000 mL causes systolic 50-70, HR of 140 or more, lethargy, air hunger, anuria, and collapse."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "postpartum hemorrhage",
+        "hypovolemia",
+        "blood loss estimation"
+      ],
+      "topicId": "complications-of-labor-delivery-and-postpartum",
+      "topicName": "Complications of Labor, Delivery, and Postpartum",
+      "tier": "core"
+    },
+    {
+      "id": "rp51-012",
+      "stem": "A 31-year-old woman comes to the emergency department 3 weeks after a vaginal delivery because of heavy vaginal bleeding. Pelvic ultrasound shows retained products of conception within the uterine cavity. Which of the following is the most appropriate procedure to treat the cause of her bleeding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dilation and curettage"
+        },
+        {
+          "label": "B",
+          "text": "Hysterectomy"
+        },
+        {
+          "label": "C",
+          "text": "Suturing of a cervical laceration"
+        },
+        {
+          "label": "D",
+          "text": "Uterine artery ligation"
+        },
+        {
+          "label": "E",
+          "text": "Uterine compression sutures"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Retained placenta or products of conception (Tissue) is treated with dilation and curettage to remove the tissue and allow uterine involution.",
+        "whyCorrect": "Retained placenta or products of conception can cause PPH; bleeding after 24 hours and up to 12 weeks is secondary PPH. Dilation and curettage removes the remaining tissue and allows the uterus to involute. An infrequent complication of D&C is Asherman syndrome, endometrial scarring that can cause amenorrhea and infertility.",
+        "whyWrongByChoice": {
+          "B": "Hysterectomy is a last resort, not first treatment for retained tissue.",
+          "C": "Laceration repair treats Trauma; her bleeding is from retained tissue.",
+          "D": "Uterine artery ligation is a cesarean-delivery technique that does not remove retained tissue.",
+          "E": "Compression sutures are placed at cesarean delivery and leave the retained tissue in place."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "postpartum hemorrhage",
+        "retained products of conception",
+        "secondary PPH"
+      ],
+      "topicId": "complications-of-labor-delivery-and-postpartum",
+      "topicName": "Complications of Labor, Delivery, and Postpartum",
+      "tier": "core"
+    },
+    {
+      "id": "rp52-001",
+      "stem": "A 29-year-old woman with a low-risk pregnancy is deciding between two midwife-led options: a home-like unit located inside a regional hospital, and a home-like facility across town that is not attached to any hospital. She asks how her care would differ if a complication developed during labor. Which of the following statements is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both settings would require ambulance transport to reach obstetric surgical care"
+        },
+        {
+          "label": "B",
+          "text": "The facility across town could place an epidural on site if she requested one"
+        },
+        {
+          "label": "C",
+          "text": "The facility across town is staffed by physicians who manage emergencies there"
+        },
+        {
+          "label": "D",
+          "text": "The unit inside the hospital allows quick transfer to the obstetric unit"
+        },
+        {
+          "label": "E",
+          "text": "The unit inside the hospital keeps every patient for 72 hours of observation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In-hospital birth centers allow quick transfer to hospital L&D; freestanding centers must transport patients to a hospital.",
+        "whyCorrect": "An in-hospital birth center offers a home-like, low-intervention, midwife-led birth, but if complications arise or the patient wants more intervention (such as an epidural), she can be transferred quickly to the hospital's labor and delivery unit. A freestanding birth center has fewer resources and must send patients by ambulance or private vehicle to the closest hospital.",
+        "whyWrongByChoice": {
+          "A": "Only the freestanding center depends on ambulance or private-vehicle transport; the in-hospital unit transfers internally to L&D.",
+          "B": "Freestanding centers offer minimal intervention and fewer resources; a patient wanting an epidural is a reason for transfer, not an on-site service.",
+          "C": "Freestanding birth centers are typically midwife-led with nurses, doulas and birth assistants, not physician-staffed emergency units.",
+          "E": "A 72-hour stay is the typical hospital stay after a cesarean birth, not a feature of a low-intervention birth center unit."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "birth settings",
+        "birth centers",
+        "emergency transfer"
+      ],
+      "topicId": "birth-outcomes-maternal-and-infant-health",
+      "topicName": "Birth Outcomes: Maternal and Infant Health",
+      "tier": "core"
+    },
+    {
+      "id": "rp52-002",
+      "stem": "A county health officer is reviewing how her county would be classified under the March of Dimes framework for maternity care access. Which of the following county profiles meets the definition of a maternity care desert?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A freestanding birth center operates, but no hospital offers obstetric services"
+        },
+        {
+          "label": "B",
+          "text": "An obstetric hospital is present, but no birth center operates in the county"
+        },
+        {
+          "label": "C",
+          "text": "Certified nurse midwives practice locally, but no hospital offers obstetric care"
+        },
+        {
+          "label": "D",
+          "text": "No hospital or birth center offering obstetric care and no obstetric clinicians"
+        },
+        {
+          "label": "E",
+          "text": "No obstetricians practice, but family physicians locally provide obstetric care"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A maternity care desert has no hospitals or birth centers offering obstetric care and no obstetric clinicians.",
+        "whyCorrect": "March of Dimes defines maternity care deserts as US locations with no hospitals or birth centers offering obstetric care and no obstetric clinicians. Obstetric clinicians include obstetricians, family physicians who provide obstetric care, and certified nurse midwives, so all three elements must be absent.",
+        "whyWrongByChoice": {
+          "A": "A birth center offering obstetric care removes the county from the desert category.",
+          "B": "An obstetric hospital provides maternity care, so the county is not a desert.",
+          "C": "Certified nurse midwives count as obstetric clinicians, so the county is not a desert.",
+          "E": "Family physicians who provide obstetric care count as obstetric clinicians."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "maternity care deserts",
+        "social determinants of health",
+        "access to care"
+      ],
+      "topicId": "birth-outcomes-maternal-and-infant-health",
+      "topicName": "Birth Outcomes: Maternal and Infant Health",
+      "tier": "core"
+    },
+    {
+      "id": "rp52-003",
+      "stem": "A neonatologist compiling a state report card counts every delivery that is classified as a preterm birth, an outcome tracked closely because of its short-term neonatal complications and long-term developmental effects. A birth is classified as preterm if it occurs before which gestational age?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "32 weeks"
+        },
+        {
+          "label": "B",
+          "text": "34 weeks"
+        },
+        {
+          "label": "C",
+          "text": "35 weeks"
+        },
+        {
+          "label": "D",
+          "text": "36 weeks"
+        },
+        {
+          "label": "E",
+          "text": "37 weeks"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Preterm birth is birth before 37 weeks of gestation.",
+        "whyCorrect": "Preterm birth is defined as birth before 37 weeks gestation. It is strongly associated with short-term neonatal complications and long-term health and developmental problems, which is why it is tracked and graded state by state.",
+        "whyWrongByChoice": {
+          "A": "32 weeks is too early a cutoff; births between 32 and 37 weeks are also preterm.",
+          "B": "34 weeks would exclude births at 34-36 weeks, which are still preterm.",
+          "C": "35 weeks would exclude births at 35-36 weeks, which are still preterm.",
+          "D": "36 weeks would exclude births in the 36th week, which are still preterm; the cutoff is 37 weeks."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "preterm birth",
+        "definitions"
+      ],
+      "topicId": "birth-outcomes-maternal-and-infant-health",
+      "topicName": "Birth Outcomes: Maternal and Infant Health",
+      "tier": "core"
+    },
+    {
+      "id": "rp52-004",
+      "stem": "A state committee reviews all deaths that occurred during pregnancy or within 1 year after its end. Based on CDC data for the United States, which of the following is the most common underlying cause category of these pregnancy-related deaths?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anesthesia complications"
+        },
+        {
+          "label": "B",
+          "text": "Cardiovascular conditions"
+        },
+        {
+          "label": "C",
+          "text": "Hemorrhage"
+        },
+        {
+          "label": "D",
+          "text": "Infection"
+        },
+        {
+          "label": "E",
+          "text": "Mental health conditions"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Mental health conditions (mainly suicide and unintentional overdose) are the leading cause of US pregnancy-related death.",
+        "whyCorrect": "According to the CDC, the most common causes of pregnancy-related death in the US, in decreasing order, are mental health conditions (primarily suicide and unintentional overdose), cardiovascular conditions, infection, and hemorrhage. This differs from the worldwide pattern, where hemorrhage leads.",
+        "whyWrongByChoice": {
+          "A": "Anesthesia complications are not among the leading US causes of pregnancy-related death.",
+          "B": "Cardiovascular conditions are a leading contributor but rank second, after mental health conditions.",
+          "C": "Hemorrhage is the leading cause worldwide but ranks fourth among the leading US causes.",
+          "D": "Infection ranks third among US causes, behind mental health and cardiovascular conditions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "maternal mortality",
+        "pregnancy-related death",
+        "causes of death",
+        "mental health"
+      ],
+      "topicId": "birth-outcomes-maternal-and-infant-health",
+      "topicName": "Birth Outcomes: Maternal and Infant Health",
+      "tier": "core"
+    },
+    {
+      "id": "rp52-005",
+      "stem": "A 31-year-old woman dies by suicide 7 months after an uncomplicated vaginal delivery. A surveillance epidemiologist must classify the death using the CDC and World Health Organization definitions. Which of the following classifications is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A maternal death but not a pregnancy-related death"
+        },
+        {
+          "label": "B",
+          "text": "A maternal death, since the WHO window extends to 1 year postpartum"
+        },
+        {
+          "label": "C",
+          "text": "A pregnancy-related death but not a maternal death"
+        },
+        {
+          "label": "D",
+          "text": "Neither category, since deaths after 42 days are never counted"
+        },
+        {
+          "label": "E",
+          "text": "Neither category, since suicide is excluded as an accidental cause"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Maternal death covers pregnancy through 42 days; CDC pregnancy-related death extends to 1 year.",
+        "whyCorrect": "The CDC and WHO define maternal mortality as death during pregnancy or within 42 days of its end, so a death at 7 months falls outside that window. The CDC defines a pregnancy-related death as one occurring during pregnancy or within 1 year of its end, and mental health conditions such as suicide are the leading US cause in that category.",
+        "whyWrongByChoice": {
+          "A": "Seven months is beyond the 42-day maternal death window but within the 1-year pregnancy-related window, the reverse of this choice.",
+          "B": "The CDC/WHO maternal mortality window is 42 days, not 1 year; the 1-year window belongs to the CDC pregnancy-related definition.",
+          "D": "The CDC pregnancy-related death definition captures deaths up to 1 year after the end of pregnancy.",
+          "E": "Suicide is counted among mental health conditions, the leading US cause of pregnancy-related death."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "maternal mortality",
+        "pregnancy-related death",
+        "definitions"
+      ],
+      "topicId": "birth-outcomes-maternal-and-infant-health",
+      "topicName": "Birth Outcomes: Maternal and Infant Health",
+      "tier": "core"
+    },
+    {
+      "id": "rp52-006",
+      "stem": "A term newborn with a complex congenital heart malformation dies on day 20 of life despite surgical care. Which of the following terms best classifies this death?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fetal death"
+        },
+        {
+          "label": "B",
+          "text": "Neonatal death"
+        },
+        {
+          "label": "C",
+          "text": "Post-neonatal death"
+        },
+        {
+          "label": "D",
+          "text": "Pregnancy-related death"
+        },
+        {
+          "label": "E",
+          "text": "Sudden infant death syndrome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A neonatal death is death of an infant from any cause within the first 28 days of life.",
+        "whyCorrect": "A neonatal death occurs when an infant dies in the first 28 days of life from any cause. Day 20 falls within that window; the death also contributes to the infant mortality rate (deaths under age 1 year per 1,000 live births).",
+        "whyWrongByChoice": {
+          "A": "A fetal death occurs before birth; this infant was born alive.",
+          "C": "Post-neonatal deaths occur after the first 28 days; this death occurred on day 20.",
+          "D": "Pregnancy-related death refers to death of the pregnant person, not the infant.",
+          "E": "SIDS is a sudden, unexplained death; this death has a clear cause (a congenital malformation)."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neonatal death",
+        "infant mortality",
+        "definitions"
+      ],
+      "topicId": "birth-outcomes-maternal-and-infant-health",
+      "topicName": "Birth Outcomes: Maternal and Infant Health",
+      "tier": "core"
+    },
+    {
+      "id": "rp52-007",
+      "stem": "A 4-month-old girl born at 35 weeks is found unresponsive in her crib after a nap. She had been thriving at recent well-child visits. Scene investigation and autopsy reveal no injury, infection, or structural abnormality. Which of the following best classifies this death?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Death from a congenital malformation"
+        },
+        {
+          "label": "B",
+          "text": "Death from an unintentional injury"
+        },
+        {
+          "label": "C",
+          "text": "Death from short gestation and low birth weight"
+        },
+        {
+          "label": "D",
+          "text": "Neonatal death"
+        },
+        {
+          "label": "E",
+          "text": "Sudden infant death syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "SIDS is the sudden, unexplained death of a baby under 1 year, often during sleep.",
+        "whyCorrect": "Sudden infant death syndrome is the sudden and unexplained death of a baby younger than 1 year and often happens during sleep. With a thriving 4-month-old and a negative investigation and autopsy, no other cause explains the death. SIDS is the leading cause of death in infants between 1 month and 1 year of age (birth defects lead across the whole first year).",
+        "whyWrongByChoice": {
+          "A": "The autopsy found no structural abnormality, so a congenital malformation is excluded.",
+          "B": "Scene investigation and autopsy showed no injury.",
+          "C": "Although born slightly preterm, she was thriving; a short-gestation death would not present as an unexplained death at 4 months.",
+          "D": "Neonatal deaths occur in the first 28 days of life; this infant was 4 months old."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SIDS",
+        "infant mortality",
+        "causes of infant death"
+      ],
+      "topicId": "birth-outcomes-maternal-and-infant-health",
+      "topicName": "Birth Outcomes: Maternal and Infant Health",
+      "tier": "core"
+    },
+    {
+      "id": "rp52-008",
+      "stem": "A public health student is comparing the most recently published national pregnancy-related mortality rates across racial and ethnic groups in the United States. Which group has the highest rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "American Indian/Alaska Native"
+        },
+        {
+          "label": "B",
+          "text": "Asian"
+        },
+        {
+          "label": "C",
+          "text": "Hispanic"
+        },
+        {
+          "label": "D",
+          "text": "Native Hawaiian or Other Pacific Islander"
+        },
+        {
+          "label": "E",
+          "text": "Non-Hispanic Black"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nationally, pregnancy-related mortality is highest among American Indian/Alaska Native people.",
+        "whyCorrect": "In the most recently published data, pregnancy-related mortality rates were highest among American Indian/Alaska Native populations, followed by non-Hispanic Black, Native Hawaiian or Other Pacific Islander, White, Hispanic, and Asian populations.",
+        "whyWrongByChoice": {
+          "B": "Asian populations have the lowest rate of the groups listed.",
+          "C": "Hispanic populations have one of the lower rates, ranking fifth.",
+          "D": "Native Hawaiian or Other Pacific Islander populations rank third.",
+          "E": "Non-Hispanic Black populations have the second-highest national rate, behind AIAN."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "maternal mortality",
+        "racial disparities",
+        "social determinants of health"
+      ],
+      "topicId": "birth-outcomes-maternal-and-infant-health",
+      "topicName": "Birth Outcomes: Maternal and Infant Health",
+      "tier": "core"
+    },
+    {
+      "id": "rp52-009",
+      "stem": "A health policy analyst notes that reported US maternal mortality rose steadily from the early 2000s through the late 2010s. She cautions that part of this apparent rise may not reflect a true change in risk. Which of the following best explains her caution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A shift of most US births from hospitals to freestanding birth centers"
+        },
+        {
+          "label": "B",
+          "text": "A WHO revision extending the maternal death window from 42 days to 1 year"
+        },
+        {
+          "label": "C",
+          "text": "Removal of accidental deaths from maternal mortality counts in 2003"
+        },
+        {
+          "label": "D",
+          "text": "Replacement of CDC death data with Medicaid claims-based estimates"
+        },
+        {
+          "label": "E",
+          "text": "Staggered state adoption of a pregnancy checkbox on death certificates"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The pregnancy checkbox on death certificates (recommended 2003, universal by 2017) increased capture of maternal deaths.",
+        "whyCorrect": "In 2003 the CDC recommended a standardized pregnancy checkbox on state death certificates, which substantially increased the number of maternal deaths captured. Rollout was state-dependent and not complete in all 50 states until 2017, so the steady rise in reported rates likely partly reflects prior underreporting, although true rates remain much too high.",
+        "whyWrongByChoice": {
+          "A": "Hospitals still account for nearly 98% of US births; out-of-hospital births are only about 2.3%.",
+          "B": "The maternal death definition remains during pregnancy or within 42 days; the 1-year window is the CDC pregnancy-related definition.",
+          "C": "Accidental and incidental causes are excluded by definition; this did not create an apparent increase.",
+          "D": "No such data replacement explains the trend; the change was in how death certificates captured pregnancy status."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "maternal mortality",
+        "surveillance",
+        "data trends"
+      ],
+      "topicId": "birth-outcomes-maternal-and-infant-health",
+      "topicName": "Birth Outcomes: Maternal and Infant Health",
+      "tier": "core"
+    },
+    {
+      "id": "rp52-010",
+      "stem": "A 27-year-old woman at 30 weeks gestation with chronic hypertension lives in a rural county with no obstetric hospital, birth center, or obstetric clinician; the nearest obstetric unit is a 90-minute drive away. Missed visits have left her readings poorly tracked between appointments. Which of the following interventions most directly addresses her risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assigning a doula to provide emotional support during her labor"
+        },
+        {
+          "label": "B",
+          "text": "Enrolling her hospital's staff in a postpartum hemorrhage protocol"
+        },
+        {
+          "label": "C",
+          "text": "Providing a home blood pressure cuff with telehealth monitoring"
+        },
+        {
+          "label": "D",
+          "text": "Referring her to a freestanding birth center for prenatal visits"
+        },
+        {
+          "label": "E",
+          "text": "Scheduling a cesarean delivery at 37 weeks at the distant hospital"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Remote patient monitoring lets high-risk patients in maternity care deserts get timely hypertension screening without travel.",
+        "whyCorrect": "Telehealth initiatives that supply home blood pressure cuffs and digital monitoring tools allow high-risk patients in maternity care deserts to receive timely hypertension screening without traveling long distances. This directly targets the gap in her care: poorly tracked blood pressure caused by distance from obstetric services.",
+        "whyWrongByChoice": {
+          "A": "Doula support can improve satisfaction but does not provide hypertension screening.",
+          "B": "Hemorrhage protocols address a different complication and do not monitor her blood pressure now.",
+          "D": "Freestanding birth centers serve low-risk patients, and none exists in her county.",
+          "E": "Scheduling delivery does nothing to monitor her blood pressure during the remaining weeks of pregnancy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "improving outcomes",
+        "remote patient monitoring",
+        "maternity care deserts",
+        "hypertension"
+      ],
+      "topicId": "birth-outcomes-maternal-and-infant-health",
+      "topicName": "Birth Outcomes: Maternal and Infant Health",
+      "tier": "core"
+    },
+    {
+      "id": "rp52-011",
+      "stem": "A patient interviews a midwife who reports a master's degree in midwifery. The midwife did not attend nursing school and is certified by the American Midwifery Certification Board. Which credential does this midwife hold?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Certified doula"
+        },
+        {
+          "label": "B",
+          "text": "Certified Midwife (CM)"
+        },
+        {
+          "label": "C",
+          "text": "Certified Nurse Midwife (CNM)"
+        },
+        {
+          "label": "D",
+          "text": "Certified Professional Midwife (CPM)"
+        },
+        {
+          "label": "E",
+          "text": "Unlicensed lay midwife"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A Certified Midwife has a midwifery master's without nursing school and is AMCB-certified.",
+        "whyCorrect": "Certified Midwives (CMs) hold a master's degree in midwifery, have not completed nursing school, and are certified by the American Midwifery Certification Board. Certified Nurse Midwives share the same certifying board but have also completed nursing school.",
+        "whyWrongByChoice": {
+          "A": "A doula is a non-medical support professional, not a midwife with a midwifery degree.",
+          "C": "A CNM completes nursing school plus a graduate midwifery degree; this midwife skipped nursing school.",
+          "D": "A CPM completes coursework and is certified by the North American Registry of Midwives, not the AMCB.",
+          "E": "Lay midwives have no certification or license; this midwife holds AMCB certification."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "midwife types",
+        "birth attendants",
+        "credentials"
+      ],
+      "topicId": "birth-outcomes-maternal-and-infant-health",
+      "topicName": "Birth Outcomes: Maternal and Infant Health",
+      "tier": "core"
+    },
+    {
+      "id": "rp52-012",
+      "stem": "Expectant parents ask how the risk of newborn death varies by where and by whom a baby is delivered in the United States. Which ranking of neonatal mortality, from highest to lowest, is supported by US data?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Midwife-attended home > midwife-attended hospital > physician-attended hospital"
+        },
+        {
+          "label": "B",
+          "text": "Midwife-attended home > physician-attended hospital > midwife-attended hospital"
+        },
+        {
+          "label": "C",
+          "text": "Midwife-attended hospital > physician-attended hospital > midwife-attended home"
+        },
+        {
+          "label": "D",
+          "text": "Physician-attended hospital > midwife-attended home > midwife-attended hospital"
+        },
+        {
+          "label": "E",
+          "text": "Physician-attended hospital > midwife-attended hospital > midwife-attended home"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "US neonatal mortality is highest for midwife-attended home births, then physician-attended and midwife-attended hospital births.",
+        "whyCorrect": "In the United States, neonatal mortality rates are highest for midwife-attended home births, followed by physician-attended hospital births and then midwife-attended hospital births. International studies suggesting comparable safety for low-risk home births reflect stronger screening and safety-net systems than are available in the US.",
+        "whyWrongByChoice": {
+          "A": "Home births lead correctly, but physician-attended hospital births rank above midwife-attended hospital births.",
+          "C": "Midwife-attended hospital births have the lowest of the three rates, not the highest.",
+          "D": "Midwife-attended home births rank first, not second.",
+          "E": "This reverses the order; midwife-attended home births have the highest, not the lowest, rate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "birth settings",
+        "home birth",
+        "neonatal mortality"
+      ],
+      "topicId": "birth-outcomes-maternal-and-infant-health",
+      "topicName": "Birth Outcomes: Maternal and Infant Health",
+      "tier": "core"
+    }
+  ]
+}

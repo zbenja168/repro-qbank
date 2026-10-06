@@ -1,0 +1,1136 @@
+{
+  "categoryId": "w5s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "rp53-001",
+      "stem": "A 2-day-old boy fails his newborn hearing screen in both ears. He is small for gestational age with a head circumference below the 3rd percentile, a liver edge 4 cm below the costal margin, a palpable spleen tip, and scleral icterus. Funduscopy shows chorioretinitis, the lenses are clear, and cranial ultrasonography shows calcifications lining the lateral ventricles. Cardiac examination is normal. Which of the following congenital infections is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus type 2"
+        },
+        {
+          "label": "C",
+          "text": "Parvovirus B19"
+        },
+        {
+          "label": "D",
+          "text": "Rubella virus"
+        },
+        {
+          "label": "E",
+          "text": "Toxoplasma gondii"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Periventricular calcifications, chorioretinitis, sensorineural deafness, microcephaly, hepatosplenomegaly and jaundice point to congenital CMV.",
+        "whyCorrect": "CMV is the most common TORCH infection and is transmitted across the placenta from a primary or reactivated maternal infection. Congenital CMV classically produces growth restriction, microcephaly, hepatosplenomegaly, jaundice, chorioretinitis, sensorineural deafness and calcifications in a periventricular distribution. Clear lenses and a normal heart argue against congenital rubella.",
+        "whyWrongByChoice": {
+          "B": "Neonatal HSV presents with grouped vesicles, keratoconjunctivitis, encephalitis or disseminated disease, usually acquired at delivery rather than as a growth-restricted infant with calcifications.",
+          "C": "Fetal parvovirus B19 infection causes hydrops, aplastic anemia or stillbirth, not periventricular calcifications with chorioretinitis.",
+          "D": "Congenital rubella syndrome causes cataracts and a patent ductus arteriosus; this infant has clear lenses and a normal cardiac exam.",
+          "E": "Congenital toxoplasmosis causes chorioretinitis but its calcifications are diffuse throughout the brain and it is classically paired with hydrocephalus, not periventricular calcifications."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TORCH",
+        "cytomegalovirus",
+        "congenital infection"
+      ],
+      "topicId": "torch-infections",
+      "topicName": "TORCH Infections",
+      "tier": "core"
+    },
+    {
+      "id": "rp53-002",
+      "stem": "A newborn girl has bilateral white pupillary reflexes, fails her hearing screen, and has a continuous machinery-like murmur at the left upper sternal border. Her mother never received childhood vaccines and recalls a brief rash with sore throat and low-grade fever at some point during the pregnancy. Maternal infection at which of the following times would carry the greatest risk of producing this infant's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Between 20 and 24 weeks of gestation"
+        },
+        {
+          "label": "B",
+          "text": "Between 28 and 32 weeks of gestation"
+        },
+        {
+          "label": "C",
+          "text": "Between 34 and 36 weeks of gestation"
+        },
+        {
+          "label": "D",
+          "text": "Within 2 weeks before delivery"
+        },
+        {
+          "label": "E",
+          "text": "Within the first 10 weeks of gestation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Congenital rubella syndrome is most likely when maternal infection occurs in the first 10 weeks, during organogenesis.",
+        "whyCorrect": "Cataracts, sensorineural deafness and a patent ductus arteriosus (machinery murmur) are classic congenital rubella syndrome. Transplacental rubella causes severe defects most often in the first 10 weeks of pregnancy, when organogenesis is occurring, and the risk decreases significantly after 20 weeks of gestation.",
+        "whyWrongByChoice": {
+          "A": "The lecture places the drop-off in risk at about 20 weeks; 20-24 weeks is past the highest-risk window.",
+          "B": "By 28-32 weeks organogenesis is complete and the risk of structural defects such as cataracts and PDA is much lower.",
+          "C": "Late third-trimester infection carries the lowest risk of the structural defects of congenital rubella syndrome among these options.",
+          "D": "Infection just before delivery is long after organogenesis; the risk of severe rubella-related defects falls substantially after 20 weeks."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TORCH",
+        "rubella",
+        "congenital rubella syndrome",
+        "timing"
+      ],
+      "topicId": "torch-infections",
+      "topicName": "TORCH Infections",
+      "tier": "core"
+    },
+    {
+      "id": "rp53-003",
+      "stem": "A 1-week-old boy is evaluated for a rapidly enlarging head circumference. His mother keeps several outdoor pets that hunt mice, maintains a vegetable garden, and had no symptoms during pregnancy. Head CT shows hydrocephalus with calcifications scattered diffusely throughout the brain parenchyma, and funduscopy shows inflammation of the choroid and retina. Which of the following is the most likely causative organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus type 2"
+        },
+        {
+          "label": "C",
+          "text": "Listeria monocytogenes"
+        },
+        {
+          "label": "D",
+          "text": "Rubella virus"
+        },
+        {
+          "label": "E",
+          "text": "Toxoplasma gondii"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chorioretinitis, hydrocephalus and diffuse intracranial calcifications form the classic triad of congenital toxoplasmosis.",
+        "whyCorrect": "Toxoplasma gondii reproduces in cats and is shed as oocysts in cat feces; humans acquire it by ingestion (including produce grown in contaminated soil) or undercooked meat, and it crosses the placenta. Most infected pregnant people are asymptomatic, but the infant may develop chorioretinitis, hydrocephalus and diffuse intracranial calcifications.",
+        "whyWrongByChoice": {
+          "A": "Congenital CMV produces periventricular rather than diffuse calcifications and is usually accompanied by hearing loss, hepatosplenomegaly and jaundice; hydrocephalus with garden and cat exposure points to Toxoplasma.",
+          "B": "Neonatal HSV presents with vesicles, keratoconjunctivitis, encephalitis or disseminated disease after perinatal exposure.",
+          "C": "Listeria causes abortion, fetal demise, granulomatosis infantiseptica, sepsis and meningitis, not this calcification-hydrocephalus-chorioretinitis triad.",
+          "D": "Congenital rubella causes cataracts, PDA and sensorineural deafness, not chorioretinitis with hydrocephalus."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "TORCH",
+        "toxoplasmosis",
+        "congenital infection"
+      ],
+      "topicId": "torch-infections",
+      "topicName": "TORCH Infections",
+      "tier": "core"
+    },
+    {
+      "id": "rp53-004",
+      "stem": "A 27-year-old woman at 20 weeks' gestation works as a kindergarten teacher and reports that several of her students recently had bright red facial rashes. Serologic testing earlier in life had shown she was never infected with the responsible virus. Two weeks later, ultrasonography shows fetal ascites, pleural effusions, and diffuse skin edema. The virus most likely causes this fetal complication by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binding P antigen on erythroid precursors to halt red cell production"
+        },
+        {
+          "label": "B",
+          "text": "Establishing latency in myeloid-lineage cells of the fetal marrow"
+        },
+        {
+          "label": "C",
+          "text": "Inducing granuloma formation throughout the fetal liver and spleen"
+        },
+        {
+          "label": "D",
+          "text": "Infecting cardiac myocytes and preventing ductus arteriosus closure"
+        },
+        {
+          "label": "E",
+          "text": "Lysing mature erythrocytes through complement-fixing antibodies"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Parvovirus B19 binds P antigen on erythroid precursors, shutting down red cell production and causing fetal hydrops in a nonimmune pregnant person.",
+        "whyCorrect": "Children with slapped-cheek rashes suggest fifth disease from parvovirus B19. The virus infects erythroid precursor cells in the bone marrow by binding P antigen, inhibiting red blood cell production. In a pregnant person never previously infected, this can cause stillbirth, fetal hydrops (excess fluid accumulation, as here) or aplastic anemia.",
+        "whyWrongByChoice": {
+          "B": "Lifelong latency in myeloid-lineage cells is characteristic of cytomegalovirus, not parvovirus B19.",
+          "C": "Disseminated granulomas in fetal organs (granulomatosis infantiseptica) are the hallmark of Listeria monocytogenes.",
+          "D": "Patent ductus arteriosus is a feature of congenital rubella syndrome and is not the mechanism of hydrops.",
+          "E": "Parvovirus B19 suppresses red cell production at the precursor level; it does not cause antibody-mediated lysis of mature erythrocytes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TORCH",
+        "parvovirus B19",
+        "hydrops fetalis",
+        "pathophysiology"
+      ],
+      "topicId": "torch-infections",
+      "topicName": "TORCH Infections",
+      "tier": "core"
+    },
+    {
+      "id": "rp53-005",
+      "stem": "A 30-year-old woman at 26 weeks' gestation develops fever, myalgias, and fatigue that resemble influenza. For the past month she has eaten refrigerated deli sandwiches and soft cheese made from unpasteurized milk nearly every day. Blood cultures are obtained. Which of the following best describes the organism most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gram-negative rod that commonly causes neonatal meningitis"
+        },
+        {
+          "label": "B",
+          "text": "Gram-positive rod with tumbling motility that grows at 4 C"
+        },
+        {
+          "label": "C",
+          "text": "Intracellular parasite whose reproductive cycle occurs in cats"
+        },
+        {
+          "label": "D",
+          "text": "Nonenveloped single-stranded DNA virus that binds P antigen"
+        },
+        {
+          "label": "E",
+          "text": "Virus that establishes lifelong latency within myeloid cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Listeria monocytogenes is a gram-positive rod with tumbling motility that grows at refrigerator temperature, acquired from deli meats and unpasteurized dairy.",
+        "whyCorrect": "Listeria monocytogenes is a facultatively anaerobic gram-positive rod with distinct tumbling motility that grows well at 4 C, which is why cold cuts and cheeses are frequently recalled. In pregnancy, listeriosis is a nonspecific flu-like illness, but it can cause spontaneous abortion, third-trimester fetal demise, prematurity, granulomatosis infantiseptica and neonatal sepsis or meningitis.",
+        "whyWrongByChoice": {
+          "A": "E. coli is a common cause of neonatal meningitis but is not linked to refrigerated deli meat and soft cheese the way the cold-tolerant gram-positive Listeria is.",
+          "C": "Toxoplasma gondii reproduces in cats and is acquired from cat feces or undercooked meat; it is not a bacterium recovered in blood cultures.",
+          "D": "This describes parvovirus B19, which spreads among children with fifth disease, not through refrigerated foods.",
+          "E": "Lifelong latency in myeloid cells describes cytomegalovirus, which is not acquired from contaminated deli food."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TORCH",
+        "Listeria monocytogenes",
+        "microbiology"
+      ],
+      "topicId": "torch-infections",
+      "topicName": "TORCH Infections",
+      "tier": "core"
+    },
+    {
+      "id": "rp53-006",
+      "stem": "A 25-year-old primigravida at 39 weeks' gestation presents in active labor with intact membranes. Speculum examination shows several painful vesicles and shallow ulcers on the vulva, which she says appeared for the first time 5 days ago. Which of the following is the most appropriate step to reduce the risk of infection in her newborn?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allow vaginal birth with scalp monitoring"
+        },
+        {
+          "label": "B",
+          "text": "Give immune globulin to the mother"
+        },
+        {
+          "label": "C",
+          "text": "Give intrapartum penicillin and continue labor"
+        },
+        {
+          "label": "D",
+          "text": "Give spiramycin and allow vaginal birth"
+        },
+        {
+          "label": "E",
+          "text": "Proceed with cesarean delivery"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cesarean delivery is recommended when active genital herpes lesions are present at labor.",
+        "whyCorrect": "Most neonatal HSV infections are acquired by contact with genital lesions or viral shedding during vaginal delivery, and the risk is highest with a primary genital infection near delivery, exactly as in this patient. Cesarean delivery is recommended when active genital lesions are present during labor to reduce neonatal transmission; acyclovir is the antiviral for both parent and infant.",
+        "whyWrongByChoice": {
+          "A": "Vaginal birth exposes the newborn to active lesions, and scalp monitoring breaches fetal skin; it does not reduce transmission.",
+          "B": "Immune globulin is the post-exposure measure for susceptible pregnant people exposed to varicella-zoster virus, not genital herpes.",
+          "C": "Penicillin is the treatment for syphilis; it has no activity against HSV and continuing labor keeps the infant exposed to lesions.",
+          "D": "Spiramycin is used for toxoplasmosis before 18 weeks of gestation and does nothing to prevent intrapartum HSV exposure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TORCH",
+        "herpes simplex virus",
+        "prevention",
+        "cesarean delivery"
+      ],
+      "topicId": "torch-infections",
+      "topicName": "TORCH Infections",
+      "tier": "core"
+    },
+    {
+      "id": "rp53-007",
+      "stem": "A healthy-appearing newborn is delivered to a 29-year-old woman with HIV who took combination antiretroviral therapy throughout pregnancy. The infant is started on antiretroviral prophylaxis. Which of the following is the most appropriate way to determine whether the infant has acquired HIV?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4+ T-cell count at 1 month of age"
+        },
+        {
+          "label": "B",
+          "text": "HIV IgG antibody testing repeated at 6 months"
+        },
+        {
+          "label": "C",
+          "text": "HIV nucleic acid test at several time points"
+        },
+        {
+          "label": "D",
+          "text": "HIV-1/2 antibody immunoassay at birth"
+        },
+        {
+          "label": "E",
+          "text": "Maternal viral load measured at the delivery"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "HIV-exposed infants are tested with HIV RNA or DNA PCR, repeated during infancy, because maternal IgG crosses the placenta.",
+        "whyCorrect": "HIV IgG antibodies cross the placenta and can persist in the infant for up to 18 months, so antibody tests cannot distinguish infant infection from passively acquired maternal antibody. Virologic testing with an HIV nucleic acid test (RNA or DNA PCR) is performed at multiple time points during infancy; exposed infants receive antiretroviral prophylaxis and confirmed infection is treated with ART as soon as possible.",
+        "whyWrongByChoice": {
+          "A": "A CD4 count does not diagnose HIV infection in an infant; virologic testing is required.",
+          "B": "Maternal IgG can persist for up to 18 months, so antibody testing at 6 months remains uninterpretable.",
+          "D": "A positive antibody test at birth would reflect maternal IgG that crossed the placenta, not infant infection.",
+          "E": "Maternal viral load informs transmission risk but cannot tell whether this infant is infected."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TORCH",
+        "HIV",
+        "diagnosis",
+        "newborn"
+      ],
+      "topicId": "torch-infections",
+      "topicName": "TORCH Infections",
+      "tier": "core"
+    },
+    {
+      "id": "rp53-008",
+      "stem": "Most TORCH pathogens reach the fetus by crossing the placenta. Which of the following is most often acquired instead through the newborn's contact with the birth canal during vaginal delivery?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "C",
+          "text": "Rubella virus"
+        },
+        {
+          "label": "D",
+          "text": "Toxoplasma gondii"
+        },
+        {
+          "label": "E",
+          "text": "Zika virus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HSV-2 is transmitted mainly perinatally, through contact with vaginal mucosa or lesions during vaginal delivery.",
+        "whyCorrect": "The most common route for TORCH infections is transplacental, but HSV-2 is transmitted predominantly perinatally, when the newborn contacts an active genital tract infection or shed virus during vaginal labor and delivery. HIV is another exception, spreading transplacentally, during birth, or in breast milk.",
+        "whyWrongByChoice": {
+          "A": "Congenital CMV results from primary or reactivated maternal infection crossing the placenta.",
+          "C": "Rubella causes congenital disease by transplacental spread, especially in the first 10 weeks.",
+          "D": "Toxoplasma gondii crosses the placenta, with transmission risk highest in the third trimester.",
+          "E": "Congenital Zika syndrome results primarily from transplacental transmission after maternal infection."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "TORCH",
+        "transmission",
+        "herpes simplex virus"
+      ],
+      "topicId": "torch-infections",
+      "topicName": "TORCH Infections",
+      "tier": "core"
+    },
+    {
+      "id": "rp53-009",
+      "stem": "A 31-year-old woman at 14 weeks' gestation is found to have newly positive Toxoplasma gondii-specific IgM a few weeks after she began cleaning a neighbor's cat litter box. She has mild fatigue and cervical lymphadenopathy. Which of the following is the most appropriate pharmacotherapy for her at this point?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ampicillin plus gentamicin"
+        },
+        {
+          "label": "B",
+          "text": "Oral acyclovir"
+        },
+        {
+          "label": "C",
+          "text": "Oral valganciclovir"
+        },
+        {
+          "label": "D",
+          "text": "Pyrimethamine-sulfadiazine plus folinic acid"
+        },
+        {
+          "label": "E",
+          "text": "Spiramycin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Maternal toxoplasmosis before 18 weeks of gestation is treated with spiramycin.",
+        "whyCorrect": "Symptomatic adult toxoplasmosis may cause aches, mild fevers, fatigue and swollen lymph nodes. For the birth parent, spiramycin is used if the pregnancy is under 18 weeks; pyrimethamine-sulfadiazine with folinic acid is used after 18 weeks. At 14 weeks, spiramycin is the correct choice.",
+        "whyWrongByChoice": {
+          "A": "Ampicillin plus an aminoglycoside treats Listeria, not a protozoan infection.",
+          "B": "Acyclovir treats herpes simplex infection and has no activity against Toxoplasma.",
+          "C": "Ganciclovir or valganciclovir is given to symptomatic infants with congenital CMV.",
+          "D": "Pyrimethamine-sulfadiazine with folinic acid is reserved for pregnancies beyond 18 weeks; at 14 weeks spiramycin is used."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TORCH",
+        "toxoplasmosis",
+        "treatment",
+        "pregnancy"
+      ],
+      "topicId": "torch-infections",
+      "topicName": "TORCH Infections",
+      "tier": "core"
+    },
+    {
+      "id": "rp53-010",
+      "stem": "A 26-year-old woman at 12 weeks' gestation spent an afternoon with her nephew, who was diagnosed with chickenpox the next day. She has never had the illness and was never immunized; serology shows no varicella IgG. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Begin oral spiramycin until delivery"
+        },
+        {
+          "label": "B",
+          "text": "Give the live-attenuated vaccine today"
+        },
+        {
+          "label": "C",
+          "text": "Give varicella-zoster immune globulin"
+        },
+        {
+          "label": "D",
+          "text": "Plan cesarean delivery at term"
+        },
+        {
+          "label": "E",
+          "text": "Reassure her that only late exposure matters"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A susceptible pregnant person exposed to VZV should receive varicella-zoster immune globulin (VariZIG), ideally within 10 days.",
+        "whyCorrect": "Congenital varicella syndrome occurs most commonly with transmission during the first 20 weeks and can cause limb hypoplasia, dermatomal scarring, eye defects, neurologic abnormalities and growth restriction. Prevention relies on vaccination before pregnancy, because the live-attenuated vaccine is contraindicated during pregnancy; a susceptible exposed pregnant person should receive VariZIG within 10 days of exposure to reduce disease severity.",
+        "whyWrongByChoice": {
+          "A": "Spiramycin treats early maternal toxoplasmosis and has no role after varicella exposure.",
+          "B": "The live-attenuated varicella vaccine is contraindicated during pregnancy; vaccination belongs before conception.",
+          "D": "Cesarean delivery is the measure for active genital herpes at labor; it does not prevent transplacental varicella.",
+          "E": "Congenital varicella syndrome occurs mostly with infection in the first 20 weeks, so a 12-week exposure is the high-risk window."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TORCH",
+        "varicella-zoster virus",
+        "prevention",
+        "immune globulin"
+      ],
+      "topicId": "torch-infections",
+      "topicName": "TORCH Infections",
+      "tier": "core"
+    },
+    {
+      "id": "rp53-011",
+      "stem": "A 28-year-old woman who has not left her home city conceives shortly after her husband returns from 2 months of work in a region with an ongoing Aedes mosquito-borne outbreak. Fetal ultrasonography at 24 weeks shows severe microcephaly, ventriculomegaly, and intracranial calcifications. Which of the following pathogens is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Listeria monocytogenes"
+        },
+        {
+          "label": "B",
+          "text": "Parvovirus B19"
+        },
+        {
+          "label": "C",
+          "text": "Rubella virus"
+        },
+        {
+          "label": "D",
+          "text": "Toxoplasma gondii"
+        },
+        {
+          "label": "E",
+          "text": "Zika virus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Zika virus, spread by Aedes mosquitoes and also sexually, causes congenital Zika syndrome with severe microcephaly, calcifications and ventriculomegaly.",
+        "whyCorrect": "Zika virus is most commonly spread by infected Aedes mosquitoes but can also be transmitted through sexual contact and blood transfusion, so a returning partner can infect a pregnant person who never traveled. Transplacental infection disrupts brain development, causing severe microcephaly, intracranial calcifications, ventriculomegaly, ocular abnormalities and neurodevelopmental impairment, with the greatest risk in the first trimester.",
+        "whyWrongByChoice": {
+          "A": "Listeria is foodborne and causes fetal demise, prematurity, granulomatosis infantiseptica and sepsis, not severe microcephaly.",
+          "B": "Fetal parvovirus B19 infection causes hydrops, aplastic anemia or stillbirth rather than severe microcephaly.",
+          "C": "Congenital rubella causes cataracts, PDA and deafness; it is not linked to a mosquito-borne outbreak.",
+          "D": "Toxoplasma is acquired from cat feces, undercooked meat or contaminated produce, not from a partner returning from a mosquito-borne outbreak."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "TORCH",
+        "Zika virus",
+        "congenital Zika syndrome"
+      ],
+      "topicId": "torch-infections",
+      "topicName": "TORCH Infections",
+      "tier": "core"
+    },
+    {
+      "id": "rp53-012",
+      "stem": "A 3-day-old girl whose mother had minimal prenatal care is small for gestational age with microcephaly, hepatosplenomegaly, jaundice, thrombocytopenia, and scattered purple-blue 'blueberry muffin' lesions. The team is weighing congenital cytomegalovirus infection against congenital rubella syndrome. Which of the following additional findings would most strongly favor congenital rubella syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral opacities of the lens"
+        },
+        {
+          "label": "B",
+          "text": "Bilateral sensorineural hearing loss"
+        },
+        {
+          "label": "C",
+          "text": "Calcifications lining the lateral ventricles"
+        },
+        {
+          "label": "D",
+          "text": "Grouped vesicles on an erythematous base"
+        },
+        {
+          "label": "E",
+          "text": "Inflammation of the choroid and retina"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cataracts (and PDA) distinguish congenital rubella syndrome from congenital CMV, which causes chorioretinitis and periventricular calcifications.",
+        "whyCorrect": "Microcephaly, hepatosplenomegaly, thrombocytopenia, growth restriction and a blueberry muffin rash are shared by congenital CMV and CRS. The most important distinction is that CRS causes cataracts (lens opacity) and patent ductus arteriosus, whereas CMV causes chorioretinitis (inflammation of the choroid and retina) and periventricular calcifications.",
+        "whyWrongByChoice": {
+          "B": "Sensorineural deafness occurs in both congenital CMV and CRS, so it does not discriminate between them.",
+          "C": "Periventricular calcifications favor congenital CMV, not rubella.",
+          "D": "Grouped vesicles on an erythematous base suggest neonatal HSV and do not support either CMV or rubella.",
+          "E": "Chorioretinitis favors congenital CMV (or toxoplasmosis); rubella causes cataracts and retinopathy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TORCH",
+        "congenital rubella syndrome",
+        "cytomegalovirus",
+        "differential diagnosis"
+      ],
+      "topicId": "torch-infections",
+      "topicName": "TORCH Infections",
+      "tier": "core"
+    },
+    {
+      "id": "rp54-001",
+      "stem": "Doppler ultrasonography of a fetus at 30 weeks' gestation shows that about half of the blood in the umbilical vein enters a channel that drains into the inferior vena cava. This channel allows oxygenated placental blood to bypass which of the following fetal organs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brain"
+        },
+        {
+          "label": "B",
+          "text": "Kidneys"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Lungs"
+        },
+        {
+          "label": "E",
+          "text": "Spleen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The ductus venosus carries umbilical venous blood past the fetal liver into the IVC.",
+        "whyCorrect": "The ductus venosus is the first fetal shunt. Within the liver, about half of umbilical venous blood enters it and is carried straight to the inferior vena cava and right atrium, bypassing the liver, an organ with low oxygen needs in utero, so oxygenated blood reaches the heart and brain sooner.",
+        "whyWrongByChoice": {
+          "A": "The brain is a high-oxygen-need organ; shunts exist to get oxygenated blood TO it faster, not around it.",
+          "B": "No fetal shunt is described that diverts blood around the kidneys.",
+          "D": "The lungs are bypassed by the foramen ovale and ductus arteriosus, not by the channel from umbilical vein to IVC.",
+          "E": "The spleen is not bypassed by any of the three fetal shunts."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fetal circulation",
+        "ductus venosus"
+      ],
+      "topicId": "fetal-and-postnatal-circulation",
+      "topicName": "Fetal and Postnatal Circulation",
+      "tier": "core"
+    },
+    {
+      "id": "rp54-002",
+      "stem": "A fetal cardiologist reviews normal hemodynamics in a fetus at 34 weeks' gestation. Which of the following best describes the relationship between the two atrial pressures and its cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left exceeds right, because pulmonary venous return is high"
+        },
+        {
+          "label": "B",
+          "text": "Left exceeds right, because systemic vascular resistance is high"
+        },
+        {
+          "label": "C",
+          "text": "Right exceeds left, because pulmonary vascular resistance is high"
+        },
+        {
+          "label": "D",
+          "text": "Right exceeds left, because systemic vascular resistance is high"
+        },
+        {
+          "label": "E",
+          "text": "The two are equal, because the foramen ovale is open"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In the fetus, high pulmonary vascular resistance makes right atrial pressure exceed left atrial pressure.",
+        "whyCorrect": "Uninflated, fluid-filled fetal lungs create high pulmonary vascular resistance and reduced pulmonary blood flow. This raises right atrial pressure and lowers left atrial pressure (little pulmonary venous return), producing the right-to-left gradient that drives blood through the foramen ovale.",
+        "whyWrongByChoice": {
+          "A": "Pulmonary blood flow, and thus pulmonary venous return, is reduced in the fetus; LA > RA is the postnatal pattern.",
+          "B": "In the fetus the left atrium has the LOWER pressure, and systemic vascular resistance is low because of the placenta.",
+          "D": "The direction is right, but the cause is wrong: the low-resistance placenta keeps fetal SVR low.",
+          "E": "There is a right-to-left gradient across the foramen ovale; that gradient is what drives flow through it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fetal circulation",
+        "atrial pressures",
+        "pulmonary vascular resistance"
+      ],
+      "topicId": "fetal-and-postnatal-circulation",
+      "topicName": "Fetal and Postnatal Circulation",
+      "tier": "core"
+    },
+    {
+      "id": "rp54-003",
+      "stem": "A researcher compares oxygen binding of hemoglobin from umbilical cord blood with that of hemoglobin from the mother's blood. Which property of the cord blood hemoglobin allows the fetus to extract oxygen from placental blood?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Equal affinity, with exchange by direct blood mixing"
+        },
+        {
+          "label": "B",
+          "text": "Equal affinity, with oxygen loading in the fetal lungs"
+        },
+        {
+          "label": "C",
+          "text": "Higher affinity for carbon dioxide than for oxygen"
+        },
+        {
+          "label": "D",
+          "text": "Higher affinity for oxygen than maternal hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Lower affinity for oxygen than maternal hemoglobin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fetal hemoglobin (HbF) binds oxygen more avidly than adult hemoglobin (HbA).",
+        "whyCorrect": "HbF has a higher affinity for oxygen than HbA, so when mother and fetus compete for an oxygen molecule the fetus wins. This lets the fetus extract the maximal amount of oxygen from placental blood.",
+        "whyWrongByChoice": {
+          "A": "Maternal and fetal blood do not mix in the placenta; exchange is by diffusion across placental structures.",
+          "B": "Fetal lungs contain amniotic fluid and perform no gas exchange.",
+          "C": "The relevant property is fetal hemoglobin's greater affinity for oxygen, not a preference for carbon dioxide.",
+          "E": "A lower affinity would let the mother win the competition for oxygen, the opposite of what the fetus needs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fetal hemoglobin",
+        "oxygen affinity"
+      ],
+      "topicId": "fetal-and-postnatal-circulation",
+      "topicName": "Fetal and Postnatal Circulation",
+      "tier": "core"
+    },
+    {
+      "id": "rp54-004",
+      "stem": "During thoracic surgery on a 60-year-old man, the surgeon notes a fibrous band connecting the pulmonary artery to the proximal descending aorta just distal to the origin of the left subclavian artery. This band is the remnant of which fetal structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Distal umbilical artery"
+        },
+        {
+          "label": "B",
+          "text": "Ductus arteriosus"
+        },
+        {
+          "label": "C",
+          "text": "Ductus venosus"
+        },
+        {
+          "label": "D",
+          "text": "Foramen ovale"
+        },
+        {
+          "label": "E",
+          "text": "Umbilical vein"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The ductus arteriosus becomes the ligamentum arteriosum.",
+        "whyCorrect": "The ductus arteriosus connects the pulmonary artery to the proximal descending aorta, distal to the left subclavian artery. After functional closure in the first days of life it closes anatomically to form the ligamentum arteriosum.",
+        "whyWrongByChoice": {
+          "A": "The distal umbilical arteries become the medial umbilical ligaments.",
+          "C": "The ductus venosus lies within the liver and becomes the ligamentum venosum.",
+          "D": "The foramen ovale is an opening in the atrial septum; its remnant is the fossa ovalis.",
+          "E": "The umbilical vein becomes the ligamentum teres of the liver."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adult remnants",
+        "ductus arteriosus"
+      ],
+      "topicId": "fetal-and-postnatal-circulation",
+      "topicName": "Fetal and Postnatal Circulation",
+      "tier": "core"
+    },
+    {
+      "id": "rp54-005",
+      "stem": "In a fetus, blood reaching the coronary and carotid arteries has a higher oxygen saturation than blood in the descending aorta below the aortic arch. Which anatomic feature best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The ductus arteriosus joins the aorta distal to the arch branches"
+        },
+        {
+          "label": "B",
+          "text": "The ductus venosus empties directly into the ascending aorta"
+        },
+        {
+          "label": "C",
+          "text": "The foramen ovale directs SVC blood into the left atrium"
+        },
+        {
+          "label": "D",
+          "text": "The pulmonary veins return oxygenated blood from the fetal lungs"
+        },
+        {
+          "label": "E",
+          "text": "The umbilical arteries arise from the ascending aorta"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Deoxygenated ductal blood enters the aorta after the arch branches, so the heart and brain get the better-oxygenated blood.",
+        "whyCorrect": "Oxygenated blood from the left ventricle enters the ascending aorta (about 62%) and supplies the coronary and carotid arteries first. The ductus arteriosus inserts into the proximal descending aorta distal to the left subclavian artery, so its deoxygenated right-ventricular blood mixes in only downstream, lowering descending aortic saturation (about 58%).",
+        "whyWrongByChoice": {
+          "B": "The ductus venosus drains into the inferior vena cava, not the aorta.",
+          "C": "The foramen ovale preferentially carries oxygenated IVC blood; SVC blood is directed to the right ventricle.",
+          "D": "Fetal lungs perform no gas exchange, so pulmonary venous blood is not oxygenated by them.",
+          "E": "The umbilical arteries return deoxygenated blood to the placenta and do not explain arch saturation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fetal circulation",
+        "oxygen saturation",
+        "ductus arteriosus"
+      ],
+      "topicId": "fetal-and-postnatal-circulation",
+      "topicName": "Fetal and Postnatal Circulation",
+      "tier": "core"
+    },
+    {
+      "id": "rp54-006",
+      "stem": "Seconds after delivery, a term newborn cries vigorously and his lungs fill with air. Which sequence best explains the functional closure of his foramen ovale?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bradykinin from the lungs constricts the muscle of the atrial septum"
+        },
+        {
+          "label": "B",
+          "text": "Cord clamping lowers systemic resistance and left atrial pressure"
+        },
+        {
+          "label": "C",
+          "text": "Falling PVR increases pulmonary venous return and left atrial pressure"
+        },
+        {
+          "label": "D",
+          "text": "Rising prostaglandin E2 constricts the rim of the septum secundum"
+        },
+        {
+          "label": "E",
+          "text": "Rising PVR increases right atrial pressure above left atrial pressure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "First breaths drop PVR, raising LA pressure above RA pressure and closing the foramen ovale.",
+        "whyCorrect": "Air replaces lung fluid, oxygen tension rises and the pulmonary vessels dilate, so PVR falls. Pulmonary blood flow and venous return to the left atrium increase, raising LA pressure, while RA pressure falls. The reversed gradient presses the septum primum against the septum secundum, functionally closing the foramen ovale.",
+        "whyWrongByChoice": {
+          "A": "Bradykinin contributes to constriction of the ductus arteriosus and umbilical vessels, not to atrial septal closure.",
+          "B": "Cord clamping RAISES systemic vascular resistance, and LA pressure must rise, not fall.",
+          "D": "Prostaglandin levels fall after birth, and the foramen ovale closes by a pressure flap, not by constriction.",
+          "E": "PVR falls after the first breaths, and closure requires LA pressure to exceed RA pressure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "postnatal transition",
+        "foramen ovale"
+      ],
+      "topicId": "fetal-and-postnatal-circulation",
+      "topicName": "Fetal and Postnatal Circulation",
+      "tier": "core"
+    },
+    {
+      "id": "rp54-007",
+      "stem": "A boy born at 28 weeks' gestation develops tachypnea and pulmonary congestion on day 4 of life. Echocardiography shows blood flowing from the aorta into the pulmonary artery through a persistent fetal vessel. Which of the following is the most appropriate pharmacotherapy to promote closure of this vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bradykinin blockade, to relax ductal muscle"
+        },
+        {
+          "label": "B",
+          "text": "Hypoxic gas, to lower blood oxygen tension"
+        },
+        {
+          "label": "C",
+          "text": "Ibuprofen, to inhibit cyclooxygenase"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin E1, to inhibit cyclooxygenase"
+        },
+        {
+          "label": "E",
+          "text": "Prostaglandin E2, to constrict ductal muscle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In premature infants with PDA, indomethacin or ibuprofen lowers prostaglandins and promotes ductal closure.",
+        "whyCorrect": "This is a patent ductus arteriosus with left-to-right (aorta to pulmonary artery) flow causing lung congestion. Prostaglandins keep the ductus open, so a cyclooxygenase inhibitor such as ibuprofen or indomethacin lowers prostaglandin levels and promotes closure in premature infants.",
+        "whyWrongByChoice": {
+          "A": "Bradykinin promotes ductal constriction, so blocking it would work against closure.",
+          "B": "Low oxygen saturation helps keep the ductus open; rising oxygen tension promotes closure.",
+          "D": "Prostaglandin E1 keeps the ductus open; it is not a cyclooxygenase inhibitor.",
+          "E": "Prostaglandin E2 maintains ductal patency in utero; giving it would oppose closure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "patent ductus arteriosus",
+        "prostaglandins",
+        "pharmacology"
+      ],
+      "topicId": "fetal-and-postnatal-circulation",
+      "topicName": "Fetal and Postnatal Circulation",
+      "tier": "core"
+    },
+    {
+      "id": "rp54-008",
+      "stem": "A pregnant woman at 32 weeks' gestation asks why the fetal vessel connecting the pulmonary artery to the aorta does not close before birth. Which combination of factors keeps it open in utero?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fetal hemoglobin with high left atrial pressure"
+        },
+        {
+          "label": "B",
+          "text": "Local prostaglandins with low oxygen saturation"
+        },
+        {
+          "label": "C",
+          "text": "Placental bradykinin with high oxygen saturation"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary bradykinin with high pulmonary blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Rising oxygen tension with falling prostaglandin E2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Prostaglandins (PGE1/PGE2) from the placenta and ductus, plus low fetal oxygen saturation, keep the ductus arteriosus open.",
+        "whyCorrect": "The ductus arteriosus is held open in utero by prostaglandins (PGE1 and PGE2) produced by the placenta and the ductus itself, together with the relatively low oxygen saturation of the blood passing through it. After birth, falling PGE2 and rising oxygen tension reverse this.",
+        "whyWrongByChoice": {
+          "A": "Neither factor maintains ductal patency; fetal LA pressure is low.",
+          "C": "Bradykinin and high oxygen tension both promote constriction of the ductus after birth.",
+          "D": "Bradykinin from expanding lungs is a postnatal constrictor, and fetal pulmonary blood flow is low.",
+          "E": "These are the changes after birth that close the ductus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ductus arteriosus",
+        "prostaglandins",
+        "fetal circulation"
+      ],
+      "topicId": "fetal-and-postnatal-circulation",
+      "topicName": "Fetal and Postnatal Circulation",
+      "tier": "core"
+    },
+    {
+      "id": "rp54-009",
+      "stem": "A fetus at 26 weeks' gestation undergoes ultrasound-guided sampling of cord blood. A sample drawn from which vessel will have the highest oxygen saturation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Descending aorta"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary artery"
+        },
+        {
+          "label": "C",
+          "text": "Superior vena cava"
+        },
+        {
+          "label": "D",
+          "text": "Umbilical artery"
+        },
+        {
+          "label": "E",
+          "text": "Umbilical vein"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The umbilical vein carries the most oxygenated blood (about 80%) from placenta to fetus.",
+        "whyCorrect": "Unlike adult veins, the umbilical vein carries highly oxygenated blood (about 80%) from the placenta through the umbilical cord toward the fetal liver and heart.",
+        "whyWrongByChoice": {
+          "A": "Descending aortic blood is a mixture that includes ductal blood (about 58%).",
+          "B": "Pulmonary artery blood comes mainly from the right ventricle and is relatively desaturated (about 52%).",
+          "C": "The SVC carries deoxygenated blood returning from upper fetal tissues (about 25%).",
+          "D": "The umbilical arteries carry deoxygenated blood from the fetus back to the placenta."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "umbilical vein",
+        "oxygen saturation"
+      ],
+      "topicId": "fetal-and-postnatal-circulation",
+      "topicName": "Fetal and Postnatal Circulation",
+      "tier": "core"
+    },
+    {
+      "id": "rp54-010",
+      "stem": "During pelvic surgery on a 45-year-old man, the surgeon traces the superior vesical arteries supplying the upper bladder. From which fetal structure do these arteries derive, and why do they remain patent after birth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Distal umbilical arteries, kept open by internal iliac inflow"
+        },
+        {
+          "label": "B",
+          "text": "Ductus venosus, kept open by hepatic sinusoidal inflow"
+        },
+        {
+          "label": "C",
+          "text": "Proximal umbilical arteries, kept open by internal iliac inflow"
+        },
+        {
+          "label": "D",
+          "text": "Proximal umbilical arteries, kept open by prostaglandin E2"
+        },
+        {
+          "label": "E",
+          "text": "Umbilical vein, kept open by portal venous inflow"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Proximal umbilical arteries persist as the superior vesical arteries.",
+        "whyCorrect": "After birth the distal umbilical arteries constrict and become the medial umbilical ligaments, but the proximal segments keep receiving blood from the internal iliac arteries and are less responsive to vasoconstrictive stimuli. They persist as the right and left superior vesical arteries, which supply the superior bladder.",
+        "whyWrongByChoice": {
+          "A": "The distal segments constrict and become the medial umbilical ligaments.",
+          "B": "The ductus venosus closes and becomes the ligamentum venosum.",
+          "D": "Prostaglandin levels fall after birth; the proximal segments stay open because of continued blood supply.",
+          "E": "The umbilical vein obliterates to form the ligamentum teres of the liver."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "umbilical arteries",
+        "adult remnants",
+        "postnatal transition"
+      ],
+      "topicId": "fetal-and-postnatal-circulation",
+      "topicName": "Fetal and Postnatal Circulation",
+      "tier": "core"
+    },
+    {
+      "id": "rp54-011",
+      "stem": "Immediately after delivery, the obstetrician clamps the umbilical cord of a healthy newborn. Which hemodynamic change results directly from removing the placenta from the circulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased systemic vascular resistance"
+        },
+        {
+          "label": "B",
+          "text": "Increased circulating prostaglandin E2"
+        },
+        {
+          "label": "C",
+          "text": "Increased pulmonary vascular resistance"
+        },
+        {
+          "label": "D",
+          "text": "Increased right atrial pressure"
+        },
+        {
+          "label": "E",
+          "text": "Increased systemic vascular resistance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cord clamping removes the low-resistance placenta and raises systemic vascular resistance.",
+        "whyCorrect": "The placenta is a low-resistance vascular structure that keeps fetal SVR low. Clamping the cord removes it, increasing SVR, which together with the rise in left atrial pressure helps reverse the fetal right-to-left gradients.",
+        "whyWrongByChoice": {
+          "A": "The placenta is a low-resistance bed; removing it raises, not lowers, SVR.",
+          "B": "Circulating PGE2 declines after cord clamping because its placental source is lost.",
+          "C": "PVR falls after birth as oxygen tension rises with breathing.",
+          "D": "Right atrial pressure falls after birth as PVR drops."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "postnatal transition",
+        "systemic vascular resistance",
+        "cord clamping"
+      ],
+      "topicId": "fetal-and-postnatal-circulation",
+      "topicName": "Fetal and Postnatal Circulation",
+      "tier": "core"
+    },
+    {
+      "id": "rp54-012",
+      "stem": "In a fetus at 32 weeks' gestation, deoxygenated blood returns from the head and upper limbs through the superior vena cava. Which pathway does most of this blood follow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA, ductus venosus, IVC, foramen ovale, left atrium"
+        },
+        {
+          "label": "B",
+          "text": "RA, foramen ovale, LA, LV, ascending aorta, carotid arteries"
+        },
+        {
+          "label": "C",
+          "text": "RA, RV, ductus arteriosus, ascending aorta, carotid arteries"
+        },
+        {
+          "label": "D",
+          "text": "RA, RV, pulmonary artery, ductus arteriosus, descending aorta"
+        },
+        {
+          "label": "E",
+          "text": "RA, RV, pulmonary artery, lungs, pulmonary veins, left atrium"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "SVC blood is streamed to the right ventricle and leaves via the pulmonary artery and ductus arteriosus to the descending aorta.",
+        "whyCorrect": "Deoxygenated SVC blood is kept somewhat separate from the oxygenated IVC stream and directed to the right ventricle. From the pulmonary artery it meets the ductus arteriosus, which, because of high PVR and low SVR, shunts it into the proximal descending aorta and on to the organs and placenta.",
+        "whyWrongByChoice": {
+          "A": "The ductus venosus carries umbilical venous blood to the IVC; it does not receive blood from the right atrium.",
+          "B": "This is the path of the oxygenated IVC stream, which is preferentially directed across the foramen ovale.",
+          "C": "The ductus enters the descending aorta distal to the arch branches, not the ascending aorta.",
+          "E": "High pulmonary vascular resistance diverts most right ventricular output through the ductus rather than the lungs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fetal circulation",
+        "superior vena cava",
+        "ductus arteriosus"
+      ],
+      "topicId": "fetal-and-postnatal-circulation",
+      "topicName": "Fetal and Postnatal Circulation",
+      "tier": "core"
+    }
+  ]
+}

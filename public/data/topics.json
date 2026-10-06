@@ -490,7 +490,148 @@
       "week": 4,
       "weekName": "Week 4",
       "weekSubtitle": "Pregnancy, Complications & Reproductive Rights"
+    },
+    {
+      "id": "w5s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "uncomplicated-labor-delivery-and-postpartum-care",
+          "name": "Uncomplicated Labor, Delivery, and Postpartum Care",
+          "sourceFile": "Repro Brick 50",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "complications-of-labor-delivery-and-postpartum",
+          "name": "Complications of Labor, Delivery, and Postpartum",
+          "sourceFile": "Repro Brick 51",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "birth-outcomes-maternal-and-infant-health",
+          "name": "Birth Outcomes: Maternal and Infant Health",
+          "sourceFile": "Repro Brick 52",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": "Labor, Delivery, Postpartum & Neonatal Care"
+    },
+    {
+      "id": "w5s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "torch-infections",
+          "name": "TORCH Infections",
+          "sourceFile": "Repro Brick 53",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "fetal-and-postnatal-circulation",
+          "name": "Fetal and Postnatal Circulation",
+          "sourceFile": "Repro Brick 54",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": "Labor, Delivery, Postpartum & Neonatal Care"
+    },
+    {
+      "id": "w5s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "postnatal-care-part-1-of-2",
+          "name": "Postnatal Care: Part 1 of 2",
+          "sourceFile": "Repro Brick 55",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "postnatal-care-part-2-of-2",
+          "name": "Postnatal Care: Part 2 of 2",
+          "sourceFile": "Repro Brick 56",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "neonatal-assessment-and-pediatric-milestones",
+          "name": "Neonatal Assessment and Pediatric Milestones",
+          "sourceFile": "Repro Brick 57",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": "Labor, Delivery, Postpartum & Neonatal Care"
+    },
+    {
+      "id": "w6s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "benign-breast-disorders",
+          "name": "Benign Breast Disorders",
+          "sourceFile": "Repro Brick 58",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "breast-cancer-classification-and-pathogenesis",
+          "name": "Breast Cancer: Classification and Pathogenesis",
+          "sourceFile": "Repro Brick 59",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "breast-cancer-presentation-and-management",
+          "name": "Breast Cancer: Presentation and Management",
+          "sourceFile": "Repro Brick 60",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 6,
+      "weekName": "Week 6",
+      "weekSubtitle": "Breast Health & Breast Cancer"
+    },
+    {
+      "id": "w6s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "breast-cancer-screening-early-detection-to-diagnosis",
+          "name": "Breast Cancer Screening: Early Detection to Diagnosis",
+          "sourceFile": "Repro Brick 61",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 6,
+      "weekName": "Week 6",
+      "weekSubtitle": "Breast Health & Breast Cancer"
     }
   ],
-  "totalQuestions": 1764
+  "totalQuestions": 2196
 }

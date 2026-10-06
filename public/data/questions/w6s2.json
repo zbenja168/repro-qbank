@@ -1,0 +1,563 @@
+{
+  "categoryId": "w6s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "rp61-001",
+      "stem": "A 57-year-old woman is told she needs a core needle biopsy of a suspicious breast lesion. At the scheduling visit she explains that she has no car, the bus route does not reach the imaging center, and she is worried about what the procedure will cost her. Which of the following is the most appropriate next step by the clinician?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Document her concerns and defer biopsy until next year's screen"
+        },
+        {
+          "label": "B",
+          "text": "Order serum tumor markers that can be drawn at a nearby lab"
+        },
+        {
+          "label": "C",
+          "text": "Refer her to a community organization offering travel and money aid"
+        },
+        {
+          "label": "D",
+          "text": "Replace the biopsy with monthly breast self-examination at home"
+        },
+        {
+          "label": "E",
+          "text": "Schedule the biopsy and mail her the appointment details"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Community resources that provide transportation and financial support help patients complete the diagnostic pathway.",
+        "whyCorrect": "Real-world barriers such as limited transportation and financial constraints can delay or prevent follow-up even when the correct medical pathway is identified. Community organizations and cancer support groups can assist with transportation, financial support, counseling, education, and navigation, so integrating them into the plan turns the recommendation into action and prevents loss to follow-up.",
+        "whyWrongByChoice": {
+          "A": "Deferring tissue diagnosis of a suspicious lesion creates exactly the delay in diagnosis the pathway is meant to avoid.",
+          "B": "Laboratory tests do not establish a breast cancer diagnosis and do not address her barriers.",
+          "D": "Self-examination cannot replace biopsy; tissue diagnosis is required to confirm or exclude malignancy.",
+          "E": "Scheduling without addressing the stated barriers leaves the transportation and cost problems unsolved, so she is likely to miss the biopsy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "barriers to care",
+        "community resources",
+        "health equity"
+      ],
+      "topicId": "breast-cancer-screening-early-detection-to-diagnosis",
+      "topicName": "Breast Cancer Screening: Early Detection to Diagnosis",
+      "tier": "core"
+    },
+    {
+      "id": "rp61-002",
+      "stem": "A 50-year-old woman with no breast complaints and an unremarkable clinical breast exam asks why she should have a mammogram when she feels perfectly well. Which of the following best describes the primary goal of this examination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Characterizing a lump she has noticed at home"
+        },
+        {
+          "label": "B",
+          "text": "Confirming the diagnosis of a mass found on her exam"
+        },
+        {
+          "label": "C",
+          "text": "Determining the hormone receptor status of a known tumor"
+        },
+        {
+          "label": "D",
+          "text": "Finding clinically silent disease early to lower mortality"
+        },
+        {
+          "label": "E",
+          "text": "Replacing tissue sampling for any lesion that is found"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Screening is performed in asymptomatic people to detect early, clinically silent disease and reduce mortality.",
+        "whyCorrect": "Screening and diagnostic evaluation differ in patient context and intent. Screening targets asymptomatic individuals and aims to identify disease before it causes symptoms, reducing mortality through early detection.",
+        "whyWrongByChoice": {
+          "A": "A lump noticed by the patient is a symptom that would prompt diagnostic evaluation rather than screening.",
+          "B": "Her exam is unremarkable; clarifying a known abnormality is the role of diagnostic evaluation, not screening.",
+          "C": "Receptor testing (ER, PR, HER2) is performed on biopsy tissue after cancer is identified.",
+          "E": "Mammography cannot replace tissue sampling; any abnormal finding requires diagnostic workup and, if suspicious, biopsy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "screening vs diagnostic",
+        "screening mammography"
+      ],
+      "topicId": "breast-cancer-screening-early-detection-to-diagnosis",
+      "topicName": "Breast Cancer Screening: Early Detection to Diagnosis",
+      "tier": "core"
+    },
+    {
+      "id": "rp61-003",
+      "stem": "A 46-year-old woman had a screening callback last year that, on diagnostic workup, turned out to be superimposed normal tissue. This year she asks whether 3D tomosynthesis offers any advantage over standard 2D mammography for her routine screening. Which of the following is the most accurate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It creates layered images that can reduce false-positive recalls"
+        },
+        {
+          "label": "B",
+          "text": "It measures ER, PR, and HER2 status of the lesions it detects"
+        },
+        {
+          "label": "C",
+          "text": "It produces a single flat image that removes any tissue overlap"
+        },
+        {
+          "label": "D",
+          "text": "It provides a definitive diagnosis so that biopsy can be avoided"
+        },
+        {
+          "label": "E",
+          "text": "It replaces diagnostic follow-up whenever a finding appears"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "3D tomosynthesis produces layered images that improve detection of small abnormalities and reduce false-positive callbacks.",
+        "whyCorrect": "Traditional 2D mammography provides flat images in which overlapping tissue can obscure lesions or mimic findings. Tomosynthesis generates layered images, which can improve detection of small abnormalities and reduce false-positive callbacks, an advantage for a patient previously recalled for overlapping tissue.",
+        "whyWrongByChoice": {
+          "B": "Receptor status is determined by pathology testing of biopsy tissue, not by imaging.",
+          "C": "Flat images describe 2D mammography, which is the modality limited by overlapping tissue.",
+          "D": "Both 2D and 3D mammography are strictly screening tools; neither establishes a diagnosis or eliminates the need for biopsy when suspicion persists.",
+          "E": "Any abnormal finding on either modality still requires further diagnostic evaluation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "3D tomosynthesis",
+        "2D mammography",
+        "false-positive callbacks"
+      ],
+      "topicId": "breast-cancer-screening-early-detection-to-diagnosis",
+      "topicName": "Breast Cancer Screening: Early Detection to Diagnosis",
+      "tier": "core"
+    },
+    {
+      "id": "rp61-004",
+      "stem": "A 61-year-old woman without breast symptoms undergoes routine screening mammography and is notified that an area in the left breast needs further evaluation. There is no palpable abnormality on exam. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Core needle biopsy of the area before any further imaging"
+        },
+        {
+          "label": "B",
+          "text": "Hormone receptor testing on a blood sample drawn today"
+        },
+        {
+          "label": "C",
+          "text": "Referral to a medical oncologist for treatment planning"
+        },
+        {
+          "label": "D",
+          "text": "Repeat screening mammography at her next annual interval"
+        },
+        {
+          "label": "E",
+          "text": "Targeted diagnostic mammography and/or breast ultrasound"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A screening callback leads first to diagnostic imaging (targeted mammography and/or ultrasound) to characterize the finding.",
+        "whyCorrect": "Abnormal screening results call for a stepwise approach focused on clarification. The callback leads to diagnostic imaging, including targeted mammography and/or ultrasound, and the clinician then decides whether the abnormality remains suspicious enough to warrant biopsy.",
+        "whyWrongByChoice": {
+          "A": "Biopsy follows diagnostic imaging and is pursued only if suspicion remains after the finding is characterized.",
+          "B": "ER, PR, and HER2 testing is performed on biopsy tissue after cancer is identified, not on blood.",
+          "C": "Specialist referral comes after tissue diagnosis confirms malignancy, not after a screening callback.",
+          "D": "Waiting a year ignores an abnormal screen and risks a delay in diagnosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "callback",
+        "diagnostic imaging",
+        "ultrasound"
+      ],
+      "topicId": "breast-cancer-screening-early-detection-to-diagnosis",
+      "topicName": "Breast Cancer Screening: Early Detection to Diagnosis",
+      "tier": "core"
+    },
+    {
+      "id": "rp61-005",
+      "stem": "A 49-year-old woman is recalled after screening. Targeted diagnostic mammography and ultrasound show a 1.4-cm solid lesion with features that remain suspicious. She asks how a sample of the lesion will be obtained. Which of the following is the preferred initial method?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytology of expressed nipple fluid"
+        },
+        {
+          "label": "B",
+          "text": "Fine-needle aspiration for cytology"
+        },
+        {
+          "label": "C",
+          "text": "Image-guided core needle biopsy"
+        },
+        {
+          "label": "D",
+          "text": "Punch biopsy of the overlying skin"
+        },
+        {
+          "label": "E",
+          "text": "Surgical excisional biopsy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Core needle biopsy is the preferred method for most suspicious solid breast lesions.",
+        "whyCorrect": "When suspicion persists after diagnostic imaging, tissue diagnosis is required to confirm malignancy. Core needle biopsy is the preferred method for most suspicious solid breast lesions and is followed by pathology review and, if cancer is found, receptor testing.",
+        "whyWrongByChoice": {
+          "A": "Nipple fluid cytology does not sample the solid lesion and cannot replace tissue diagnosis.",
+          "B": "Fine-needle aspiration is not the preferred approach; core needle biopsy is preferred for most suspicious solid lesions.",
+          "D": "Sampling the overlying skin does not sample the lesion seen on imaging.",
+          "E": "Surgical excision is not the preferred initial method for diagnosing a suspicious solid lesion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "core needle biopsy",
+        "tissue diagnosis"
+      ],
+      "topicId": "breast-cancer-screening-early-detection-to-diagnosis",
+      "topicName": "Breast Cancer Screening: Early Detection to Diagnosis",
+      "tier": "core"
+    },
+    {
+      "id": "rp61-006",
+      "stem": "A 55-year-old woman's core needle biopsy of a suspicious breast lesion shows invasive carcinoma on pathology review. Which of the following is the most appropriate next step to guide her management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral repeat screening mammogram"
+        },
+        {
+          "label": "B",
+          "text": "ER, PR, and HER2 testing of the specimen"
+        },
+        {
+          "label": "C",
+          "text": "Fine-needle aspiration of the lesion"
+        },
+        {
+          "label": "D",
+          "text": "Serum tumor marker panel"
+        },
+        {
+          "label": "E",
+          "text": "Short-interval follow-up ultrasound"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Once biopsy identifies cancer, receptor testing (ER, PR, HER2) is performed to guide management.",
+        "whyCorrect": "Core needle biopsy is followed by pathology review and, if cancer is identified, receptor testing such as ER, PR, and HER2. These results guide further management before referral to a breast specialist or multidisciplinary team.",
+        "whyWrongByChoice": {
+          "A": "Screening is for asymptomatic people; she already has a tissue diagnosis.",
+          "C": "She already has a core needle tissue diagnosis; repeat sampling is unnecessary.",
+          "D": "Serum markers are not the step the pathway uses to guide management after a cancer diagnosis.",
+          "E": "Further imaging does not add to an established tissue diagnosis and does not guide management the way receptor status does."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "receptor testing",
+        "pathology",
+        "ER PR HER2"
+      ],
+      "topicId": "breast-cancer-screening-early-detection-to-diagnosis",
+      "topicName": "Breast Cancer Screening: Early Detection to Diagnosis",
+      "tier": "core"
+    },
+    {
+      "id": "rp61-007",
+      "stem": "A 47-year-old woman's screening mammogram report notes dense breast tissue and no suspicious findings. She asks why the radiologist commented on her density at all. Which of the following is the most accurate explanation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dense tissue can make abnormalities harder to detect"
+        },
+        {
+          "label": "B",
+          "text": "Dense tissue indicates that a cancer is already present"
+        },
+        {
+          "label": "C",
+          "text": "Dense tissue is a form of benign breast disease"
+        },
+        {
+          "label": "D",
+          "text": "Dense tissue means she no longer needs any screening"
+        },
+        {
+          "label": "E",
+          "text": "Dense tissue requires an immediate core needle biopsy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dense breast tissue can make abnormalities more difficult to detect on imaging, which is why it is reported.",
+        "whyCorrect": "Breast density reflects the proportion of fibroglandular to fatty tissue. It is a common, normal finding, but dense tissue can make abnormalities more difficult to detect on imaging, so it should be explained in practical terms of how it affects interpretation.",
+        "whyWrongByChoice": {
+          "B": "Density is not a diagnosis or an indication of cancer.",
+          "C": "Density is a common, normal finding rather than a disease.",
+          "D": "Density does not remove the need for screening.",
+          "E": "Density alone with no suspicious finding is not an indication for biopsy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "breast density",
+        "communication"
+      ],
+      "topicId": "breast-cancer-screening-early-detection-to-diagnosis",
+      "topicName": "Breast Cancer Screening: Early Detection to Diagnosis",
+      "tier": "core"
+    },
+    {
+      "id": "rp61-008",
+      "stem": "A 58-year-old woman is telephoned because she needs additional views after her screening mammogram. Which of the following statements by the clinician is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "\"Something is wrong on your mammogram, so please come in.\""
+        },
+        {
+          "label": "B",
+          "text": "\"This is almost certainly cancer, but we will confirm it.\""
+        },
+        {
+          "label": "C",
+          "text": "\"This is nothing at all, so there is no need to return.\""
+        },
+        {
+          "label": "D",
+          "text": "\"We found a tumor and will arrange surgery right away.\""
+        },
+        {
+          "label": "E",
+          "text": "\"We need more information to look at one area more closely.\""
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Callback communication should be calm and non-alarmist, focusing on the need for more information and clear next steps.",
+        "whyCorrect": "Patient-centered communication uses language focused on next actions and reassurance (\"we need more information\") rather than alarm (\"something is wrong\"). This supports understanding, reduces anxiety, and encourages timely engagement in care.",
+        "whyWrongByChoice": {
+          "A": "\"Something is wrong\" is the alarmist framing that increases fear without clarifying next steps.",
+          "B": "A callback does not confirm or strongly predict cancer; it indicates the need for more imaging.",
+          "C": "False reassurance discourages the needed follow-up imaging.",
+          "D": "No tumor has been diagnosed; imaging cannot establish a diagnosis and surgery is not the next step."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "callback",
+        "patient-centered communication"
+      ],
+      "topicId": "breast-cancer-screening-early-detection-to-diagnosis",
+      "topicName": "Breast Cancer Screening: Early Detection to Diagnosis",
+      "tier": "core"
+    },
+    {
+      "id": "rp61-009",
+      "stem": "A 54-year-old woman is told she needs diagnostic follow-up of an abnormal screening mammogram. She nods and does not mention any difficulties. Which of the following approaches by the clinician is most likely to prevent a delay in her workup?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ask about possible obstacles and build a feasible plan together"
+        },
+        {
+          "label": "B",
+          "text": "Defer the workup until her next routine screening year"
+        },
+        {
+          "label": "C",
+          "text": "Give her the order and let her schedule whenever convenient"
+        },
+        {
+          "label": "D",
+          "text": "Suggest self-examination as a substitute for the imaging"
+        },
+        {
+          "label": "E",
+          "text": "Warn her that missed visits will lead to discharge from care"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Clinicians should proactively ask about obstacles and collaborate on a practical plan rather than wait for barriers to surface.",
+        "whyCorrect": "Patient-centered care means identifying barriers and tailoring the plan to the patient's context. Clinicians should proactively ask about potential obstacles and work with patients to create a plan that supports follow-through, since a missed or delayed step can significantly affect outcomes.",
+        "whyWrongByChoice": {
+          "B": "Deferring workup of an abnormal screen causes the delay that the pathway is meant to avoid.",
+          "C": "Leaving scheduling open-ended without exploring obstacles risks loss to follow-up.",
+          "D": "Self-examination cannot replace the diagnostic evaluation an abnormal screen requires.",
+          "E": "Threatening discharge does not identify or address barriers and may push her out of care."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "patient-centered care",
+        "barriers to care"
+      ],
+      "topicId": "breast-cancer-screening-early-detection-to-diagnosis",
+      "topicName": "Breast Cancer Screening: Early Detection to Diagnosis",
+      "tier": "core"
+    },
+    {
+      "id": "rp61-010",
+      "stem": "A 32-year-old woman with a known pathogenic BRCA1 mutation asks about breast cancer screening. She has no breast symptoms. Compared with an average-risk woman, which of the following screening approaches is most appropriate for her?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An earlier or more intensive screening strategy"
+        },
+        {
+          "label": "B",
+          "text": "Immediate diagnostic biopsy of both breasts"
+        },
+        {
+          "label": "C",
+          "text": "No screening until a breast symptom develops"
+        },
+        {
+          "label": "D",
+          "text": "Self-examination alone in place of any imaging"
+        },
+        {
+          "label": "E",
+          "text": "The same routine schedule used for average-risk women"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Increased-risk individuals, such as those with a known genetic mutation, may need earlier or more intensive screening.",
+        "whyCorrect": "Risk stratification guides screening. Asymptomatic average-risk individuals follow routine pathways, whereas those with increased risk, such as a strong family history or known genetic mutation, may require earlier or more intensive screening strategies.",
+        "whyWrongByChoice": {
+          "B": "Biopsy is reserved for suspicious findings after diagnostic imaging, not for asymptomatic women without a lesion.",
+          "C": "Screening exists to find disease before symptoms appear, which matters even more at higher risk.",
+          "D": "Self-examination does not substitute for imaging-based screening.",
+          "E": "Routine schedules are for average-risk individuals; her mutation places her at increased risk."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "risk stratification",
+        "high-risk screening"
+      ],
+      "topicId": "breast-cancer-screening-early-detection-to-diagnosis",
+      "topicName": "Breast Cancer Screening: Early Detection to Diagnosis",
+      "tier": "core"
+    },
+    {
+      "id": "rp61-011",
+      "stem": "A 53-year-old woman had a normal screening mammogram 4 months ago. She now reports a firm lump in her right breast that she noticed while showering. She asks whether she can simply wait for her next annual mammogram since the last one was normal. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clinical breast exam and diagnostic imaging without delay"
+        },
+        {
+          "label": "B",
+          "text": "Order 3D tomosynthesis screening instead of a 2D study"
+        },
+        {
+          "label": "C",
+          "text": "Reassure her because of the recent normal screening study"
+        },
+        {
+          "label": "D",
+          "text": "Recommend monthly self-checks and return if it enlarges"
+        },
+        {
+          "label": "E",
+          "text": "Repeat screening mammography at the 12-month interval"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Symptomatic patients bypass routine screening and proceed directly to diagnostic evaluation, regardless of a recent normal screen.",
+        "whyCorrect": "Any breast change identified by a patient should prompt evaluation, starting with in-person clinical assessment including a clinical breast exam and followed by imaging. Symptomatic patients should bypass routine screening and go directly to diagnostic evaluation to avoid delays in diagnosis.",
+        "whyWrongByChoice": {
+          "B": "Swapping one screening modality for another still treats her as asymptomatic; she needs a diagnostic workup.",
+          "C": "A prior normal screen does not explain a new symptom; she now needs diagnostic evaluation.",
+          "D": "Watchful self-checks postpone the evaluation that a new mass requires.",
+          "E": "Waiting for the routine screen delays evaluation of a symptomatic finding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "screening vs diagnostic",
+        "palpable mass",
+        "symptomatic patient"
+      ],
+      "topicId": "breast-cancer-screening-early-detection-to-diagnosis",
+      "topicName": "Breast Cancer Screening: Early Detection to Diagnosis",
+      "tier": "core"
+    },
+    {
+      "id": "rp61-012",
+      "stem": "A 59-year-old woman has a suspicious finding on screening mammography. Diagnostic mammography and ultrasound are reported as highly suggestive of malignancy, and she is sent directly to a surgeon, who schedules a mastectomy. Which essential step required for a definitive diagnosis has been omitted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A second diagnostic ultrasound study"
+        },
+        {
+          "label": "B",
+          "text": "Germline genetic testing of the patient"
+        },
+        {
+          "label": "C",
+          "text": "Repeat screening with 3D tomosynthesis"
+        },
+        {
+          "label": "D",
+          "text": "Serum tumor marker measurement"
+        },
+        {
+          "label": "E",
+          "text": "Tissue sampling with pathology review"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Imaging can strongly suggest malignancy, but tissue diagnosis by biopsy and pathology is required to confirm it.",
+        "whyCorrect": "The pathway runs diagnostic imaging, then biopsy, then pathology, then referral. Imaging can strongly suggest malignancy, but tissue diagnosis is generally required to establish a definitive diagnosis and to provide receptor testing that guides management.",
+        "whyWrongByChoice": {
+          "A": "More imaging cannot substitute for tissue; imaging alone cannot confirm cancer.",
+          "B": "Genetic testing does not establish whether this lesion is malignant.",
+          "C": "Tomosynthesis is a screening tool and cannot establish a diagnosis.",
+          "D": "Serum markers do not provide a definitive tissue diagnosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tissue diagnosis",
+        "diagnostic pathway"
+      ],
+      "topicId": "breast-cancer-screening-early-detection-to-diagnosis",
+      "topicName": "Breast Cancer Screening: Early Detection to Diagnosis",
+      "tier": "core"
+    }
+  ]
+}

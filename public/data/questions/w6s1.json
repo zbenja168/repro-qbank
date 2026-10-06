@@ -1,0 +1,1693 @@
+{
+  "categoryId": "w6s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "rp58-001",
+      "stem": "A 24-year-old woman notices a lump in her left breast while showering. She takes no medications. Examination shows a 2-cm firm, rubbery, freely mobile, nontender mass with smooth, well-defined borders. There are no skin changes, nipple discharge, or axillary lymph nodes. She thinks the lump feels slightly larger just before her menstrual periods. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fat necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Fibroadenoma"
+        },
+        {
+          "label": "C",
+          "text": "Fibrocystic change"
+        },
+        {
+          "label": "D",
+          "text": "Mammary duct ectasia"
+        },
+        {
+          "label": "E",
+          "text": "Phyllodes tumor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A mobile, rubbery, well-circumscribed solitary mass in a woman under 30 is a fibroadenoma.",
+        "whyCorrect": "Fibroadenomas arise from the intralobular stroma and are the most common solitary breast mass. They are palpable, mobile, rubbery, well-circumscribed, encapsulated masses that occur mostly in women under 30. Because they are estrogen-sensitive, they fluctuate in size through the menstrual cycle and can grow in pregnancy.",
+        "whyWrongByChoice": {
+          "A": "Fat necrosis follows trauma or surgery and presents as an irregular, firm, immobile mass, often with skin retraction.",
+          "C": "Fibrocystic change is diffuse cobblestone lumpiness with vague boundaries, not a single well-defined mobile mass.",
+          "D": "Mammary duct ectasia affects perimenopausal women and causes areolar pain, multicolored discharge, or nipple inversion.",
+          "E": "Phyllodes tumors peak at ages 40-50 and are larger and faster-growing than fibroadenomas."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fibroadenoma",
+        "stromal tumor",
+        "breast mass"
+      ],
+      "topicId": "benign-breast-disorders",
+      "topicName": "Benign Breast Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "rp58-002",
+      "stem": "A 34-year-old woman reports bilateral breast swelling and tenderness that is worst in the days before each menstrual period. Examination shows diffuse, lumpy, irregular breast tissue with vague boundaries, most prominent in the upper outer quadrants of both breasts. No dominant discrete mass, skin change, or nipple discharge is found. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibroadenoma"
+        },
+        {
+          "label": "B",
+          "text": "Fibrocystic change"
+        },
+        {
+          "label": "C",
+          "text": "Galactocele"
+        },
+        {
+          "label": "D",
+          "text": "Intraductal papilloma"
+        },
+        {
+          "label": "E",
+          "text": "Sclerosing adenosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Diffuse, cyclic, cobblestone breast lumpiness in a premenopausal woman is fibrocystic change.",
+        "whyCorrect": "Fibrocystic change is the most common cause of a palpated breast mass. It is a diffuse, lumpy 'cobblestone' irregularity with vague boundaries, typically in the upper outer quadrants, seen in premenopausal women with swelling worst before menses. Examination usually confirms the diagnosis; biopsy and treatment are generally unnecessary.",
+        "whyWrongByChoice": {
+          "A": "A fibroadenoma is a discrete, solitary, well-circumscribed mobile mass rather than diffuse bilateral lumpiness.",
+          "C": "A galactocele is a milk cyst that arises during lactation, usually as a subareolar mass.",
+          "D": "An intraductal papilloma typically presents with unilateral bloody nipple discharge.",
+          "E": "Sclerosing adenosis usually comes to attention as a mass, density, or calcifications that mimic carcinoma, not cyclic diffuse lumpiness."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fibrocystic change",
+        "nonproliferative"
+      ],
+      "topicId": "benign-breast-disorders",
+      "topicName": "Benign Breast Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "rp58-003",
+      "stem": "A 46-year-old woman undergoes core needle biopsy of a cluster of calcifications found on screening mammography. Five possible pathology results are discussed with her before the report returns. Which of the following biopsy diagnoses would place her at the highest relative risk of later invasive breast cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atypical ductal hyperplasia"
+        },
+        {
+          "label": "B",
+          "text": "Fibrocystic change"
+        },
+        {
+          "label": "C",
+          "text": "Sclerosing adenosis"
+        },
+        {
+          "label": "D",
+          "text": "Simple breast cyst"
+        },
+        {
+          "label": "E",
+          "text": "Usual ductal hyperplasia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Proliferative disease with atypia carries the highest risk (4-5 times) among primary benign breast lesions.",
+        "whyCorrect": "Primary benign breast disorders are ranked from least to most predictive of cancer: nonproliferative, proliferative without atypia, and proliferative with atypia. Atypical ductal hyperplasia is proliferative disease with atypia, conferring a relative risk of about 4-5 times and the greatest likelihood of malignant transformation.",
+        "whyWrongByChoice": {
+          "B": "Fibrocystic change is nonproliferative and is not associated with increased cancer risk.",
+          "C": "Sclerosing adenosis is proliferative without atypia, with about a 2-fold increase in risk.",
+          "D": "Simple cysts are nonproliferative lesions with no increased cancer risk.",
+          "E": "Usual ductal hyperplasia is proliferative without atypia, with only a 1.5- to 2-fold increase in risk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "atypical hyperplasia",
+        "cancer risk",
+        "classification"
+      ],
+      "topicId": "benign-breast-disorders",
+      "topicName": "Benign Breast Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "rp58-004",
+      "stem": "A 47-year-old woman reports a right breast mass that has grown rapidly over 3 months. Examination shows a 7-cm mobile, well-circumscribed mass without skin changes or axillary lymphadenopathy. Core needle biopsy shows increased stromal cellularity and stromal overgrowth forming a leaf-like architecture. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clinical and ultrasound follow-up in 6 months"
+        },
+        {
+          "label": "B",
+          "text": "Fine needle aspiration to drain the mass"
+        },
+        {
+          "label": "C",
+          "text": "Oral cephalexin with warm compresses"
+        },
+        {
+          "label": "D",
+          "text": "Reassurance and re-examination after menses"
+        },
+        {
+          "label": "E",
+          "text": "Wide surgical excision of the mass"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Phyllodes tumors are treated by wide surgical excision.",
+        "whyCorrect": "This is a phyllodes tumor: an uncommon intralobular stromal tumor seen at ages 40-50 that is larger and faster-growing than a fibroadenoma, with increased stromal cellularity and leaf-like architecture. Phyllodes tumors are classified as benign, borderline, or malignant on histology, and treatment is wide surgical excision.",
+        "whyWrongByChoice": {
+          "A": "Observation with follow-up is appropriate for many fibroadenomas, not for a phyllodes tumor.",
+          "B": "Fine needle aspiration drains painful cysts or galactoceles; this is a solid stromal tumor.",
+          "C": "Cephalexin and warm compresses address mastitis or duct ectasia, not a stromal neoplasm.",
+          "D": "Re-examination after menses suits a cyclic lesion; a rapidly enlarging 7-cm phyllodes tumor needs excision."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "phyllodes tumor",
+        "stromal tumor",
+        "management"
+      ],
+      "topicId": "benign-breast-disorders",
+      "topicName": "Benign Breast Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "rp58-005",
+      "stem": "A 27-year-old woman noticed spots of blood on her bra coming from the left nipple. Mammography is unremarkable. Ultrasonography localizes a small lesion within a retroareolar duct, and it is excised. Which of the following histologic findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Branching papillae lined by two cell layers around fibrovascular cores"
+        },
+        {
+          "label": "B",
+          "text": "Cystic lobules lined by apocrine metaplasia with stromal fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Increased acini compressed by fibrosis with preserved lobular outline"
+        },
+        {
+          "label": "D",
+          "text": "Intralobular stroma proliferating and compressing the epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Necrotic adipose tissue with calcium bound to released fatty acids"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Intraductal papilloma: arborizing papillae of epithelial and myoepithelial cells around a fibrovascular core.",
+        "whyCorrect": "Unilateral bloody nipple discharge in a woman aged 20-40 suggests intraductal papilloma, a small benign tumor of the milk ducts. These are often too small to appear on mammography, so diagnosis relies on clinical suspicion and ultrasonography, with excisional biopsy. Histologically, epithelial and myoepithelial cells arborize around a central fibrovascular core extending from the duct wall.",
+        "whyWrongByChoice": {
+          "B": "Cystic lobules with apocrine metaplasia describe fibrocystic change.",
+          "C": "Increased acini distorted by fibrosis with preserved lobular architecture describe sclerosing adenosis.",
+          "D": "Intralobular stromal proliferation compressing epithelium describes a fibroadenoma, which presents as a mobile mass.",
+          "E": "Necrotic fat with saponification describes fat necrosis after trauma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "intraductal papilloma",
+        "histology",
+        "nipple discharge"
+      ],
+      "topicId": "benign-breast-disorders",
+      "topicName": "Benign Breast Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "rp58-006",
+      "stem": "A 52-year-old woman struck her chest against a steering wheel in a motor vehicle collision 2 months ago. She now has a firm, irregular, immobile mass in the left breast with overlying skin dimpling. Mammography shows calcifications in the area. Core needle biopsy excludes malignancy. Which of the following best explains the calcifications?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcified secretions within dilated milk-filled ducts"
+        },
+        {
+          "label": "B",
+          "text": "Calcium binding fatty acids released from triglycerides"
+        },
+        {
+          "label": "C",
+          "text": "Calcium deposited in apocrine-lined cystic lobules"
+        },
+        {
+          "label": "D",
+          "text": "Dystrophic calcification within necrotic carcinoma cells"
+        },
+        {
+          "label": "E",
+          "text": "Metastatic calcification caused by hypercalcemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fat necrosis calcifies through saponification: fatty acids freed from triglycerides bind calcium.",
+        "whyCorrect": "Fat necrosis is a mass of dead fat after breast trauma, from blunt injury to surgery. On mammography it shows calcification from fat saponification, in which fatty acids released from triglycerides bind calcium ions. Like cancer, it can be firm, irregular, and immobile with skin retraction, so malignancy must be excluded.",
+        "whyWrongByChoice": {
+          "A": "Milk-filled ducts suggest a galactocele during lactation, not a post-traumatic mass.",
+          "C": "Apocrine-lined cystic lobules are fibrocystic change, which is not caused by trauma.",
+          "D": "Biopsy excluded malignancy, so calcification of necrotic carcinoma is not the explanation.",
+          "E": "Nothing in the stem suggests hypercalcemia; the calcification is local to the injured fat."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fat necrosis",
+        "saponification",
+        "trauma"
+      ],
+      "topicId": "benign-breast-disorders",
+      "topicName": "Benign Breast Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "rp58-007",
+      "stem": "A 28-year-old woman who is exclusively breastfeeding her 5-week-old infant has fever to 38.6 C and a painful left breast. Examination shows a cracked nipple and a wedge-shaped area of redness, warmth, swelling, and tenderness in the upper outer quadrant. No fluctuant mass is palpable. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diagnostic mammography with core biopsy"
+        },
+        {
+          "label": "B",
+          "text": "Incision and drainage of the red area"
+        },
+        {
+          "label": "C",
+          "text": "Oral cephalexin and continued breastfeeding"
+        },
+        {
+          "label": "D",
+          "text": "Stop breastfeeding and suppress lactation"
+        },
+        {
+          "label": "E",
+          "text": "Warm compresses and re-examination in 6 weeks"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Lactational mastitis is treated with antibiotics such as cephalexin while breastfeeding continues.",
+        "whyCorrect": "Lactational mastitis is a bacterial infection, usually Staphylococcus aureus, entering through a nipple fissure during breastfeeding, most often in the first three months. It presents as a wedge-shaped red, tender, swollen area with fever. Treatment is antibiotics, commonly cephalexin, with continued breastfeeding; the milk is unaffected and nursing helps clear the infection.",
+        "whyWrongByChoice": {
+          "A": "The exam is classic for mastitis; imaging, when used, is ultrasonography to look for an abscess, not mammography with biopsy.",
+          "B": "There is no fluctuant collection; drainage is for an abscess, not uncomplicated mastitis.",
+          "D": "Breastfeeding should continue; it helps clear the infection, and the milk itself is not affected.",
+          "E": "A febrile bacterial infection needs antibiotics, not compresses alone and delayed follow-up."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mastitis",
+        "lactation",
+        "management"
+      ],
+      "topicId": "benign-breast-disorders",
+      "topicName": "Benign Breast Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "rp58-008",
+      "stem": "A 49-year-old woman has a density with clustered calcifications on screening mammography that the radiologist reports as closely resembling invasive carcinoma. Core needle biopsy shows an increased number of acini that are compressed and distorted by surrounding stromal fibrosis; at low power, a well-delineated lobular architecture is preserved. Which of the following is the most accurate interpretation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atypical lobular hyperplasia, with 4- to 5-fold cancer risk"
+        },
+        {
+          "label": "B",
+          "text": "Fibrocystic change, with no increase in cancer risk"
+        },
+        {
+          "label": "C",
+          "text": "Phyllodes tumor, with need for wide surgical excision"
+        },
+        {
+          "label": "D",
+          "text": "Sclerosing adenosis, with about 2-fold cancer risk"
+        },
+        {
+          "label": "E",
+          "text": "Usual ductal hyperplasia, with no increase in cancer risk"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sclerosing adenosis mimics carcinoma on mammography but keeps lobular architecture and carries about a 2-fold risk.",
+        "whyCorrect": "Sclerosing adenosis is a benign proliferative lesion with increased acini compressed and distorted by stromal fibrosis. It is distinguished from invasive carcinoma by a well-delineated lobular architecture at low power. It may present as a palpable mass, density, or calcifications that closely mimic carcinoma, and it carries roughly a two-fold increased cancer risk.",
+        "whyWrongByChoice": {
+          "A": "Atypical lobular hyperplasia is a proliferation of abnormal-appearing cells distending terminal duct lobular units, not fibrosis-compressed acini.",
+          "B": "Fibrocystic change shows cystic lobules with apocrine metaplasia, not increased compressed acini.",
+          "C": "Phyllodes tumor shows stromal overgrowth with leaf-like architecture, not increased acini.",
+          "E": "Usual ductal hyperplasia fills ducts with mixed cells, and it does carry a 1.5- to 2-fold increase in risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sclerosing adenosis",
+        "proliferative without atypia",
+        "mammography"
+      ],
+      "topicId": "benign-breast-disorders",
+      "topicName": "Benign Breast Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "rp58-009",
+      "stem": "A 58-year-old man with longstanding cirrhosis reports gradual, mildly tender enlargement of both breasts. He takes no medications. Testicular examination is normal, and serum creatinine is normal. Which of the following is the most likely mechanism of his breast enlargement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dopamine-blockade hyperprolactinemia lowering testosterone"
+        },
+        {
+          "label": "B",
+          "text": "Estradiol secretion by a sex cord-stromal tumor"
+        },
+        {
+          "label": "C",
+          "text": "Extra X chromosome causing primary hypogonadism"
+        },
+        {
+          "label": "D",
+          "text": "Impaired hepatic degradation of circulating estrogens"
+        },
+        {
+          "label": "E",
+          "text": "Uremic damage to the testes lowering testosterone"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cirrhosis causes gynecomastia because the failing liver cannot degrade estrogens, so they accumulate.",
+        "whyCorrect": "In chronic liver disease, hepatic degradation of estrogens does not occur properly, so estrogens build up and stimulate male breast tissue. Gynecomastia is the benign proliferation of male breast tissue, and cirrhosis is one of the chronic medical diseases that cause nonphysiologic gynecomastia.",
+        "whyWrongByChoice": {
+          "A": "Drug-induced hyperprolactinemia requires a dopamine antagonist, and he takes no medications.",
+          "B": "An estradiol-secreting Leydig cell tumor would usually be suggested by a testicular mass; his testes are normal.",
+          "C": "Klinefelter-related hypogonadism is a congenital cause and does not explain gynecomastia arising with cirrhosis.",
+          "E": "Uremic testicular damage is the mechanism in chronic kidney disease; his creatinine is normal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gynecomastia",
+        "cirrhosis",
+        "estrogen"
+      ],
+      "topicId": "benign-breast-disorders",
+      "topicName": "Benign Breast Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "rp58-010",
+      "stem": "A 62-year-old man with heart failure develops tender enlargement of both breasts. Four months ago, one new medication was added to his regimen. Which of the following medications is most likely responsible for his breast enlargement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atorvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Furosemide"
+        },
+        {
+          "label": "C",
+          "text": "Lisinopril"
+        },
+        {
+          "label": "D",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "E",
+          "text": "Spironolactone"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Spironolactone, an aldosterone antagonist, causes gynecomastia by reducing androgen production or action.",
+        "whyCorrect": "Medications cause gynecomastia by increasing estrogenic activity or reducing androgen production or action, shifting the balance toward estrogen. Spironolactone, an aldosterone antagonist and potassium-sparing diuretic, is a representative cause. When appropriate the drug should be stopped or replaced; recent-onset gynecomastia may improve after withdrawal, while longstanding enlargement is less likely to fully regress.",
+        "whyWrongByChoice": {
+          "A": "Atorvastatin is a statin and is not listed among drugs causing gynecomastia.",
+          "B": "Furosemide is a loop diuretic and is not among the drugs that shift the androgen-estrogen balance.",
+          "C": "Lisinopril is an ACE inhibitor and is not a recognized cause of gynecomastia.",
+          "D": "Metoprolol is a beta-blocker and does not reduce androgen action or add estrogenic activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gynecomastia",
+        "medication-induced",
+        "spironolactone"
+      ],
+      "topicId": "benign-breast-disorders",
+      "topicName": "Benign Breast Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "rp58-011",
+      "stem": "A 30-year-old man reports 3 months of bilateral breast enlargement and decreased libido. He takes no medications or supplements and drinks no alcohol. Liver and kidney function tests are normal. Examination shows a painless firm nodule in the right testis. Which of the following best explains his breast findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Age-related decline in free testosterone"
+        },
+        {
+          "label": "B",
+          "text": "Androgen secretion by a sex cord-stromal tumor"
+        },
+        {
+          "label": "C",
+          "text": "Estradiol secretion by a sex cord-stromal tumor"
+        },
+        {
+          "label": "D",
+          "text": "Reduced hepatic clearance of estrogens"
+        },
+        {
+          "label": "E",
+          "text": "Uremia-induced injury to testicular tissue"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Estrogen-secreting Leydig cell tumors cause gynecomastia and loss of libido in adult men.",
+        "whyCorrect": "Leydig cell tumors are benign sex cord-stromal tumors of the testis, most common in young adults. They can secrete androgens or estrogens; those secreting estradiol cause feminization of young boys or gynecomastia with loss of libido in adult men. A testicular nodule with new gynecomastia and low libido fits an estrogen-secreting tumor.",
+        "whyWrongByChoice": {
+          "A": "Declining free testosterone causes gynecomastia in elderly men, not a 30-year-old with a testicular mass.",
+          "B": "Androgen-secreting Leydig cell tumors cause precocious puberty in prepubertal boys, not gynecomastia with low libido.",
+          "D": "Reduced hepatic estrogen clearance occurs in cirrhosis; his liver function is normal.",
+          "E": "Uremic testicular damage occurs in renal failure; his kidney function is normal."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "gynecomastia",
+        "Leydig cell tumor",
+        "testicular tumor"
+      ],
+      "topicId": "benign-breast-disorders",
+      "topicName": "Benign Breast Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "rp58-012",
+      "stem": "A 13-year-old boy is brought in because of a tender, 2-cm disc of tissue beneath both nipples that appeared over the past few months. He takes no medications or supplements. His growth, pubertal development, and testicular examination are normal for his age. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Karyotype analysis for an extra X chromosome"
+        },
+        {
+          "label": "B",
+          "text": "Mammography followed by core needle biopsy"
+        },
+        {
+          "label": "C",
+          "text": "Reassurance with observation for regression"
+        },
+        {
+          "label": "D",
+          "text": "Surgical excision of the breast tissue"
+        },
+        {
+          "label": "E",
+          "text": "Testicular ultrasonography to look for a tumor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pubertal gynecomastia is physiologic, peaks at ages 13-14, and usually regresses without therapy.",
+        "whyCorrect": "In puberty, boys produce more estrogens and androgens, and a temporary imbalance lets estrogen overcome androgen inhibition and stimulate breast tissue. Pubertal gynecomastia peaks between ages 13 and 14 and declines in the later teenage years, usually without therapy. A workup for primary hypogonadism is reserved for gynecomastia that persists.",
+        "whyWrongByChoice": {
+          "A": "Karyotyping is not needed for typical, early pubertal gynecomastia in a boy with normal development.",
+          "B": "Imaging and biopsy are not indicated for physiologic pubertal breast enlargement.",
+          "D": "Physiologic pubertal gynecomastia usually resolves on its own, so surgery is not indicated.",
+          "E": "A normal testicular exam in a 13-year-old with expected pubertal changes does not warrant a tumor search."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gynecomastia",
+        "pubertal",
+        "physiologic"
+      ],
+      "topicId": "benign-breast-disorders",
+      "topicName": "Benign Breast Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "rp59-001",
+      "stem": "A 34-year-old woman was found to carry a germline BRCA1 mutation after her sister's diagnosis. Six years later she develops a breast mass, and core biopsy shows invasive carcinoma. Which receptor profile is most likely on immunohistochemistry of her tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ER-negative, PR-negative, HER2-amplified"
+        },
+        {
+          "label": "B",
+          "text": "ER-negative, PR-negative, HER2-negative"
+        },
+        {
+          "label": "C",
+          "text": "ER-positive, PR-negative, HER2-negative"
+        },
+        {
+          "label": "D",
+          "text": "ER-positive, PR-positive, HER2-amplified"
+        },
+        {
+          "label": "E",
+          "text": "ER-positive, PR-positive, HER2-negative"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "BRCA1 carriers are more likely to develop estrogen receptor-negative, particularly triple-negative, breast cancer.",
+        "whyCorrect": "Unlike most breast cancers (including those in BRCA2 carriers), tumors in BRCA1 carriers are more often ER-negative, and particularly triple negative (ER-, PR-, HER2-). Triple-negative tumors are also more common in young females and females of African heritage.",
+        "whyWrongByChoice": {
+          "A": "HER2 amplification is the most common subtype in germline TP53 (Li-Fraumeni) carriers, not BRCA1 carriers.",
+          "C": "This is still an ER-positive, luminal-type profile, which BRCA1 tumors usually are not.",
+          "D": "A hormone receptor-positive, HER2-amplified tumor is not the pattern linked to BRCA1.",
+          "E": "ER/PR-positive, HER2-negative (luminal) is the most common profile overall and is typical of BRCA2 carriers, not BRCA1 carriers."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BRCA1",
+        "triple negative",
+        "genetics"
+      ],
+      "topicId": "breast-cancer-classification-and-pathogenesis",
+      "topicName": "Breast Cancer: Classification and Pathogenesis",
+      "tier": "core"
+    },
+    {
+      "id": "rp59-002",
+      "stem": "A 58-year-old woman notices a hard, fixed, rock-like lump in her right breast that is also easily seen as a dense lesion on mammography. Core biopsy confirms invasive ductal carcinoma. Which feature of this tumor best accounts for how readily it is palpated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A dense lymphocytic infiltrate within the tumor"
+        },
+        {
+          "label": "B",
+          "text": "Desmoplastic deposition of collagen around the tumor"
+        },
+        {
+          "label": "C",
+          "text": "Mixed mesenchymal and epithelial tumor elements"
+        },
+        {
+          "label": "D",
+          "text": "Pools of extracellular mucin surrounding tumor cells"
+        },
+        {
+          "label": "E",
+          "text": "Tumor emboli plugging the dermal lymphatics"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Invasive ductal carcinoma provokes desmoplasia, producing a firm, rocky mass felt on exam and seen on mammography.",
+        "whyCorrect": "Invasive ductal carcinoma often stimulates deposition of fibrous tissue in and around the tumor (desmoplasia). This fibrous reaction accounts for its firm, rocky feel and explains why it is often felt on breast exam and seen on mammography.",
+        "whyWrongByChoice": {
+          "A": "A lymphocytic infiltrate with a soft, fleshy mass characterizes carcinoma with medullary features.",
+          "C": "Mixed mesenchymal and epithelial cells define metaplastic carcinoma.",
+          "D": "Cells floating in mucus define mucinous carcinoma, a relatively indolent type, not the cause of a rock-hard ductal mass.",
+          "E": "Dermal lymphatic invasion is the hallmark of inflammatory carcinoma, which often lacks a discrete mass."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "invasive ductal carcinoma",
+        "desmoplasia",
+        "histology"
+      ],
+      "topicId": "breast-cancer-classification-and-pathogenesis",
+      "topicName": "Breast Cancer: Classification and Pathogenesis",
+      "tier": "core"
+    },
+    {
+      "id": "rp59-003",
+      "stem": "A 61-year-old woman reports vague thickening of the left breast without a discrete lump, and her mammogram is read as unremarkable. Biopsy shows small, uniform tumor cells infiltrating in single-file rows between bundles of collagen. Loss of expression of which protein best explains this growth pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BRCA1 repair protein"
+        },
+        {
+          "label": "B",
+          "text": "E-cadherin"
+        },
+        {
+          "label": "C",
+          "text": "Estrogen receptor"
+        },
+        {
+          "label": "D",
+          "text": "HER2 receptor tyrosine kinase"
+        },
+        {
+          "label": "E",
+          "text": "PTEN growth regulator"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Invasive lobular carcinoma cells lose E-cadherin, so they are dyscohesive and grow in single-file lines, often without a palpable mass.",
+        "whyCorrect": "In invasive lobular carcinoma the tumor cells are not cohesive because they have lost E-cadherin expression, so instead of tubules or clumps they form single-file lines between collagen bundles. Some cases have little desmoplasia and are hard to detect on exam or mammography, so they may present late.",
+        "whyWrongByChoice": {
+          "A": "BRCA1 is a germline DNA repair gene; its loss is linked to triple-negative tumors, not single-file architecture.",
+          "C": "Estrogen receptor status classifies tumors for hormonal therapy; its loss does not create single-file dyscohesive growth.",
+          "D": "HER2 is overexpressed (gained), not lost, in HER2-positive cancers, and it does not determine cell cohesion.",
+          "E": "PTEN mutation causes Cowden (multiple hamartoma) syndrome; it does not explain the dyscohesive lobular pattern."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "invasive lobular carcinoma",
+        "E-cadherin",
+        "histology"
+      ],
+      "topicId": "breast-cancer-classification-and-pathogenesis",
+      "topicName": "Breast Cancer: Classification and Pathogenesis",
+      "tier": "core"
+    },
+    {
+      "id": "rp59-004",
+      "stem": "A 52-year-old woman has had a swollen, warm, red right breast for 3 weeks. The skin is thickened with pitting that resembles an orange peel, and no discrete mass is palpable. A skin punch biopsy is performed. Which finding is it most likely to show?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cancer cells floating in pools of mucus"
+        },
+        {
+          "label": "B",
+          "text": "Dyscohesive cells in single-file rows"
+        },
+        {
+          "label": "C",
+          "text": "Neoplastic cells confined by basement membrane"
+        },
+        {
+          "label": "D",
+          "text": "Soft tumor with a dense lymphocytic infiltrate"
+        },
+        {
+          "label": "E",
+          "text": "Tumor cells within dermal lymphatic channels"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Inflammatory breast cancer is defined by tumor cells blocking dermal lymphatics, producing a red, swollen breast with peau d'orange.",
+        "whyCorrect": "In inflammatory breast cancer, cancer cells block the lymphatics in the skin; the hallmark histologic finding is dermal lymphatic invasion. The breast appears swollen, red and inflamed with peau d'orange, many patients have no discrete mass, and the disease is usually late stage at diagnosis. Most are ductal carcinomas and they make up 1%-5% of US breast cancers.",
+        "whyWrongByChoice": {
+          "A": "Cells floating in mucus describe mucinous carcinoma, which is indolent and does not cause an inflamed breast.",
+          "B": "Single-file dyscohesive cells describe invasive lobular carcinoma.",
+          "C": "Cells confined by basement membrane describe carcinoma in situ, which does not produce dermal edema and erythema.",
+          "D": "A lymphocyte-rich soft fleshy tumor describes carcinoma with medullary features."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "inflammatory carcinoma",
+        "peau d'orange",
+        "lymphatics"
+      ],
+      "topicId": "breast-cancer-classification-and-pathogenesis",
+      "topicName": "Breast Cancer: Classification and Pathogenesis",
+      "tier": "core"
+    },
+    {
+      "id": "rp59-005",
+      "stem": "A 49-year-old asymptomatic woman has screening mammography showing a cluster of fine linear and branching calcifications. Biopsy shows a clonal population of atypical epithelial cells filling ducts, with an intact basement membrane surrounding every involved duct. Which statement best characterizes this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inflammatory carcinoma spreading through lymphatics"
+        },
+        {
+          "label": "B",
+          "text": "Invasive carcinoma that has breached the stroma"
+        },
+        {
+          "label": "C",
+          "text": "Lobular neoplasia that is usually found incidentally"
+        },
+        {
+          "label": "D",
+          "text": "Noninvasive precursor treated to prevent invasion"
+        },
+        {
+          "label": "E",
+          "text": "Reactive hyperplasia that needs no further therapy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "DCIS is a clonal epithelial proliferation confined by basement membrane, usually found as mammographic microcalcifications, and treated as a precursor to invasive carcinoma.",
+        "whyCorrect": "Ductal carcinoma in situ is limited to ducts and lobules by the basement membrane and is most commonly detected on mammography as microcalcifications. It is treated because it is a noninvasive precursor associated with increased risk of invasive breast cancer; mastectomy is curative in >95%, while breast conservation may carry a higher recurrence risk.",
+        "whyWrongByChoice": {
+          "A": "Inflammatory carcinoma is an invasive cancer defined by dermal lymphatic invasion, not an in situ ductal lesion.",
+          "B": "An intact basement membrane around every duct means the lesion is in situ, not invasive.",
+          "C": "LCIS is usually an incidental finding because it is rarely associated with calcifications; this lesion was found by calcifications and is ductal.",
+          "E": "The cells are clonal and atypical (carcinoma in situ), not a reactive process, and DCIS is treated."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DCIS",
+        "microcalcifications",
+        "carcinoma in situ"
+      ],
+      "topicId": "breast-cancer-classification-and-pathogenesis",
+      "topicName": "Breast Cancer: Classification and Pathogenesis",
+      "tier": "core"
+    },
+    {
+      "id": "rp59-006",
+      "stem": "A 45-year-old woman has a breast biopsy of an unrelated benign-appearing density. Incidentally, an adjacent lobule is filled and expanded by small, monomorphic, loosely cohesive cells that are E-cadherin negative; the basement membrane is intact, and the area had no mammographic calcifications. Which management is most commonly chosen for this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Close clinical follow-up with imaging surveillance"
+        },
+        {
+          "label": "B",
+          "text": "HER2-targeted therapy for residual neoplastic cells"
+        },
+        {
+          "label": "C",
+          "text": "Modified radical mastectomy with axillary node dissection"
+        },
+        {
+          "label": "D",
+          "text": "Re-excision, since removing it is proven to prevent invasion"
+        },
+        {
+          "label": "E",
+          "text": "Routine care, since the lesion carries no added risk"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "LCIS is usually incidental; it is unclear that excision lowers invasive risk, and close follow-up with mammographic screening is the most common choice.",
+        "whyCorrect": "This is lobular carcinoma in situ: dyscohesive E-cadherin-negative cells within terminal duct lobular units, almost always an incidental biopsy finding because it rarely calcifies. It is unclear whether surgical removal lowers the risk of invasive carcinoma. Options include bilateral prophylactic mastectomy or tamoxifen, but close clinical follow-up with mammographic screening is more common.",
+        "whyWrongByChoice": {
+          "B": "No HER2 status is given and LCIS is not managed with HER2-targeted therapy.",
+          "C": "LCIS is noninvasive; radical surgery with nodal dissection is not indicated. The surgical option discussed is bilateral prophylactic mastectomy.",
+          "D": "It is unclear that surgically removing LCIS lowers the risk of invasive carcinoma, so excision is not proven protective.",
+          "E": "LCIS signals increased risk, which is why follow-up, tamoxifen or prophylactic surgery are considered."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "LCIS",
+        "carcinoma in situ",
+        "management"
+      ],
+      "topicId": "breast-cancer-classification-and-pathogenesis",
+      "topicName": "Breast Cancer: Classification and Pathogenesis",
+      "tier": "core"
+    },
+    {
+      "id": "rp59-007",
+      "stem": "Biopsy of a 47-year-old woman's invasive breast carcinoma is stained by immunohistochemistry. Estrogen and progesterone receptors are clearly positive, but HER2 staining is reported as equivocal. Which is the most appropriate next test to establish the tumor's HER2 status?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Electron microscopy of tumor cells"
+        },
+        {
+          "label": "B",
+          "text": "Fluorescence in situ hybridization"
+        },
+        {
+          "label": "C",
+          "text": "Germline BRCA1 sequencing"
+        },
+        {
+          "label": "D",
+          "text": "Repeat estrogen receptor staining"
+        },
+        {
+          "label": "E",
+          "text": "Serum estradiol measurement"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ER, PR and HER2 are assessed by immunohistochemistry, with HER2 FISH performed when HER2 IHC is equivocal.",
+        "whyCorrect": "Protein expression of ER, PR and HER2 is typically assessed by immunohistochemistry, and HER2 FISH (fluorescence in situ hybridization) is performed in HER2 IHC-equivocal cases. HER2 status matters because HER2-positive cancers are aggressive but often respond to HER2-targeted therapy.",
+        "whyWrongByChoice": {
+          "A": "Electron microscopy is not used to classify HER2 status.",
+          "C": "Germline BRCA1 testing addresses inherited risk, not the tumor's HER2 status.",
+          "D": "ER is already clearly positive; repeating it does not resolve HER2 status.",
+          "E": "Serum estradiol does not determine whether the tumor overexpresses or amplifies HER2."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HER2",
+        "FISH",
+        "immunohistochemistry"
+      ],
+      "topicId": "breast-cancer-classification-and-pathogenesis",
+      "topicName": "Breast Cancer: Classification and Pathogenesis",
+      "tier": "core"
+    },
+    {
+      "id": "rp59-008",
+      "stem": "A 72-year-old woman is diagnosed with an invasive breast carcinoma that is estrogen receptor-positive and HER2-negative. Compared with the other major molecular groups, which pattern best characterizes her tumor's group?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bimodal recurrence with distinct early and late peaks"
+        },
+        {
+          "label": "B",
+          "text": "Early recurrence peaking within 8 years, with late recurrence rare"
+        },
+        {
+          "label": "C",
+          "text": "Most common group in BRCA1 carriers and young women"
+        },
+        {
+          "label": "D",
+          "text": "Preferential spread to bone with a low but steady recurrence rate"
+        },
+        {
+          "label": "E",
+          "text": "Strongest association with germline TP53 mutation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Luminal (ER+, HER2-) cancers occur mainly in older females, preferentially metastasize to bone and recur at a low but steady rate.",
+        "whyCorrect": "Luminal tumors (ER-positive, HER2-negative; 50-65% of cases) occur predominantly in older females, show the widest spectrum of grades, are driven by prolonged estrogen exposure (hence estrogen antagonist therapy), preferentially metastasize to bone and have a low but steady recurrence rate.",
+        "whyWrongByChoice": {
+          "A": "Bimodal early and late recurrence describes HER2-positive cancer.",
+          "B": "Early recurrence with a peak before 8 years and rare late recurrence describes triple-negative cancer.",
+          "C": "Triple-negative cancer is more common in BRCA1 carriers and young females.",
+          "E": "HER2-positive is the most common subtype in germline TP53 (Li-Fraumeni) carriers."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "molecular subtypes",
+        "luminal",
+        "metastasis"
+      ],
+      "topicId": "breast-cancer-classification-and-pathogenesis",
+      "topicName": "Breast Cancer: Classification and Pathogenesis",
+      "tier": "core"
+    },
+    {
+      "id": "rp59-009",
+      "stem": "A 33-year-old woman of African heritage completes treatment for a rapidly growing breast carcinoma that was negative for estrogen receptor, progesterone receptor and HER2. She asks when a relapse would most likely occur. Which statement best describes recurrence in her tumor type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Most recurrences occur early, and late recurrence is rare"
+        },
+        {
+          "label": "B",
+          "text": "Recurrence is low but steady over many decades"
+        },
+        {
+          "label": "C",
+          "text": "Recurrence is rare because these tumors are indolent"
+        },
+        {
+          "label": "D",
+          "text": "Recurrence shows two peaks due to acquired HER2 resistance"
+        },
+        {
+          "label": "E",
+          "text": "Recurrence usually peaks late, beyond 15 years"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Triple-negative breast cancer recurs early, with a peak before 8 years, and late recurrence is rare.",
+        "whyCorrect": "Triple-negative tumors (15% of cases) are more common in young females, females of African heritage and BRCA1 carriers. They are genetically heterogeneous and clinically aggressive; early recurrence is more common with a peak at <8 years, late recurrence is rare, and metastatic disease has poorer survival than most other subtypes.",
+        "whyWrongByChoice": {
+          "B": "A low but steady recurrence rate characterizes luminal (ER+, HER2-) cancers.",
+          "C": "Triple-negative tumors behave aggressively, not indolently.",
+          "D": "Bimodal recurrence linked to acquired resistance to HER2-targeted therapy describes HER2-positive cancer; this tumor is HER2-negative.",
+          "E": "A late recurrence peak is not the pattern of triple-negative cancer; late recurrence is rare."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "triple negative",
+        "molecular subtypes",
+        "recurrence"
+      ],
+      "topicId": "breast-cancer-classification-and-pathogenesis",
+      "topicName": "Breast Cancer: Classification and Pathogenesis",
+      "tier": "core"
+    },
+    {
+      "id": "rp59-010",
+      "stem": "A 60-year-old postmenopausal woman with a BMI of 38 asks why her weight is considered a risk factor for breast cancer. Which mechanism best explains this association?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adipokine-driven HER2 amplification in ductal cells"
+        },
+        {
+          "label": "B",
+          "text": "Aromatase conversion of androgens to estrogens in fat"
+        },
+        {
+          "label": "C",
+          "text": "Fat-derived leptin causing dermal lymphatic blockage"
+        },
+        {
+          "label": "D",
+          "text": "Insulin-induced silencing of the BRCA1 repair gene"
+        },
+        {
+          "label": "E",
+          "text": "Ovarian progesterone secretion stimulated by fat stores"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Obesity raises breast cancer risk because adipose aromatase converts androgens to estrogens, increasing estrogen levels.",
+        "whyCorrect": "Females who are obese have higher estrogen levels from peripheral conversion of androgens to estrogens by aromatase in adipose tissue, adding to lifetime estrogen exposure, a major breast cancer risk factor. Conversely, low body weight lowers risk.",
+        "whyWrongByChoice": {
+          "A": "HER2 overexpression is a somatic tumor change, not a consequence of adiposity.",
+          "C": "Dermal lymphatic blockage by tumor cells defines inflammatory carcinoma; it is not how obesity raises risk.",
+          "D": "BRCA1 mutations are inherited germline changes, not caused by insulin.",
+          "E": "The postmenopausal ovary is not the source; the obesity link is peripheral estrogen production in fat."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "risk factors",
+        "obesity",
+        "estrogen"
+      ],
+      "topicId": "breast-cancer-classification-and-pathogenesis",
+      "topicName": "Breast Cancer: Classification and Pathogenesis",
+      "tier": "core"
+    },
+    {
+      "id": "rp59-011",
+      "stem": "A 29-year-old woman with known Li-Fraumeni syndrome from a germline TP53 mutation is diagnosed with invasive breast carcinoma. Which molecular subtype is her tumor most likely to be?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HER2-positive with HER2 gene amplification"
+        },
+        {
+          "label": "B",
+          "text": "Luminal, ER-positive and HER2-negative"
+        },
+        {
+          "label": "C",
+          "text": "Metaplastic carcinoma with mesenchymal elements"
+        },
+        {
+          "label": "D",
+          "text": "Mucinous carcinoma with abundant mucin"
+        },
+        {
+          "label": "E",
+          "text": "Triple negative, lacking ER, PR and HER2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "HER2-positive cancer is the most common breast cancer subtype in germline TP53 (Li-Fraumeni) carriers, which likely explains its link with younger patients.",
+        "whyCorrect": "HER2-positive tumors (about 20% of breast cancers) show HER2 amplification and may be ER-positive or ER-negative. This is the most common subtype in patients with germline TP53 mutations (Li-Fraumeni syndrome), which likely explains its association with younger patients. HER2 is a receptor tyrosine kinase that drives RAS and PI3K-AKT signaling.",
+        "whyWrongByChoice": {
+          "B": "Luminal tumors occur predominantly in older females and are not the characteristic subtype of Li-Fraumeni.",
+          "C": "Metaplastic carcinoma is very rare (about 0.02%) and is not the subtype linked to TP53.",
+          "D": "Mucinous carcinoma is a rare histologic type with no stated link to TP53.",
+          "E": "Triple-negative cancer is characteristically linked to BRCA1 carriers, not TP53 carriers."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TP53",
+        "Li-Fraumeni",
+        "HER2",
+        "molecular subtypes"
+      ],
+      "topicId": "breast-cancer-classification-and-pathogenesis",
+      "topicName": "Breast Cancer: Classification and Pathogenesis",
+      "tier": "core"
+    },
+    {
+      "id": "rp59-012",
+      "stem": "A 55-year-old man learns through family testing that he carries the same germline BRCA2 mutation found in his daughter, who has breast cancer. He asks how the mutation affects his own cancer risk. Which counseling statement is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breast cancer risk rises about 80-fold and prostate cancer risk about 7-fold"
+        },
+        {
+          "label": "B",
+          "text": "His breast cancer risk equals the 45% risk of female BRCA2 carriers"
+        },
+        {
+          "label": "C",
+          "text": "His main added risk is hamartomatous breast tumors and skin lesions"
+        },
+        {
+          "label": "D",
+          "text": "His own risk is unchanged; only female relatives face higher risk"
+        },
+        {
+          "label": "E",
+          "text": "Only prostate cancer risk rises, because men lack ductal breast tissue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Men with BRCA2 mutations have about an 80-fold increased breast cancer risk (about 8% by age 80) and a sevenfold increased prostate cancer risk.",
+        "whyCorrect": "Breast cancer is normally rare in men, but BRCA2 carriers have an 80-fold increased risk of breast cancer and a sevenfold increased risk of prostate cancer; by age 80 their breast cancer risk is about 8%. Male breast cancer in a family is itself a flag for an inherited mutation.",
+        "whyWrongByChoice": {
+          "B": "The 45% figure is the risk by age 70 for female BRCA2 carriers; men reach about 8% by age 80.",
+          "C": "Hamartomas with benign and malignant breast tumors characterize PTEN (Cowden) syndrome.",
+          "D": "Male carriers have their own increased breast and prostate cancer risks.",
+          "E": "Male BRCA2 carriers have a markedly increased breast cancer risk, not just prostate risk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BRCA2",
+        "male breast cancer",
+        "prostate cancer"
+      ],
+      "topicId": "breast-cancer-classification-and-pathogenesis",
+      "topicName": "Breast Cancer: Classification and Pathogenesis",
+      "tier": "core"
+    },
+    {
+      "id": "rp60-001",
+      "stem": "A second-year medical student shadowing in a breast clinic asks how most cases of breast cancer first come to clinical attention in the United States. Which of the following is the most common initial presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abnormal mammogram in a woman with no symptoms"
+        },
+        {
+          "label": "B",
+          "text": "Enlarged axillary lymph node found on physical exam"
+        },
+        {
+          "label": "C",
+          "text": "Fixed lump palpated by the patient at home"
+        },
+        {
+          "label": "D",
+          "text": "Pathologic fracture from an unrecognized bone metastasis"
+        },
+        {
+          "label": "E",
+          "text": "Unilateral bloody nipple discharge noted on clothing"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The most common presentation of breast cancer is an asymptomatic woman with an abnormal screening mammogram.",
+        "whyCorrect": "Early breast cancer often produces no symptoms. Screening mammography can detect masses smaller than 1 cm, well before a lump is palpable, so most cancers are first found as an abnormality on a screening study in an asymptomatic woman.",
+        "whyWrongByChoice": {
+          "B": "Only a minority of patients have spread outside the breast at diagnosis, so axillary adenopathy is not the usual first sign.",
+          "C": "A palpable, somewhat fixed lump is a recognized presentation, but cancers found on exam are usually 2.0-2.5 cm; most cancers are detected earlier by screening.",
+          "D": "Bone metastasis with pathologic fracture reflects advanced disease, which is present at diagnosis in only a small fraction of patients.",
+          "E": "Nipple discharge is one of several possible signs but is not the most common presentation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "presentation",
+        "screening mammography"
+      ],
+      "topicId": "breast-cancer-presentation-and-management",
+      "topicName": "Breast Cancer: Presentation and Management",
+      "tier": "core"
+    },
+    {
+      "id": "rp60-002",
+      "stem": "A 48-year-old woman reports that over the past 3 weeks her right breast has become enlarged, warm, and red. Examination shows diffuse erythema over most of the breast with thickened skin that has a pitted, orange-peel texture. No discrete mass is palpated. Which of the following best explains the skin findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial infection of obstructed lactiferous ducts"
+        },
+        {
+          "label": "B",
+          "text": "Direct tumor invasion of the underlying pectoralis muscle"
+        },
+        {
+          "label": "C",
+          "text": "Hormone-driven stromal edema during the luteal phase"
+        },
+        {
+          "label": "D",
+          "text": "Intraepidermal spread of adenocarcinoma cells from the nipple"
+        },
+        {
+          "label": "E",
+          "text": "Tumor cells obstructing lymphatic channels in the dermis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Inflammatory breast cancer is an aggressive form in which tumor cells block dermal lymphatics, producing a swollen red breast with peau d'orange.",
+        "whyCorrect": "In inflammatory breast cancer, cancer cells block the lymphatics of the skin. The resulting lymphatic obstruction makes the breast look swollen, red, and inflamed with diffuse dimpling known as peau d'orange.",
+        "whyWrongByChoice": {
+          "A": "The clinical picture mimics infection, but the mechanism here is malignant lymphatic blockage, not ductal infection.",
+          "B": "Chest wall muscle invasion would fix the tumor but does not explain diffuse erythema and orange-peel skin.",
+          "C": "Cyclic hormonal changes do not produce persistent unilateral erythema with peau d'orange.",
+          "D": "Intraepidermal adenocarcinoma cells in the nipple define Paget disease of the breast, which causes a scaling nipple-areolar lesion rather than diffuse breast swelling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inflammatory breast cancer",
+        "presentation"
+      ],
+      "topicId": "breast-cancer-presentation-and-management",
+      "topicName": "Breast Cancer: Presentation and Management",
+      "tier": "core"
+    },
+    {
+      "id": "rp60-003",
+      "stem": "A 61-year-old woman has had a persistent scaly, eczematous lesion of the left nipple and areola for 4 months. There is no palpable breast mass, and her recent mammogram showed no abnormality. Biopsy of the lesion shows large intraepithelial adenocarcinoma cells within the epidermis of the nipple. Which of the following is the most important implication of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A negative mammogram reliably excludes deeper breast carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "An underlying in situ or invasive breast carcinoma is likely"
+        },
+        {
+          "label": "C",
+          "text": "The disease is confined to skin and is cured by local skin care"
+        },
+        {
+          "label": "D",
+          "text": "The finding by itself establishes stage 4 metastatic disease"
+        },
+        {
+          "label": "E",
+          "text": "The tumor is blocking dermal lymphatics across the whole breast"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Paget disease of the breast (Paget cells in the nipple epidermis) is associated with underlying in situ and/or invasive cancer in 80-90% of cases.",
+        "whyCorrect": "Paget disease presents as a persistent scaling, eczematous, or ulcerated nipple-areolar lesion with Paget cells in the epidermis. It must be recognized because it is associated with an underlying breast cancer in 80-90% of cases, often without a breast mass or mammographic abnormality.",
+        "whyWrongByChoice": {
+          "A": "The underlying cancer in Paget disease is often present without any mammographic abnormality, so a normal mammogram does not exclude it.",
+          "C": "The lesion is a marker of underlying carcinoma in most cases; treating it as a skin-only process misses the cancer.",
+          "D": "Stage 4 requires spread beyond the breast and regional nodes; a nipple lesion does not establish distant metastasis.",
+          "E": "Dermal lymphatic blockage describes inflammatory breast cancer, which causes diffuse swelling and peau d'orange."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Paget disease of the breast",
+        "presentation"
+      ],
+      "topicId": "breast-cancer-presentation-and-management",
+      "topicName": "Breast Cancer: Presentation and Management",
+      "tier": "core"
+    },
+    {
+      "id": "rp60-004",
+      "stem": "A 44-year-old woman has a 1.8-cm mass seen on diagnostic mammography. Ultrasonography confirms that the lesion is solid rather than fluid filled. Which of the following is the most appropriate next step to establish a tissue diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ductography of the affected breast"
+        },
+        {
+          "label": "B",
+          "text": "Fine-needle aspiration of the lesion"
+        },
+        {
+          "label": "C",
+          "text": "Radical mastectomy with nodal removal"
+        },
+        {
+          "label": "D",
+          "text": "Repeat mammography in six months"
+        },
+        {
+          "label": "E",
+          "text": "Ultrasound-guided core needle biopsy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Solid breast masses are sampled by core needle biopsy, which can be guided by ultrasound or MRI.",
+        "whyCorrect": "Biopsy is the definitive diagnostic tool. Solid masses require core needle biopsy, in which a thin hollow needle removes a tissue sample; the tissue can also be tested for ER, PR, and HER2 to plan treatment.",
+        "whyWrongByChoice": {
+          "A": "Ductography images contrast-filled ducts to investigate nipple discharge; it does not provide tissue.",
+          "B": "Fine-needle aspiration is used to sample a fluid-filled cyst, not a solid mass.",
+          "C": "Definitive surgery is not performed before a tissue diagnosis, and radical mastectomy is now rarely performed.",
+          "D": "A solid mass suspicious on imaging needs tissue diagnosis now, not delayed surveillance."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "biopsy",
+        "diagnosis"
+      ],
+      "topicId": "breast-cancer-presentation-and-management",
+      "topicName": "Breast Cancer: Presentation and Management",
+      "tier": "core"
+    },
+    {
+      "id": "rp60-005",
+      "stem": "A 57-year-old woman undergoes routine screening mammography. She has no symptoms and no palpable mass. The study shows a cluster of tiny, fine calcific densities in the upper outer quadrant of the left breast with no associated mass. These findings are most suggestive of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ductal carcinoma in situ of the breast"
+        },
+        {
+          "label": "B",
+          "text": "Inflammatory carcinoma with skin edema"
+        },
+        {
+          "label": "C",
+          "text": "Old fat injury from prior breast trauma"
+        },
+        {
+          "label": "D",
+          "text": "Paget disease of the nipple epidermis"
+        },
+        {
+          "label": "E",
+          "text": "Simple fluid-filled cyst of the breast"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Microcalcifications on mammography are suggestive of DCIS, whereas larger macrocalcifications usually reflect old injury or inflammation.",
+        "whyCorrect": "Calcifications seen on mammography are divided by size. Microcalcifications are more likely to signal breast cancer and are characteristic of ductal carcinoma in situ.",
+        "whyWrongByChoice": {
+          "B": "Inflammatory breast cancer presents clinically with a red, swollen breast and peau d'orange.",
+          "C": "Old injury or inflammation typically produces larger macrocalcifications, not clusters of fine microcalcifications.",
+          "D": "Paget disease presents as a scaling nipple-areolar lesion and is often not visible on mammography.",
+          "E": "A cyst appears as a fluid-filled mass, and no mass is present here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mammography",
+        "microcalcifications",
+        "DCIS"
+      ],
+      "topicId": "breast-cancer-presentation-and-management",
+      "topicName": "Breast Cancer: Presentation and Management",
+      "tier": "core"
+    },
+    {
+      "id": "rp60-006",
+      "stem": "A 56-year-old postmenopausal woman has taken an oral selective estrogen receptor modulator for 3 years after treatment of a hormone receptor-positive breast cancer. She now reports vaginal bleeding, and endometrial biopsy shows carcinoma. Which property of her medication best explains this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Agonist activity at endometrial estrogen receptors"
+        },
+        {
+          "label": "B",
+          "text": "Antagonist activity at endometrial estrogen receptors"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of HER2 growth signaling in endometrial cells"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of peripheral aromatase in adipose tissue"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of pituitary gonadotropin secretion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tamoxifen blocks estrogen receptors in breast but acts as an agonist in bone and endometrium, raising the risk of endometrial carcinoma.",
+        "whyCorrect": "Tamoxifen is a SERM used for hormone receptor-positive cancer in pre- or postmenopausal patients. Its estrogen-agonist effect on the endometrium accounts for the increased risk of endometrial carcinoma; venous thromboembolism is its other important adverse effect.",
+        "whyWrongByChoice": {
+          "B": "Tamoxifen is an antagonist in breast tissue, but in the endometrium it acts as an agonist; antagonism would not stimulate endometrial growth.",
+          "C": "HER2 blockade describes trastuzumab, whose key toxicity is cardiomyopathy.",
+          "D": "Aromatase inhibition describes anastrozole, letrozole, and exemestane, which lower estrogen rather than stimulate the endometrium.",
+          "E": "Ovarian suppression via the pituitary axis is achieved with GnRH agonists such as leuprolide or goserelin, not SERMs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tamoxifen",
+        "endocrine therapy",
+        "adverse effects"
+      ],
+      "topicId": "breast-cancer-presentation-and-management",
+      "topicName": "Breast Cancer: Presentation and Management",
+      "tier": "core"
+    },
+    {
+      "id": "rp60-007",
+      "stem": "A 66-year-old postmenopausal woman with an estrogen receptor-positive, HER2-negative invasive breast carcinoma completes lumpectomy and radiation. She is started on letrozole. Which of the following adverse effects most warrants monitoring during this therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Declining left ventricular ejection fraction"
+        },
+        {
+          "label": "B",
+          "text": "Endometrial thickening progressing to carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Hypothyroidism from autoimmune thyroiditis"
+        },
+        {
+          "label": "D",
+          "text": "Immune-mediated pneumonitis and colitis"
+        },
+        {
+          "label": "E",
+          "text": "Loss of bone mineral density with fracture risk"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aromatase inhibitors lower circulating estrogen and cause decreased bone mineral density and fractures.",
+        "whyCorrect": "Letrozole, like anastrozole and exemestane, inhibits aromatase, lowering estrogen to remove stimulation of ER-positive tumor cells. Because estrogen supports bone, the important adverse effects are decreased bone mineral density and fractures.",
+        "whyWrongByChoice": {
+          "A": "Cardiomyopathy requiring left ventricular monitoring is the key toxicity of trastuzumab.",
+          "B": "Endometrial carcinoma is linked to tamoxifen's agonist effect on the endometrium, not to estrogen deprivation.",
+          "C": "Thyroid dysfunction is an immune-related adverse effect of pembrolizumab.",
+          "D": "Pneumonitis and colitis are immune-related effects of pembrolizumab."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aromatase inhibitors",
+        "endocrine therapy",
+        "adverse effects"
+      ],
+      "topicId": "breast-cancer-presentation-and-management",
+      "topicName": "Breast Cancer: Presentation and Management",
+      "tier": "core"
+    },
+    {
+      "id": "rp60-008",
+      "stem": "A 52-year-old woman with an invasive breast carcinoma that overexpresses the human epidermal growth factor receptor 2 is treated with chemotherapy plus a monoclonal antibody directed at that receptor. Four months later she has exertional dyspnea and leg edema, and echocardiography shows a reduced ejection fraction. Which drug is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anastrozole"
+        },
+        {
+          "label": "B",
+          "text": "Leuprolide"
+        },
+        {
+          "label": "C",
+          "text": "Pembrolizumab"
+        },
+        {
+          "label": "D",
+          "text": "Tamoxifen"
+        },
+        {
+          "label": "E",
+          "text": "Trastuzumab"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Trastuzumab, the anti-HER2 monoclonal antibody, can cause cardiomyopathy, so left ventricular function is checked before and during therapy.",
+        "whyCorrect": "HER2-positive cancers are treated with HER2-targeted therapy, often with chemotherapy. Trastuzumab binds HER2, inhibits proliferative signaling, and promotes immune destruction of tumor cells; its important adverse effect is cardiomyopathy.",
+        "whyWrongByChoice": {
+          "A": "Anastrozole is an aromatase inhibitor associated with bone loss and fractures.",
+          "B": "Leuprolide is a GnRH agonist used for ovarian suppression, not an anti-HER2 antibody.",
+          "C": "Pembrolizumab is an anti-PD-1 antibody used in high-risk triple-negative cancer, with immune-related toxicities.",
+          "D": "Tamoxifen is a SERM whose key risks are venous thromboembolism and endometrial carcinoma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "trastuzumab",
+        "HER2",
+        "adverse effects"
+      ],
+      "topicId": "breast-cancer-presentation-and-management",
+      "topicName": "Breast Cancer: Presentation and Management",
+      "tier": "core"
+    },
+    {
+      "id": "rp60-009",
+      "stem": "A 46-year-old woman is found to have a 2.5-cm invasive breast carcinoma with no distant metastases. Immunohistochemistry shows no staining for estrogen or progesterone receptors, and there is no overexpression of HER2. Her oncologist considers the tumor high risk. Which of the following best describes the main systemic treatment for this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aromatase inhibitor combined with ovarian suppression"
+        },
+        {
+          "label": "B",
+          "text": "Chemotherapy, with pembrolizumab added in selected cases"
+        },
+        {
+          "label": "C",
+          "text": "Raloxifene continued alongside bone density monitoring"
+        },
+        {
+          "label": "D",
+          "text": "Tamoxifen for several years following breast surgery"
+        },
+        {
+          "label": "E",
+          "text": "Trastuzumab-based regimen targeting the growth receptor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Triple-negative tumors lack endocrine and HER2 targets, so chemotherapy is the main systemic treatment, with pembrolizumab added for selected high-risk early-stage disease.",
+        "whyCorrect": "Triple-negative breast cancers lack ER, PR, and HER2 expression and therefore do not respond to endocrine or HER2-targeted therapy. Chemotherapy, often given neoadjuvantly, is the main systemic therapy, and selected high-risk early-stage patients also receive pembrolizumab with chemotherapy.",
+        "whyWrongByChoice": {
+          "A": "Aromatase inhibitors work by lowering estrogen and are ineffective in a tumor without estrogen receptors.",
+          "C": "Raloxifene is not used to treat established breast cancer and would have no receptor target here.",
+          "D": "Tamoxifen blocks estrogen receptors and has no target in a receptor-negative tumor.",
+          "E": "Trastuzumab requires HER2 overexpression, which this tumor lacks."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "triple-negative",
+        "chemotherapy",
+        "pembrolizumab"
+      ],
+      "topicId": "breast-cancer-presentation-and-management",
+      "topicName": "Breast Cancer: Presentation and Management",
+      "tier": "core"
+    },
+    {
+      "id": "rp60-010",
+      "stem": "A 54-year-old woman with biopsy-proven invasive breast carcinoma would prefer to keep her breast and asks whether she is a candidate for breast-conserving surgery followed by radiation. Which of the following additional findings would most favor mastectomy instead?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clinically negative axillary nodes on examination"
+        },
+        {
+          "label": "B",
+          "text": "Detection of the tumor by screening tomosynthesis"
+        },
+        {
+          "label": "C",
+          "text": "Multicentric tumor foci in separate quadrants"
+        },
+        {
+          "label": "D",
+          "text": "Overexpression of HER2 on immunohistochemistry"
+        },
+        {
+          "label": "E",
+          "text": "Strong estrogen and progesterone receptor positivity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mastectomy is preferred when disease is extensive or multicentric, negative margins cannot be achieved, or radiation cannot be given.",
+        "whyCorrect": "In appropriately selected early-stage patients, lumpectomy plus radiation gives survival equivalent to mastectomy. Mastectomy may be preferred when the cancer or DCIS is extensive or multicentric, when negative margins cannot be obtained, or when radiation cannot be administered.",
+        "whyWrongByChoice": {
+          "A": "A clinically node-negative axilla is staged with sentinel lymph-node biopsy and does not preclude breast conservation.",
+          "B": "The detection method does not determine surgical approach; screen-detected cancers are often small and suitable for lumpectomy.",
+          "D": "HER2 status directs HER2-targeted therapy and is not a stated reason to require mastectomy.",
+          "E": "Hormone receptor status guides endocrine therapy, not the choice between lumpectomy and mastectomy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "surgery",
+        "mastectomy",
+        "breast-conserving surgery"
+      ],
+      "topicId": "breast-cancer-presentation-and-management",
+      "topicName": "Breast Cancer: Presentation and Management",
+      "tier": "core"
+    },
+    {
+      "id": "rp60-011",
+      "stem": "A 59-year-old woman with a newly diagnosed invasive breast carcinoma reports aching in her lower back. Laboratory studies show an elevated alkaline phosphatase, and a bone scan shows multiple lesions in the thoracic and lumbar vertebrae consistent with metastases. Which stage best describes her disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stage 0"
+        },
+        {
+          "label": "B",
+          "text": "Stage 1"
+        },
+        {
+          "label": "C",
+          "text": "Stage 2"
+        },
+        {
+          "label": "D",
+          "text": "Stage 3"
+        },
+        {
+          "label": "E",
+          "text": "Stage 4"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Breast cancer staging uses T, N, and M; stage 4 is disease that has spread beyond the breast and regional lymph nodes.",
+        "whyCorrect": "Stage 0 is carcinoma in situ, stages 1-3 describe disease within the breast or regional nodes, and stage 4 is distant metastatic disease. Metastatic workup tailored to symptoms includes liver transaminases and alkaline phosphatase and a bone scan; her vertebral metastases place her at stage 4.",
+        "whyWrongByChoice": {
+          "A": "Stage 0 is precancerous carcinoma in situ without invasion.",
+          "B": "Stage 1 disease is confined to the breast or regional nodes, without distant spread.",
+          "C": "Stage 2 disease is still limited to the breast or regional nodes.",
+          "D": "Stage 3 disease, though more extensive locally or regionally, has not spread to distant sites such as bone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "staging",
+        "metastasis"
+      ],
+      "topicId": "breast-cancer-presentation-and-management",
+      "topicName": "Breast Cancer: Presentation and Management",
+      "tier": "core"
+    },
+    {
+      "id": "rp60-012",
+      "stem": "A 41-year-old premenopausal woman has an estrogen receptor-positive invasive breast carcinoma. After surgery, her oncologist plans to use anastrozole as part of her endocrine therapy. Which additional treatment is required for this plan to be appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Goserelin given concurrently for ovarian suppression"
+        },
+        {
+          "label": "B",
+          "text": "Pembrolizumab given concurrently for T-cell activation"
+        },
+        {
+          "label": "C",
+          "text": "Raloxifene given concurrently for bone protection"
+        },
+        {
+          "label": "D",
+          "text": "Tamoxifen given concurrently for estrogen blockade"
+        },
+        {
+          "label": "E",
+          "text": "Trastuzumab given concurrently for receptor blockade"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In premenopausal patients, aromatase inhibitors are used only together with ovarian suppression, achieved with GnRH agonists such as leuprolide or goserelin.",
+        "whyCorrect": "Aromatase inhibitors are most commonly used in postmenopausal patients. When used before menopause, they must be combined with ovarian suppression, which can be achieved with a GnRH agonist such as goserelin or leuprolide.",
+        "whyWrongByChoice": {
+          "B": "Pembrolizumab is used with chemotherapy in selected high-risk triple-negative cancers.",
+          "C": "Raloxifene is used for osteoporosis and risk reduction in postmenopausal women; it does not make an aromatase inhibitor appropriate before menopause.",
+          "D": "Tamoxifen is itself an alternative endocrine therapy for premenopausal patients, not the required partner for an aromatase inhibitor.",
+          "E": "Trastuzumab is HER2-targeted therapy and is not indicated for a tumor described only as ER-positive."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aromatase inhibitors",
+        "GnRH agonists",
+        "premenopausal"
+      ],
+      "topicId": "breast-cancer-presentation-and-management",
+      "topicName": "Breast Cancer: Presentation and Management",
+      "tier": "core"
+    }
+  ]
+}
