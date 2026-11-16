@@ -47,7 +47,8 @@
       ],
       "topicId": "reproductive-hiv",
       "topicName": "Reproductive: HIV",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp34-002",
@@ -95,7 +96,8 @@
       ],
       "topicId": "reproductive-hiv",
       "topicName": "Reproductive: HIV",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp34-003",
@@ -191,7 +193,8 @@
       ],
       "topicId": "reproductive-hiv",
       "topicName": "Reproductive: HIV",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp34-005",
@@ -286,7 +289,8 @@
       ],
       "topicId": "reproductive-hiv",
       "topicName": "Reproductive: HIV",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp34-007",
@@ -381,7 +385,8 @@
       ],
       "topicId": "reproductive-hiv",
       "topicName": "Reproductive: HIV",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp34-009",
@@ -429,7 +434,8 @@
       ],
       "topicId": "reproductive-hiv",
       "topicName": "Reproductive: HIV",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp34-010",
@@ -477,7 +483,8 @@
       ],
       "topicId": "reproductive-hiv",
       "topicName": "Reproductive: HIV",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp34-011",
@@ -524,7 +531,8 @@
       ],
       "topicId": "reproductive-hiv",
       "topicName": "Reproductive: HIV",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp34-012",
@@ -572,7 +580,8 @@
       ],
       "topicId": "reproductive-hiv",
       "topicName": "Reproductive: HIV",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp35-001",
@@ -619,7 +628,8 @@
       ],
       "topicId": "herpes-simplex-and-genital-warts",
       "topicName": "Herpes Simplex and Genital Warts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp35-002",
@@ -666,7 +676,8 @@
       ],
       "topicId": "herpes-simplex-and-genital-warts",
       "topicName": "Herpes Simplex and Genital Warts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp35-003",
@@ -714,7 +725,8 @@
       ],
       "topicId": "herpes-simplex-and-genital-warts",
       "topicName": "Herpes Simplex and Genital Warts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp35-004",
@@ -761,7 +773,8 @@
       ],
       "topicId": "herpes-simplex-and-genital-warts",
       "topicName": "Herpes Simplex and Genital Warts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp35-005",
@@ -809,7 +822,8 @@
       ],
       "topicId": "herpes-simplex-and-genital-warts",
       "topicName": "Herpes Simplex and Genital Warts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp35-006",
@@ -951,7 +965,8 @@
       ],
       "topicId": "herpes-simplex-and-genital-warts",
       "topicName": "Herpes Simplex and Genital Warts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp35-009",
@@ -998,7 +1013,8 @@
       ],
       "topicId": "herpes-simplex-and-genital-warts",
       "topicName": "Herpes Simplex and Genital Warts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp35-010",
@@ -1094,7 +1110,8 @@
       ],
       "topicId": "herpes-simplex-and-genital-warts",
       "topicName": "Herpes Simplex and Genital Warts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp35-012",
@@ -1142,7 +1159,8 @@
       ],
       "topicId": "herpes-simplex-and-genital-warts",
       "topicName": "Herpes Simplex and Genital Warts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp36-001",
@@ -1190,7 +1208,8 @@
       ],
       "topicId": "syphilis-and-other-ulcerative-stis",
       "topicName": "Syphilis and Other Ulcerative STIs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp36-002",
@@ -1285,7 +1304,8 @@
       ],
       "topicId": "syphilis-and-other-ulcerative-stis",
       "topicName": "Syphilis and Other Ulcerative STIs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp36-004",
@@ -1380,7 +1400,8 @@
       ],
       "topicId": "syphilis-and-other-ulcerative-stis",
       "topicName": "Syphilis and Other Ulcerative STIs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp36-006",
@@ -1427,7 +1448,8 @@
       ],
       "topicId": "syphilis-and-other-ulcerative-stis",
       "topicName": "Syphilis and Other Ulcerative STIs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp36-007",
@@ -1475,7 +1497,8 @@
       ],
       "topicId": "syphilis-and-other-ulcerative-stis",
       "topicName": "Syphilis and Other Ulcerative STIs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp36-008",
@@ -1523,7 +1546,8 @@
       ],
       "topicId": "syphilis-and-other-ulcerative-stis",
       "topicName": "Syphilis and Other Ulcerative STIs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp36-009",
@@ -1570,7 +1594,8 @@
       ],
       "topicId": "syphilis-and-other-ulcerative-stis",
       "topicName": "Syphilis and Other Ulcerative STIs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp36-010",
@@ -1617,7 +1642,8 @@
       ],
       "topicId": "syphilis-and-other-ulcerative-stis",
       "topicName": "Syphilis and Other Ulcerative STIs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp36-011",
@@ -1664,7 +1690,8 @@
       ],
       "topicId": "syphilis-and-other-ulcerative-stis",
       "topicName": "Syphilis and Other Ulcerative STIs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp36-012",
@@ -1711,7 +1738,8 @@
       ],
       "topicId": "syphilis-and-other-ulcerative-stis",
       "topicName": "Syphilis and Other Ulcerative STIs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp37-001",
@@ -1758,7 +1786,8 @@
       ],
       "topicId": "cervical-cancer",
       "topicName": "Cervical Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp37-002",
@@ -1806,7 +1835,8 @@
       ],
       "topicId": "cervical-cancer",
       "topicName": "Cervical Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp37-003",
@@ -1899,7 +1929,8 @@
       ],
       "topicId": "cervical-cancer",
       "topicName": "Cervical Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp37-005",
@@ -1946,7 +1977,8 @@
       ],
       "topicId": "cervical-cancer",
       "topicName": "Cervical Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp37-006",
@@ -2087,7 +2119,8 @@
       ],
       "topicId": "cervical-cancer",
       "topicName": "Cervical Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp37-009",
@@ -2181,7 +2214,8 @@
       ],
       "topicId": "cervical-cancer",
       "topicName": "Cervical Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp37-011",
@@ -2228,7 +2262,8 @@
       ],
       "topicId": "cervical-cancer",
       "topicName": "Cervical Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp37-012",
@@ -2275,7 +2310,8 @@
       ],
       "topicId": "cervical-cancer",
       "topicName": "Cervical Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp38-001",
@@ -2321,7 +2357,8 @@
       ],
       "topicId": "vulvar-pathologies",
       "topicName": "Vulvar Pathologies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp38-002",
@@ -2367,7 +2404,8 @@
       ],
       "topicId": "vulvar-pathologies",
       "topicName": "Vulvar Pathologies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp38-003",
@@ -2413,7 +2451,8 @@
       ],
       "topicId": "vulvar-pathologies",
       "topicName": "Vulvar Pathologies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp38-004",
@@ -2506,7 +2545,8 @@
       ],
       "topicId": "vulvar-pathologies",
       "topicName": "Vulvar Pathologies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp38-006",
@@ -2553,7 +2593,8 @@
       ],
       "topicId": "vulvar-pathologies",
       "topicName": "Vulvar Pathologies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp38-007",
@@ -2647,7 +2688,8 @@
       ],
       "topicId": "vulvar-pathologies",
       "topicName": "Vulvar Pathologies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp38-009",
@@ -2693,7 +2735,8 @@
       ],
       "topicId": "vulvar-pathologies",
       "topicName": "Vulvar Pathologies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp38-010",
@@ -2740,7 +2783,8 @@
       ],
       "topicId": "vulvar-pathologies",
       "topicName": "Vulvar Pathologies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp38-011",
@@ -2787,7 +2831,8 @@
       ],
       "topicId": "vulvar-pathologies",
       "topicName": "Vulvar Pathologies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp38-012",

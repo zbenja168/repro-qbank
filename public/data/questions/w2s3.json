@@ -47,7 +47,8 @@
       ],
       "topicId": "disorders-of-the-penis",
       "topicName": "Disorders of the Penis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp25-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "disorders-of-the-penis",
       "topicName": "Disorders of the Penis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp25-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "disorders-of-the-penis",
       "topicName": "Disorders of the Penis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp25-004",
@@ -234,7 +237,8 @@
       ],
       "topicId": "disorders-of-the-penis",
       "topicName": "Disorders of the Penis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp25-006",
@@ -281,7 +285,8 @@
       ],
       "topicId": "disorders-of-the-penis",
       "topicName": "Disorders of the Penis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp25-007",
@@ -374,7 +379,8 @@
       ],
       "topicId": "disorders-of-the-penis",
       "topicName": "Disorders of the Penis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp25-009",
@@ -468,7 +474,8 @@
       ],
       "topicId": "disorders-of-the-penis",
       "topicName": "Disorders of the Penis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp25-011",
@@ -515,7 +522,8 @@
       ],
       "topicId": "disorders-of-the-penis",
       "topicName": "Disorders of the Penis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp25-012",
@@ -562,7 +570,8 @@
       ],
       "topicId": "disorders-of-the-penis",
       "topicName": "Disorders of the Penis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp26-001",
@@ -609,7 +618,8 @@
       ],
       "topicId": "benign-testicular-disorders",
       "topicName": "Benign Testicular Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp26-002",
@@ -656,7 +666,8 @@
       ],
       "topicId": "benign-testicular-disorders",
       "topicName": "Benign Testicular Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp26-003",
@@ -703,7 +714,8 @@
       ],
       "topicId": "benign-testicular-disorders",
       "topicName": "Benign Testicular Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp26-004",
@@ -750,7 +762,8 @@
       ],
       "topicId": "benign-testicular-disorders",
       "topicName": "Benign Testicular Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp26-005",
@@ -797,7 +810,8 @@
       ],
       "topicId": "benign-testicular-disorders",
       "topicName": "Benign Testicular Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp26-006",
@@ -844,7 +858,8 @@
       ],
       "topicId": "benign-testicular-disorders",
       "topicName": "Benign Testicular Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp26-007",
@@ -891,7 +906,8 @@
       ],
       "topicId": "benign-testicular-disorders",
       "topicName": "Benign Testicular Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp26-008",
@@ -985,7 +1001,8 @@
       ],
       "topicId": "benign-testicular-disorders",
       "topicName": "Benign Testicular Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp26-010",
@@ -1032,7 +1049,8 @@
       ],
       "topicId": "benign-testicular-disorders",
       "topicName": "Benign Testicular Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp26-011",
@@ -1173,7 +1191,8 @@
       ],
       "topicId": "testicular-tumors",
       "topicName": "Testicular Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp27-002",
@@ -1220,7 +1239,8 @@
       ],
       "topicId": "testicular-tumors",
       "topicName": "Testicular Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp27-003",
@@ -1267,7 +1287,8 @@
       ],
       "topicId": "testicular-tumors",
       "topicName": "Testicular Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp27-004",
@@ -1314,7 +1335,8 @@
       ],
       "topicId": "testicular-tumors",
       "topicName": "Testicular Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp27-005",
@@ -1361,7 +1383,8 @@
       ],
       "topicId": "testicular-tumors",
       "topicName": "Testicular Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp27-006",
@@ -1408,7 +1431,8 @@
       ],
       "topicId": "testicular-tumors",
       "topicName": "Testicular Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp27-007",
@@ -1596,7 +1620,8 @@
       ],
       "topicId": "testicular-tumors",
       "topicName": "Testicular Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp27-011",
@@ -1690,7 +1715,8 @@
       ],
       "topicId": "testicular-tumors",
       "topicName": "Testicular Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp28-001",
@@ -1737,7 +1763,8 @@
       ],
       "topicId": "benign-prostate-disorders",
       "topicName": "Benign Prostate Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp28-002",
@@ -1784,7 +1811,8 @@
       ],
       "topicId": "benign-prostate-disorders",
       "topicName": "Benign Prostate Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp28-003",
@@ -1831,7 +1859,8 @@
       ],
       "topicId": "benign-prostate-disorders",
       "topicName": "Benign Prostate Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp28-004",
@@ -1879,7 +1908,8 @@
       ],
       "topicId": "benign-prostate-disorders",
       "topicName": "Benign Prostate Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp28-005",
@@ -1926,7 +1956,8 @@
       ],
       "topicId": "benign-prostate-disorders",
       "topicName": "Benign Prostate Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp28-006",
@@ -2020,7 +2051,8 @@
       ],
       "topicId": "benign-prostate-disorders",
       "topicName": "Benign Prostate Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp28-008",
@@ -2067,7 +2099,8 @@
       ],
       "topicId": "benign-prostate-disorders",
       "topicName": "Benign Prostate Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp28-009",
@@ -2114,7 +2147,8 @@
       ],
       "topicId": "benign-prostate-disorders",
       "topicName": "Benign Prostate Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp28-010",
@@ -2161,7 +2195,8 @@
       ],
       "topicId": "benign-prostate-disorders",
       "topicName": "Benign Prostate Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp28-011",
@@ -2207,7 +2242,8 @@
       ],
       "topicId": "benign-prostate-disorders",
       "topicName": "Benign Prostate Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp28-012",
@@ -2301,7 +2337,8 @@
       ],
       "topicId": "prostate-cancer",
       "topicName": "Prostate Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp29-002",
@@ -2394,7 +2431,8 @@
       ],
       "topicId": "prostate-cancer",
       "topicName": "Prostate Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp29-004",
@@ -2441,7 +2479,8 @@
       ],
       "topicId": "prostate-cancer",
       "topicName": "Prostate Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp29-005",
@@ -2582,7 +2621,8 @@
       ],
       "topicId": "prostate-cancer",
       "topicName": "Prostate Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp29-008",
@@ -2629,7 +2669,8 @@
       ],
       "topicId": "prostate-cancer",
       "topicName": "Prostate Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp29-009",
@@ -2676,7 +2717,8 @@
       ],
       "topicId": "prostate-cancer",
       "topicName": "Prostate Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp29-010",
@@ -2723,7 +2765,8 @@
       ],
       "topicId": "prostate-cancer",
       "topicName": "Prostate Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp29-011",
@@ -2770,7 +2813,8 @@
       ],
       "topicId": "prostate-cancer",
       "topicName": "Prostate Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp29-012",

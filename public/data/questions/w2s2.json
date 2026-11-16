@@ -46,7 +46,8 @@
       ],
       "topicId": "benign-endometrial-disorders",
       "topicName": "Benign Endometrial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp20-002",
@@ -93,7 +94,8 @@
       ],
       "topicId": "benign-endometrial-disorders",
       "topicName": "Benign Endometrial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp20-003",
@@ -233,7 +235,8 @@
       ],
       "topicId": "benign-endometrial-disorders",
       "topicName": "Benign Endometrial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp20-006",
@@ -280,7 +283,8 @@
       ],
       "topicId": "benign-endometrial-disorders",
       "topicName": "Benign Endometrial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp20-007",
@@ -421,7 +425,8 @@
       ],
       "topicId": "benign-endometrial-disorders",
       "topicName": "Benign Endometrial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp20-010",
@@ -468,7 +473,8 @@
       ],
       "topicId": "benign-endometrial-disorders",
       "topicName": "Benign Endometrial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp20-011",
@@ -515,7 +521,8 @@
       ],
       "topicId": "benign-endometrial-disorders",
       "topicName": "Benign Endometrial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp20-012",
@@ -562,7 +569,8 @@
       ],
       "topicId": "benign-endometrial-disorders",
       "topicName": "Benign Endometrial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp21-001",
@@ -609,7 +617,8 @@
       ],
       "topicId": "uterine-tumors",
       "topicName": "Uterine Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp21-002",
@@ -656,7 +665,8 @@
       ],
       "topicId": "uterine-tumors",
       "topicName": "Uterine Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp21-003",
@@ -703,7 +713,8 @@
       ],
       "topicId": "uterine-tumors",
       "topicName": "Uterine Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp21-004",
@@ -797,7 +808,8 @@
       ],
       "topicId": "uterine-tumors",
       "topicName": "Uterine Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp21-006",
@@ -844,7 +856,8 @@
       ],
       "topicId": "uterine-tumors",
       "topicName": "Uterine Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp21-007",
@@ -891,7 +904,8 @@
       ],
       "topicId": "uterine-tumors",
       "topicName": "Uterine Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp21-008",
@@ -984,7 +998,8 @@
       ],
       "topicId": "uterine-tumors",
       "topicName": "Uterine Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp21-010",
@@ -1078,7 +1093,8 @@
       ],
       "topicId": "uterine-tumors",
       "topicName": "Uterine Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp21-012",
@@ -1171,7 +1187,8 @@
       ],
       "topicId": "ovarian-cysts",
       "topicName": "Ovarian Cysts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp22-002",
@@ -1218,7 +1235,8 @@
       ],
       "topicId": "ovarian-cysts",
       "topicName": "Ovarian Cysts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp22-003",
@@ -1265,7 +1283,8 @@
       ],
       "topicId": "ovarian-cysts",
       "topicName": "Ovarian Cysts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp22-004",
@@ -1312,7 +1331,8 @@
       ],
       "topicId": "ovarian-cysts",
       "topicName": "Ovarian Cysts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp22-005",
@@ -1359,7 +1379,8 @@
       ],
       "topicId": "ovarian-cysts",
       "topicName": "Ovarian Cysts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp22-006",
@@ -1406,7 +1427,8 @@
       ],
       "topicId": "ovarian-cysts",
       "topicName": "Ovarian Cysts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp22-007",
@@ -1548,7 +1570,8 @@
       ],
       "topicId": "ovarian-cysts",
       "topicName": "Ovarian Cysts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp22-010",
@@ -1595,7 +1618,8 @@
       ],
       "topicId": "ovarian-cysts",
       "topicName": "Ovarian Cysts",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp22-011",
@@ -1737,7 +1761,8 @@
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
       "topicName": "Ovarian Tumors (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp23-002",
@@ -1784,7 +1809,8 @@
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
       "topicName": "Ovarian Tumors (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp23-003",
@@ -1877,7 +1903,8 @@
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
       "topicName": "Ovarian Tumors (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp23-005",
@@ -1923,7 +1950,8 @@
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
       "topicName": "Ovarian Tumors (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp23-006",
@@ -1970,7 +1998,8 @@
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
       "topicName": "Ovarian Tumors (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp23-007",
@@ -2017,7 +2046,8 @@
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
       "topicName": "Ovarian Tumors (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp23-008",
@@ -2063,7 +2093,8 @@
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
       "topicName": "Ovarian Tumors (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp23-009",
@@ -2109,7 +2140,8 @@
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
       "topicName": "Ovarian Tumors (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp23-010",
@@ -2155,7 +2187,8 @@
       ],
       "topicId": "ovarian-tumors-part-1-of-2",
       "topicName": "Ovarian Tumors (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp23-011",
@@ -2296,7 +2329,8 @@
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
       "topicName": "Ovarian Tumors (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp24-002",
@@ -2343,7 +2377,8 @@
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
       "topicName": "Ovarian Tumors (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp24-003",
@@ -2390,7 +2425,8 @@
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
       "topicName": "Ovarian Tumors (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp24-004",
@@ -2437,7 +2473,8 @@
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
       "topicName": "Ovarian Tumors (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp24-005",
@@ -2484,7 +2521,8 @@
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
       "topicName": "Ovarian Tumors (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp24-006",
@@ -2531,7 +2569,8 @@
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
       "topicName": "Ovarian Tumors (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp24-007",
@@ -2578,7 +2617,8 @@
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
       "topicName": "Ovarian Tumors (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp24-008",
@@ -2625,7 +2665,8 @@
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
       "topicName": "Ovarian Tumors (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp24-009",
@@ -2719,7 +2760,8 @@
       ],
       "topicId": "ovarian-tumors-part-2-of-2",
       "topicName": "Ovarian Tumors (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp24-011",

@@ -46,7 +46,8 @@
       ],
       "topicId": "social-determinants-of-sexual-and-reproductive-health",
       "topicName": "Social Determinants of Sexual and Reproductive Health",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp47-002",
@@ -93,7 +94,8 @@
       ],
       "topicId": "social-determinants-of-sexual-and-reproductive-health",
       "topicName": "Social Determinants of Sexual and Reproductive Health",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp47-003",
@@ -140,7 +142,8 @@
       ],
       "topicId": "social-determinants-of-sexual-and-reproductive-health",
       "topicName": "Social Determinants of Sexual and Reproductive Health",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp47-004",
@@ -186,7 +189,8 @@
       ],
       "topicId": "social-determinants-of-sexual-and-reproductive-health",
       "topicName": "Social Determinants of Sexual and Reproductive Health",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp47-005",
@@ -232,7 +236,8 @@
       ],
       "topicId": "social-determinants-of-sexual-and-reproductive-health",
       "topicName": "Social Determinants of Sexual and Reproductive Health",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp47-006",
@@ -278,7 +283,8 @@
       ],
       "topicId": "social-determinants-of-sexual-and-reproductive-health",
       "topicName": "Social Determinants of Sexual and Reproductive Health",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp47-007",
@@ -370,7 +376,8 @@
       ],
       "topicId": "social-determinants-of-sexual-and-reproductive-health",
       "topicName": "Social Determinants of Sexual and Reproductive Health",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp47-009",
@@ -416,7 +423,8 @@
       ],
       "topicId": "social-determinants-of-sexual-and-reproductive-health",
       "topicName": "Social Determinants of Sexual and Reproductive Health",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp47-010",
@@ -601,7 +609,8 @@
       ],
       "topicId": "gender-based-violence-trauma-informed-care-ethical-principles",
       "topicName": "Gender-Based Violence, Trauma Informed Care, & Ethical Principles of Medical Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp48-002",
@@ -648,7 +657,8 @@
       ],
       "topicId": "gender-based-violence-trauma-informed-care-ethical-principles",
       "topicName": "Gender-Based Violence, Trauma Informed Care, & Ethical Principles of Medical Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp48-003",
@@ -695,7 +705,8 @@
       ],
       "topicId": "gender-based-violence-trauma-informed-care-ethical-principles",
       "topicName": "Gender-Based Violence, Trauma Informed Care, & Ethical Principles of Medical Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp48-004",
@@ -742,7 +753,8 @@
       ],
       "topicId": "gender-based-violence-trauma-informed-care-ethical-principles",
       "topicName": "Gender-Based Violence, Trauma Informed Care, & Ethical Principles of Medical Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp48-005",
@@ -789,7 +801,8 @@
       ],
       "topicId": "gender-based-violence-trauma-informed-care-ethical-principles",
       "topicName": "Gender-Based Violence, Trauma Informed Care, & Ethical Principles of Medical Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp48-006",
@@ -836,7 +849,8 @@
       ],
       "topicId": "gender-based-violence-trauma-informed-care-ethical-principles",
       "topicName": "Gender-Based Violence, Trauma Informed Care, & Ethical Principles of Medical Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp48-007",
@@ -883,7 +897,8 @@
       ],
       "topicId": "gender-based-violence-trauma-informed-care-ethical-principles",
       "topicName": "Gender-Based Violence, Trauma Informed Care, & Ethical Principles of Medical Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp48-008",
@@ -977,7 +992,8 @@
       ],
       "topicId": "gender-based-violence-trauma-informed-care-ethical-principles",
       "topicName": "Gender-Based Violence, Trauma Informed Care, & Ethical Principles of Medical Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp48-010",
@@ -1024,7 +1040,8 @@
       ],
       "topicId": "gender-based-violence-trauma-informed-care-ethical-principles",
       "topicName": "Gender-Based Violence, Trauma Informed Care, & Ethical Principles of Medical Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp48-011",
@@ -1118,7 +1135,8 @@
       ],
       "topicId": "gender-based-violence-trauma-informed-care-ethical-principles",
       "topicName": "Gender-Based Violence, Trauma Informed Care, & Ethical Principles of Medical Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp49-001",
@@ -1164,7 +1182,8 @@
       ],
       "topicId": "sexual-and-reproductive-health-and-rights",
       "topicName": "Sexual and Reproductive Health and Rights",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp49-002",
@@ -1210,7 +1229,8 @@
       ],
       "topicId": "sexual-and-reproductive-health-and-rights",
       "topicName": "Sexual and Reproductive Health and Rights",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp49-003",
@@ -1256,7 +1276,8 @@
       ],
       "topicId": "sexual-and-reproductive-health-and-rights",
       "topicName": "Sexual and Reproductive Health and Rights",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp49-004",
@@ -1302,7 +1323,8 @@
       ],
       "topicId": "sexual-and-reproductive-health-and-rights",
       "topicName": "Sexual and Reproductive Health and Rights",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp49-005",
@@ -1348,7 +1370,8 @@
       ],
       "topicId": "sexual-and-reproductive-health-and-rights",
       "topicName": "Sexual and Reproductive Health and Rights",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp49-006",
@@ -1394,7 +1417,8 @@
       ],
       "topicId": "sexual-and-reproductive-health-and-rights",
       "topicName": "Sexual and Reproductive Health and Rights",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp49-007",
@@ -1440,7 +1464,8 @@
       ],
       "topicId": "sexual-and-reproductive-health-and-rights",
       "topicName": "Sexual and Reproductive Health and Rights",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp49-008",
@@ -1486,7 +1511,8 @@
       ],
       "topicId": "sexual-and-reproductive-health-and-rights",
       "topicName": "Sexual and Reproductive Health and Rights",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp49-009",
@@ -1532,7 +1558,8 @@
       ],
       "topicId": "sexual-and-reproductive-health-and-rights",
       "topicName": "Sexual and Reproductive Health and Rights",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp49-010",

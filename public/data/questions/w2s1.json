@@ -48,7 +48,8 @@
       ],
       "topicId": "contraception",
       "topicName": "Contraception",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp15-002",
@@ -96,7 +97,8 @@
       ],
       "topicId": "contraception",
       "topicName": "Contraception",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp15-003",
@@ -143,7 +145,8 @@
       ],
       "topicId": "contraception",
       "topicName": "Contraception",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp15-004",
@@ -190,7 +193,8 @@
       ],
       "topicId": "contraception",
       "topicName": "Contraception",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp15-005",
@@ -237,7 +241,8 @@
       ],
       "topicId": "contraception",
       "topicName": "Contraception",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp15-006",
@@ -284,7 +289,8 @@
       ],
       "topicId": "contraception",
       "topicName": "Contraception",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp15-007",
@@ -331,7 +337,8 @@
       ],
       "topicId": "contraception",
       "topicName": "Contraception",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp15-008",
@@ -379,7 +386,8 @@
       ],
       "topicId": "contraception",
       "topicName": "Contraception",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp15-009",
@@ -426,7 +434,8 @@
       ],
       "topicId": "contraception",
       "topicName": "Contraception",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp15-010",
@@ -473,7 +482,8 @@
       ],
       "topicId": "contraception",
       "topicName": "Contraception",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp15-011",
@@ -567,7 +577,8 @@
       ],
       "topicId": "contraception",
       "topicName": "Contraception",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp16-001",
@@ -614,7 +625,8 @@
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
       "topicName": "Family Planning, Preconception Care and Infertility",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp16-002",
@@ -708,7 +720,8 @@
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
       "topicName": "Family Planning, Preconception Care and Infertility",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp16-004",
@@ -755,7 +768,8 @@
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
       "topicName": "Family Planning, Preconception Care and Infertility",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp16-005",
@@ -802,7 +816,8 @@
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
       "topicName": "Family Planning, Preconception Care and Infertility",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp16-006",
@@ -849,7 +864,8 @@
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
       "topicName": "Family Planning, Preconception Care and Infertility",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp16-007",
@@ -896,7 +912,8 @@
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
       "topicName": "Family Planning, Preconception Care and Infertility",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp16-008",
@@ -990,7 +1007,8 @@
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
       "topicName": "Family Planning, Preconception Care and Infertility",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp16-010",
@@ -1037,7 +1055,8 @@
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
       "topicName": "Family Planning, Preconception Care and Infertility",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp16-011",
@@ -1084,7 +1103,8 @@
       ],
       "topicId": "family-planning-preconception-care-and-infertility",
       "topicName": "Family Planning, Preconception Care and Infertility",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp16-012",
@@ -1178,7 +1198,8 @@
       ],
       "topicId": "sexual-health-and-complications",
       "topicName": "Sexual Health and Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp17-002",
@@ -1225,7 +1246,8 @@
       ],
       "topicId": "sexual-health-and-complications",
       "topicName": "Sexual Health and Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp17-003",
@@ -1272,7 +1294,8 @@
       ],
       "topicId": "sexual-health-and-complications",
       "topicName": "Sexual Health and Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp17-004",
@@ -1413,7 +1436,8 @@
       ],
       "topicId": "sexual-health-and-complications",
       "topicName": "Sexual Health and Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp17-007",
@@ -1507,7 +1531,8 @@
       ],
       "topicId": "sexual-health-and-complications",
       "topicName": "Sexual Health and Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp17-009",
@@ -1554,7 +1579,8 @@
       ],
       "topicId": "sexual-health-and-complications",
       "topicName": "Sexual Health and Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp17-010",
@@ -1601,7 +1627,8 @@
       ],
       "topicId": "sexual-health-and-complications",
       "topicName": "Sexual Health and Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp17-011",
@@ -1648,7 +1675,8 @@
       ],
       "topicId": "sexual-health-and-complications",
       "topicName": "Sexual Health and Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp17-012",
@@ -1695,7 +1723,8 @@
       ],
       "topicId": "sexual-health-and-complications",
       "topicName": "Sexual Health and Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp18-001",
@@ -1742,7 +1771,8 @@
       ],
       "topicId": "menopause-and-andropause",
       "topicName": "Menopause and Andropause",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp18-002",
@@ -1789,7 +1819,8 @@
       ],
       "topicId": "menopause-and-andropause",
       "topicName": "Menopause and Andropause",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp18-003",
@@ -1835,7 +1866,8 @@
       ],
       "topicId": "menopause-and-andropause",
       "topicName": "Menopause and Andropause",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp18-004",
@@ -1882,7 +1914,8 @@
       ],
       "topicId": "menopause-and-andropause",
       "topicName": "Menopause and Andropause",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp18-005",
@@ -1929,7 +1962,8 @@
       ],
       "topicId": "menopause-and-andropause",
       "topicName": "Menopause and Andropause",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp18-006",
@@ -1976,7 +2010,8 @@
       ],
       "topicId": "menopause-and-andropause",
       "topicName": "Menopause and Andropause",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp18-007",
@@ -2023,7 +2058,8 @@
       ],
       "topicId": "menopause-and-andropause",
       "topicName": "Menopause and Andropause",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp18-008",
@@ -2117,7 +2153,8 @@
       ],
       "topicId": "menopause-and-andropause",
       "topicName": "Menopause and Andropause",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp18-010",
@@ -2164,7 +2201,8 @@
       ],
       "topicId": "menopause-and-andropause",
       "topicName": "Menopause and Andropause",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp18-011",
@@ -2211,7 +2249,8 @@
       ],
       "topicId": "menopause-and-andropause",
       "topicName": "Menopause and Andropause",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp18-012",
@@ -2258,7 +2297,8 @@
       ],
       "topicId": "menopause-and-andropause",
       "topicName": "Menopause and Andropause",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp19-001",
@@ -2306,7 +2346,8 @@
       ],
       "topicId": "disorders-of-sex-hormones",
       "topicName": "Disorders of Sex Hormones",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp19-002",
@@ -2354,7 +2395,8 @@
       ],
       "topicId": "disorders-of-sex-hormones",
       "topicName": "Disorders of Sex Hormones",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp19-003",
@@ -2449,7 +2491,8 @@
       ],
       "topicId": "disorders-of-sex-hormones",
       "topicName": "Disorders of Sex Hormones",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp19-005",
@@ -2543,7 +2586,8 @@
       ],
       "topicId": "disorders-of-sex-hormones",
       "topicName": "Disorders of Sex Hormones",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp19-007",
@@ -2591,7 +2635,8 @@
       ],
       "topicId": "disorders-of-sex-hormones",
       "topicName": "Disorders of Sex Hormones",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp19-008",
@@ -2640,7 +2685,8 @@
       ],
       "topicId": "disorders-of-sex-hormones",
       "topicName": "Disorders of Sex Hormones",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp19-009",
@@ -2734,7 +2780,8 @@
       ],
       "topicId": "disorders-of-sex-hormones",
       "topicName": "Disorders of Sex Hormones",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp19-011",
@@ -2782,7 +2829,8 @@
       ],
       "topicId": "disorders-of-sex-hormones",
       "topicName": "Disorders of Sex Hormones",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp19-012",
@@ -2830,7 +2878,8 @@
       ],
       "topicId": "disorders-of-sex-hormones",
       "topicName": "Disorders of Sex Hormones",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

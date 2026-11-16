@@ -46,7 +46,8 @@
       ],
       "topicId": "placenta",
       "topicName": "Placenta",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp39-002",
@@ -92,7 +93,8 @@
       ],
       "topicId": "placenta",
       "topicName": "Placenta",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp39-003",
@@ -138,7 +140,8 @@
       ],
       "topicId": "placenta",
       "topicName": "Placenta",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp39-004",
@@ -184,7 +187,8 @@
       ],
       "topicId": "placenta",
       "topicName": "Placenta",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp39-005",
@@ -230,7 +234,8 @@
       ],
       "topicId": "placenta",
       "topicName": "Placenta",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp39-006",
@@ -276,7 +281,8 @@
       ],
       "topicId": "placenta",
       "topicName": "Placenta",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp39-007",
@@ -322,7 +328,8 @@
       ],
       "topicId": "placenta",
       "topicName": "Placenta",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp39-008",
@@ -368,7 +375,8 @@
       ],
       "topicId": "placenta",
       "topicName": "Placenta",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp39-009",
@@ -414,7 +422,8 @@
       ],
       "topicId": "placenta",
       "topicName": "Placenta",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp39-010",
@@ -460,7 +469,8 @@
       ],
       "topicId": "placenta",
       "topicName": "Placenta",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp39-011",
@@ -506,7 +516,8 @@
       ],
       "topicId": "placenta",
       "topicName": "Placenta",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp39-012",
@@ -552,7 +563,8 @@
       ],
       "topicId": "placenta",
       "topicName": "Placenta",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp40-001",
@@ -646,7 +658,8 @@
       ],
       "topicId": "uncomplicated-pregnancy",
       "topicName": "Uncomplicated Pregnancy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp40-003",
@@ -693,7 +706,8 @@
       ],
       "topicId": "uncomplicated-pregnancy",
       "topicName": "Uncomplicated Pregnancy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp40-004",
@@ -740,7 +754,8 @@
       ],
       "topicId": "uncomplicated-pregnancy",
       "topicName": "Uncomplicated Pregnancy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp40-005",
@@ -834,7 +849,8 @@
       ],
       "topicId": "uncomplicated-pregnancy",
       "topicName": "Uncomplicated Pregnancy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp40-007",
@@ -881,7 +897,8 @@
       ],
       "topicId": "uncomplicated-pregnancy",
       "topicName": "Uncomplicated Pregnancy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp40-008",
@@ -928,7 +945,8 @@
       ],
       "topicId": "uncomplicated-pregnancy",
       "topicName": "Uncomplicated Pregnancy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp40-009",
@@ -975,7 +993,8 @@
       ],
       "topicId": "uncomplicated-pregnancy",
       "topicName": "Uncomplicated Pregnancy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp40-010",
@@ -1022,7 +1041,8 @@
       ],
       "topicId": "uncomplicated-pregnancy",
       "topicName": "Uncomplicated Pregnancy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp40-011",
@@ -1069,7 +1089,8 @@
       ],
       "topicId": "uncomplicated-pregnancy",
       "topicName": "Uncomplicated Pregnancy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp40-012",
@@ -1162,7 +1183,8 @@
       ],
       "topicId": "pregnancy-complications",
       "topicName": "Pregnancy Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp41-002",
@@ -1255,7 +1277,8 @@
       ],
       "topicId": "pregnancy-complications",
       "topicName": "Pregnancy Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp41-004",
@@ -1302,7 +1325,8 @@
       ],
       "topicId": "pregnancy-complications",
       "topicName": "Pregnancy Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp41-005",
@@ -1348,7 +1372,8 @@
       ],
       "topicId": "pregnancy-complications",
       "topicName": "Pregnancy Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp41-006",
@@ -1395,7 +1420,8 @@
       ],
       "topicId": "pregnancy-complications",
       "topicName": "Pregnancy Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp41-007",
@@ -1442,7 +1468,8 @@
       ],
       "topicId": "pregnancy-complications",
       "topicName": "Pregnancy Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp41-008",
@@ -1488,7 +1515,8 @@
       ],
       "topicId": "pregnancy-complications",
       "topicName": "Pregnancy Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp41-009",
@@ -1534,7 +1562,8 @@
       ],
       "topicId": "pregnancy-complications",
       "topicName": "Pregnancy Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp41-010",
@@ -1580,7 +1609,8 @@
       ],
       "topicId": "pregnancy-complications",
       "topicName": "Pregnancy Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp41-011",
@@ -1627,7 +1657,8 @@
       ],
       "topicId": "pregnancy-complications",
       "topicName": "Pregnancy Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp41-012",
@@ -1673,7 +1704,8 @@
       ],
       "topicId": "pregnancy-complications",
       "topicName": "Pregnancy Complications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp42-001",
@@ -1720,7 +1752,8 @@
       ],
       "topicId": "abortion-care-safety-management-and-outcomes",
       "topicName": "Abortion Care: Safety, Management, and Outcomes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp42-002",
@@ -1767,7 +1800,8 @@
       ],
       "topicId": "abortion-care-safety-management-and-outcomes",
       "topicName": "Abortion Care: Safety, Management, and Outcomes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp42-003",
@@ -1861,7 +1895,8 @@
       ],
       "topicId": "abortion-care-safety-management-and-outcomes",
       "topicName": "Abortion Care: Safety, Management, and Outcomes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp42-005",
@@ -1908,7 +1943,8 @@
       ],
       "topicId": "abortion-care-safety-management-and-outcomes",
       "topicName": "Abortion Care: Safety, Management, and Outcomes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp42-006",
@@ -2001,7 +2037,8 @@
       ],
       "topicId": "abortion-care-safety-management-and-outcomes",
       "topicName": "Abortion Care: Safety, Management, and Outcomes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp42-008",
@@ -2047,7 +2084,8 @@
       ],
       "topicId": "abortion-care-safety-management-and-outcomes",
       "topicName": "Abortion Care: Safety, Management, and Outcomes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp42-009",
@@ -2141,7 +2179,8 @@
       ],
       "topicId": "abortion-care-safety-management-and-outcomes",
       "topicName": "Abortion Care: Safety, Management, and Outcomes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp42-011",

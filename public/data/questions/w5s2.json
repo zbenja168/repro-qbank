@@ -47,7 +47,8 @@
       ],
       "topicId": "torch-infections",
       "topicName": "TORCH Infections",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp53-002",
@@ -95,7 +96,8 @@
       ],
       "topicId": "torch-infections",
       "topicName": "TORCH Infections",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp53-003",
@@ -142,7 +144,8 @@
       ],
       "topicId": "torch-infections",
       "topicName": "TORCH Infections",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp53-004",
@@ -190,7 +193,8 @@
       ],
       "topicId": "torch-infections",
       "topicName": "TORCH Infections",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp53-005",
@@ -285,7 +289,8 @@
       ],
       "topicId": "torch-infections",
       "topicName": "TORCH Infections",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp53-007",
@@ -333,7 +338,8 @@
       ],
       "topicId": "torch-infections",
       "topicName": "TORCH Infections",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp53-008",
@@ -380,7 +386,8 @@
       ],
       "topicId": "torch-infections",
       "topicName": "TORCH Infections",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp53-009",
@@ -428,7 +435,8 @@
       ],
       "topicId": "torch-infections",
       "topicName": "TORCH Infections",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp53-010",
@@ -571,7 +579,8 @@
       ],
       "topicId": "torch-infections",
       "topicName": "TORCH Infections",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp54-001",
@@ -617,7 +626,8 @@
       ],
       "topicId": "fetal-and-postnatal-circulation",
       "topicName": "Fetal and Postnatal Circulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp54-002",
@@ -664,7 +674,8 @@
       ],
       "topicId": "fetal-and-postnatal-circulation",
       "topicName": "Fetal and Postnatal Circulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp54-003",
@@ -710,7 +721,8 @@
       ],
       "topicId": "fetal-and-postnatal-circulation",
       "topicName": "Fetal and Postnatal Circulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp54-004",
@@ -756,7 +768,8 @@
       ],
       "topicId": "fetal-and-postnatal-circulation",
       "topicName": "Fetal and Postnatal Circulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp54-005",
@@ -849,7 +862,8 @@
       ],
       "topicId": "fetal-and-postnatal-circulation",
       "topicName": "Fetal and Postnatal Circulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp54-007",
@@ -896,7 +910,8 @@
       ],
       "topicId": "fetal-and-postnatal-circulation",
       "topicName": "Fetal and Postnatal Circulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp54-008",
@@ -943,7 +958,8 @@
       ],
       "topicId": "fetal-and-postnatal-circulation",
       "topicName": "Fetal and Postnatal Circulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp54-009",
@@ -989,7 +1005,8 @@
       ],
       "topicId": "fetal-and-postnatal-circulation",
       "topicName": "Fetal and Postnatal Circulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp54-010",
@@ -1083,7 +1100,8 @@
       ],
       "topicId": "fetal-and-postnatal-circulation",
       "topicName": "Fetal and Postnatal Circulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp54-012",

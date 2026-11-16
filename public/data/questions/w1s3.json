@@ -47,7 +47,8 @@
       ],
       "topicId": "fertilization",
       "topicName": "Fertilization",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp09-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "fertilization",
       "topicName": "Fertilization",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp09-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "fertilization",
       "topicName": "Fertilization",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp09-004",
@@ -188,7 +191,8 @@
       ],
       "topicId": "fertilization",
       "topicName": "Fertilization",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp09-005",
@@ -235,7 +239,8 @@
       ],
       "topicId": "fertilization",
       "topicName": "Fertilization",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp09-006",
@@ -282,7 +287,8 @@
       ],
       "topicId": "fertilization",
       "topicName": "Fertilization",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp09-007",
@@ -329,7 +335,8 @@
       ],
       "topicId": "fertilization",
       "topicName": "Fertilization",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp09-008",
@@ -376,7 +383,8 @@
       ],
       "topicId": "fertilization",
       "topicName": "Fertilization",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp09-009",
@@ -564,7 +572,8 @@
       ],
       "topicId": "fertilization",
       "topicName": "Fertilization",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp10-001",
@@ -658,7 +667,8 @@
       ],
       "topicId": "estrogen-and-progesterone",
       "topicName": "Estrogen and Progesterone",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp10-003",
@@ -705,7 +715,8 @@
       ],
       "topicId": "estrogen-and-progesterone",
       "topicName": "Estrogen and Progesterone",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp10-004",
@@ -799,7 +810,8 @@
       ],
       "topicId": "estrogen-and-progesterone",
       "topicName": "Estrogen and Progesterone",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp10-006",
@@ -846,7 +858,8 @@
       ],
       "topicId": "estrogen-and-progesterone",
       "topicName": "Estrogen and Progesterone",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp10-007",
@@ -893,7 +906,8 @@
       ],
       "topicId": "estrogen-and-progesterone",
       "topicName": "Estrogen and Progesterone",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp10-008",
@@ -940,7 +954,8 @@
       ],
       "topicId": "estrogen-and-progesterone",
       "topicName": "Estrogen and Progesterone",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp10-009",
@@ -987,7 +1002,8 @@
       ],
       "topicId": "estrogen-and-progesterone",
       "topicName": "Estrogen and Progesterone",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp10-010",
@@ -1081,7 +1097,8 @@
       ],
       "topicId": "estrogen-and-progesterone",
       "topicName": "Estrogen and Progesterone",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp10-012",
@@ -1128,7 +1145,8 @@
       ],
       "topicId": "estrogen-and-progesterone",
       "topicName": "Estrogen and Progesterone",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp11-001",
@@ -1175,7 +1193,8 @@
       ],
       "topicId": "androgens",
       "topicName": "Androgens",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp11-002",
@@ -1222,7 +1241,8 @@
       ],
       "topicId": "androgens",
       "topicName": "Androgens",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp11-003",
@@ -1269,7 +1289,8 @@
       ],
       "topicId": "androgens",
       "topicName": "Androgens",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp11-004",
@@ -1410,7 +1431,8 @@
       ],
       "topicId": "androgens",
       "topicName": "Androgens",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp11-007",
@@ -1457,7 +1479,8 @@
       ],
       "topicId": "androgens",
       "topicName": "Androgens",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp11-008",
@@ -1504,7 +1527,8 @@
       ],
       "topicId": "androgens",
       "topicName": "Androgens",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp11-009",
@@ -1645,7 +1669,8 @@
       ],
       "topicId": "androgens",
       "topicName": "Androgens",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp11-012",
@@ -1692,7 +1717,8 @@
       ],
       "topicId": "androgens",
       "topicName": "Androgens",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp12-001",
@@ -1740,7 +1766,8 @@
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
       "topicName": "Ovulation and the Menstrual Cycle",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp12-002",
@@ -1787,7 +1814,8 @@
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
       "topicName": "Ovulation and the Menstrual Cycle",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp12-003",
@@ -1834,7 +1862,8 @@
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
       "topicName": "Ovulation and the Menstrual Cycle",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp12-004",
@@ -1881,7 +1910,8 @@
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
       "topicName": "Ovulation and the Menstrual Cycle",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp12-005",
@@ -1928,7 +1958,8 @@
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
       "topicName": "Ovulation and the Menstrual Cycle",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp12-006",
@@ -1975,7 +2006,8 @@
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
       "topicName": "Ovulation and the Menstrual Cycle",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp12-007",
@@ -2116,7 +2148,8 @@
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
       "topicName": "Ovulation and the Menstrual Cycle",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp12-010",
@@ -2163,7 +2196,8 @@
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
       "topicName": "Ovulation and the Menstrual Cycle",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp12-011",
@@ -2210,7 +2244,8 @@
       ],
       "topicId": "ovulation-and-the-menstrual-cycle",
       "topicName": "Ovulation and the Menstrual Cycle",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp12-012",
@@ -2304,7 +2339,8 @@
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
       "topicName": "Amenorrhea and Dysmenorrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp13-002",
@@ -2351,7 +2387,8 @@
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
       "topicName": "Amenorrhea and Dysmenorrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp13-003",
@@ -2398,7 +2435,8 @@
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
       "topicName": "Amenorrhea and Dysmenorrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp13-004",
@@ -2445,7 +2483,8 @@
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
       "topicName": "Amenorrhea and Dysmenorrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp13-005",
@@ -2492,7 +2531,8 @@
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
       "topicName": "Amenorrhea and Dysmenorrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp13-006",
@@ -2539,7 +2579,8 @@
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
       "topicName": "Amenorrhea and Dysmenorrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp13-007",
@@ -2586,7 +2627,8 @@
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
       "topicName": "Amenorrhea and Dysmenorrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp13-008",
@@ -2633,7 +2675,8 @@
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
       "topicName": "Amenorrhea and Dysmenorrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp13-009",
@@ -2680,7 +2723,8 @@
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
       "topicName": "Amenorrhea and Dysmenorrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp13-010",
@@ -2774,7 +2818,8 @@
       ],
       "topicId": "amenorrhea-and-dysmenorrhea",
       "topicName": "Amenorrhea and Dysmenorrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp13-012",
@@ -2915,7 +2960,8 @@
       ],
       "topicId": "puberty-and-hormonal-regulation",
       "topicName": "Puberty and Hormonal Regulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp14-003",
@@ -2962,7 +3008,8 @@
       ],
       "topicId": "puberty-and-hormonal-regulation",
       "topicName": "Puberty and Hormonal Regulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp14-004",
@@ -3009,7 +3056,8 @@
       ],
       "topicId": "puberty-and-hormonal-regulation",
       "topicName": "Puberty and Hormonal Regulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp14-005",
@@ -3056,7 +3104,8 @@
       ],
       "topicId": "puberty-and-hormonal-regulation",
       "topicName": "Puberty and Hormonal Regulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp14-006",
@@ -3103,7 +3152,8 @@
       ],
       "topicId": "puberty-and-hormonal-regulation",
       "topicName": "Puberty and Hormonal Regulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp14-007",
@@ -3197,7 +3247,8 @@
       ],
       "topicId": "puberty-and-hormonal-regulation",
       "topicName": "Puberty and Hormonal Regulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp14-009",
@@ -3244,7 +3295,8 @@
       ],
       "topicId": "puberty-and-hormonal-regulation",
       "topicName": "Puberty and Hormonal Regulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp14-010",
@@ -3291,7 +3343,8 @@
       ],
       "topicId": "puberty-and-hormonal-regulation",
       "topicName": "Puberty and Hormonal Regulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp14-011",

@@ -47,7 +47,8 @@
       ],
       "topicId": "inclusive-language-and-health-equity",
       "topicName": "Inclusive Language and Health Equity",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp05-002",
@@ -93,7 +94,8 @@
       ],
       "topicId": "inclusive-language-and-health-equity",
       "topicName": "Inclusive Language and Health Equity",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp05-003",
@@ -186,7 +188,8 @@
       ],
       "topicId": "inclusive-language-and-health-equity",
       "topicName": "Inclusive Language and Health Equity",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp05-005",
@@ -232,7 +235,8 @@
       ],
       "topicId": "inclusive-language-and-health-equity",
       "topicName": "Inclusive Language and Health Equity",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp05-006",
@@ -324,7 +328,8 @@
       ],
       "topicId": "inclusive-language-and-health-equity",
       "topicName": "Inclusive Language and Health Equity",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp05-008",
@@ -371,7 +376,8 @@
       ],
       "topicId": "inclusive-language-and-health-equity",
       "topicName": "Inclusive Language and Health Equity",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp05-009",
@@ -418,7 +424,8 @@
       ],
       "topicId": "inclusive-language-and-health-equity",
       "topicName": "Inclusive Language and Health Equity",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp05-010",
@@ -465,7 +472,8 @@
       ],
       "topicId": "inclusive-language-and-health-equity",
       "topicName": "Inclusive Language and Health Equity",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp05-011",
@@ -512,7 +520,8 @@
       ],
       "topicId": "inclusive-language-and-health-equity",
       "topicName": "Inclusive Language and Health Equity",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp05-012",
@@ -559,7 +568,8 @@
       ],
       "topicId": "inclusive-language-and-health-equity",
       "topicName": "Inclusive Language and Health Equity",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp06-001",
@@ -606,7 +616,8 @@
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
       "topicName": "Sex Determination and Reproductive Systems Development",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp06-002",
@@ -653,7 +664,8 @@
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
       "topicName": "Sex Determination and Reproductive Systems Development",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp06-003",
@@ -700,7 +712,8 @@
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
       "topicName": "Sex Determination and Reproductive Systems Development",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp06-004",
@@ -747,7 +760,8 @@
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
       "topicName": "Sex Determination and Reproductive Systems Development",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp06-005",
@@ -794,7 +808,8 @@
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
       "topicName": "Sex Determination and Reproductive Systems Development",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp06-006",
@@ -841,7 +856,8 @@
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
       "topicName": "Sex Determination and Reproductive Systems Development",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp06-007",
@@ -936,7 +952,8 @@
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
       "topicName": "Sex Determination and Reproductive Systems Development",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp06-009",
@@ -1077,7 +1094,8 @@
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
       "topicName": "Sex Determination and Reproductive Systems Development",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp06-012",
@@ -1124,7 +1142,8 @@
       ],
       "topicId": "sex-determination-and-reproductive-systems-development",
       "topicName": "Sex Determination and Reproductive Systems Development",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp07-001",
@@ -1171,7 +1190,8 @@
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
       "topicName": "Congenital Disorders of the Reproductive Systems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp07-002",
@@ -1264,7 +1284,8 @@
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
       "topicName": "Congenital Disorders of the Reproductive Systems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp07-004",
@@ -1405,7 +1426,8 @@
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
       "topicName": "Congenital Disorders of the Reproductive Systems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp07-007",
@@ -1452,7 +1474,8 @@
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
       "topicName": "Congenital Disorders of the Reproductive Systems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp07-008",
@@ -1546,7 +1569,8 @@
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
       "topicName": "Congenital Disorders of the Reproductive Systems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp07-010",
@@ -1593,7 +1617,8 @@
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
       "topicName": "Congenital Disorders of the Reproductive Systems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp07-011",
@@ -1640,7 +1665,8 @@
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
       "topicName": "Congenital Disorders of the Reproductive Systems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp07-012",
@@ -1687,7 +1713,8 @@
       ],
       "topicId": "congenital-disorders-of-the-reproductive-systems",
       "topicName": "Congenital Disorders of the Reproductive Systems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp08-001",
@@ -1734,7 +1761,8 @@
       ],
       "topicId": "errors-in-morphogenesis",
       "topicName": "Errors in Morphogenesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp08-002",
@@ -1781,7 +1809,8 @@
       ],
       "topicId": "errors-in-morphogenesis",
       "topicName": "Errors in Morphogenesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp08-003",
@@ -1828,7 +1857,8 @@
       ],
       "topicId": "errors-in-morphogenesis",
       "topicName": "Errors in Morphogenesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp08-004",
@@ -1875,7 +1905,8 @@
       ],
       "topicId": "errors-in-morphogenesis",
       "topicName": "Errors in Morphogenesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp08-005",
@@ -1968,7 +1999,8 @@
       ],
       "topicId": "errors-in-morphogenesis",
       "topicName": "Errors in Morphogenesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp08-007",
@@ -2062,7 +2094,8 @@
       ],
       "topicId": "errors-in-morphogenesis",
       "topicName": "Errors in Morphogenesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp08-009",
@@ -2109,7 +2142,8 @@
       ],
       "topicId": "errors-in-morphogenesis",
       "topicName": "Errors in Morphogenesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp08-010",
@@ -2156,7 +2190,8 @@
       ],
       "topicId": "errors-in-morphogenesis",
       "topicName": "Errors in Morphogenesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp08-011",
@@ -2203,7 +2238,8 @@
       ],
       "topicId": "errors-in-morphogenesis",
       "topicName": "Errors in Morphogenesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "rp08-012",
@@ -2250,7 +2286,8 @@
       ],
       "topicId": "errors-in-morphogenesis",
       "topicName": "Errors in Morphogenesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

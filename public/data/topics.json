@@ -10,7 +10,9 @@
           "sourceFile": "Repro Brick 1",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "anatomy-and-histology-of-the-male-reproductive-system",
@@ -18,7 +20,9 @@
           "sourceFile": "Repro Brick 2",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "structure-and-function-of-the-breast",
@@ -26,7 +30,9 @@
           "sourceFile": "Repro Brick 3",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "structure-and-function-of-the-testis",
@@ -34,7 +40,9 @@
           "sourceFile": "Repro Brick 4",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         }
       ],
       "week": 1,
@@ -51,7 +59,9 @@
           "sourceFile": "Repro Brick 5",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 11,
+          "hyCoreCount": 10
         },
         {
           "id": "sex-determination-and-reproductive-systems-development",
@@ -59,7 +69,9 @@
           "sourceFile": "Repro Brick 6",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "congenital-disorders-of-the-reproductive-systems",
@@ -67,7 +79,9 @@
           "sourceFile": "Repro Brick 7",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "errors-in-morphogenesis",
@@ -75,7 +89,9 @@
           "sourceFile": "Repro Brick 8",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         }
       ],
       "week": 1,
@@ -92,7 +108,9 @@
           "sourceFile": "Repro Brick 9",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "estrogen-and-progesterone",
@@ -100,7 +118,9 @@
           "sourceFile": "Repro Brick 10",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "androgens",
@@ -108,7 +128,9 @@
           "sourceFile": "Repro Brick 11",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "ovulation-and-the-menstrual-cycle",
@@ -116,7 +138,9 @@
           "sourceFile": "Repro Brick 12",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "amenorrhea-and-dysmenorrhea",
@@ -124,7 +148,9 @@
           "sourceFile": "Repro Brick 13",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "puberty-and-hormonal-regulation",
@@ -132,7 +158,9 @@
           "sourceFile": "Repro Brick 14",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         }
       ],
       "week": 1,
@@ -149,7 +177,9 @@
           "sourceFile": "Repro Brick 15",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "family-planning-preconception-care-and-infertility",
@@ -157,7 +187,9 @@
           "sourceFile": "Repro Brick 16",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "sexual-health-and-complications",
@@ -165,7 +197,9 @@
           "sourceFile": "Repro Brick 17",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "menopause-and-andropause",
@@ -173,7 +207,9 @@
           "sourceFile": "Repro Brick 18",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "disorders-of-sex-hormones",
@@ -181,7 +217,9 @@
           "sourceFile": "Repro Brick 19",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 2,
@@ -198,7 +236,9 @@
           "sourceFile": "Repro Brick 20",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "uterine-tumors",
@@ -206,7 +246,9 @@
           "sourceFile": "Repro Brick 21",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "ovarian-cysts",
@@ -214,7 +256,9 @@
           "sourceFile": "Repro Brick 22",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "ovarian-tumors-part-1-of-2",
@@ -222,7 +266,9 @@
           "sourceFile": "Repro Brick 23",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "ovarian-tumors-part-2-of-2",
@@ -230,7 +276,9 @@
           "sourceFile": "Repro Brick 24",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 2,
@@ -247,7 +295,9 @@
           "sourceFile": "Repro Brick 25",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "benign-testicular-disorders",
@@ -255,7 +305,9 @@
           "sourceFile": "Repro Brick 26",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "testicular-tumors",
@@ -263,7 +315,9 @@
           "sourceFile": "Repro Brick 27",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "benign-prostate-disorders",
@@ -271,7 +325,9 @@
           "sourceFile": "Repro Brick 28",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "prostate-cancer",
@@ -279,7 +335,9 @@
           "sourceFile": "Repro Brick 29",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         }
       ],
       "week": 2,
@@ -296,7 +354,9 @@
           "sourceFile": "Repro Brick 30",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "urethritis-cervicitis-and-pelvic-inflammatory-disease",
@@ -304,7 +364,9 @@
           "sourceFile": "Repro Brick 31",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "orchitis-and-epididymitis",
@@ -312,7 +374,9 @@
           "sourceFile": "Repro Brick 32",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 10,
+          "hyCoreCount": 9
         },
         {
           "id": "neisseria-gonorrhoeae-and-chlamydia-trachomatis",
@@ -320,7 +384,9 @@
           "sourceFile": "Repro Brick 33",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         }
       ],
       "week": 3,
@@ -337,7 +403,9 @@
           "sourceFile": "Repro Brick 34",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "herpes-simplex-and-genital-warts",
@@ -345,7 +413,9 @@
           "sourceFile": "Repro Brick 35",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "syphilis-and-other-ulcerative-stis",
@@ -353,7 +423,9 @@
           "sourceFile": "Repro Brick 36",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "cervical-cancer",
@@ -361,7 +433,9 @@
           "sourceFile": "Repro Brick 37",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "vulvar-pathologies",
@@ -369,7 +443,9 @@
           "sourceFile": "Repro Brick 38",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 3,
@@ -386,7 +462,9 @@
           "sourceFile": "Repro Brick 39",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 12
         },
         {
           "id": "uncomplicated-pregnancy",
@@ -394,7 +472,9 @@
           "sourceFile": "Repro Brick 40",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "pregnancy-complications",
@@ -402,7 +482,9 @@
           "sourceFile": "Repro Brick 41",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "abortion-care-safety-management-and-outcomes",
@@ -410,7 +492,9 @@
           "sourceFile": "Repro Brick 42",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         }
       ],
       "week": 4,
@@ -427,7 +511,9 @@
           "sourceFile": "Repro Brick 43",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "gestational-diabetes",
@@ -435,7 +521,9 @@
           "sourceFile": "Repro Brick 44",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "hypertension-in-pregnancy",
@@ -443,7 +531,9 @@
           "sourceFile": "Repro Brick 45",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "gestational-trophoblastic-diseases",
@@ -451,7 +541,9 @@
           "sourceFile": "Repro Brick 46",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 4,
@@ -468,7 +560,9 @@
           "sourceFile": "Repro Brick 47",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "gender-based-violence-trauma-informed-care-ethical-principles",
@@ -476,7 +570,9 @@
           "sourceFile": "Repro Brick 48",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "sexual-and-reproductive-health-and-rights",
@@ -484,7 +580,9 @@
           "sourceFile": "Repro Brick 49",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 4,
@@ -501,7 +599,9 @@
           "sourceFile": "Repro Brick 50",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "complications-of-labor-delivery-and-postpartum",
@@ -509,7 +609,9 @@
           "sourceFile": "Repro Brick 51",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "birth-outcomes-maternal-and-infant-health",
@@ -517,7 +619,9 @@
           "sourceFile": "Repro Brick 52",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         }
       ],
       "week": 5,
@@ -534,7 +638,9 @@
           "sourceFile": "Repro Brick 53",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "fetal-and-postnatal-circulation",
@@ -542,7 +648,9 @@
           "sourceFile": "Repro Brick 54",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 5,
@@ -559,7 +667,9 @@
           "sourceFile": "Repro Brick 55",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "postnatal-care-part-2-of-2",
@@ -567,7 +677,9 @@
           "sourceFile": "Repro Brick 56",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "neonatal-assessment-and-pediatric-milestones",
@@ -575,7 +687,9 @@
           "sourceFile": "Repro Brick 57",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 5,
@@ -592,7 +706,9 @@
           "sourceFile": "Repro Brick 58",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "breast-cancer-classification-and-pathogenesis",
@@ -600,7 +716,9 @@
           "sourceFile": "Repro Brick 59",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "breast-cancer-presentation-and-management",
@@ -608,7 +726,9 @@
           "sourceFile": "Repro Brick 60",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         }
       ],
       "week": 6,
@@ -625,7 +745,9 @@
           "sourceFile": "Repro Brick 61",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 11,
+          "hyCoreCount": 9
         }
       ],
       "week": 6,

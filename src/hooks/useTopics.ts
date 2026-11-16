@@ -14,6 +14,15 @@ export function useTopics() {
    *  just the core 12, which is the point of the split. */
   const [extrasTopicIds, setExtrasTopicIds] = useState<Set<string>>(new Set());
   const [loading, setLoading] = useState(true);
+  /** High Yield mode condenses every topic to its high-yield picks.
+   *  Remembered per browser; storage can throw (private mode), so guard it. */
+  const [hyMode, setHyModeState] = useState<boolean>(() => {
+    try { return localStorage.getItem('repro-qbank_hy') === '1'; } catch { return false; }
+  });
+  const setHyMode = useCallback((on: boolean) => {
+    setHyModeState(on);
+    try { localStorage.setItem('repro-qbank_hy', on ? '1' : '0'); } catch { /* ignore */ }
+  }, []);
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/topics.json`)
@@ -141,5 +150,7 @@ export function useTopics() {
     toggleExtras,
     toggleCategoryExtras,
     setAllExtras,
+    hyMode,
+    setHyMode,
   };
 }

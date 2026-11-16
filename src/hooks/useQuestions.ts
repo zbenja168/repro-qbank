@@ -3,6 +3,13 @@ import { Question } from '../types/question';
 import { loadMultipleCategories } from '../utils/questionLoader';
 import { shuffle } from '../utils/shuffle';
 
+/** High Yield mode: a quiz serves only the questions the high-yield pass
+ *  picked, from core and (when signed in) extras alike, ignoring the per-topic
+ *  extras opt-in. Module-level so loadQuestions keeps the signature every
+ *  QBank shares (see _verify_extras_port.py). */
+let highYieldOnly = false;
+export function setHighYieldOnly(on: boolean) { highYieldOnly = on; }
+
 export function useQuestions() {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [loading, setLoading] = useState(false);
@@ -25,9 +32,11 @@ export function useQuestions() {
         .filter(q => selectedTopicIds.has(q.topicId))
         // Questions carry no tier on data assembled before the split, and
         // are then treated as core so nothing silently disappears.
-        .filter(q => extrasTopicIds === undefined
-          || q.tier !== 'extra'
-          || extrasTopicIds.has(q.topicId));
+        .filter(q => highYieldOnly
+          ? q.hy === true
+          : (extrasTopicIds === undefined
+             || q.tier !== 'extra'
+             || extrasTopicIds.has(q.topicId)));
       // A quiz serves what is LEFT in the chosen topics, so picking a topic you
       // are 6 of 12 through gives you those 6. If everything in the selection is
       // done, serve it all rather than an empty quiz - the picker greys finished
